@@ -8,11 +8,9 @@ let hasMoreData = true;
 let groupedData = {};
 let lastLoadedMonth = null;
 
-// 从环境变量中获取访问令牌
-const accessToken = import.meta.env.VITE_NEODB_TOKEN;
-
 async function fetchData(category, page) {
     const apiUrl = `https://neodb.social/api/me/shelf/complete?category=${category}&page=${page}`;
+    const accessToken = NEODB_TOKEN;
 
     try {
         const response = await fetch(apiUrl, {
@@ -30,7 +28,6 @@ async function fetchData(category, page) {
         return data.data;
     } catch (error) {
         console.error('Error fetching data:', error);
-        // 在控制台中记录错误，并向用户显示提示
         return [];
     }
 }
@@ -79,6 +76,7 @@ function createCard(item) {
     return card;
 }
 
+
 function renderItems(groupedData) {
     Object.keys(groupedData).forEach(month => {
         const monthData = groupedData[month];
@@ -94,7 +92,7 @@ function renderItems(groupedData) {
             content.appendChild(itemsGrid);
 
             monthData.forEach(item => {
-                const card = createCard(item);
+                const card = createCard(item.item);
                 itemsGrid.appendChild(card);
             });
 
@@ -102,7 +100,7 @@ function renderItems(groupedData) {
         } else {
             const itemsGrid = content.querySelector('.items-grid');
             monthData.forEach(item => {
-                const card = createCard(item);
+                const card = createCard(item.item);
                 itemsGrid.appendChild(card);
             });
         }
