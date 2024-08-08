@@ -10,7 +10,7 @@ let lastLoadedMonth = null;
 
 async function fetchData(category, page) {
     const apiUrl = `https://neodb.social/api/me/shelf/complete?category=${category}&page=${page}`;
-    const accessToken = 'Cgw3xKt7ZxHPu22xUpy2HZSQ8je6aCVgyg-uk2DmK75i5_2lOV79YZX1XA';
+    const accessToken = NEODB_TOKEN;
 
     try {
         const response = await fetch(apiUrl, {
