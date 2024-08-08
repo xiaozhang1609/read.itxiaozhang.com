@@ -9,7 +9,7 @@ let groupedData = {};
 let lastLoadedMonth = null;
 
 async function fetchData(category, page) {
-    const apiUrl = `https://neodb-api3.suoliweng2099.workers.dev/?category=${category}&page=${page}`;
+    const apiUrl = `https://neodb-api.suoliweng2099.workers.dev/?category=${category}&page=${page}`;
 
     try {
         const response = await fetch(apiUrl);
