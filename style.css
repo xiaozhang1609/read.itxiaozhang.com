@@ -4,16 +4,19 @@ body {
     padding: 0;
     background-color: #f0f0f0;
 }
+
 .container {
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
 }
+
 nav {
     background-color: #333;
     padding: 10px 0;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
+
 nav ul {
     list-style-type: none;
     padding: 0;
@@ -21,9 +24,11 @@ nav ul {
     display: flex;
     justify-content: center;
 }
+
 nav ul li {
     margin: 0 10px;
 }
+
 nav ul li a {
     color: white;
     text-decoration: none;
@@ -31,15 +36,18 @@ nav ul li a {
     border-radius: 20px;
     transition: background-color 0.3s, color 0.3s;
 }
+
 nav ul li a:hover, nav ul li a.active {
     background-color: #555;
     color: #fff;
 }
+
 #content {
     display: flex;
     flex-direction: column;
     gap: 20px;
 }
+
 .month-header {
     background-color: #e0e0e0;
     padding: 10px;
@@ -49,11 +57,13 @@ nav ul li a:hover, nav ul li a.active {
     text-align: center;
     font-size: 1.2rem;
 }
+
 .items-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
     gap: 20px;
 }
+
 .item {
     background-color: #fff;
     border-radius: 10px;
@@ -64,29 +74,35 @@ nav ul li a:hover, nav ul li a.active {
     flex-direction: column;
     align-items: center;
 }
+
 .item:hover {
     box-shadow: 0 6px 12px rgba(0,0,0,0.2);
     transform: translateY(-5px);
 }
+
 .item img {
     width: 100%;
     height: auto;
     border-radius: 10px;
     margin-bottom: 10px;
 }
+
 .item h3 {
     margin: 0;
     font-size: 1rem;
     text-align: center;
 }
+
 .item .rate {
     text-align: center;
     margin: 10px 0;
 }
+
 .item .rating-count {
     font-size: 0.9rem;
     color: #888;
 }
+
 .load-more {
     display: block;
     width: 220px;
@@ -100,6 +116,7 @@ nav ul li a:hover, nav ul li a.active {
     cursor: pointer;
     transition: background-color 0.3s, transform 0.3s;
 }
+
 .load-more:hover {
     background-color: #0056b3;
     transform: scale(1.05);

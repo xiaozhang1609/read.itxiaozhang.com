@@ -9,16 +9,10 @@ let groupedData = {};
 let lastLoadedMonth = null;
 
 async function fetchData(category, page) {
-    const apiUrl = `https://neodb.social/api/me/shelf/complete?category=${category}&page=${page}`;
-    const accessToken = NEODB_TOKEN;
+    const apiUrl = `https://neodb-api3.suoliweng2099.workers.dev/?category=${category}&page=${page}`;
 
     try {
-        const response = await fetch(apiUrl, {
-            headers: {
-                'Authorization': `Bearer ${accessToken}`,
-                'Accept': 'application/json'
-            }
-        });
+        const response = await fetch(apiUrl);
 
         if (!response.ok) {
             throw new Error(`HTTP error! Status: ${response.status}`);
@@ -75,7 +69,6 @@ function createCard(item) {
 
     return card;
 }
-
 
 function renderItems(groupedData) {
     Object.keys(groupedData).forEach(month => {
