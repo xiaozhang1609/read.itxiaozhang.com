@@ -1,17 +1,24 @@
 const content = document.getElementById('content');
-const loadMoreBtn = document.querySelector('.load-more');
-const navLinks = document.querySelectorAll('nav a');
+const loadingIndicator = document.getElementById('loading');
+const errorMessage = document.getElementById('error-message');
 
-let currentCategory = 'movie';
+let currentCategory = 'all';
 let page = 1;
 let hasMoreData = true;
 let groupedData = {};
 let lastLoadedMonth = null;
+let isLoading = false;
 
+// Function to fetch data based on category and page number
 async function fetchData(category, page) {
+    if (category === 'all') {
+        return fetchAllData(page);
+    }
+    
     const apiUrl = `https://neodb-api.suoliweng2099.workers.dev/?category=${category}&page=${page}`;
-
+    
     try {
+        showLoading();
         const response = await fetch(apiUrl);
 
         if (!response.ok) {
@@ -21,68 +28,76 @@ async function fetchData(category, page) {
         const data = await response.json();
         return data.data;
     } catch (error) {
-        console.error('Error fetching data:', error);
+        showError(`获取数据时出错: ${error.message}`);
         return [];
+    } finally {
+        hideLoading();
     }
 }
 
-function groupByMonth(data) {
-    const grouped = {};
-    data.forEach(item => {
-        const date = new Date(item.created_time);
-        const monthYear = `${date.getFullYear()}-${(date.getMonth() + 1).toString().padStart(2, '0')}`;
-        if (!grouped[monthYear]) {
-            grouped[monthYear] = [];
-        }
-        grouped[monthYear].push(item);
-    });
-    return grouped;
+// Function to fetch all categories
+async function fetchAllData(page) {
+    const categories = ['movie', 'tv', 'book', 'music', 'podcast', 'game'];
+    const fetchPromises = categories.map(category => fetchData(category, page));
+    
+    try {
+        showLoading();
+        const results = await Promise.all(fetchPromises);
+        return results.flat();
+    } catch (error) {
+        showError(`获取所有数据时出错: ${error.message}`);
+        return [];
+    } finally {
+        hideLoading();
+    }
 }
 
+// Function to group data by month
+function groupByMonth(data) {
+    return data.reduce((acc, item) => {
+        const date = new Date(item.created_time);
+        const monthYear = `${date.getFullYear()}年${(date.getMonth() + 1).toString().padStart(2, '0')}月`;
+        if (!acc[monthYear]) {
+            acc[monthYear] = [];
+        }
+        acc[monthYear].push(item);
+        return acc;
+    }, {});
+}
+
+// Function to create a card element for each item
 function createCard(item) {
     const card = document.createElement('div');
     card.className = 'item';
-
-    const img = document.createElement('img');
-    img.src = item.cover_image_url;
-    img.alt = item.display_title;
-
-    const rate = document.createElement('div');
-    rate.className = 'rate';
-    rate.innerHTML = `
-        ${item.rating ? `<span><b>${item.rating}</b>🌟</span><br>` : `<span>暂无🌟</span><br>`}
-        <span class="rating-count">${item.rating_count}人评分</span>
+    card.innerHTML = `
+        <a href="https://neodb.social${item.url}" target="_blank" rel="noreferrer">
+            <img src="${item.cover_image_url}" alt="${item.display_title}" loading="lazy">
+            <div class="item-info">
+                <h3>${item.display_title}</h3>
+                <div class="rate">
+                    <span>${item.rating || '暂无评分'}</span>
+                    <span>(${item.rating_count}人评分)</span>
+                </div>
+            </div>
+        </a>
     `;
-
-    const title = document.createElement('h3');
-    title.textContent = item.display_title;
-
-    const link = document.createElement('a');
-    link.href = `https://neodb.social${item.url}`; // 构建完整的 URL
-    link.target = '_blank';
-    link.rel = 'noreferrer';
-    link.appendChild(img);
-    link.appendChild(title);
-    link.appendChild(rate);
-
-    card.appendChild(link);
-
     return card;
 }
 
+// Function to render items to the page
 function renderItems(groupedData) {
-    Object.keys(groupedData).forEach(month => {
-        const monthData = groupedData[month];
+    const fragment = document.createDocumentFragment();
 
+    Object.entries(groupedData).forEach(([month, monthData]) => {
         if (lastLoadedMonth !== month) {
             const monthHeader = document.createElement('div');
             monthHeader.className = 'month-header';
             monthHeader.textContent = month;
-            content.appendChild(monthHeader);
+            fragment.appendChild(monthHeader);
 
             const itemsGrid = document.createElement('div');
             itemsGrid.className = 'items-grid';
-            content.appendChild(itemsGrid);
+            fragment.appendChild(itemsGrid);
 
             monthData.forEach(item => {
                 const card = createCard(item.item);
@@ -91,62 +106,104 @@ function renderItems(groupedData) {
 
             lastLoadedMonth = month;
         } else {
-            const itemsGrid = content.querySelector('.items-grid');
+            const itemsGrid = fragment.querySelector('.items-grid:last-child');
             monthData.forEach(item => {
                 const card = createCard(item.item);
                 itemsGrid.appendChild(card);
             });
         }
     });
+
+    content.appendChild(fragment);
 }
 
+// Function to load content based on category and page number
 async function loadContent(category, page) {
-    const items = await fetchData(category, page);
-    if (items.length === 0) {
-        hasMoreData = false;
-        loadMoreBtn.style.display = 'none'; // Hide the button if no more data
-        return;
+    if (isLoading || !hasMoreData) return;
+    isLoading = true;
+
+    try {
+        const items = await fetchData(category, page);
+        
+        if (items.length === 0) {
+            hasMoreData = false;
+            if (page === 1) {
+                content.innerHTML = '<p>没有找到相关内容。</p>';
+            }
+            return;
+        }
+
+        const newGroupedData = groupByMonth(items);
+        groupedData = { ...groupedData, ...newGroupedData };
+        renderItems(newGroupedData);
+    } catch (error) {
+        showError(`加载内容时出错: ${error.message}`);
+    } finally {
+        isLoading = false;
     }
-
-    const newGroupedData = groupByMonth(items);
-    groupedData = { ...groupedData, ...newGroupedData };
-    renderItems(groupedData);
-
-    // Handle the visibility of the "load more" button
-    loadMoreBtn.style.display = hasMoreData ? 'block' : 'none';
 }
 
-function handleScroll() {
-    const nearBottom = window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 100;
-
-    if (nearBottom && hasMoreData) {
-        page++;
-        loadContent(currentCategory, page);
-    }
+// Function to reset content and states
+function resetContent() {
+    content.innerHTML = '';
+    page = 1;
+    hasMoreData = true;
+    groupedData = {};
+    lastLoadedMonth = null;
+    hideError();
 }
 
-navLinks.forEach(link => {
+// Function to show loading indicator
+function showLoading() {
+    loadingIndicator.style.display = 'flex';
+}
+
+// Function to hide loading indicator
+function hideLoading() {
+    loadingIndicator.style.display = 'none';
+}
+
+// Function to show error message
+function showError(message) {
+    errorMessage.textContent = message;
+    errorMessage.style.display = 'block';
+}
+
+// Function to hide error message
+function hideError() {
+    errorMessage.textContent = '';
+    errorMessage.style.display = 'none';
+}
+
+// Navigation click event
+document.querySelectorAll('nav a').forEach(link => {
     link.addEventListener('click', (e) => {
         e.preventDefault();
-        navLinks.forEach(l => l.classList.remove('active'));
+        document.querySelectorAll('nav a').forEach(l => l.classList.remove('active'));
         e.target.classList.add('active');
         currentCategory = e.target.dataset.category;
-        content.innerHTML = '';
-        page = 1;
-        hasMoreData = true;
-        groupedData = {};
-        lastLoadedMonth = null;
+        resetContent();
         loadContent(currentCategory, page);
     });
 });
 
-loadMoreBtn.addEventListener('click', () => {
-    page++;
-    loadContent(currentCategory, page);
+// IntersectionObserver to handle infinite scroll
+const observer = new IntersectionObserver(entries => {
+    if (isLoading || !hasMoreData) return;
+    
+    entries.forEach(entry => {
+        if (entry.isIntersecting) {
+            page++;
+            loadContent(currentCategory, page);
+        }
+    });
+}, {
+    rootMargin: '0px',
+    threshold: 1.0
 });
 
-// Add scroll event listener
-window.addEventListener('scroll', handleScroll);
+// Observe the content area to trigger loading when scrolled near the bottom
+observer.observe(document.body);
 
 // Initial load
 loadContent(currentCategory, page);
