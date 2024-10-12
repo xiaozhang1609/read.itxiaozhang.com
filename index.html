@@ -1,34 +1,411 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="zh-CN" class="h-full">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>小章的阅读清单</title>
-    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        primary: {
+                            light: '#93C5FD',
+                            DEFAULT: '#3B82F6',
+                            dark: '#1D4ED8',
+                        },
+                        secondary: {
+                            light: '#D1FAE5',
+                            DEFAULT: '#34D399',
+                            dark: '#059669',
+                        },
+                    },
+                },
+            },
+        }
+    </script>
+    <style>
+        @keyframes spin { to { transform: rotate(360deg); } }
+        .animate-spin { animation: spin 1s linear infinite; }
+        .rotate-180 { transform: rotate(180deg); }
+    </style>
 </head>
-<body>
-
-    <nav>
-        <ul>
-            <li><a href="#" class="active" data-category="all">📚 全部</a></li>
-            <li><a href="#" data-category="movie">🎬 电影</a></li>
-            <li><a href="#" data-category="tv">📺 剧集</a></li>
-            <li><a href="#" data-category="book">📚 图书</a></li>
-            <li><a href="#" data-category="music">🎵 音乐</a></li>
-            <li><a href="#" data-category="podcast">🎙️ 播客</a></li>
-            <li><a href="#" data-category="game">🎮 游戏</a></li>
-        </ul>
-    </nav>
-    <main>
-        <div id="content" aria-live="polite"></div>
-        <div id="loading" class="loading" aria-live="polite">
-            <div class="spinner" role="status">
-                <span class="sr-only">加载中...</span>
-            </div>
-            加载中...
+<body class="h-full flex flex-col bg-gray-100 text-gray-800 dark:bg-gray-900 dark:text-gray-200">
+    <nav class="bg-white dark:bg-gray-800 shadow-md p-4 sticky top-0 z-10">
+        <div class="max-w-7xl mx-auto">
+            <ul class="flex flex-wrap justify-center space-x-2 space-y-2">
+                <li class="mt-2"><button class="px-3 py-2 rounded-full bg-primary-light text-primary-dark hover:bg-primary hover:text-white transition-colors duration-300 active" data-category="all">📚 全部</button></li>
+                <li><button class="px-3 py-2 rounded-full bg-gray-200 text-gray-700 hover:bg-primary hover:text-white transition-colors duration-300" data-category="movie">🎬 电影</button></li>
+                <li><button class="px-3 py-2 rounded-full bg-gray-200 text-gray-700 hover:bg-primary hover:text-white transition-colors duration-300" data-category="tv">📺 剧集</button></li>
+                <li><button class="px-3 py-2 rounded-full bg-gray-200 text-gray-700 hover:bg-primary hover:text-white transition-colors duration-300" data-category="book">📚 图书</button></li>
+                <li><button class="px-3 py-2 rounded-full bg-gray-200 text-gray-700 hover:bg-primary hover:text-white transition-colors duration-300" data-category="music">🎵 音乐</button></li>
+                <li><button class="px-3 py-2 rounded-full bg-gray-200 text-gray-700 hover:bg-primary hover:text-white transition-colors duration-300" data-category="podcast">🎙️ 播客</button></li>
+                <li><button class="px-3 py-2 rounded-full bg-gray-200 text-gray-700 hover:bg-primary hover:text-white transition-colors duration-300" data-category="game">🎮 游戏</button></li>
+                <li><button class="px-3 py-2 rounded-full bg-gray-200 text-gray-700 hover:bg-primary hover:text-white transition-colors duration-300" data-category="performance">🎭 演出</button></li>
+            </ul>
         </div>
-        <div id="error-message" class="error-message" aria-live="assertive"></div>
+    </nav>
+    <main class="flex-grow p-4">
+        <div id="content" aria-live="polite" class="max-w-7xl mx-auto"></div>
+        <div id="loading" class="fixed inset-0 flex items-center justify-center bg-white bg-opacity-80 dark:bg-gray-900 dark:bg-opacity-80 z-50 hidden">
+            <div class="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-primary"></div>
+        </div>
+        <div id="error-message" class="bg-red-500 text-white p-4 rounded-md text-center text-sm fixed bottom-4 left-1/2 transform -translate-x-1/2 hidden"></div>
+        <div id="item-details" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center hidden z-50">
+            <div class="bg-white dark:bg-gray-800 p-6 rounded-lg max-w-2xl w-full max-h-[90vh] overflow-y-auto">
+                <h2 id="item-title" class="text-2xl font-bold mb-4"></h2>
+                <p id="item-description" class="text-sm mb-6"></p>
+                <button id="close-details" class="bg-secondary hover:bg-secondary-dark text-white px-4 py-2 rounded transition-colors duration-300">关闭</button>
+            </div>
+        </div>
     </main>
-    <script src="script.js"></script>
+
+    <script>
+        const content = document.getElementById('content');
+        const loadingIndicator = document.getElementById('loading');
+        const errorMessage = document.getElementById('error-message');
+        let currentCategory = 'all';
+        let page = 1;
+        let hasMoreData = true;
+        let groupedData = {};
+        let lastLoadedMonth = null;
+        let isLoading = false;
+        let observer;
+
+        // 使用 IntersectionObserver 实现图片懒加载
+        function setupImageLazyLoading() {
+            if ('IntersectionObserver' in window) {
+                observer = new IntersectionObserver((entries) => {
+                    entries.forEach(entry => {
+                        if (entry.isIntersecting) {
+                            const img = entry.target;
+                            img.src = img.dataset.src;
+                            observer.unobserve(img);
+                        }
+                    });
+                });
+            }
+        }
+
+        // 使用 localStorage 缓存数据
+        function getCachedData(key) {
+            const cachedData = localStorage.getItem(key);
+            if (cachedData) {
+                const { data, timestamp } = JSON.parse(cachedData);
+                // 检查缓存是否过期（这里设置为1小时）
+                if (Date.now() - timestamp < 3600000) {
+                    return data;
+                }
+            }
+            return null;
+        }
+
+        function setCachedData(key, data) {
+            localStorage.setItem(key, JSON.stringify({
+                data,
+                timestamp: Date.now()
+            }));
+        }
+
+        async function fetchData(category, page) {
+            const cacheKey = `${category}_${page}`;
+            const cachedData = getCachedData(cacheKey);
+            if (cachedData) {
+                return cachedData;
+            }
+
+            if (category === 'all') {
+                return fetchAllData(page);
+            }
+            const apiUrl = `https://neodb-api.suoliweng2099.workers.dev/?category=${category}&page=${page}`;
+            try {
+                showLoading();
+                const response = await fetchWithRetry(apiUrl);
+                if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
+                const data = await response.json();
+                setCachedData(cacheKey, data.data);
+                return data.data;
+            } catch (error) {
+                showError(`获取数据时出错: ${error.message}`);
+                return [];
+            } finally {
+                hideLoading();
+            }
+        }
+
+        async function fetchAllData(page) {
+            const categories = ['movie', 'tv', 'book', 'music', 'podcast', 'game'];
+            const fetchPromises = categories.map(category => fetchData(category, page));
+            try {
+                showLoading();
+                const results = await Promise.all(fetchPromises);
+                return results.flat();
+            } catch (error) {
+                showError(`获取所有数据时出错: ${error.message}`);
+                return [];
+            } finally {
+                hideLoading();
+            }
+        }
+
+        function groupByMonth(data) {
+            return data.reduce((acc, item) => {
+                const date = new Date(item.created_time);
+                const monthYear = `${date.getFullYear()}年${(date.getMonth() + 1).toString().padStart(2, '0')}月`;
+                if (!acc[monthYear]) acc[monthYear] = [];
+                acc[monthYear].push(item);
+                return acc;
+            }, {});
+        }
+
+        function createCard(item) {
+            const card = document.createElement('div');
+            card.className = 'bg-white dark:bg-gray-800 rounded-lg overflow-hidden shadow-md transition-transform duration-300 hover:-translate-y-1 hover:shadow-lg flex flex-col';
+            card.innerHTML = `
+                <a href="https://neodb.social${item.url}" target="_blank" rel="noreferrer" class="block flex-grow">
+                    <div class="aspect-[2/3] overflow-hidden">
+                        <img data-src="${item.cover_image_url}" alt="${item.display_title}" class="w-full h-full object-contain" loading="lazy">
+                    </div>
+                    <div class="p-4 flex flex-col justify-between flex-grow">
+                        <h3 class="text-sm font-semibold text-gray-800 dark:text-gray-200 mb-2 line-clamp-2">${item.display_title}</h3>
+                        <div class="flex items-center justify-between">
+                            <span class="text-xs text-gray-600 dark:text-gray-400">${item.category}</span>
+                            <div class="flex items-center">
+                                <span class="text-xs font-bold text-primary mr-1">${item.rating || '暂无'}</span>
+                                <span class="text-xs text-gray-600 dark:text-gray-400">(${item.rating_count}人评分)</span>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            `;
+            return card;
+        }
+
+        function renderItems(groupedData) {
+            const fragment = document.createDocumentFragment();
+            Object.entries(groupedData).forEach(([month, monthData]) => {
+                const monthContainer = document.createElement('div');
+                monthContainer.className = 'mb-8';
+
+                const monthHeader = document.createElement('div');
+                monthHeader.className = 'bg-secondary-light text-secondary-dark dark:bg-secondary-dark dark:text-secondary-light px-4 py-2 rounded-md mb-4 text-sm font-semibold flex justify-between items-center cursor-pointer';
+                monthHeader.innerHTML = `
+                    <span>${month}</span>
+                    <button class="focus:outline-none transition-transform duration-300 transform">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                        </svg>
+                    </button>
+                `;
+                monthContainer.appendChild(monthHeader);
+
+                const itemsGrid = document.createElement('div');
+                itemsGrid.className = 'grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4';
+                monthData.forEach(item => {
+                    const card = createCard(item.item);
+                    itemsGrid.appendChild(card);
+                });
+                monthContainer.appendChild(itemsGrid);
+
+                monthHeader.addEventListener('click', () => {
+                    itemsGrid.classList.toggle('hidden');
+                    monthHeader.querySelector('button').classList.toggle('rotate-180');
+                });
+
+                fragment.appendChild(monthContainer);
+            });
+            content.appendChild(fragment);
+
+            // 启用图片懒加载
+            document.querySelectorAll('img[data-src]').forEach(img => {
+                observer.observe(img);
+            });
+        }
+
+        async function loadContent(category, page) {
+            if (isLoading || !hasMoreData) return;
+            isLoading = true;
+            try {
+                const items = await fetchData(category, page);
+                if (items.length === 0) {
+                    hasMoreData = false;
+                    if (page === 1) {
+                        content.innerHTML = '<p class="text-center mt-8">没有找到相关内容。</p>';
+                    }
+                    return;
+                }
+                const newGroupedData = groupByMonth(items);
+                groupedData = { ...groupedData, ...newGroupedData };
+                renderItems(newGroupedData);
+            } catch (error) {
+                showError(`加载内容时出错: ${error.message}`);
+            } finally {
+                isLoading = false;
+            }
+        }
+
+        function resetContent() {
+            content.innerHTML = '';
+            page = 1;
+            hasMoreData = true;
+            groupedData = {};
+            lastLoadedMonth = null;
+            hideError();
+        }
+
+        function showLoading() {
+            loadingIndicator.classList.remove('hidden');
+        }
+
+        function hideLoading() {
+            loadingIndicator.classList.add('hidden');
+        }
+
+        function showError(message) {
+            errorMessage.textContent = message;
+            errorMessage.classList.remove('hidden');
+            setTimeout(() => {
+                errorMessage.classList.add('hidden');
+            }, 5000);
+        }
+
+        function hideError() {
+            errorMessage.textContent = '';
+            errorMessage.classList.add('hidden');
+        }
+
+        document.querySelectorAll('nav button').forEach(button => {
+            button.addEventListener('click', (e) => {
+                document.querySelectorAll('nav button').forEach(b => b.classList.remove('active', 'bg-primary-dark'));
+                e.target.classList.add('active', 'bg-primary-dark');
+                currentCategory = e.target.dataset.category;
+                resetContent();
+                loadContent(currentCategory, page);
+            });
+        });
+
+        const debouncedLoadContent = debounce(() => {
+            if (!isLoading && hasMoreData) {
+                page++;
+                loadContent(currentCategory, page);
+            }
+        }, 200);
+
+        // 使用 Intersection Observer 实现无限滚动
+        function setupInfiniteScroll() {
+            const options = {
+                root: null,
+                rootMargin: '0px',
+                threshold: 0.1
+            };
+
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting && !isLoading && hasMoreData) {
+                        debouncedLoadContent();
+                    }
+                });
+            }, options);
+
+            // 创建一个观察目标元素
+            const target = document.createElement('div');
+            target.id = 'scroll-target';
+            
+            document.body.appendChild(target);
+
+            observer.observe(target);
+        }
+
+        async function fetchWithRetry(url, options = {}, retries = 3) {
+            try {
+                return await fetch(url, options);
+            } catch (err) {
+                if (retries > 0) {
+                    await new Promise(resolve => setTimeout(resolve, 1000));
+                    return fetchWithRetry(url, options, retries - 1);
+                }
+                throw err;
+            }
+        }
+
+        async function fetchItemDetails(itemUuid) {
+            const cacheKey = `item_${itemUuid}`;
+            const cachedData = getCachedData(cacheKey);
+            if (cachedData) {
+                return cachedData;
+            }
+
+            const apiUrl = `https://neodb-api.suoliweng2099.workers.dev/item/${itemUuid}`;
+            try {
+                const response = await fetchWithRetry(apiUrl);
+                if (!response.ok) throw new Error('Failed to fetch item details');
+                const data = await response.json();
+                setCachedData(cacheKey, data);
+                return data;
+            } catch (error) {
+                console.error('Error fetching item details:', error);
+                showError('无法获取项目详情');
+            }
+        }
+
+        function showItemDetails(item) {
+            const detailsElement = document.getElementById('item-details');
+            document.getElementById('item-title').textContent = item.display_title;
+            document.getElementById('item-description').textContent = item.brief;
+            detailsElement.classList.remove('hidden');
+        }
+
+        document.getElementById('close-details').addEventListener('click', () => {
+            document.getElementById('item-details').classList.add('hidden');
+        });
+
+        content.addEventListener('click', (e) => {
+            const card = e.target.closest('.bg-white, .dark\\:bg-gray-800');
+            if (card) {
+                e.stopPropagation();
+            }
+        });
+
+        function debounce(func, wait) {
+            let timeout;
+            return function executedFunction(...args) {
+                const later = () => {
+                    clearTimeout(timeout);
+                    func(...args);
+                };
+                clearTimeout(timeout);
+                timeout = setTimeout(later, wait);
+            };
+        }
+
+        // 初始化
+        function init() {
+            setupImageLazyLoading();
+            setupInfiniteScroll();
+            loadContent(currentCategory, page);
+        }
+
+        // Dark mode toggle
+        const darkModeToggle = document.createElement('button');
+        darkModeToggle.innerHTML = '🌓';
+        darkModeToggle.className = 'fixed bottom-4 right-4 bg-primary text-white p-2 rounded-full shadow-lg';
+        document.body.appendChild(darkModeToggle);
+
+        darkModeToggle.addEventListener('click', () => {
+            document.documentElement.classList.toggle('dark');
+            localStorage.setItem('darkMode', document.documentElement.classList.contains('dark'));
+        });
+
+        // Check for saved dark mode preference
+        if (localStorage.getItem('darkMode') === 'true' || 
+            (!localStorage.getItem('darkMode') && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.classList.add('dark');
+        }
+
+        // 启动应用
+        init();
+    </script>
 </body>
 </html>
