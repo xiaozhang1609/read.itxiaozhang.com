@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
+      "item": {
+        "title": "Ti Amo",
+        "description": "",
+        "localized_title": [
+          {
+            "lang": "id",
+            "text": "Ti Amo"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "x",
+            "text": ""
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/album/2021/12/060f833652-4ad4-4880-bc31-0f31a217ac52.jpg",
+        "rating": null,
+        "rating_count": 3,
+        "brief": "",
+        "id": "https://neodb.social/album/6l08TZcbgCJ7PnF95QDuL1",
+        "type": "Album",
+        "uuid": "6l08TZcbgCJ7PnF95QDuL1",
+        "url": "/album/6l08TZcbgCJ7PnF95QDuL1",
+        "api_url": "/api/album/6l08TZcbgCJ7PnF95QDuL1",
+        "category": "music",
+        "parent_uuid": null,
+        "display_title": "Ti Amo",
+        "external_resources": [
+          {
+            "url": "https://music.douban.com/subject/1775972/"
+          }
+        ]
+      },
+      "created_time": "2024-08-11T02:31:56.832Z",
+      "comment_text": null,
+      "rating_grade": 9,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
+      "item": {
+        "title": "My Life Is Going On",
+        "description": "",
+        "localized_title": [
+          {
+            "lang": "en",
+            "text": "My Life Is Going On"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "x",
+            "text": ""
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/doubanmusic/2024/07/06/b5b9628c-6bde-4d94-8f7c-983579def4b2.jpg",
+        "rating": null,
+        "rating_count": 2,
+        "brief": "",
+        "id": "https://neodb.social/album/5XtXNn5ErnYg4S2DQTayTX",
+        "type": "Album",
+        "uuid": "5XtXNn5ErnYg4S2DQTayTX",
+        "url": "/album/5XtXNn5ErnYg4S2DQTayTX",
+        "api_url": "/api/album/5XtXNn5ErnYg4S2DQTayTX",
+        "category": "music",
+        "parent_uuid": null,
+        "display_title": "My Life Is Going On",
+        "external_resources": [
+          {
+            "url": "https://music.douban.com/subject/34197114/"
+          }
+        ]
+      },
+      "created_time": "2024-08-11T02:28:59.996Z",
+      "comment_text": null,
+      "rating_grade": 9,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
+      "item": {
+        "title": "笑看风云",
+        "description": "",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "笑看风云"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "x",
+            "text": ""
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/album/2021/10/14a781e8ef-5ce0-44f3-835b-41518472868a.jpg",
+        "rating": 8.7,
+        "rating_count": 7,
+        "brief": "",
+        "id": "https://neodb.social/album/58tsaoYG4CU6iPmtpNWPjM",
+        "type": "Album",
+        "uuid": "58tsaoYG4CU6iPmtpNWPjM",
+        "url": "/album/58tsaoYG4CU6iPmtpNWPjM",
+        "api_url": "/api/album/58tsaoYG4CU6iPmtpNWPjM",
+        "category": "music",
+        "parent_uuid": null,
+        "display_title": "笑看风云",
+        "external_resources": [
+          {
+            "url": "https://music.douban.com/subject/3008186/"
+          }
+        ]
+      },
+      "created_time": "2024-08-09T04:12:37.827Z",
+      "comment_text": null,
+      "rating_grade": 9,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
+      "item": {
+        "title": "上海滩",
+        "description": "叶丽仪凭参加无线电视的《声宝之夜》歌唱比赛夺得冠军而晋身乐坛，早期以唱欧西歌曲为主，七十年代在粤语流行曲方面发展不大，至主唱无线电视剧主题曲《上海滩》，到叫人意外的成功，一跃而成一线女歌手。她继后为《上海滩续集》唱的《万般情》、《上海滩龙虎斗》亦承着《上海滩》的余威而有不错的成绩，而其他歌曲则以《那天将心交给你》、《愿你待我真的好》、《爱是无涯》和无线电视剧主题曲《笑傲江湖》较为流行。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "上海滩"
+          },
+          {
+            "lang": "id",
+            "text": "Shanghai Beach"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "叶丽仪凭参加无线电视的《声宝之夜》歌唱比赛夺得冠军而晋身乐坛，早期以唱欧西歌曲为主，七十年代在粤语流行曲方面发展不大，至主唱无线电视剧主题曲《上海滩》，到叫人意外的成功，一跃而成一线女歌手。她继后为《上海滩续集》唱的《万般情》、《上海滩龙虎斗》亦承着《上海滩》的余威而有不错的成绩，而其他歌曲则以《那天将心交给你》、《愿你待我真的好》、《爱是无涯》和无线电视剧主题曲《笑傲江湖》较为流行。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/album/2021/11/287904f388-1121-443f-9dd6-85e81dfa0d14.jpg",
+        "rating": 9.4,
+        "rating_count": 11,
+        "brief": "叶丽仪凭参加无线电视的《声宝之夜》歌唱比赛夺得冠军而晋身乐坛，早期以唱欧西歌曲为主，七十年代在粤语流行曲方面发展不大，至主唱无线电视剧主题曲《上海滩》，到叫人意外的成功，一跃而成一线女歌手。她继后为《上海滩续集》唱的《万般情》、《上海滩龙虎斗》亦承着《上海滩》的余威而有不错的成绩，而其他歌曲则以《那天将心交给你》、《愿你待我真的好》、《爱是无涯》和无线电视剧主题曲《笑傲江湖》较为流行。",
+        "id": "https://neodb.social/album/2pfP33RX1f8dkUOUNCV98Q",
+        "type": "Album",
+        "uuid": "2pfP33RX1f8dkUOUNCV98Q",
+        "url": "/album/2pfP33RX1f8dkUOUNCV98Q",
+        "api_url": "/api/album/2pfP33RX1f8dkUOUNCV98Q",
+        "category": "music",
+        "parent_uuid": null,
+        "display_title": "上海滩",
+        "external_resources": [
+          {
+            "url": "https://music.douban.com/subject/2165859/"
+          }
+        ]
+      },
+      "created_time": "2024-08-08T08:18:18.756Z",
+      "comment_text": null,
+      "rating_grade": 9,
+      "tags": []
+    }
+  ],
+  "count": 4,
+  "category": "music",
+  "updated_at": "2024-11-04T21:21:40.010264"
+}
