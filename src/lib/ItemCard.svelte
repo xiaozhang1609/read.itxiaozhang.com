@@ -7,25 +7,6 @@
   let isHovered = false;
   let imageLoaded = false;
   let imageError = false;
-  let isIntersecting = false;
-
-  onMount(() => {
-    const observer = new IntersectionObserver((entries) => {
-      entries.forEach(entry => {
-        isIntersecting = entry.isIntersecting;
-        if (entry.isIntersecting && img) {
-          img.src = item.item.cover_image_url;
-          observer.unobserve(img);
-        }
-      });
-    });
-
-    if (img) {
-      observer.observe(img);
-    }
-
-    return () => observer.disconnect();
-  });
 
   function handleImageLoad() {
     imageLoaded = true;
@@ -43,23 +24,18 @@
 >
   <a href="https://neodb.social{item.item.url}" target="_blank" rel="noreferrer" class="block">
     <div class="aspect-[2/3] overflow-hidden relative">
-      <PlaceholderImage 
-        category={item.item.category} 
-        class="absolute inset-0 transition-opacity duration-300"
-        class:opacity-0={imageLoaded}
-      />
-      
-      {#if isIntersecting}
-        <img
-          bind:this={img}
-          data-src={item.item.cover_image_url}
-          alt={item.item.display_title}
-          class="w-full h-full object-cover transition-all duration-300 group-hover:scale-105"
-          class:opacity-0={!imageLoaded}
-          on:load={handleImageLoad}
-          on:error={handleImageError}
-        />
+      {#if !imageLoaded || imageError}
+        <PlaceholderImage category={item.item.category} />
       {/if}
+      <img
+        bind:this={img}
+        src={item.item.cover_image_url}
+        alt={item.item.display_title}
+        class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
+        class:opacity-0={!imageLoaded}
+        on:load={handleImageLoad}
+        on:error={handleImageError}
+      />
     </div>
     
     <div class="absolute bottom-0 left-0 right-0 p-4 text-white transform translate-y-8 group-hover:translate-y-0 transition-transform duration-300">
