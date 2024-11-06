@@ -1,14 +1,19 @@
 <script lang="ts">
-  import type { ReadingItem } from '../types';
-
-  export let item: ReadingItem;
-  export let observer: IntersectionObserver;
-
+  import { onMount } from 'svelte';
+  import PlaceholderImage from './PlaceholderImage.svelte';
+  
+  export let item;
   let img: HTMLImageElement;
   let isHovered = false;
+  let imageLoaded = false;
+  let imageError = false;
 
-  $: if (img && observer) {
-    observer.observe(img);
+  function handleImageLoad() {
+    imageLoaded = true;
+  }
+
+  function handleImageError() {
+    imageError = true;
   }
 </script>
 
@@ -19,13 +24,18 @@
 >
   <a href="https://neodb.social{item.item.url}" target="_blank" rel="noreferrer" class="block">
     <div class="aspect-[2/3] overflow-hidden relative">
+      {#if !imageLoaded || imageError}
+        <PlaceholderImage category={item.item.category} />
+      {/if}
       <img
         bind:this={img}
-        data-src={item.item.cover_image_url}
+        src={item.item.cover_image_url}
         alt={item.item.display_title}
         class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
+        class:opacity-0={!imageLoaded}
+        on:load={handleImageLoad}
+        on:error={handleImageError}
       />
-      <div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
     </div>
     
     <div class="absolute bottom-0 left-0 right-0 p-4 text-white transform translate-y-8 group-hover:translate-y-0 transition-transform duration-300">
