@@ -1,47 +1,59 @@
-# Svelte + TS + Vite
 
-This template should help get you started developing with Svelte and TypeScript in Vite.
+# NeoDB 数据自动同步工具
 
-## Recommended IDE Setup
+这是一个用于自动获取 NeoDB 数据并同步到 GitHub 仓库的工具。它会每天自动运行，获取你在 NeoDB 上的观影、读书等记录。
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
+## 功能特点
 
-## Need an official Svelte framework?
+- 🔄 每天自动同步 NeoDB 数据
+- 📁 数据保存在 public/neodb_data 目录
+- 🤖 使用 GitHub Actions 自动运行
+- 🔒 安全存储 NeoDB Token
 
-Check out [SvelteKit](https://github.com/sveltejs/kit#readme), which is also powered by Vite. Deploy anywhere with its serverless-first approach and adapt to various platforms, with out of the box support for TypeScript, SCSS, and Less, and easily-added support for mdsvex, GraphQL, PostCSS, Tailwind CSS, and more.
+## 使用方法
 
-## Technical considerations
+1. Fork 这个仓库到你的 GitHub 账号
 
-**Why use this over SvelteKit?**
+2. 设置 NeoDB Token
+   - 获取你的 NeoDB access token
+   - 在仓库中进入 Settings > Secrets and variables > Actions
+   - 点击 "New repository secret"
+   - 名称填写：`NEODB_TOKEN`
+   - 值填写你的 token
 
-- It brings its own routing solution which might not be preferable for some users.
-- It is first and foremost a framework that just happens to use Vite under the hood, not a Vite app.
+3. 启用 GitHub Actions
+   - 进入仓库的 Actions 标签页
+   - 确认工作流已启用
 
-This template contains as little as possible to get started with Vite + TypeScript + Svelte, while taking into account the developer experience with regards to HMR and intellisense. It demonstrates capabilities on par with the other `create-vite` templates and is a good starting point for beginners dipping their toes into a Vite + Svelte project.
+## 自动运行
 
-Should you later need the extended capabilities and extensibility provided by SvelteKit, the template has been structured similarly to SvelteKit so that it is easy to migrate.
+工作流程会：
+- 每天 UTC 00:00 自动运行
+- 获取最新数据
+- 自动提交更改到仓库
 
-**Why `global.d.ts` instead of `compilerOptions.types` inside `jsconfig.json` or `tsconfig.json`?**
+## 手动运行
 
-Setting `compilerOptions.types` shuts out all other types not explicitly listed in the configuration. Using triple-slash references keeps the default TypeScript setting of accepting type information from the entire workspace, while also adding `svelte` and `vite/client` type information.
+如果需要立即更新数据：
+1. 进入仓库的 Actions 标签页
+2. 点击 "Fetch NeoDB Data" 工作流
+3. 点击 "Run workflow"
 
-**Why include `.vscode/extensions.json`?**
+## 目录结构
 
-Other templates indirectly recommend extensions via the README, but this file allows VS Code to prompt the user to install the recommended extension upon opening the project.
-
-**Why enable `allowJs` in the TS template?**
-
-While `allowJs: false` would indeed prevent the use of `.js` files in the project, it does not prevent the use of JavaScript syntax in `.svelte` files. In addition, it would force `checkJs: false`, bringing the worst of both worlds: not being able to guarantee the entire codebase is TypeScript, and also having worse typechecking for the existing JavaScript. In addition, there are valid use cases in which a mixed codebase may be relevant.
-
-**Why is HMR not preserving my local component state?**
-
-HMR state preservation comes with a number of gotchas! It has been disabled by default in both `svelte-hmr` and `@sveltejs/vite-plugin-svelte` due to its often surprising behavior. You can read the details [here](https://github.com/rixo/svelte-hmr#svelte-hmr).
-
-If you have state that's important to retain within a component, consider creating an external store which would not be replaced by HMR.
-
-```ts
-// store.ts
-// An extremely simple external store
-import { writable } from 'svelte/store'
-export default writable(0)
 ```
+.
+├── .github/workflows/   # GitHub Actions 配置
+├── scripts/            # Python 脚本
+└── public/neodb_data/  # 数据存储目录
+```
+
+## 注意事项
+
+- 确保仓库的 Actions 权限设置为 "Read and write"
+- 请勿泄露你的 NeoDB Token
+- 确保 public/neodb_data 目录存在
+
+## 问题反馈
+
+如果遇到问题，欢迎在 Issues 中反馈。
