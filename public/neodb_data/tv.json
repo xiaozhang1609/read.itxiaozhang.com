@@ -311,7 +311,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/09/59f49696-e8a1-40b8-a956-07cc5e7e6891.jpg",
         "rating": 8.6,
-        "rating_count": 164,
+        "rating_count": 167,
         "brief": "该剧根据Mick Herron的同名系列小说改编，故事围绕着军情五处内一个不正常的特务组，以及他们讨人厌的老板：臭名满天下的杰克逊·兰姆（加里·奥德曼 饰）。他们在真假难辨的间谍世界中努力着，以保卫英国免受邪恶势力的侵害。",
         "id": "https://neodb.social/tv/season/2Eqn7nsOKfduXHmcvFFLQP",
         "type": "TVSeason",
@@ -363,7 +363,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/04/15b785f2f1-4e5a-4ab8-8344-90049e5ac6fb.jpg",
         "rating": 8.2,
-        "rating_count": 261,
+        "rating_count": 262,
         "brief": "该剧根据Mick Herron的同名系列小说改编，讲述一队英国情报人员在军情五处的一个垃圾倾倒场Slough House工作。奥德曼饰演才华横溢但脾气暴躁的间谍首领杰克森，因犯错导致职业生涯结束而被关进了这里。",
         "id": "https://neodb.social/tv/season/4ZML2fMKimevs00ZNNZdUL",
         "type": "TVSeason",
@@ -4959,5 +4959,5 @@
   ],
   "count": 91,
   "category": "tv",
-  "updated_at": "2024-11-08T00:51:13.959558"
+  "updated_at": "2024-11-09T00:49:51.539790"
 }
