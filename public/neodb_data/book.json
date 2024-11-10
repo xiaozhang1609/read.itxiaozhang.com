@@ -4,6 +4,50 @@
       "shelf_type": "complete",
       "visibility": 0,
       "item": {
+        "title": "许三观卖血记",
+        "description": "《许三观卖血记》是余华1995年创作的一部长篇小说，它以博大的温情描绘了磨难中的人生，以激烈的故事形式表达了人在面对厄运时求生的欲望。小说讲述了许三观靠着卖血渡过了人生的一个个难关，战胜了命运强加给他的惊涛骇浪，而当他老了，知道自己的血再也没有人要时，精神却崩溃了。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "许三观卖血记"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "《许三观卖血记》是余华1995年创作的一部长篇小说，它以博大的温情描绘了磨难中的人生，以激烈的故事形式表达了人在面对厄运时求生的欲望。小说讲述了许三观靠着卖血渡过了人生的一个个难关，战胜了命运强加给他的惊涛骇浪，而当他老了，知道自己的血再也没有人要时，精神却崩溃了。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/book/2021/09/16573efe00-fcb2-44d8-803a-538702f09986.jpg",
+        "rating": 8.9,
+        "rating_count": 357,
+        "brief": "《许三观卖血记》是余华1995年创作的一部长篇小说，它以博大的温情描绘了磨难中的人生，以激烈的故事形式表达了人在面对厄运时求生的欲望。小说讲述了许三观靠着卖血渡过了人生的一个个难关，战胜了命运强加给他的惊涛骇浪，而当他老了，知道自己的血再也没有人要时，精神却崩溃了。",
+        "id": "https://neodb.social/book/4tvMgmCZtnRo56WGqFkWY2",
+        "type": "Edition",
+        "uuid": "4tvMgmCZtnRo56WGqFkWY2",
+        "url": "/book/4tvMgmCZtnRo56WGqFkWY2",
+        "api_url": "/api/book/4tvMgmCZtnRo56WGqFkWY2",
+        "category": "book",
+        "parent_uuid": null,
+        "display_title": "许三观卖血记",
+        "external_resources": [
+          {
+            "url": "https://book.douban.com/subject/1029791/"
+          },
+          {
+            "url": "https://www.goodreads.com/book/show/28404509"
+          }
+        ]
+      },
+      "created_time": "2024-11-09T12:07:50.895Z",
+      "comment_text": null,
+      "rating_grade": 9,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
+      "item": {
         "title": "《蛙》中国第一位诺贝尔文学奖作家莫言作品精装收藏版",
         "description": "",
         "localized_title": [
@@ -494,7 +538,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/15e852899b-0b52-41b1-b8e5-772c8e13f739.jpg",
         "rating": 9.2,
-        "rating_count": 405,
+        "rating_count": 406,
         "brief": "这本杂文随笔集包括思想文化方面的文章，涉及知识分子的处境及思考，社会道德伦理，文化论争，国学与新儒家，民族主义等问题；包括从日常生活中发掘出来的各种真知灼见，涉及科学与邪道，女权主义等；包括对社会科学研究的评论，涉及性问题，生育问题，同性恋问题，社会研究的伦理问题和方法问题等；包括创作谈和文论，如写作的动机，作者的师承，作者对小说艺术的看法，作者对文体格调的看法，对影视的看法等；包括少量的书评，其中既有对文学经典的评论，也有对当代作家作品的一些看法；最后，还包括一些域外生活的杂感以及对某些社会现象的评点。",
         "id": "https://neodb.social/book/7Kq0ufmFgg64w4ST5b9EAS",
         "type": "Edition",
@@ -1040,7 +1084,7 @@
       "tags": []
     }
   ],
-  "count": 24,
+  "count": 25,
   "category": "book",
-  "updated_at": "2024-11-09T00:49:53.422291"
+  "updated_at": "2024-11-10T00:54:54.205223"
 }
