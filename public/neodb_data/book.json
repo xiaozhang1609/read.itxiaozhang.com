@@ -4,6 +4,54 @@
       "shelf_type": "complete",
       "visibility": 0,
       "item": {
+        "title": "村上广播",
+        "description": "Translation Publishing Pub 2021-04-01 216 Shanghai Translation Publishing House Murakami Broadcasting has been serialized in the magazine ANAN since March 2000. spanning a year. including 50 essays.?Pizza. records. Rhode Island. Virginia ...",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "村上广播"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "Translation Publishing Pub 2021-04-01 216 Shanghai Translation Publishing House Murakami Broadcasting has been serialized in the magazine ANAN since March 2000. spanning a year. including 50 essays.?Pizza. records. Rhode Island. Virginia ..."
+          },
+          {
+            "lang": "zh-cn",
+            "text": "《村上广播》从2000年3月开始在杂志《ANAN》上连载，横跨一年时间，包括50篇随笔作品。\"披萨\"、\"唱片\"、\"罗得岛\"、\"弗吉尼亚·伍尔夫\"、\"甜甜圈\"，单是这些关键词，已经足以吸引所有村上粉丝的眼球。\"鸡素烧\"、\"粗卷寿司\"、\"手卷\"等和日本料理的话题有很多，整本随笔集充满了村上味。尤其让人印象深刻的是，从身为作家出道出席《群像》新人奖颁奖仪式时的记忆“关于西装”开始，边引用钱德勒小说里的台词，边对村上作品里主要的主题之一“死亡”进行考察，以“说再见”结束。“我觉得自己在相应的背景和音乐中得以从个人角度对二十世纪顺利告别。”（说再见）这一末尾的话表现出这本书标示着村上迎来了自己作为一名作家的成熟期或者说转换期这一重要节点。\n-\n电视很吵，所以我几乎不看，但我感觉广播自有一份悠然自得。我一直通过广播收听新闻。我想以这种‘应有尽有’的感觉来写随笔，所以取名《村上广播》。\n——村上春树\n大桥步的画和村上文字独有的“静谧感”配合得天衣无缝。\n——中岛正敏"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/book/2022/03/15aba9cd1e-48b2-44b0-8e21-1905697fac0f.jpg",
+        "rating": null,
+        "rating_count": 2,
+        "brief": "Translation Publishing Pub 2021-04-01 216 Shanghai Translation Publishing House Murakami Broadcasting has been serialized in the magazine ANAN since March 2000. spanning a year. including 50 essays.?Pizza. records. Rhode Island. Virginia ...",
+        "id": "https://neodb.social/book/6pHavml6y9AF6Xc6wyuWkU",
+        "type": "Edition",
+        "uuid": "6pHavml6y9AF6Xc6wyuWkU",
+        "url": "/book/6pHavml6y9AF6Xc6wyuWkU",
+        "api_url": "/api/book/6pHavml6y9AF6Xc6wyuWkU",
+        "category": "book",
+        "parent_uuid": null,
+        "display_title": "村上广播",
+        "external_resources": [
+          {
+            "url": "https://book.douban.com/subject/35338091/"
+          },
+          {
+            "url": "https://www.goodreads.com/book/show/101708267"
+          }
+        ]
+      },
+      "created_time": "2024-11-11T03:40:50.171Z",
+      "comment_text": null,
+      "rating_grade": 8,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
+      "item": {
         "title": "许三观卖血记",
         "description": "《许三观卖血记》是余华1995年创作的一部长篇小说，它以博大的温情描绘了磨难中的人生，以激烈的故事形式表达了人在面对厄运时求生的欲望。小说讲述了许三观靠着卖血渡过了人生的一个个难关，战胜了命运强加给他的惊涛骇浪，而当他老了，知道自己的血再也没有人要时，精神却崩溃了。",
         "localized_title": [
@@ -1084,7 +1132,7 @@
       "tags": []
     }
   ],
-  "count": 25,
+  "count": 26,
   "category": "book",
-  "updated_at": "2024-11-11T00:52:52.986859"
+  "updated_at": "2024-11-12T00:50:53.268729"
 }

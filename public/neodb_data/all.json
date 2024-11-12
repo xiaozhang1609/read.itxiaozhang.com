@@ -4,6 +4,54 @@
       "shelf_type": "complete",
       "visibility": 0,
       "item": {
+        "title": "村上广播",
+        "description": "Translation Publishing Pub 2021-04-01 216 Shanghai Translation Publishing House Murakami Broadcasting has been serialized in the magazine ANAN since March 2000. spanning a year. including 50 essays.?Pizza. records. Rhode Island. Virginia ...",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "村上广播"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "Translation Publishing Pub 2021-04-01 216 Shanghai Translation Publishing House Murakami Broadcasting has been serialized in the magazine ANAN since March 2000. spanning a year. including 50 essays.?Pizza. records. Rhode Island. Virginia ..."
+          },
+          {
+            "lang": "zh-cn",
+            "text": "《村上广播》从2000年3月开始在杂志《ANAN》上连载，横跨一年时间，包括50篇随笔作品。\"披萨\"、\"唱片\"、\"罗得岛\"、\"弗吉尼亚·伍尔夫\"、\"甜甜圈\"，单是这些关键词，已经足以吸引所有村上粉丝的眼球。\"鸡素烧\"、\"粗卷寿司\"、\"手卷\"等和日本料理的话题有很多，整本随笔集充满了村上味。尤其让人印象深刻的是，从身为作家出道出席《群像》新人奖颁奖仪式时的记忆“关于西装”开始，边引用钱德勒小说里的台词，边对村上作品里主要的主题之一“死亡”进行考察，以“说再见”结束。“我觉得自己在相应的背景和音乐中得以从个人角度对二十世纪顺利告别。”（说再见）这一末尾的话表现出这本书标示着村上迎来了自己作为一名作家的成熟期或者说转换期这一重要节点。\n-\n电视很吵，所以我几乎不看，但我感觉广播自有一份悠然自得。我一直通过广播收听新闻。我想以这种‘应有尽有’的感觉来写随笔，所以取名《村上广播》。\n——村上春树\n大桥步的画和村上文字独有的“静谧感”配合得天衣无缝。\n——中岛正敏"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/book/2022/03/15aba9cd1e-48b2-44b0-8e21-1905697fac0f.jpg",
+        "rating": null,
+        "rating_count": 2,
+        "brief": "Translation Publishing Pub 2021-04-01 216 Shanghai Translation Publishing House Murakami Broadcasting has been serialized in the magazine ANAN since March 2000. spanning a year. including 50 essays.?Pizza. records. Rhode Island. Virginia ...",
+        "id": "https://neodb.social/book/6pHavml6y9AF6Xc6wyuWkU",
+        "type": "Edition",
+        "uuid": "6pHavml6y9AF6Xc6wyuWkU",
+        "url": "/book/6pHavml6y9AF6Xc6wyuWkU",
+        "api_url": "/api/book/6pHavml6y9AF6Xc6wyuWkU",
+        "category": "book",
+        "parent_uuid": null,
+        "display_title": "村上广播",
+        "external_resources": [
+          {
+            "url": "https://book.douban.com/subject/35338091/"
+          },
+          {
+            "url": "https://www.goodreads.com/book/show/101708267"
+          }
+        ]
+      },
+      "created_time": "2024-11-11T03:40:50.171Z",
+      "comment_text": null,
+      "rating_grade": 8,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
+      "item": {
         "title": "许三观卖血记",
         "description": "《许三观卖血记》是余华1995年创作的一部长篇小说，它以博大的温情描绘了磨难中的人生，以激烈的故事形式表达了人在面对厄运时求生的欲望。小说讲述了许三观靠着卖血渡过了人生的一个个难关，战胜了命运强加给他的惊涛骇浪，而当他老了，知道自己的血再也没有人要时，精神却崩溃了。",
         "localized_title": [
@@ -123,7 +171,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15b1a129f9-80cf-44a4-b61d-574ad0aa49b5.jpg",
         "rating": 8.0,
-        "rating_count": 170,
+        "rating_count": 171,
         "brief": "首部4K全景声粤剧电影，取材自民间故事《白蛇传》，那白蛇的故事，远久流传...\n白素贞修炼千年，只为人间寻那许仙，再续兰因前缘。\n说什么人妖殊途，法理难容此爱恋。昆仑雪寒金山水漫，白素贞拼尽所有，只求天地人心情真一片。\n纵天谴又如何？再困塔里千年亦甘愿！\n彼此守望，哪天，佛陀花开，你我再见！",
         "id": "https://neodb.social/movie/5HUjznWofKCMRiw6HjIw85",
         "type": "Movie",
@@ -1383,7 +1431,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/138d1723f9-e106-4e8e-b490-3cd2ed271cae.jpg",
         "rating": 8.2,
-        "rating_count": 1575,
+        "rating_count": 1576,
         "brief": "在阿富汗执行任务的美国空军飞行员科特史蒂文斯上尉（杰克·吉伦哈尔 Jake Gyllenhaal 饰）突然惊醒，发现自己在一辆高速行驶的列车上，而他的身边坐着一个素不相识的女子克里斯蒂安（米歇尔·莫娜汉 Michelle Monaghan 饰）正在与自己讲话。科尔不知自己为什么会在这辆车上，而且他发现自己居然是以另一个人的身份存在，正当他迷惑不解的时候，列车上忽然发生爆炸……\n科特又一次惊醒，发现自己身处一个密闭的太空仓里，有一位女军官古德温（维拉·法米加 Vera Farmiga 饰）正在通过视频和自己对话，并要求自己报告列车上发生的事情。一头雾水的科特还没搞明白是怎么回事时，他又一次被送上那辆列车。这次之后，科特终于明白自己在执行一件任务，负责调察芝加哥火车爆炸案找到恐怖份子并查出他的下一个目标。科特被一次又一次的送上那辆高速列车，每次只有八分钟的时间调察，调察过程中，科特发现自己已在一周前去世，原来他正在参与是一项“脑波原代码”的秘密任务，这项任务通过已经死亡的科特尚未完全死亡的脑细胞影像来还原事件，调查事情的真相。最终，科特顺利完成了任务，但是他却决定再一次返回列车，拯救列车上那些无辜的生命……",
         "id": "https://neodb.social/movie/2XVVTKOPucKGQqmmb5GaNX",
         "type": "Movie",
@@ -1555,7 +1603,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/156bbc2ea2-fc09-440a-bb29-83dd0339574a.jpg",
         "rating": 6.7,
-        "rating_count": 1244,
+        "rating_count": 1245,
         "brief": "被恶德男友强迫帮人送货的年轻女子露西（斯嘉丽·约翰逊 Scarlett Johansson 饰），遭遇了穷凶恶极的黑帮头目张先生（崔岷植 饰）一伙。她连同三个男人被张先生在腹部缝入了代号为CPH4的神秘药品，以此将药品偷偷带入不同国家。在台北盘桓期间，露西遭到恶男暴打，以致药品破裂进入血液之中。谁知令人难以置信的事情就此发生，药品激发了露西大脑的潜力，令人脑中约90%的神经元相继苏醒。伴随着身体的飞快进化，露西掌握了越来越多人们所谓的超能力。她清楚地了解到CPH4所拥有的强大威力，于是想方设法要阻止其他三袋药品落入张先生一伙手中。\n期间她试图与大脑研究方面的资深教授塞缪尔·诺曼（摩根·弗里曼 Morgan Freeman 饰）取得联系，在后者的见证下，露西将迎来大脑100%苏醒的历史性时刻……",
         "id": "https://neodb.social/movie/4byB5tFgbdwUuOO81GlSuM",
         "type": "Movie",
@@ -1603,7 +1651,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/07/01/f929217a-3c36-4a6e-8885-64fc07476424.webp",
         "rating": 6.1,
-        "rating_count": 174,
+        "rating_count": 176,
         "brief": "困苦的爹，辛劳的妈，破烂的院子，破碎的他。西虹市做大做强的路上怎么把老马家落下了？！\n“汤里没油，兜里没子”的马成钢（沈腾 饰）和春兰（马丽 饰），赶驴打工，家徒四壁，而儿子马继业（肖帛辰 饰）则是他们逆天改命的唯一希望。小马很争气，年年好成绩，一点不娇气，意志贼坚毅。但随着小马一天天长大，他却逐渐发现身边的人们都越来越不对劲……",
         "id": "https://neodb.social/movie/1O3OM5a0GELT6BtF7KEtUp",
         "type": "Movie",
@@ -2282,7 +2330,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13676fe4c9-0bb8-4ba4-88d9-109f12d316f1.jpg",
         "rating": 9.5,
-        "rating_count": 1284,
+        "rating_count": 1285,
         "brief": "一个在贫民窟长大的18岁少年因为涉嫌杀害自己的父亲被告上法庭，证人言之凿凿，各方面的证据都对他极为不利。十二个不同职业的人组成了这个案件的陪审团，他们要在休息室达成一致的意见，裁定少年是否有罪，如果罪名成立，少年将会被判处死刑。\n十二个陪审团成员各有不同，除了8号陪审员（H enry Fonda 饰）之外，其他人对这个犯罪事实如此清晰的案子不屑一顾，还没有开始讨论就认定了少年有罪。8号陪审员提出了自己的“合理疑点”，耐心地说服其他的陪审员，在这个过程中，他们每个人不同的人生观也在冲突和较量……",
         "id": "https://neodb.social/movie/3Grzu4TaasczK63bezEPxH",
         "type": "Movie",
@@ -4365,7 +4413,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/12/09/e349737a-1ad1-4118-ab72-3f8fd067cf4d.webp",
         "rating": 8.7,
-        "rating_count": 218,
+        "rating_count": 219,
         "brief": "本剧是对2016年动画短片《拾荒者》概念的拓展。\r\n在一艘星际货运飞船受损后，船员发现他们被困在了一个美丽但让人难以应付的陌生星球上。在这里，他们必须存活得足够久，才有机会逃离或获救。当幸存者们努力寻找被击落的船只和失踪的船员时，他们的新家展现出一个充满敌意的世界，这个世界可以在没有人类干扰的情况下蓬勃发展。",
         "id": "https://neodb.social/tv/season/57PyYqzRowAjrcajGknvnl",
         "type": "TVSeason",
@@ -4893,7 +4941,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157c78ce20-44be-4128-85cd-0cfdc73ebb0a.jpg",
         "rating": 8.0,
-        "rating_count": 624,
+        "rating_count": 625,
         "brief": "辛酸、后悔、耻辱——人类诞生的负面感情化作诅咒潜伏于日常当中。诅咒是蔓延于世间的灾祸根源，最坏的情况下会导致人死亡。而诅咒，只能通过诅咒来祓除。\n拥有惊人身体能力的少年·虎杖悠仁，原本过着普通的高中生活，但某天他为了救下遭到“诅咒”袭击的同伴而吞下了特级咒物“两面宿傩的手指”，自己的魂魄也寄宿了诅咒。自此与身为诅咒的“两面宿傩”共有肉体的虎杖，在最强咒术师五条悟的介绍下编入了对诅咒专门机关「东京都立咒术高等专门学校」……为了祓除诅咒，化身为诅咒的少年无法回头的壮绝物语开始启动——",
         "id": "https://neodb.social/tv/season/1mQKEubPNsun1bpLQ3zbFj",
         "type": "TVSeason",
@@ -5062,7 +5110,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
         "rating": 9.0,
-        "rating_count": 489,
+        "rating_count": 491,
         "brief": "《英雄联盟：双城之战》是英雄联盟官方动画剧集，讲述的是在充满蒸汽朋克气息的乌托邦-皮尔特沃夫和由化学品驱动的地下城-祖安中，蔚和金克丝两姐妹，她们在一场激烈的冲突后发现两个人站在了彼此的对立面。她们从此分开，走上不同的道路，朝着不同的命运终点走去，但心中的羁绊又无时不刻地让姐妹二人想要破镜重圆。",
         "id": "https://neodb.social/tv/season/49K22BtoKSg3oNXMNdViIW",
         "type": "TVSeason",
@@ -6337,7 +6385,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/03/31/b84c552c-e4e4-4e40-a1f8-e78eca49f07e.jpg",
         "rating": 7.7,
-        "rating_count": 866,
+        "rating_count": 867,
         "brief": "脑洞大开高分奇片，地球人外星人千里奔现！\n唐志军（杨皓宇 饰）是一家诞生于上世纪八十年代的科幻杂志——《宇宙探索》编辑部的主编。现如今的杂志社日渐式微，唐志军也终成落魄潦倒，鳏寡孤独之人。但他却依然几十年如一日的痴迷于寻找地外文明。终于有一天，他接收到了一个疑似来自宇宙深处的异常信号，于是他召集同是天涯沦落人的伙伴们，带着那一个困惑他终生的问题，再一次踏上寻找外星人的旅途。",
         "id": "https://neodb.social/movie/44E3AK7EKtc9fb3lBBqZNr",
         "type": "Movie",
@@ -6440,7 +6488,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/11/10/3577ead9-a516-4fbf-90cc-7810c773e4b9.jpg",
         "rating": 8.0,
-        "rating_count": 897,
+        "rating_count": 898,
         "brief": "当我们为权力金钱焦虑、兴奋与愤怒时，却根本想象不到“他们”在谈论着怎样更重要的事情。\n随着战争阴云笼罩世界上空，各国紧锣密鼓抓紧军事竞赛。为了抢占先机，美国陆军中将莱斯利·格罗夫斯（马特·达蒙 Matt Damon 饰）找到量子力学与核物理学领域的扛鼎人物罗伯特·奥本海默（基里安·墨菲 Cillian Murphy 饰），力荐其担任曼哈顿计划的首席科学家以及洛斯阿拉莫斯国家实验室的总负责人。经过两年争分夺秒的研发，硕大的蘑菇云终于在荒原的上空腾起，也宣告着绞肉机一般的二战即将落下帷幕。奥本海默有如将火种带到人间的普罗米修斯，可是对人性的参悟和对未来的担忧迫使他走向与政府相悖的道路。更可悲的是，凡人钟情的物欲也将一世天才裹挟至炼狱之中，永世燃烧……",
         "id": "https://neodb.social/movie/5VHXvvI05hLkzedOSVa4z2",
         "type": "Movie",
@@ -6625,7 +6673,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/03/41516609-e6fa-44a4-84af-430b4a20e707.jpg",
         "rating": 8.3,
-        "rating_count": 733,
+        "rating_count": 734,
         "brief": "影片讲述了新生代蜘蛛侠迈尔斯（沙梅克·摩尔 Shameik Moore 配音）携手蜘蛛格温（海莉·斯坦菲尔德 Hailee Steinfeld 配音），穿越多元宇宙踏上更宏大的冒险征程的故事。面临每个蜘蛛侠都会失去至亲的宿命，迈尔斯誓言打破命运魔咒，找到属于自己的英雄之路。而这个决定和蜘蛛侠2099（奥斯卡·伊萨克 Oscar Is aac 配音）所领军的蜘蛛联盟产生了极大冲突，一场以一敌百的蜘蛛侠大内战即将拉响！",
         "id": "https://neodb.social/movie/6TvJKU2rJ5SoJSeTLwdDdv",
         "type": "Movie",
@@ -7436,7 +7484,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2023/07/20/8206c5c4-0d6d-46f6-a08c-7a7d3af84393.jpg",
         "rating": 7.0,
-        "rating_count": 670,
+        "rating_count": 671,
         "brief": "宁静的九州乡间小镇，生活着平凡的少女岩户铃芽（原菜乃华 配音）。这天上学路上，她邂逅了神秘的白衣青年宗像草太（松村北斗 配音）。草太的言行举止引起了铃芽的好奇，她随着这个青年来到了一处废墟，并看到了一扇在水中央突兀伫立的门。懵懵懂懂，铃芽无意间解开了某个古老封印。在此之 后，一场地震突发，而偏偏只有铃芽才能看见地震前发生的诡异现象。随后这个惶恐的女孩才发现，草太原来是有着古老传承的闭门师，他巡游日本各地正是为了阻止更大的灾难发生。\n从西日本到东日本，追逐灾难的旅途中，铃芽尘封的记忆也渐渐苏醒……",
         "id": "https://neodb.social/movie/4JVspcTxu4MPhpPpSQCivw",
         "type": "Movie",
@@ -8365,7 +8413,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/05/09/93138ddf-92a7-4fda-9d04-92f9b197d65c.webp",
         "rating": 7.6,
-        "rating_count": 404,
+        "rating_count": 405,
         "brief": "　　吟游诗人艾德金 Edgin（克里斯·派恩 Chris Pine 饰）曾是为平衡而战的竖琴手。他在妻子死于红袍法师的报复后，退出竖琴手，酗酒度日。野蛮人霍尔盖 Holga（米歇尔·罗德里格兹 Michelle Rodriguez 饰）出现在颓废的艾德金身边，和他共同抚养女儿琪拉 Kira（克洛伊·科尔曼 Chloe Coleman 饰）。\r\n　　艾德金、霍尔盖带着琪拉组成了一支盗宝团队，陆续有半吊子术士西蒙 Simon（贾斯蒂斯·史密斯 Justice Smith 饰）和骗子福奇 Forge（休·格兰特 Hugh Grant 饰）等人加入，哪知道在一次行动中失手，福奇带着琪拉逃跑，艾德金和霍尔盖则锒铛入狱。一晃多年过去，艾德金和霍尔盖越狱，找到已是无冬城领主的福奇，却发现当年被福奇出卖，琪拉受福奇迷惑，与艾德金反目。为了洗刷污名，救回琪拉，让福奇付出代价，艾德金和霍尔盖找回西蒙，又招募德鲁伊女孩多莉克 Doric（索菲娅·莉莉丝 Sophia Lillis 饰），组成一支新队伍。",
         "id": "https://neodb.social/movie/5x5G0qUlH3JmEIAkH8aOhR",
         "type": "Movie",
@@ -8632,7 +8680,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13a47e43fe-9ea3-43ca-a9e2-808483a6598b.jpg",
         "rating": 7.9,
-        "rating_count": 1399,
+        "rating_count": 1400,
         "brief": "《哈利·波特与死亡圣器》小站\n\n邓不利多死后，伏地魔（Ralph Fiennes 饰）与食死徒入侵魔法学校，魔法部也被伏地魔的爪牙操控，邪恶的阴云笼罩魔法世界上空。在哈利·波特（丹尼尔·雷德克里夫 Daniel Radcliffe 饰）17岁生日之际，凤凰社成员及一众好友护送他回到了凤凰社的据点陋居，然而这立即遭到食死徒毁灭性地打击。哈利和罗恩（鲁伯特·格林特 Rupert Grint 饰）、赫敏（爱玛·沃特森 Emma Watson 饰）侥幸逃亡，并且按照邓不利多的嘱托继续寻找伏地魔的魂器。死亡的威胁时刻逡巡左右，他们还要面对友情的考验。在寻找摧毁魂器方法的过程中，死亡圣器的面纱也渐渐揭开。\n与此同时，为了置哈利于死地，伏地魔也在寻找最后一件死亡圣器。最后的决战即将到来……",
         "id": "https://neodb.social/movie/2DJf49NMgDNJuBaNa9rlj8",
         "type": "Movie",
@@ -8752,7 +8800,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15dcceff27-b10e-4149-9673-022b83f75410.jpg",
         "rating": 8.6,
-        "rating_count": 1628,
+        "rating_count": 1629,
         "brief": "当又一次和伏地魔（拉尔夫·费因斯 Ralph Fiennes 饰）的意识连通，哈利·波特（丹尼尔·雷德克里夫 Daniel Radcliffe 饰）断定最后一件魂器藏在霍格沃茨，于是和罗恩（鲁伯特·格林特 Rupert Grint 饰）、赫敏（艾玛·沃森 Emma Watson 饰）一同返回阴云密布的学校。在好友们的帮助下，他们成功驱逐了斯内普（艾伦·瑞克曼 Alan Rickman 饰），然而觉察到哈利目的的伏地魔则率领徒众向霍格沃茨逼近。食死徒、摄魂怪、巨人疯狂涌入这所有着悠久历史的魔法学校，正邪决战旋即爆发，一时间血雨腥风，死伤无数。从斯内普的眼泪中，哈利不仅了解到父辈的故事，也证实了藏缅于他体内最后的秘密。在此之后，他也和伏地魔迎来了最后的对决……\n本片根据英国作家J.K.罗琳的同名原著改编，也是“哈利·波特”系列影片的完结篇。",
         "id": "https://neodb.social/movie/5CI5m5EoxnKbgZOzQF75tN",
         "type": "Movie",
@@ -8811,7 +8859,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15b71e1380-9ed2-4ac2-bf49-d2e2b3c92156.jpg",
         "rating": 7.7,
-        "rating_count": 1386,
+        "rating_count": 1388,
         "brief": "逃过摄魂怪的追杀，通过魔法部的审查，哈利（丹尼尔·雷德克里夫）终于回到美丽的霍格沃兹。然而这个学期并不轻松，他不仅要完成魔法等级考试，还要应对夜晚的噩梦和黑魔法防御课老师乌姆里奇的打压。在好友的支持下，哈利秘密组建了邓不利多军团，与大家一起练习黑魔法防御术。\n噩梦中，哈利总是以伏地魔的视角出现，似乎他们之间有着某种神秘的联系。在邓不利多（迈克尔·刚本）的指示下，哈利向斯内普教授（阿伦·瑞克曼）学习封闭术，却鲜有成效。终于在一次噩梦的诱使下，哈利偏执的赶往魔法部营救小天狼星，却不想陷入伏地魔的圈套，引发凤凰社与食死徒之间的正面冲突。在混战中，小天狼星（加里·奥德曼）不幸遇难。\n究竟哈利与伏地魔（拉尔夫·费因斯）之间有着怎样的联系？在悲恸中，邓不利多为哈利揭开谜底，哈利还有更长、更艰难的路要走……",
         "id": "https://neodb.social/movie/29pQbA6Ht8DiEnpsgFVgWi",
         "type": "Movie",
@@ -9100,7 +9148,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1527c82052-2bfc-4d1b-984b-66be09e4a19f.jpg",
         "rating": 8.9,
-        "rating_count": 272,
+        "rating_count": 273,
         "brief": "一份跨越种族的深厚感情，一次直触心底的神奇旅程。\n从小生活在孤儿院的小老鼠赛娜几经波折，终于从地下鼠国逃出。可是当她跌跌撞撞地来到熊的王国时，却一路受尽鄙夷和白眼。疲惫的小赛娜沉沉地睡在垃圾桶里，一觉惊醒后发现一只体型硕大的大熊正要把她当作晚餐。然而经过此次的风波后，两人很快成为了朋友。原来这只名叫艾特的熊先生是名街头音乐家兼马戏团演员，多才多艺的艾特还从事过很多职业。热情的艾特带着赛娜到家里住，他们彼此扶持理解，相互鼓励帮助。一份看似不可能发生的友谊，正在挑战着现有的秩序和规则，也正慢慢变得越来越深厚坚实。\n《艾特熊和赛娜鼠》以温馨的水彩手绘画风和治愈系的内容剧情，荣获2013年第38届凯撒奖最佳动画片，入围2013年第3届北京国际电影节国外展映单元及2012年多伦多电影节“儿童片”展映单元。《艾特熊和赛娜鼠》系列绘本由比利时女作家嘉贝丽·文生创作，多种版本在世界各地畅销200多万册，深受孩子们甚至是成年人的喜爱。",
         "id": "https://neodb.social/movie/3DA2Nu9EWinHSPK9AfALp1",
         "type": "Movie",
@@ -9614,7 +9662,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14d28366c5-e2a3-43eb-b6f5-51d60fca3330.jpg",
         "rating": 7.1,
-        "rating_count": 1598,
+        "rating_count": 1599,
         "brief": "银行出纳员盖（瑞安·雷诺兹 饰）发现自己其实是开放世界电子游戏中的背景角色，于是决定成为英雄，并改写自己的故事。现在，在一个没有限制的世界里，他决心以自己的方式拯救他的世界，以免为时过晚。",
         "id": "https://neodb.social/movie/37ZiOGG6I7IzCmbPksWJ5p",
         "type": "Movie",
@@ -9731,7 +9779,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1540ca6a04-7e73-4d51-bf03-5e75bb63a8de.jpg",
         "rating": 8.0,
-        "rating_count": 939,
+        "rating_count": 940,
         "brief": "在熙攘的人类世界里，很多妖精隐匿其中，他们与人类相安无事地生活着。猫妖罗小黑因为家园被破坏，开始了它的流浪之旅。这场旅途中惺惺相惜的妖精同类与和谐包容的人类伙伴相继出现，让小黑陷入了两难抉择，究竟何处才是真正的归属？",
         "id": "https://neodb.social/movie/0DamGvp69SwyGrylQbjZFR",
         "type": "Movie",
@@ -9843,7 +9891,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/159008bab2-fd56-48b7-b553-f0a4d76eef0a.jpg",
         "rating": 8.1,
-        "rating_count": 1465,
+        "rating_count": 1466,
         "brief": "这是一个不同寻常的学期，魔法学校的盛事：三强争霸赛在霍格沃茨举行。学生们争先报名，希翼获得永恒无上的荣誉。火焰杯在选出三所学校的三名勇士后，竟将未足年龄的哈利也挑选出来。\n哈利（Daniel Radcliffe饰）的当选引起其他学生的嫉妒连连，就连铁哥们罗恩（Rupert Grint饰）也首次和他闹起了别扭，哈利感到孤立无援，还好有教父小天狼星和赫敏一直支持他。可总有些好事者如记者丽塔等着看他的好戏。天知道这场比赛是何等艰辛危险，在龙的眼皮下偷蛋，潜入湖底救人，在迷宫中探险……一不小心，甚至可能付出生命的代价。\n黑魔王伏地魔的威胁渐渐显现，每一天都险象环生，动人心弦。",
         "id": "https://neodb.social/movie/5ZD3Nli9yTkWQw9uTdUrv2",
         "type": "Movie",
@@ -9903,7 +9951,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1342d14337-0e7e-42e2-b3f5-d92f0903d33f.jpg",
         "rating": 8.5,
-        "rating_count": 1587,
+        "rating_count": 1588,
         "brief": "哈利（丹尼尔·雷德克里夫）即将在霍格沃兹渡过第三个年头，此时在阿兹塔班却传出恶棍小天狼星（加里·奥德曼）越狱的消息。据说小天狼星正是背叛哈利父母的好友，他的教父，而这次小天狼星越狱似乎正是为了找他。哈利的心里悄悄的滋生了为父母报仇的想法，期待着小天狼星的出现。\n新来的魔法老师卢平（大卫·休里斯）有着桀骜不驯的个性，与哈利关系很好，教了哈利许多实用的黑魔法防御知识。而此时在他的魔法地图上却出现了一个神秘人物，虫尾巴。偶然的机会下，在尖叫棚屋里集齐了哈利父亲当年的所有好友，卢平、虫尾巴、小天狼星，哈利的魔杖直指向小天狼星，但他发现那罪犯看他的眼神里充满了疼爱……",
         "id": "https://neodb.social/movie/56Z9VAwpYIGpj65EHGkoBA",
         "type": "Movie",
@@ -10010,7 +10058,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15f3e99e45-6b26-4747-a8f2-09f292b8f332.jpg",
         "rating": 8.3,
-        "rating_count": 1587,
+        "rating_count": 1588,
         "brief": "哈利波特（丹尼尔•雷德克里夫 Daniel Radcliffe 饰）结束了假期，即将回到霍格沃兹继续学习魔法。一个叫多比的家养小精灵警告哈利不要回到霍格沃兹，否则会陷入极大的危险。哈利没有听从多比的劝告，回到了霍格沃兹。很快，霍格沃兹发生了一连窜怪事:接二连三出现学生被石化，一直找不出原因。而哈利总能听到一种奇怪的声音，从墙壁里传出来。\n传说，霍格沃兹有一个密室，里面记录着伏地魔年轻时的秘密，只有斯莱特林的人才能打开密室。哈利偶然发现自己能听懂蛇说话，一时传闻是哈利打开了密室。难道多比所指的危险就隐藏在密室？",
         "id": "https://neodb.social/movie/289rnzs8hJXucvSJ9wePcU",
         "type": "Movie",
@@ -10390,7 +10438,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/152bbd9498-8051-4931-afbf-4eddc7f9150c.jpg",
         "rating": 8.8,
-        "rating_count": 1995,
+        "rating_count": 1996,
         "brief": "哈利波特是一个孤儿，从小寄养在姨妈家，受尽欺凌。但就在哈利11岁生日的时候，他意外收到了霍格沃茨学院的入学通知书。哈利从该学院派来接他的巨人海格口中得知，这是一间魔法学院，并得知了自己的身世，原来哈利的父母都是伟大的魔法师，在对付伏地魔的战斗中双双献身，唯有哈利幸免于难。\n哈利进入霍格沃茨后，表现出了超乎想象的飞行天赋，得到麦格教授的推荐进入了格兰芬多的魁地奇球队。另一方面，哈利发现霍格沃茨学院内有一股黑暗势力似乎在暗暗滋长，揭开谜团的关键就在有凶恶的三头犬守护的房间内。\n哈利、罗恩和赫敏三个好朋友决定探个究竟。",
         "id": "https://neodb.social/movie/7XDaPG0mH3MdEgmoFs4SRh",
         "type": "Movie",
@@ -10541,7 +10589,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16bbdb118c-e312-47b1-b758-fac8583dd257.jpg",
         "rating": 7.8,
-        "rating_count": 384,
+        "rating_count": 385,
         "brief": "　　兰戈是一只被饲养在玻璃箱里的变色龙，它时常幻想自己是一个伟大的英雄。突然，它从当代的美国社会穿越到了一个老旧的西部边陲小镇德特（Dirt，有肮脏的含义）。由于一来就阴错阳差地结束了一只鹰的寿命，兰戈莫名其妙地成为了小镇的英雄。小镇人民很欢迎它，它也乐得其所地成为了这些可怜巴巴的小镇居民－－都是些沙漠动物－－的救世主。因为兰戈时常幻想自己是一个英雄，所以它很愉快地接受了小镇镇长的任命，他成了德特镇的警长。从此，兰戈开始了每天在镇子上巡逻的生活。兰戈喜欢这种成为“英雄”和“好人”的生活。只是，它不知道的是，在德特镇，“好人”就意味着死掉。在镇子的尽头，有一片专门为“好人”而设置的坟场。不过，这些并没有成为阻止兰戈前进的障碍，它反倒是越挫越勇地带领小镇人民争取自己的利益。最后，出现了终极的大坏蛋－－一条眼镜蛇，兰戈也发现自己面临着有史以来最为严峻的挑战。它能全身而退么？它是否能成为那个自己假想出的英雄？",
         "id": "https://neodb.social/movie/1dBqSioRAP9ug2rMKwGElO",
         "type": "Movie",
@@ -11030,7 +11078,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16e988f47f-a6ae-4875-b1f2-dde3529b88ff.jpg",
         "rating": 7.9,
-        "rating_count": 193,
+        "rating_count": 194,
         "brief": "华山派大弟子令狐冲偶然遇上曲洋和刘正风，得到《笑傲江湖》曲谱；也偶然间学会五岳各派剑法精髓，被师父岳不群猜疑逐出师门。被自小喜欢的岳灵珊疏远后，在游历江湖时和魔教圣姑任盈盈相识相爱。最后岳不群野心暴露后，令狐冲出手阻止了大战，并与任盈盈退出江湖，共奏《笑傲江湖》。",
         "id": "https://neodb.social/tv/season/4a1gW0rsGf9frOCKgzLYcD",
         "type": "TVSeason",
@@ -11812,7 +11860,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15c4f70789-2434-4625-b9ea-fe2a2ff6e621.jpg",
         "rating": 8.4,
-        "rating_count": 1093,
+        "rating_count": 1094,
         "brief": "一个普通男人的秘密在他的辞职事件中开始显示出端倪。历史教授约翰奥德曼（David Lee Smith饰）说自己身上有一个让大家都匪夷所思的秘密，而为了保守这个秘密他不能在一个地方超过十年。他的朋友们试图去发掘他的故事中的秘密，这一举动让约翰非常生气，而他的朋友却发现约翰的故事是无法被否定也无法查证的，究竟约翰身上有着怎样的秘密？一幕幕碎片联系起来，带给我们一个意料之外的故事高潮。",
         "id": "https://neodb.social/movie/4waVCJY5xE0WlVJAM7kLHG",
         "type": "Movie",
@@ -11880,7 +11928,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14e5043627-8e2d-43c0-a6cc-a8e05d8115d3.jpg",
         "rating": 9.4,
-        "rating_count": 2470,
+        "rating_count": 2471,
         "brief": "一场谋杀案使银行家安迪（蒂姆•罗宾斯 Tim Robbins 饰）蒙冤入狱，谋杀妻子及其情人的指控将囚禁他终生。在肖申克监狱的首次现身就让监狱“大哥”瑞德（摩根•弗里曼 Morgan Freeman 饰）对他另眼相看。瑞德帮助他搞到一把石锤和一幅女明星海报，两人渐成患难 之交。很快，安迪在监狱里大显其才，担当监狱图书管理员，并利用自己的金融知识帮助监狱官避税，引起了典狱长的注意，被招致麾下帮助典狱长洗黑钱。偶然一次，他得知一名新入狱的小偷能够作证帮他洗脱谋杀罪。燃起一丝希望的安迪找到了典狱长，希望他能帮自己翻案。阴险伪善的狱长假装答应安迪，背后却派人杀死小偷，让他唯一能合法出狱的希望泯灭。沮丧的安迪并没有绝望，在一个电闪雷鸣的风雨夜，一场暗藏几十年的越狱计划让他自我救赎，重获自由！老朋友瑞德在他的鼓舞和帮助下，也勇敢地奔向自由。\n本片获得1995年奥斯卡10项提名，以及金球奖、土星奖等多项提名。",
         "id": "https://neodb.social/movie/6SAqdyMEu3kGepBN0mHZAr",
         "type": "Movie",
@@ -12206,7 +12254,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157eee4ad4-84de-4e92-8fc4-aa4ff42da48f.jpg",
         "rating": 8.0,
-        "rating_count": 1440,
+        "rating_count": 1441,
         "brief": "如果，樱花掉落的速度是每秒5厘米，那么两颗心需要多久才能靠近？\n少年时，贵树（水橋研二配）和明理（近藤好美配）是形影不离的好朋友，可很快，一道巨大的鸿沟便横亘在两人中间：明理转学，贵树也随着父母工作的调动搬到遥远的鹿儿岛。在搬家前，贵树乘坐新干线千里迢迢和明理相会，在漫长的等待后，茫茫大雪中，两人在枯萎的樱花树下深情相拥，并献出彼此的first kiss，约定着下一次再一起来看樱花。\n时光荏苒，两人竟再没见过，虽然在人海中一直搜寻彼此的身影，但似乎总是徒然。再后来，他们分别有了各自的生活，只是还偶尔会梦到13岁时的这段青涩而美好的感情，才明白当年怎么也说不出口的那个字就是爱。",
         "id": "https://neodb.social/movie/00QcJRBFuFvrsfE5gUzpOB",
         "type": "Movie",
@@ -13518,7 +13566,7 @@
       "tags": []
     }
   ],
-  "count": 229,
+  "count": 230,
   "categories": [
     "movie",
     "tv",
@@ -13528,36 +13576,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2024-11-11T00:52:54.049430",
+  "updated_at": "2024-11-12T00:50:53.854780",
   "stats": {
     "movie": {
       "count": 106,
-      "time": 10.03
+      "time": 8.37
     },
     "tv": {
       "count": 91,
-      "time": 7.38
+      "time": 6.2
     },
     "book": {
-      "count": 25,
-      "time": 2.07
+      "count": 26,
+      "time": 1.69
     },
     "music": {
       "count": 4,
-      "time": 0.3
+      "time": 0.2
     },
     "podcast": {
       "count": 0,
-      "time": 0.2
+      "time": 0.1
     },
     "game": {
       "count": 1,
-      "time": 0.27
+      "time": 0.15
     },
     "performance": {
       "count": 2,
-      "time": 0.3
+      "time": 0.14
     }
   },
-  "total_time": 20.54
+  "total_time": 16.84
 }
