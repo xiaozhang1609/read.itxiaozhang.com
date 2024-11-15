@@ -874,7 +874,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/12/09/e349737a-1ad1-4118-ab72-3f8fd067cf4d.webp",
         "rating": 8.7,
-        "rating_count": 219,
+        "rating_count": 220,
         "brief": "本剧是对2016年动画短片《拾荒者》概念的拓展。\r\n在一艘星际货运飞船受损后，船员发现他们被困在了一个美丽但让人难以应付的陌生星球上。在这里，他们必须存活得足够久，才有机会逃离或获救。当幸存者们努力寻找被击落的船只和失踪的船员时，他们的新家展现出一个充满敌意的世界，这个世界可以在没有人类干扰的情况下蓬勃发展。",
         "id": "https://neodb.social/tv/season/57PyYqzRowAjrcajGknvnl",
         "type": "TVSeason",
@@ -1243,7 +1243,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
         "rating": 9.0,
-        "rating_count": 491,
+        "rating_count": 492,
         "brief": "《英雄联盟：双城之战》是英雄联盟官方动画剧集，讲述的是在充满蒸汽朋克气息的乌托邦-皮尔特沃夫和由化学品驱动的地下城-祖安中，蔚和金克丝两姐妹，她们在一场激烈的冲突后发现两个人站在了彼此的对立面。她们从此分开，走上不同的道路，朝着不同的命运终点走去，但心中的羁绊又无时不刻地让姐妹二人想要破镜重圆。",
         "id": "https://neodb.social/tv/season/49K22BtoKSg3oNXMNdViIW",
         "type": "TVSeason",
@@ -1371,6 +1371,55 @@
       "shelf_type": "complete",
       "visibility": 0,
       "item": {
+        "title": "少爷和我",
+        "description": "少爷和我，把事办妥。平行宇宙，多重身份，每次相遇都是一场喜乐会啊！故事到底有多欢乐？",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "少爷和我"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "一年一度喜乐会之《少爷和我》"
+          },
+          {
+            "lang": "fr",
+            "text": "Our Parallel Universes"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "少爷和我，把事办妥。平行宇宙，多重身份，每次相遇都是一场喜乐会啊！故事到底有多欢乐？"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/02/04/5ccc54c5-9b15-4050-9bb9-bce7c9076eee.webp",
+        "rating": 6.3,
+        "rating_count": 20,
+        "brief": "少爷和我，把事办妥。平行宇宙，多重身份，每次相遇都是一场喜乐会啊！故事到底有多欢乐？",
+        "id": "https://neodb.social/tv/season/2LzszWBuv38qE44BoV25yP",
+        "type": "TVSeason",
+        "uuid": "2LzszWBuv38qE44BoV25yP",
+        "url": "/tv/season/2LzszWBuv38qE44BoV25yP",
+        "api_url": "/api/tv/season/2LzszWBuv38qE44BoV25yP",
+        "category": "tv",
+        "parent_uuid": null,
+        "display_title": "少爷和我",
+        "external_resources": [
+          {
+            "url": "https://movie.douban.com/subject/36571025/"
+          }
+        ]
+      },
+      "created_time": "2024-05-15T13:54:00Z",
+      "comment_text": null,
+      "rating_grade": 8,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
+      "item": {
         "title": "超异能族",
         "description": "该剧改编自姜草的同名漫画，讲述隐藏超能力生活于现在的孩子们，与隐藏过去痛苦的秘密的父母们共同面对跨越世代的巨大危险的超能力动作英雄故事。",
         "localized_title": [
@@ -1407,7 +1456,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/13/d643b437-3391-4e50-8c8e-22f26228aa04.jpg",
         "rating": 8.1,
-        "rating_count": 199,
+        "rating_count": 200,
         "brief": "该剧改编自姜草的同名漫画，讲述隐藏超能力生活于现在的孩子们，与隐藏过去痛苦的秘密的父母们共同面对跨越世代的巨大危险的超能力动作英雄故事。",
         "id": "https://neodb.social/tv/season/69AIBuiEdIWuSflP71zCi5",
         "type": "TVSeason",
@@ -1872,7 +1921,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/03/14/e0cc80de-58b3-4a0c-ba0b-cb1ed25f326a.webp",
         "rating": 8.9,
-        "rating_count": 428,
+        "rating_count": 429,
         "brief": "2013年，突变的虫草菌肆虐美国，真菌将人类宿主变成了攻击性超强的吃人怪物。20年后，人类文明已面目全非，幸存者只能生活在治安隔离区。一天，乔尔（佩德罗·帕斯卡 饰）和泰丝（安娜·托芙 饰）接了一个赏金任务，要护送一个14岁的女孩艾莉（贝拉·拉姆齐 饰）去反抗组织火萤的研究基地。可他们不知道的是，女孩身上隐藏着一个关系到人类文明延续的秘密……",
         "id": "https://neodb.social/tv/season/1LaJ8HkYNgWaCDJk6OnZbA",
         "type": "TVSeason",
@@ -4957,7 +5006,7 @@
       "tags": []
     }
   ],
-  "count": 91,
+  "count": 92,
   "category": "tv",
-  "updated_at": "2024-11-14T00:51:58.595367"
+  "updated_at": "2024-11-15T00:55:04.448618"
 }

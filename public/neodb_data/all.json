@@ -4,6 +4,170 @@
       "shelf_type": "complete",
       "visibility": 0,
       "item": {
+        "title": "灰猎犬号",
+        "description": "影片讲述二战初期，由37支盟军船只组成的护航舰队在欧内斯特·克劳斯（汤姆·汉克斯饰）舰长率领的一艘美国驱逐舰指挥下，穿越险恶的北大西洋，同时还要与德国U型潜艇狼群的周旋。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "灰猎犬号"
+          },
+          {
+            "lang": "en",
+            "text": "Greyhound"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "怒海战舰(台)"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "雷霆战舰：猎犬号(港)"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "灰狗"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "影片讲述二战初期，由37支盟军船只组成的护航舰队在欧内斯特·克劳斯（汤姆·汉克斯饰）舰长率领的一艘美国驱逐舰指挥下，穿越险恶的北大西洋，同时还要与德国U型潜艇狼群的周旋。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/movie/2021/09/162e094de9-a053-42fe-93d8-a2916a0bc1d5.jpg",
+        "rating": 7.6,
+        "rating_count": 302,
+        "brief": "影片讲述二战初期，由37支盟军船只组成的护航舰队在欧内斯特·克劳斯（汤姆·汉克斯饰）舰长率领的一艘美国驱逐舰指挥下，穿越险恶的北大西洋，同时还要与德国U型潜艇狼群的周旋。",
+        "id": "https://neodb.social/movie/5IcZOlhMPmChgLlfXIaEQw",
+        "type": "Movie",
+        "uuid": "5IcZOlhMPmChgLlfXIaEQw",
+        "url": "/movie/5IcZOlhMPmChgLlfXIaEQw",
+        "api_url": "/api/movie/5IcZOlhMPmChgLlfXIaEQw",
+        "category": "movie",
+        "parent_uuid": null,
+        "display_title": "灰猎犬号",
+        "external_resources": [
+          {
+            "url": "https://movie.douban.com/subject/26871906/"
+          },
+          {
+            "url": "https://www.themoviedb.org/movie/516486"
+          }
+        ]
+      },
+      "created_time": "2024-11-14T11:33:40.432Z",
+      "comment_text": "全程紧张刺激，代入感很强。拍摄很写实，演技扎实。做一个出色的船长真不容易，不眠不休，反应迅速，随时要下达命令，随时做出重大决定。我有个疑问，这么大的运输船队，装的物资非常多，运输船队的武器也很厉害，为什么没有配备更多的空中支援呢？\r\n人类互相侵略是否写在基因中的呢，这种邪恶难道真的是无法祛除的吗？",
+      "rating_grade": 9,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
+      "item": {
+        "title": "幸福的国家",
+        "description": "《幸福的国家》（韩语：행복의 나라，英语：The Land of Happiness）是一部即将上映的韩国剧情片，由《光海，成为王的男人》导演秋昌民执导，曹政奭、李善均、刘宰明主演。该片讲述一位律师为拯救卷入动摇现代史事件中的一个人物而全力以赴的故事，计划2023年在韩国上映。",
+        "localized_title": [
+          {
+            "lang": "en",
+            "text": "Land of Happiness"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "幸福的国家"
+          },
+          {
+            "lang": "ko",
+            "text": "행복의 나라"
+          },
+          {
+            "lang": "ja",
+            "text": "행복의 나라"
+          },
+          {
+            "lang": "pt",
+            "text": "행복의 나라"
+          },
+          {
+            "lang": "de",
+            "text": "행복의 나라"
+          },
+          {
+            "lang": "fr",
+            "text": "The Land of Happiness"
+          },
+          {
+            "lang": "es",
+            "text": "행복의 나라"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "幸福國度︰終極審判"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "幸福的國家"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "《幸福的国家》（韩语：행복의 나라，英语：The Land of Happiness）是一部即将上映的韩国剧情片，由《光海，成为王的男人》导演秋昌民执导，曹政奭、李善均、刘宰明主演。该片讲述一位律师为拯救卷入动摇现代史事件中的一个人物而全力以赴的故事，计划2023年在韩国上映。"
+          },
+          {
+            "lang": "ko",
+            "text": "1979년 10월 26일, 대통령 암살 사건에 연루된 정보부장 수행비서관 박태주의 변호를 맡으며 대한민국 최악의 정치재판에 뛰어든 법정 개싸움 일인자 정인후. 정인후는 군인 신분 때문에 단 한번의 선고로 형이 확정되는 박태주가 정당한 재판을 받을 수 있도록 고군분투 하지만, 불공정하게 진행되는 재판 과정에 분노를 터뜨린다. 사건 발발 30분 전, 정보부장으로부터 무슨 일이 생기면 경호원들을 제압하라는 명령을 받은 박태주. 그의 행동이 내란의 사전 공모인지, 위압에 의한 명령 복종인지가 법정의 쟁점으로 떠오른다. 정인후는 박태주가 빠져나갈 수 있는 증언을 제안하지만, 박태주는 신의를 저버릴 수 없다는 자세로 일관한다. 한편, 10.26을 계기로 위험한 야욕을 품은 합수부장 전상두. 그는 자신만만한 정인후를 조롱하듯 재판을 감청하며, 재판부에 실시간으로 쪽지를 건네 사실상 재판을 좌지우지하는데…"
+          },
+          {
+            "lang": "fr",
+            "text": "Le 26 octobre 1979, un assassinat présidentiel secoue la nation. Prenant la défense de Park Tae-joo, le secrétaire impliqué dans l'assassinat du président, l'avocat Jung In-hoo s'engage dans ce qui sera le procès politique le plus célèbre de Corée du Sud. Bien que Park Tae-joo soit condamné à une peine prédéterminée en raison de son statut militaire, Jung In-hoo se bat sans relâche pour assurer un procès équitable, enragé par les procédures injustes du procès."
+          },
+          {
+            "lang": "en",
+            "text": "October 26, 1979, a presidential assassination shakes the nation. Taking on the defense of Park Tae-joo, the secretary involved in the presidential assassination, lawyer Jung In-hoo enters what would be South Korea's most notorious political trial. Despite Park Tae-joo facing a predetermined sentence due to his military status, Jung In-hoo fights tirelessly to ensure a fair trial, enraged by the trial's unfair proceedings."
+          },
+          {
+            "lang": "zh-hk",
+            "text": "導演秋昌民憑《雙面君王》橫掃多個大獎，今次改編 1979 年朴正熙總統遇刺案和全斗煥發動的軍事政變，故事圍繞因遵守上級命令而捲入暗殺案的軍人朴泰柱展開，律師鄭仁厚為拯救正直的朴泰柱，不惜孤軍奮戰介入黑暗的政治審判。這場審判不僅關乎朴的生死，也是當代韓國歷史上一個重要的轉捩點。電影探索韓國動盪過去中被遺忘的悲壯故事，由演技派曹政奭和已故影帝李善均挑大樑主演，本片更是李的遺作，劇力萬鈞。在動亂的土地上，我們能如何從過去的錯誤汲取教訓，追尋一個幸福的國度？"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "影片講述在1979年10月26日韓國總統樸正熙遇刺身亡事件的審判中，律師鄭仁厚（曹政奭飾演）為了挽救僅一次宣判就決定生死的樸泰柱（李善均 飾演）而孤軍奮戰的故事。在總統暗殺事件發生30分鍾前，樸泰柱接到了情報部部長下達的命令，要求一旦發生任何事情就要制服警衛員。由此他的行為是否為“內亂的事前共謀,還是威逼服從命令\"成為法庭的爭論焦點……"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "视频讲述在1979年10月26日韩国总统朴正熙遇刺身亡事件的审判中，律师郑仁厚（曹政奭饰演）为了挽救仅一次宣判就决定生死的朴泰柱（李善均 饰演）而孤军奋战的故事。在总统暗杀事件发生30分钟前，朴泰柱接到了情报部部长下达的命令，要求一旦发生任何事情就要制服警卫员。由此他的行为是否为“内乱的事前共谋,还是威逼服从命令\"成为法庭的争论焦点……"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/movie/2024/09/29/b217c2bf-2048-4dab-abd2-1c85ce1ec30d.webp",
+        "rating": 6.6,
+        "rating_count": 7,
+        "brief": "《幸福的国家》（韩语：행복의 나라，英语：The Land of Happiness）是一部即将上映的韩国剧情片，由《光海，成为王的男人》导演秋昌民执导，曹政奭、李善均、刘宰明主演。该片讲述一位律师为拯救卷入动摇现代史事件中的一个人物而全力以赴的故事，计划2023年在韩国上映。",
+        "id": "https://neodb.social/movie/39cOkUdVxnOxkKAXwbPgJK",
+        "type": "Movie",
+        "uuid": "39cOkUdVxnOxkKAXwbPgJK",
+        "url": "/movie/39cOkUdVxnOxkKAXwbPgJK",
+        "api_url": "/api/movie/39cOkUdVxnOxkKAXwbPgJK",
+        "category": "movie",
+        "parent_uuid": null,
+        "display_title": "幸福的国家",
+        "external_resources": [
+          {
+            "url": "https://www.themoviedb.org/movie/783111"
+          },
+          {
+            "url": "https://movie.douban.com/subject/35503392/"
+          }
+        ]
+      },
+      "created_time": "2024-11-13T13:54:00Z",
+      "comment_text": null,
+      "rating_grade": 7,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
+      "item": {
         "title": "村上广播",
         "description": "Translation Publishing Pub 2021-04-01 216 Shanghai Translation Publishing House Murakami Broadcasting has been serialized in the magazine ANAN since March 2000. spanning a year. including 50 essays.?Pizza. records. Rhode Island. Virginia ...",
         "localized_title": [
@@ -816,7 +980,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/137d43a199-d8ef-492d-afce-13268e85133a.jpg",
         "rating": 7.8,
-        "rating_count": 817,
+        "rating_count": 818,
         "brief": "为了能让身患老年痴呆症的父亲重回正常的生活，威尔·罗曼（詹姆斯·弗兰科 James Franco 饰）一直致力于名为“Cure”的基因药物的开发，并在大猩猩身上不断进行着药物试验。在公司已经失去信心的同时，威尔继续在家完成试验，并在一只名为凯撒的大猩猩身上获得成功。借助灵长类学家卡洛琳（芙蕾达·平托 Freida Pinto 饰）的帮助，威尔发现凯撒的智力极大地提高。不过，人类的社会始终无法接受拥有极高智力的凯撒，凯撒被送往了猩猩看护所。看护所的残酷对待，使得凯撒利用智慧进行抗争，最终救走了同时被囚禁的其他猩猩，而且对它们都使用了Cure。一群高智商的猩猩与人类对立的战争就此拉开。本片获得了第84届奥斯卡最佳视觉效果的提名。",
         "id": "https://neodb.social/movie/3BWwCbiF2oiaLUID2vDFjO",
         "type": "Movie",
@@ -876,7 +1040,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ef885c05-3eb7-48f9-8a51-ffc98674447b.jpg",
         "rating": 8.1,
-        "rating_count": 688,
+        "rating_count": 689,
         "brief": "在南京开小书店的王平（吴伟 饰）背着妻子林雪（江佳奇 饰）与男同性恋者姜城（秦昊饰）有染。对丈夫行为生疑的林雪委托罗海涛（陈思成 饰）跟踪王平，发现了姜城的行踪。气愤的林雪到姜城任职的旅游公司大闹，迫使其与王平分手。罗海涛有一个在制衣厂做工的女友李静（谭卓 饰），但他却在跟踪的过程中对姜城产生了好感。罗海涛与分手后情绪低落的姜城交往，二人关系日渐亲密，但与此同时他又难舍李静。在三人共同出游的过程中，李静发现了罗海涛与姜城的暧昧关系，伤心落泪。一座城，许多人，都在感情的路上崎岖前行。\n本片被提名2009年第62届戛纳电影节金棕榈奖，并获最佳编剧奖。",
         "id": "https://neodb.social/movie/0wuHeSHIeXLtezLCsssmnf",
         "type": "Movie",
@@ -1131,7 +1295,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/05/05/ff4458fb-b949-416c-833f-def4a33e1a74.webp",
         "rating": 8.0,
-        "rating_count": 328,
+        "rating_count": 329,
         "brief": "1979年10月26日，时任韩国总统的朴正熙被自己的亲信射杀，局势顿时波谲云诡。为调查此事，陆军保安司令官全斗光（黄政民 饰）被任命为联合调查总部部长，而这个天生反骨的男人趁机扩大自己的势力，拉帮结伙，培植亲信，狼子野心昭然若揭。为了牵制全斗光，参谋总长任命将军李泰信（郑雨盛 饰）担任首都警备司令官，以防肘腋之变。与此同时，全斗光感受到来自总长的威胁，于是纠集亲信密谋逮捕总长，试图先下手为强。谁曾想全的人马急于求成，在未能逼迫代总统签署逮捕令之前便展开行动。成王败寇，一旦失败就会成为韩国的叛国者。一不做二不休的全斗光索性揭竿而起。\n而孤军奋战的李泰信，将秉承最朴素的信念与叛军展开对抗……",
         "id": "https://neodb.social/movie/6rjVMh6bdr8u0LJBAKf8Td",
         "type": "Movie",
@@ -1238,7 +1402,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15a5cb7008-acae-4a3b-8d5d-581355037dcf.jpg",
         "rating": 7.4,
-        "rating_count": 1345,
+        "rating_count": 1346,
         "brief": "2001年的某一天，刚刚考上大学的贾晓玲（贾玲 饰）经历了人生中的一次大起大落。一心想要成为母亲骄傲的她却因母亲突遭严重意外，而悲痛万分。在贾晓玲情绪崩溃的状态下，竟意外的回到了1981年，并与年轻的母亲李焕英（张小斐 饰）相遇，二人形影不离，宛如闺蜜。与此同时，也结识了一群天真善良的好朋友。晓玲以为来到了这片“广阔天地”，她可以凭借自己超前的思维，让母亲“大有作为”，但结果却让晓玲感到意外......",
         "id": "https://neodb.social/movie/4uYHvMrXEFGcX8koF4raMS",
         "type": "Movie",
@@ -1787,7 +1951,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15a2f45055-f7fd-4e4c-ba2b-c9438595671d.jpg",
         "rating": 8.0,
-        "rating_count": 744,
+        "rating_count": 745,
         "brief": "少年时代的一场意外让男孩小马（黄轩 饰）的双眼失去了光明，自杀未遂后，阴沉的小马辗转来到了由沙复明（秦昊 饰）所经营的盲人按摩中心就职。在这里，聚集了许多和小马一样的盲人，无论是先天还是后天，生活在共同的黑暗里让这群盲人之间产生了深厚而坚实的友谊。\n王大夫（郭晓冬 饰） 和女友小孔（张磊 饰）远道而来投奔沙复明，小孔充满了女人味的声音和气息令小马的内心产生了涟漪，执着而决绝的小马追寻着内心的声音，不断的向小孔靠近着。之后，一个名叫小蛮（黄璐 饰）的发廊小姐出现在了小马的生命里，随着时间的推移，小马竟然开始对小蛮产生了感情。",
         "id": "https://neodb.social/movie/4WzBsUhzv4IXog2TYyJAP4",
         "type": "Movie",
@@ -2591,7 +2755,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/141ac4ecd0-60a1-4b48-9c43-a1fb3a42f224.jpg",
         "rating": 8.3,
-        "rating_count": 1496,
+        "rating_count": 1498,
         "brief": "《她》是讲述在不远的未来人与人工智能相爱的科幻爱情电影。主人公西奥多（杰昆·菲尼克斯 Joaquin Phoenix 饰）是一位信件撰写人，心思细腻而深邃，能写出最感人肺腑的信件。他刚结束与妻子凯瑟琳（鲁妮·玛拉 Rooney Mara 饰）的婚姻，还没走出心碎的阴影。一次偶然机会让他接触到最新的人工智能系统OS1，它的化身萨曼莎（斯嘉丽·约翰逊 Scarlett Johansson 声）拥有迷人的声线，温柔体贴而又幽默风趣。西奥多与萨曼莎很快发现他们如此的投缘，而且存在双向的需求与欲望，人机友谊最终发展成为一段不被世俗理解的奇异爱情......\n《她》主要在中国上海取景，由美国导演斯派克·琼斯历时3年筹备拍摄。电影融合了新奇的科幻设定与传统的浪漫气息，真人与虚拟共同谱写温暖治愈的恋曲。导演表示，这是一部探讨“亲密关系”的电影，因人类都渴望亲密关系，但是又对它害怕和抗拒；科技为沟通提供了便利，但也让人们躲在它后面，逃避真正的情感接触。《她》直接脱去科技冰冷的面纱，赋予它高度人性化和活色生香的情趣，让一段人机对话变成情人絮语。",
         "id": "https://neodb.social/movie/0LlndMsSi8vopNBGKyH3Yv",
         "type": "Movie",
@@ -3694,7 +3858,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/151cae5e9d-01ae-4f83-a66e-da7e4a2e4923.jpg",
         "rating": 8.2,
-        "rating_count": 261,
+        "rating_count": 262,
         "brief": "丹尼（塞缪尔·杰克逊 Samuel L. Jackson 饰）是一名出色的谈判专家，屡立战功。当他的人生顺风顺水时，刹那间的转折让他措手不及。他的搭档发现警局内有人私吞公款，却在打算告诉丹尼实情时惨遭杀害，第一时间赶到现场的丹尼自然最大嫌疑人。当他确信是警局内有人要找他做替死鬼，百口莫辩之际，他铤而走险绑架了内务监察部检察官和其助手等人，想通过与警方的对话为自己洗刷罪名。\n丹尼要求另一分局派出谈判专家来和自己对话，因为他清楚要谋害自己的人就在自己的局里。于是邻局的谈判专家史宾恩（凯文·史派西 Kevin Spacey 饰）奉命前来和丹尼谈判，史宾恩相信了丹尼，开始为他搜集证据。",
         "id": "https://neodb.social/movie/5tL3SR91MSTnpDhtZR5fps",
         "type": "Movie",
@@ -4413,7 +4577,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/12/09/e349737a-1ad1-4118-ab72-3f8fd067cf4d.webp",
         "rating": 8.7,
-        "rating_count": 219,
+        "rating_count": 220,
         "brief": "本剧是对2016年动画短片《拾荒者》概念的拓展。\r\n在一艘星际货运飞船受损后，船员发现他们被困在了一个美丽但让人难以应付的陌生星球上。在这里，他们必须存活得足够久，才有机会逃离或获救。当幸存者们努力寻找被击落的船只和失踪的船员时，他们的新家展现出一个充满敌意的世界，这个世界可以在没有人类干扰的情况下蓬勃发展。",
         "id": "https://neodb.social/tv/season/57PyYqzRowAjrcajGknvnl",
         "type": "TVSeason",
@@ -5110,7 +5274,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
         "rating": 9.0,
-        "rating_count": 491,
+        "rating_count": 492,
         "brief": "《英雄联盟：双城之战》是英雄联盟官方动画剧集，讲述的是在充满蒸汽朋克气息的乌托邦-皮尔特沃夫和由化学品驱动的地下城-祖安中，蔚和金克丝两姐妹，她们在一场激烈的冲突后发现两个人站在了彼此的对立面。她们从此分开，走上不同的道路，朝着不同的命运终点走去，但心中的羁绊又无时不刻地让姐妹二人想要破镜重圆。",
         "id": "https://neodb.social/tv/season/49K22BtoKSg3oNXMNdViIW",
         "type": "TVSeason",
@@ -5364,6 +5528,55 @@
       "shelf_type": "complete",
       "visibility": 0,
       "item": {
+        "title": "少爷和我",
+        "description": "少爷和我，把事办妥。平行宇宙，多重身份，每次相遇都是一场喜乐会啊！故事到底有多欢乐？",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "少爷和我"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "一年一度喜乐会之《少爷和我》"
+          },
+          {
+            "lang": "fr",
+            "text": "Our Parallel Universes"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "少爷和我，把事办妥。平行宇宙，多重身份，每次相遇都是一场喜乐会啊！故事到底有多欢乐？"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/02/04/5ccc54c5-9b15-4050-9bb9-bce7c9076eee.webp",
+        "rating": 6.3,
+        "rating_count": 20,
+        "brief": "少爷和我，把事办妥。平行宇宙，多重身份，每次相遇都是一场喜乐会啊！故事到底有多欢乐？",
+        "id": "https://neodb.social/tv/season/2LzszWBuv38qE44BoV25yP",
+        "type": "TVSeason",
+        "uuid": "2LzszWBuv38qE44BoV25yP",
+        "url": "/tv/season/2LzszWBuv38qE44BoV25yP",
+        "api_url": "/api/tv/season/2LzszWBuv38qE44BoV25yP",
+        "category": "tv",
+        "parent_uuid": null,
+        "display_title": "少爷和我",
+        "external_resources": [
+          {
+            "url": "https://movie.douban.com/subject/36571025/"
+          }
+        ]
+      },
+      "created_time": "2024-05-15T13:54:00Z",
+      "comment_text": null,
+      "rating_grade": 8,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
+      "item": {
         "title": "世上为什么要有图书馆",
         "description": "我是陕西科技大学的一名文学老师，有时会想：除了教书，我能不能走出校园，为社会做点什么？一次机会，我到西安市碑林区文化和旅游体育局挂职，任副局长。碑林区是西安市的中心城区，却没有一家图书馆，让我错愕。更让我错愕的是，我即将接手的这个“西安市碑林区图书馆建设项目” 要建在地 下！墙皮破损，电线裸露，没个好模样，人手就我和馆长小宁两个人。\n小宁说买书的事情全听我的。书商纷纷发来书目，但我发现得自己动手编一个更适合本区读者的书目出来。我们的馆小，书少，这恰恰困难——稍微买偏了，就会大量被闲置。\n碑林区是市中心商业繁华区，周末常有家长带小孩子来附近逛街，应该加大文学书和少儿书的占比。附近有全国最大的石碑博物馆，展出的不是绘画或者器皿珠宝，而是“字”。这个地方离我们图书馆步行只有几分钟，应该设立一个碑帖专区，大量地买，做成特色。要设立一个单独的外文童书区，在碑林区工作的外国人不少，如果他们的孩子在这里看见母语故事，一定很激动吧。还应该有一个漫画专区，把这个区域做好了，这几个书架也可能会成为漫粉聚集地， 也许周末会被读者挤满吧……\n我求助各方朋友，要选出1万种图书来。不曾想，一个小小的书目触动了各方利益，一场“书目保卫战”就此拉开帷幕……\n+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n【编辑推荐】\n★这是一个真实的事件。陕西科技大学副教授杨素秋到西安碑林区挂职一年，主持西安碑林区图书馆的建设。图书馆的灵魂是书目，在确定图书馆书目的过程中，她遇到了各种潜规则和来自各方的阻力，关关难过关关过，最终，理想与现实得到了最大的平衡。\n★本次事件获得央视新闻周刊、腾讯谷雨工作室、爱奇艺的关注和报道，杨素秋被誉为“公共选书人”",
         "localized_title": [
@@ -5424,7 +5637,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2022/10/2573823f61-b01b-40a3-926a-f2563cbd989a.jpg",
         "rating": 7.8,
-        "rating_count": 186,
+        "rating_count": 187,
         "brief": "大唐天宝十四年，长安城的小吏李善德突然接到一个任务：要在贵妃诞日之前，从岭南运来新鲜荔枝。荔枝“一日色变，两日香变，三日味变”，而岭南距长安五千余里，山水迢迢，这是个不可能完成的任务，可为了家人，李善德决心放手一搏：“就算失败，我也想知道，自己倒在距离终点多远的地方。”",
         "id": "https://neodb.social/book/44L5oz7o3AkDfmKt8CVaEp",
         "type": "Edition",
@@ -5491,7 +5704,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/13/d643b437-3391-4e50-8c8e-22f26228aa04.jpg",
         "rating": 8.1,
-        "rating_count": 199,
+        "rating_count": 200,
         "brief": "该剧改编自姜草的同名漫画，讲述隐藏超能力生活于现在的孩子们，与隐藏过去痛苦的秘密的父母们共同面对跨越世代的巨大危险的超能力动作英雄故事。",
         "id": "https://neodb.social/tv/season/69AIBuiEdIWuSflP71zCi5",
         "type": "TVSeason",
@@ -6230,6 +6443,64 @@
       "shelf_type": "complete",
       "visibility": 0,
       "item": {
+        "title": "宇宙探索编辑部",
+        "description": "脑洞大开高分奇片，地球人外星人千里奔现！\n唐志军（杨皓宇 饰）是一家诞生于上世纪八十年代的科幻杂志——《宇宙探索》编辑部的主编。现如今的杂志社日渐式微，唐志军也终成落魄潦倒，鳏寡孤独之人。但他却依然几十年如一日的痴迷于寻找地外文明。终于有一天，他接收到了一个疑似来自宇宙深处的异常信号，于是他召集同是天涯沦落人的伙伴们，带着那一个困惑他终生的问题，再一次踏上寻找外星人的旅途。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "宇宙探索编辑部"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "宇宙编辑部的故事"
+          },
+          {
+            "lang": "en",
+            "text": "Journey to the West"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "脑洞大开高分奇片，地球人外星人千里奔现！\n唐志军（杨皓宇 饰）是一家诞生于上世纪八十年代的科幻杂志——《宇宙探索》编辑部的主编。现如今的杂志社日渐式微，唐志军也终成落魄潦倒，鳏寡孤独之人。但他却依然几十年如一日的痴迷于寻找地外文明。终于有一天，他接收到了一个疑似来自宇宙深处的异常信号，于是他召集同是天涯沦落人的伙伴们，带着那一个困惑他终生的问题，再一次踏上寻找外星人的旅途。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/03/31/b84c552c-e4e4-4e40-a1f8-e78eca49f07e.jpg",
+        "rating": 7.7,
+        "rating_count": 870,
+        "brief": "脑洞大开高分奇片，地球人外星人千里奔现！\n唐志军（杨皓宇 饰）是一家诞生于上世纪八十年代的科幻杂志——《宇宙探索》编辑部的主编。现如今的杂志社日渐式微，唐志军也终成落魄潦倒，鳏寡孤独之人。但他却依然几十年如一日的痴迷于寻找地外文明。终于有一天，他接收到了一个疑似来自宇宙深处的异常信号，于是他召集同是天涯沦落人的伙伴们，带着那一个困惑他终生的问题，再一次踏上寻找外星人的旅途。",
+        "id": "https://neodb.social/movie/44E3AK7EKtc9fb3lBBqZNr",
+        "type": "Movie",
+        "uuid": "44E3AK7EKtc9fb3lBBqZNr",
+        "url": "/movie/44E3AK7EKtc9fb3lBBqZNr",
+        "api_url": "/api/movie/44E3AK7EKtc9fb3lBBqZNr",
+        "category": "movie",
+        "parent_uuid": null,
+        "display_title": "宇宙探索编辑部",
+        "external_resources": [
+          {
+            "url": "https://www.imdb.com/title/tt15072612/"
+          },
+          {
+            "url": "https://eggplant.place/movie/1AxBFlumNtuT3z31DUyTZU"
+          },
+          {
+            "url": "https://www.themoviedb.org/movie/851977"
+          },
+          {
+            "url": "https://movie.douban.com/subject/34941536/"
+          }
+        ]
+      },
+      "created_time": "2024-02-08T13:54:00Z",
+      "comment_text": null,
+      "rating_grade": 8,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
+      "item": {
         "title": "变相怪杰",
         "description": "------银行小职员斯坦利（金•凯瑞 Jim Carrey 饰）老实本分，过着和所有老实人一样的平凡生活。一次，斯坦利在接待金发美女蒂娜（卡梅隆•迪亚茨 Cameron Diaz 饰）时深深恋上了对方，不料蒂娜却是黑帮头目多利安（彼得•格林纳 Peter Greene 饰）抢劫银行前派来打探地形的。多利安随后成功抢劫了斯坦利所在的银行。一晚，斯坦利意外获得了一个奇怪的面具。戴上面具后的斯坦利变得力大无比、身手敏捷。斯坦利开始四出捉弄平日欺负他的人，并抢走了多利安劫得的巨款，与蒂娜在夜总会尽情飞舞。多利安知道了面具的威力后，用计夺走了面具，斯坦利则被关进了监狱。斯坦利最后能否凭自己的智慧夺回面具，与蒂娜有情人终成眷属?",
         "localized_title": [
@@ -6361,64 +6632,6 @@
       "shelf_type": "complete",
       "visibility": 0,
       "item": {
-        "title": "宇宙探索编辑部",
-        "description": "脑洞大开高分奇片，地球人外星人千里奔现！\n唐志军（杨皓宇 饰）是一家诞生于上世纪八十年代的科幻杂志——《宇宙探索》编辑部的主编。现如今的杂志社日渐式微，唐志军也终成落魄潦倒，鳏寡孤独之人。但他却依然几十年如一日的痴迷于寻找地外文明。终于有一天，他接收到了一个疑似来自宇宙深处的异常信号，于是他召集同是天涯沦落人的伙伴们，带着那一个困惑他终生的问题，再一次踏上寻找外星人的旅途。",
-        "localized_title": [
-          {
-            "lang": "zh-cn",
-            "text": "宇宙探索编辑部"
-          },
-          {
-            "lang": "zh-cn",
-            "text": "宇宙编辑部的故事"
-          },
-          {
-            "lang": "en",
-            "text": "Journey to the West"
-          }
-        ],
-        "localized_description": [
-          {
-            "lang": "zh-cn",
-            "text": "脑洞大开高分奇片，地球人外星人千里奔现！\n唐志军（杨皓宇 饰）是一家诞生于上世纪八十年代的科幻杂志——《宇宙探索》编辑部的主编。现如今的杂志社日渐式微，唐志军也终成落魄潦倒，鳏寡孤独之人。但他却依然几十年如一日的痴迷于寻找地外文明。终于有一天，他接收到了一个疑似来自宇宙深处的异常信号，于是他召集同是天涯沦落人的伙伴们，带着那一个困惑他终生的问题，再一次踏上寻找外星人的旅途。"
-          }
-        ],
-        "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/03/31/b84c552c-e4e4-4e40-a1f8-e78eca49f07e.jpg",
-        "rating": 7.7,
-        "rating_count": 869,
-        "brief": "脑洞大开高分奇片，地球人外星人千里奔现！\n唐志军（杨皓宇 饰）是一家诞生于上世纪八十年代的科幻杂志——《宇宙探索》编辑部的主编。现如今的杂志社日渐式微，唐志军也终成落魄潦倒，鳏寡孤独之人。但他却依然几十年如一日的痴迷于寻找地外文明。终于有一天，他接收到了一个疑似来自宇宙深处的异常信号，于是他召集同是天涯沦落人的伙伴们，带着那一个困惑他终生的问题，再一次踏上寻找外星人的旅途。",
-        "id": "https://neodb.social/movie/44E3AK7EKtc9fb3lBBqZNr",
-        "type": "Movie",
-        "uuid": "44E3AK7EKtc9fb3lBBqZNr",
-        "url": "/movie/44E3AK7EKtc9fb3lBBqZNr",
-        "api_url": "/api/movie/44E3AK7EKtc9fb3lBBqZNr",
-        "category": "movie",
-        "parent_uuid": null,
-        "display_title": "宇宙探索编辑部",
-        "external_resources": [
-          {
-            "url": "https://www.imdb.com/title/tt15072612/"
-          },
-          {
-            "url": "https://eggplant.place/movie/1AxBFlumNtuT3z31DUyTZU"
-          },
-          {
-            "url": "https://www.themoviedb.org/movie/851977"
-          },
-          {
-            "url": "https://movie.douban.com/subject/34941536/"
-          }
-        ]
-      },
-      "created_time": "2024-02-08T13:54:00Z",
-      "comment_text": null,
-      "rating_grade": 8,
-      "tags": []
-    },
-    {
-      "shelf_type": "complete",
-      "visibility": 0,
-      "item": {
         "title": "中国奇谭",
         "description": "短片集由八个植根于中国传统文化的独立的故事组成：《小妖怪的夏天》《鹅鹅鹅》《林林》《乡村巴士带走了王孩儿和神仙》《小满》《玉兔》《小卖部》《飞鸟与鱼》，在观众面前铺陈开一个极具中式想象力和审美魅力的“妖怪”故事集。\r\n其中故事纵览古今、展望未来，从古代故事到科幻想象、 从乡土眷恋到唯美爱情、从生命母题到人性思考，展现着中式想象力、承载着中国民族文化与哲学。影片涵盖多种美术风格以及制作手法：既有传统的二维、剪纸、偶定格动画，又有CG、三渲二的现代技术，还有将素描与中国水墨韵味相结合的创新尝试，是创作者们对中国美学一次多视角的诠释。",
         "localized_title": [
@@ -6488,7 +6701,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/11/10/3577ead9-a516-4fbf-90cc-7810c773e4b9.jpg",
         "rating": 8.0,
-        "rating_count": 898,
+        "rating_count": 899,
         "brief": "当我们为权力金钱焦虑、兴奋与愤怒时，却根本想象不到“他们”在谈论着怎样更重要的事情。\n随着战争阴云笼罩世界上空，各国紧锣密鼓抓紧军事竞赛。为了抢占先机，美国陆军中将莱斯利·格罗夫斯（马特·达蒙 Matt Damon 饰）找到量子力学与核物理学领域的扛鼎人物罗伯特·奥本海默（基里安·墨菲 Cillian Murphy 饰），力荐其担任曼哈顿计划的首席科学家以及洛斯阿拉莫斯国家实验室的总负责人。经过两年争分夺秒的研发，硕大的蘑菇云终于在荒原的上空腾起，也宣告着绞肉机一般的二战即将落下帷幕。奥本海默有如将火种带到人间的普罗米修斯，可是对人性的参悟和对未来的担忧迫使他走向与政府相悖的道路。更可悲的是，凡人钟情的物欲也将一世天才裹挟至炼狱之中，永世燃烧……",
         "id": "https://neodb.social/movie/5VHXvvI05hLkzedOSVa4z2",
         "type": "Movie",
@@ -6673,7 +6886,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/03/41516609-e6fa-44a4-84af-430b4a20e707.jpg",
         "rating": 8.3,
-        "rating_count": 734,
+        "rating_count": 736,
         "brief": "影片讲述了新生代蜘蛛侠迈尔斯（沙梅克·摩尔 Shameik Moore 配音）携手蜘蛛格温（海莉·斯坦菲尔德 Hailee Steinfeld 配音），穿越多元宇宙踏上更宏大的冒险征程的故事。面临每个蜘蛛侠都会失去至亲的宿命，迈尔斯誓言打破命运魔咒，找到属于自己的英雄之路。而这个决定和蜘蛛侠2099（奥斯卡·伊萨克 Oscar Is aac 配音）所领军的蜘蛛联盟产生了极大冲突，一场以一敌百的蜘蛛侠大内战即将拉响！",
         "id": "https://neodb.social/movie/6TvJKU2rJ5SoJSeTLwdDdv",
         "type": "Movie",
@@ -6806,7 +7019,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/03/14/e0cc80de-58b3-4a0c-ba0b-cb1ed25f326a.webp",
         "rating": 8.9,
-        "rating_count": 428,
+        "rating_count": 429,
         "brief": "2013年，突变的虫草菌肆虐美国，真菌将人类宿主变成了攻击性超强的吃人怪物。20年后，人类文明已面目全非，幸存者只能生活在治安隔离区。一天，乔尔（佩德罗·帕斯卡 饰）和泰丝（安娜·托芙 饰）接了一个赏金任务，要护送一个14岁的女孩艾莉（贝拉·拉姆齐 饰）去反抗组织火萤的研究基地。可他们不知道的是，女孩身上隐藏着一个关系到人类文明延续的秘密……",
         "id": "https://neodb.social/tv/season/1LaJ8HkYNgWaCDJk6OnZbA",
         "type": "TVSeason",
@@ -7484,7 +7697,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2023/07/20/8206c5c4-0d6d-46f6-a08c-7a7d3af84393.jpg",
         "rating": 7.0,
-        "rating_count": 671,
+        "rating_count": 672,
         "brief": "宁静的九州乡间小镇，生活着平凡的少女岩户铃芽（原菜乃华 配音）。这天上学路上，她邂逅了神秘的白衣青年宗像草太（松村北斗 配音）。草太的言行举止引起了铃芽的好奇，她随着这个青年来到了一处废墟，并看到了一扇在水中央突兀伫立的门。懵懵懂懂，铃芽无意间解开了某个古老封印。在此之 后，一场地震突发，而偏偏只有铃芽才能看见地震前发生的诡异现象。随后这个惶恐的女孩才发现，草太原来是有着古老传承的闭门师，他巡游日本各地正是为了阻止更大的灾难发生。\n从西日本到东日本，追逐灾难的旅途中，铃芽尘封的记忆也渐渐苏醒……",
         "id": "https://neodb.social/movie/4JVspcTxu4MPhpPpSQCivw",
         "type": "Movie",
@@ -8546,7 +8759,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15a943f019-10a8-4203-a8b7-1c0ade81fde0.jpg",
         "rating": 8.5,
-        "rating_count": 2279,
+        "rating_count": 2280,
         "brief": "　　托尼（维果·莫腾森 Viggo Mortensen 饰）是一个吊儿郎当游手好闲的混混，在一家夜总会做侍者。这间夜总会因故要停业几个月，可托尼所要支付的房租和生活费不会因此取消，所以他的当务之急是去寻找另一份工作来填补这几个月的空缺。在这个节骨眼上，一位名叫唐雪莉（马赫沙拉·阿里 Mahershala Ali 饰）的黑人钢琴家提出雇佣托尼。\r 　　唐雪莉即将开始为期八个星期的南下巡回演出，可是，那个时候南方对黑人的歧视非常的严重，于是托尼便成为了唐雪莉的司机兼保镖。一路上，两人迥异的性格使得他们之间产生了很多的矛盾，与此同时，唐雪莉在南方所遭受的种种不公平的对待也让托尼对种族歧视感到深恶痛绝。",
         "id": "https://neodb.social/movie/3QjgE0V4yaQGbcjGtpvRIz",
         "type": "Movie",
@@ -8859,7 +9072,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15b71e1380-9ed2-4ac2-bf49-d2e2b3c92156.jpg",
         "rating": 7.7,
-        "rating_count": 1389,
+        "rating_count": 1390,
         "brief": "逃过摄魂怪的追杀，通过魔法部的审查，哈利（丹尼尔·雷德克里夫）终于回到美丽的霍格沃兹。然而这个学期并不轻松，他不仅要完成魔法等级考试，还要应对夜晚的噩梦和黑魔法防御课老师乌姆里奇的打压。在好友的支持下，哈利秘密组建了邓不利多军团，与大家一起练习黑魔法防御术。\n噩梦中，哈利总是以伏地魔的视角出现，似乎他们之间有着某种神秘的联系。在邓不利多（迈克尔·刚本）的指示下，哈利向斯内普教授（阿伦·瑞克曼）学习封闭术，却鲜有成效。终于在一次噩梦的诱使下，哈利偏执的赶往魔法部营救小天狼星，却不想陷入伏地魔的圈套，引发凤凰社与食死徒之间的正面冲突。在混战中，小天狼星（加里·奥德曼）不幸遇难。\n究竟哈利与伏地魔（拉尔夫·费因斯）之间有着怎样的联系？在悲恸中，邓不利多为哈利揭开谜底，哈利还有更长、更艰难的路要走……",
         "id": "https://neodb.social/movie/29pQbA6Ht8DiEnpsgFVgWi",
         "type": "Movie",
@@ -9022,7 +9235,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13d7852063-6303-4f45-9781-d2549c492b5c.jpg",
         "rating": 8.1,
-        "rating_count": 1184,
+        "rating_count": 1185,
         "brief": "故事讲述 18 岁青年，一个在印度孟买贫民窟长大的孤儿，只差一个问题就能拿到令全国观众疯狂的节目《百万富翁》二千万卢布奖金时却被捕，他被怀疑作弊 ─ 没受过教育的孤儿为何能答对所有连博士专家都没把握全中的问题？为了证明自己的清白，他向警察讲述了他奇妙又令人不可置信的成长故事，以及他深爱的女孩。",
         "id": "https://neodb.social/movie/79jfcu1Tm55ghYoDbccYuO",
         "type": "Movie",
@@ -9891,7 +10104,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/159008bab2-fd56-48b7-b553-f0a4d76eef0a.jpg",
         "rating": 8.1,
-        "rating_count": 1467,
+        "rating_count": 1468,
         "brief": "这是一个不同寻常的学期，魔法学校的盛事：三强争霸赛在霍格沃茨举行。学生们争先报名，希翼获得永恒无上的荣誉。火焰杯在选出三所学校的三名勇士后，竟将未足年龄的哈利也挑选出来。\n哈利（Daniel Radcliffe饰）的当选引起其他学生的嫉妒连连，就连铁哥们罗恩（Rupert Grint饰）也首次和他闹起了别扭，哈利感到孤立无援，还好有教父小天狼星和赫敏一直支持他。可总有些好事者如记者丽塔等着看他的好戏。天知道这场比赛是何等艰辛危险，在龙的眼皮下偷蛋，潜入湖底救人，在迷宫中探险……一不小心，甚至可能付出生命的代价。\n黑魔王伏地魔的威胁渐渐显现，每一天都险象环生，动人心弦。",
         "id": "https://neodb.social/movie/5ZD3Nli9yTkWQw9uTdUrv2",
         "type": "Movie",
@@ -9951,7 +10164,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1342d14337-0e7e-42e2-b3f5-d92f0903d33f.jpg",
         "rating": 8.5,
-        "rating_count": 1590,
+        "rating_count": 1591,
         "brief": "哈利（丹尼尔·雷德克里夫）即将在霍格沃兹渡过第三个年头，此时在阿兹塔班却传出恶棍小天狼星（加里·奥德曼）越狱的消息。据说小天狼星正是背叛哈利父母的好友，他的教父，而这次小天狼星越狱似乎正是为了找他。哈利的心里悄悄的滋生了为父母报仇的想法，期待着小天狼星的出现。\n新来的魔法老师卢平（大卫·休里斯）有着桀骜不驯的个性，与哈利关系很好，教了哈利许多实用的黑魔法防御知识。而此时在他的魔法地图上却出现了一个神秘人物，虫尾巴。偶然的机会下，在尖叫棚屋里集齐了哈利父亲当年的所有好友，卢平、虫尾巴、小天狼星，哈利的魔杖直指向小天狼星，但他发现那罪犯看他的眼神里充满了疼爱……",
         "id": "https://neodb.social/movie/56Z9VAwpYIGpj65EHGkoBA",
         "type": "Movie",
@@ -12214,6 +12427,62 @@
       "shelf_type": "complete",
       "visibility": 0,
       "item": {
+        "title": "马达加斯加的企鹅",
+        "description": "为了给最疼爱的小老弟菜鸟（克里斯多夫·奈茨 Christopher Knights 配音）庆生，老大（汤姆·麦格拉思 Tom McGrath 配音）带领菜鸟以及好搭档科斯基（克里斯·米勒 Chris Miller 配音）、瑞哥闯入了防守最严密的美国黄金储备中心，只为找到金库尽头仅有的那台销售炸薯条的自动贩卖机。谁知他们刚刚完成任务没多久，便被长着触角的贩卖机吞了进去，随后被运到一个神秘的所在。在全封闭的设施内，四只企鹅见到了伪装成基因遗传科学家的章鱼戴夫（约翰·马尔科维奇 John Malkovich 配音）。原来戴夫曾是动物园一只明星章鱼，但随着萌态十足的企鹅们的到来，他便跌入了绝望的深谷。因此戴夫潜心研制了可怕的血清，发誓要向所有他曾待过的动物园中的企鹅展开报复。\n老大和伙伴们在逃亡途中得到北风特工队的救助，而他们和这些高傲的特工队员将分别阻止戴夫的阴谋……",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "马达加斯加的企鹅"
+          },
+          {
+            "lang": "id",
+            "text": "Penguins of Madagascar"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "马达加斯加爆走企鹅(台)"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "荒失失企鹅(港)"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "为了给最疼爱的小老弟菜鸟（克里斯多夫·奈茨 Christopher Knights 配音）庆生，老大（汤姆·麦格拉思 Tom McGrath 配音）带领菜鸟以及好搭档科斯基（克里斯·米勒 Chris Miller 配音）、瑞哥闯入了防守最严密的美国黄金储备中心，只为找到金库尽头仅有的那台销售炸薯条的自动贩卖机。谁知他们刚刚完成任务没多久，便被长着触角的贩卖机吞了进去，随后被运到一个神秘的所在。在全封闭的设施内，四只企鹅见到了伪装成基因遗传科学家的章鱼戴夫（约翰·马尔科维奇 John Malkovich 配音）。原来戴夫曾是动物园一只明星章鱼，但随着萌态十足的企鹅们的到来，他便跌入了绝望的深谷。因此戴夫潜心研制了可怕的血清，发誓要向所有他曾待过的动物园中的企鹅展开报复。\n老大和伙伴们在逃亡途中得到北风特工队的救助，而他们和这些高傲的特工队员将分别阻止戴夫的阴谋……"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/movie/2021/09/1588f7554a-267d-406f-97e9-4ad09f9b5fe7.jpg",
+        "rating": 7.1,
+        "rating_count": 361,
+        "brief": "为了给最疼爱的小老弟菜鸟（克里斯多夫·奈茨 Christopher Knights 配音）庆生，老大（汤姆·麦格拉思 Tom McGrath 配音）带领菜鸟以及好搭档科斯基（克里斯·米勒 Chris Miller 配音）、瑞哥闯入了防守最严密的美国黄金储备中心，只为找到金库尽头仅有的那台销售炸薯条的自动贩卖机。谁知他们刚刚完成任务没多久，便被长着触角的贩卖机吞了进去，随后被运到一个神秘的所在。在全封闭的设施内，四只企鹅见到了伪装成基因遗传科学家的章鱼戴夫（约翰·马尔科维奇 John Malkovich 配音）。原来戴夫曾是动物园一只明星章鱼，但随着萌态十足的企鹅们的到来，他便跌入了绝望的深谷。因此戴夫潜心研制了可怕的血清，发誓要向所有他曾待过的动物园中的企鹅展开报复。\n老大和伙伴们在逃亡途中得到北风特工队的救助，而他们和这些高傲的特工队员将分别阻止戴夫的阴谋……",
+        "id": "https://neodb.social/movie/0Yxx81A14ZVEVjOuemHS96",
+        "type": "Movie",
+        "uuid": "0Yxx81A14ZVEVjOuemHS96",
+        "url": "/movie/0Yxx81A14ZVEVjOuemHS96",
+        "api_url": "/api/movie/0Yxx81A14ZVEVjOuemHS96",
+        "category": "movie",
+        "parent_uuid": null,
+        "display_title": "马达加斯加的企鹅",
+        "external_resources": [
+          {
+            "url": "https://movie.douban.com/subject/11810348/"
+          },
+          {
+            "url": "https://www.themoviedb.org/movie/270946"
+          }
+        ]
+      },
+      "created_time": "2019-10-17T13:54:00Z",
+      "comment_text": null,
+      "rating_grade": 8,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
+      "item": {
         "title": "秒速5厘米",
         "description": "如果，樱花掉落的速度是每秒5厘米，那么两颗心需要多久才能靠近？\n少年时，贵树（水橋研二配）和明理（近藤好美配）是形影不离的好朋友，可很快，一道巨大的鸿沟便横亘在两人中间：明理转学，贵树也随着父母工作的调动搬到遥远的鹿儿岛。在搬家前，贵树乘坐新干线千里迢迢和明理相会，在漫长的等待后，茫茫大雪中，两人在枯萎的樱花树下深情相拥，并献出彼此的first kiss，约定着下一次再一起来看樱花。\n时光荏苒，两人竟再没见过，虽然在人海中一直搜寻彼此的身影，但似乎总是徒然。再后来，他们分别有了各自的生活，只是还偶尔会梦到13岁时的这段青涩而美好的感情，才明白当年怎么也说不出口的那个字就是爱。",
         "localized_title": [
@@ -12270,62 +12539,6 @@
           },
           {
             "url": "https://www.themoviedb.org/movie/38142"
-          }
-        ]
-      },
-      "created_time": "2019-10-17T13:54:00Z",
-      "comment_text": null,
-      "rating_grade": 8,
-      "tags": []
-    },
-    {
-      "shelf_type": "complete",
-      "visibility": 0,
-      "item": {
-        "title": "马达加斯加的企鹅",
-        "description": "为了给最疼爱的小老弟菜鸟（克里斯多夫·奈茨 Christopher Knights 配音）庆生，老大（汤姆·麦格拉思 Tom McGrath 配音）带领菜鸟以及好搭档科斯基（克里斯·米勒 Chris Miller 配音）、瑞哥闯入了防守最严密的美国黄金储备中心，只为找到金库尽头仅有的那台销售炸薯条的自动贩卖机。谁知他们刚刚完成任务没多久，便被长着触角的贩卖机吞了进去，随后被运到一个神秘的所在。在全封闭的设施内，四只企鹅见到了伪装成基因遗传科学家的章鱼戴夫（约翰·马尔科维奇 John Malkovich 配音）。原来戴夫曾是动物园一只明星章鱼，但随着萌态十足的企鹅们的到来，他便跌入了绝望的深谷。因此戴夫潜心研制了可怕的血清，发誓要向所有他曾待过的动物园中的企鹅展开报复。\n老大和伙伴们在逃亡途中得到北风特工队的救助，而他们和这些高傲的特工队员将分别阻止戴夫的阴谋……",
-        "localized_title": [
-          {
-            "lang": "zh-cn",
-            "text": "马达加斯加的企鹅"
-          },
-          {
-            "lang": "id",
-            "text": "Penguins of Madagascar"
-          },
-          {
-            "lang": "zh-cn",
-            "text": "马达加斯加爆走企鹅(台)"
-          },
-          {
-            "lang": "zh-cn",
-            "text": "荒失失企鹅(港)"
-          }
-        ],
-        "localized_description": [
-          {
-            "lang": "zh-cn",
-            "text": "为了给最疼爱的小老弟菜鸟（克里斯多夫·奈茨 Christopher Knights 配音）庆生，老大（汤姆·麦格拉思 Tom McGrath 配音）带领菜鸟以及好搭档科斯基（克里斯·米勒 Chris Miller 配音）、瑞哥闯入了防守最严密的美国黄金储备中心，只为找到金库尽头仅有的那台销售炸薯条的自动贩卖机。谁知他们刚刚完成任务没多久，便被长着触角的贩卖机吞了进去，随后被运到一个神秘的所在。在全封闭的设施内，四只企鹅见到了伪装成基因遗传科学家的章鱼戴夫（约翰·马尔科维奇 John Malkovich 配音）。原来戴夫曾是动物园一只明星章鱼，但随着萌态十足的企鹅们的到来，他便跌入了绝望的深谷。因此戴夫潜心研制了可怕的血清，发誓要向所有他曾待过的动物园中的企鹅展开报复。\n老大和伙伴们在逃亡途中得到北风特工队的救助，而他们和这些高傲的特工队员将分别阻止戴夫的阴谋……"
-          }
-        ],
-        "cover_image_url": "https://neodb.social/m/movie/2021/09/1588f7554a-267d-406f-97e9-4ad09f9b5fe7.jpg",
-        "rating": 7.1,
-        "rating_count": 361,
-        "brief": "为了给最疼爱的小老弟菜鸟（克里斯多夫·奈茨 Christopher Knights 配音）庆生，老大（汤姆·麦格拉思 Tom McGrath 配音）带领菜鸟以及好搭档科斯基（克里斯·米勒 Chris Miller 配音）、瑞哥闯入了防守最严密的美国黄金储备中心，只为找到金库尽头仅有的那台销售炸薯条的自动贩卖机。谁知他们刚刚完成任务没多久，便被长着触角的贩卖机吞了进去，随后被运到一个神秘的所在。在全封闭的设施内，四只企鹅见到了伪装成基因遗传科学家的章鱼戴夫（约翰·马尔科维奇 John Malkovich 配音）。原来戴夫曾是动物园一只明星章鱼，但随着萌态十足的企鹅们的到来，他便跌入了绝望的深谷。因此戴夫潜心研制了可怕的血清，发誓要向所有他曾待过的动物园中的企鹅展开报复。\n老大和伙伴们在逃亡途中得到北风特工队的救助，而他们和这些高傲的特工队员将分别阻止戴夫的阴谋……",
-        "id": "https://neodb.social/movie/0Yxx81A14ZVEVjOuemHS96",
-        "type": "Movie",
-        "uuid": "0Yxx81A14ZVEVjOuemHS96",
-        "url": "/movie/0Yxx81A14ZVEVjOuemHS96",
-        "api_url": "/api/movie/0Yxx81A14ZVEVjOuemHS96",
-        "category": "movie",
-        "parent_uuid": null,
-        "display_title": "马达加斯加的企鹅",
-        "external_resources": [
-          {
-            "url": "https://movie.douban.com/subject/11810348/"
-          },
-          {
-            "url": "https://www.themoviedb.org/movie/270946"
           }
         ]
       },
@@ -13566,7 +13779,7 @@
       "tags": []
     }
   ],
-  "count": 230,
+  "count": 233,
   "categories": [
     "movie",
     "tv",
@@ -13576,36 +13789,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2024-11-14T00:52:01.715536",
+  "updated_at": "2024-11-15T00:55:06.798171",
   "stats": {
     "movie": {
-      "count": 106,
-      "time": 9.81
+      "count": 108,
+      "time": 8.61
     },
     "tv": {
-      "count": 91,
-      "time": 7.31
+      "count": 92,
+      "time": 6.47
     },
     "book": {
       "count": 26,
-      "time": 2.11
+      "time": 1.72
     },
     "music": {
       "count": 4,
-      "time": 0.24
+      "time": 0.17
     },
     "podcast": {
       "count": 0,
-      "time": 0.25
+      "time": 0.12
     },
     "game": {
       "count": 1,
-      "time": 0.2
+      "time": 0.17
     },
     "performance": {
       "count": 2,
-      "time": 0.32
+      "time": 0.17
     }
   },
-  "total_time": 20.23
+  "total_time": 17.42
 }
