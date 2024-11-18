@@ -4,6 +4,47 @@
       "shelf_type": "complete",
       "visibility": 0,
       "item": {
+        "title": "梅雨",
+        "description": "《梅雨》是吕新在近十年来发表的六部长篇小说之一。这部作品中，作者事无巨细地记录了发生在江淮流域的一段漫长艰难的特殊世事，以优美的文字将江南细致哀婉的风情展现得淋漓尽致，让人为之叫好称快。正如他在文中所说：一个人一生轰轰烈烈，大起大落，风流多情，那不算什么。一个人一生什么事都不出，窝窝囊囊，唯唯诺诺，那其实也真叫奇迹。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "梅雨"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "《梅雨》是吕新在近十年来发表的六部长篇小说之一。这部作品中，作者事无巨细地记录了发生在江淮流域的一段漫长艰难的特殊世事，以优美的文字将江南细致哀婉的风情展现得淋漓尽致，让人为之叫好称快。正如他在文中所说：一个人一生轰轰烈烈，大起大落，风流多情，那不算什么。一个人一生什么事都不出，窝窝囊囊，唯唯诺诺，那其实也真叫奇迹。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/book/2021/12/061950b749-ce96-4650-a76f-b847ba2326dd.jpg",
+        "rating": null,
+        "rating_count": 2,
+        "brief": "《梅雨》是吕新在近十年来发表的六部长篇小说之一。这部作品中，作者事无巨细地记录了发生在江淮流域的一段漫长艰难的特殊世事，以优美的文字将江南细致哀婉的风情展现得淋漓尽致，让人为之叫好称快。正如他在文中所说：一个人一生轰轰烈烈，大起大落，风流多情，那不算什么。一个人一生什么事都不出，窝窝囊囊，唯唯诺诺，那其实也真叫奇迹。",
+        "id": "https://neodb.social/book/1UXREnNy9SeitvC7ebF0uH",
+        "type": "Edition",
+        "uuid": "1UXREnNy9SeitvC7ebF0uH",
+        "url": "/book/1UXREnNy9SeitvC7ebF0uH",
+        "api_url": "/api/book/1UXREnNy9SeitvC7ebF0uH",
+        "category": "book",
+        "parent_uuid": null,
+        "display_title": "梅雨",
+        "external_resources": [
+          {
+            "url": "https://book.douban.com/subject/6308767/"
+          }
+        ]
+      },
+      "created_time": "2024-11-17T11:00:31.906Z",
+      "comment_text": null,
+      "rating_grade": 8,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
+      "item": {
         "title": "村上广播",
         "description": "Translation Publishing Pub 2021-04-01 216 Shanghai Translation Publishing House Murakami Broadcasting has been serialized in the magazine ANAN since March 2000. spanning a year. including 50 essays.?Pizza. records. Rhode Island. Virginia ...",
         "localized_title": [
@@ -1132,7 +1173,7 @@
       "tags": []
     }
   ],
-  "count": 26,
+  "count": 27,
   "category": "book",
-  "updated_at": "2024-11-17T00:57:58.526969"
+  "updated_at": "2024-11-18T00:56:32.263133"
 }

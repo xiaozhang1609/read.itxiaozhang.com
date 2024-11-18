@@ -1216,8 +1216,48 @@
       "visibility": 0,
       "item": {
         "title": "英雄联盟：双城之战 第一季",
-        "description": "《英雄联盟：双城之战》是英雄联盟官方动画剧集，讲述的是在充满蒸汽朋克气息的乌托邦-皮尔特沃夫和由化学品驱动的地下城-祖安中，蔚和金克丝两姐妹，她们在一场激烈的冲突后发现两个人站在了彼此的对立面。她们从此分开，走上不同的道路，朝着不同的命运终点走去，但心中的羁绊又无时不刻地让姐妹二人想要破镜重圆。",
+        "description": "在积怨深重的孪生城市皮尔特沃夫和祖安，一场因魔法技术与信念冲突而引发的战争拉开序幕，分属敌对阵营的两姐妹展开对抗。",
         "localized_title": [
+          {
+            "lang": "ko",
+            "text": "시즌 1"
+          },
+          {
+            "lang": "ja",
+            "text": "シーズン1"
+          },
+          {
+            "lang": "pt",
+            "text": "1.ª Temporada"
+          },
+          {
+            "lang": "de",
+            "text": "Staffel 1"
+          },
+          {
+            "lang": "fr",
+            "text": "Saison 1"
+          },
+          {
+            "lang": "es",
+            "text": "Temporada 1"
+          },
+          {
+            "lang": "en",
+            "text": "Season 1"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "第 1 季"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "第 1 季"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "第 1 季"
+          },
           {
             "lang": "zh-cn",
             "text": "英雄联盟：双城之战"
@@ -1233,18 +1273,62 @@
           {
             "lang": "zh-cn",
             "text": "英雄联盟动画剧集"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "英雄联盟：双城之战 第一季"
+          },
+          {
+            "lang": "en",
+            "text": "Arcane: League of Legends"
           }
         ],
         "localized_description": [
           {
+            "lang": "ja",
+            "text": "科学、魔法、そしてぶつかり合う信念。繁栄を遂げる都市ピルトーヴァーと、その下に広がる街ゾウンを舞台に、敵同士として戦いに身を投じる姉妹の運命を描く。"
+          },
+          {
+            "lang": "de",
+            "text": "Im Konflikt zwischen den Städten Piltover und Zaun stehen zwei Schwestern auf entgegengesetzten Seiten eines Krieges um magische Technologien und Überzeugungen."
+          },
+          {
+            "lang": "fr",
+            "text": "Au milieu de la discorde des villes jumelles Piltover et Zaun, deux sœurs se battent dans des camps rivaux dans une guerre entre technologies magiques et convictions contradictoires."
+          },
+          {
+            "lang": "en",
+            "text": "Two sisters. Two cities. One discovery that will change the world forever. In the cities of Piltover and Zaun, unrest stirs as inventors and thieves, politicians and crime lords chafe against the constraints of a society torn asunder."
+          },
+          {
+            "lang": "zh-hk",
+            "text": "共生的兩座城市皮爾托福和佐恩出現重大隔閡，使得兩個姊妹必須在這場魔法科技和信念衝突的大戰中相互廝殺。"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "在积怨深重的孪生城市皮尔特沃夫和祖安，一场因魔法技术与信念冲突而引发的战争拉开序幕，分属敌对阵营的两姐妹展开对抗。"
+          },
+          {
             "lang": "zh-cn",
             "text": "《英雄联盟：双城之战》是英雄联盟官方动画剧集，讲述的是在充满蒸汽朋克气息的乌托邦-皮尔特沃夫和由化学品驱动的地下城-祖安中，蔚和金克丝两姐妹，她们在一场激烈的冲突后发现两个人站在了彼此的对立面。她们从此分开，走上不同的道路，朝着不同的命运终点走去，但心中的羁绊又无时不刻地让姐妹二人想要破镜重圆。"
+          },
+          {
+            "lang": "pt",
+            "text": ""
+          },
+          {
+            "lang": "es",
+            "text": ""
+          },
+          {
+            "lang": "zh-cn",
+            "text": "本片作为英雄联盟官方动画剧集，讲述的是在充满蒸汽朋克气息的乌托邦-皮尔特沃夫和由化学品驱动的地下城-祖安中，蔚和金克丝两姐妹，她们在一场激烈的冲突后发现两个人站在了彼此的对立面。她们从此分开，走上不同的道路，朝着不同的命运终点走去，但心中的羁绊又无时不刻 地让姐妹二人想要破镜重圆"
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
         "rating": 9.0,
-        "rating_count": 495,
-        "brief": "《英雄联盟：双城之战》是英雄联盟官方动画剧集，讲述的是在充满蒸汽朋克气息的乌托邦-皮尔特沃夫和由化学品驱动的地下城-祖安中，蔚和金克丝两姐妹，她们在一场激烈的冲突后发现两个人站在了彼此的对立面。她们从此分开，走上不同的道路，朝着不同的命运终点走去，但心中的羁绊又无时不刻地让姐妹二人想要破镜重圆。",
+        "rating_count": 496,
+        "brief": "在积怨深重的孪生城市皮尔特沃夫和祖安，一场因魔法技术与信念冲突而引发的战争拉开序幕，分属敌对阵营的两姐妹展开对抗。",
         "id": "https://neodb.social/tv/season/49K22BtoKSg3oNXMNdViIW",
         "type": "TVSeason",
         "uuid": "49K22BtoKSg3oNXMNdViIW",
@@ -1254,6 +1338,12 @@
         "parent_uuid": "2i2SMEtfaSP30kBfrIztol",
         "display_title": "英雄联盟：双城之战 第一季",
         "external_resources": [
+          {
+            "url": "https://eggplant.place/tv/season/4ZMYmInlM6DLSVrgm31g1Q"
+          },
+          {
+            "url": "https://www.themoviedb.org/tv/94605/season/1"
+          },
           {
             "url": "https://movie.douban.com/subject/34867871/"
           }
@@ -2236,8 +2326,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/270dc3b5ec-1067-46cf-906a-902223291896.jpg",
-        "rating": 8.8,
-        "rating_count": 53,
+        "rating": 8.7,
+        "rating_count": 54,
         "brief": "一边：葛雷博死后，斯巴达克斯和部下带领的克雷斯、甘尼克斯和艾力冈等带领下的奴隶起义军在向罗马进军的途中取得连续的胜利。解放后获得自由的奴隶们大多加入了这支军队，使得整个奴隶起义军的力量越发壮大。一步一步地威胁着罗马的统治。\n在这种形势下，斯巴达克斯比以前更坚信能拿下罗马；阿苏尔死后有意卸甲归田的妮维雅和克雷斯也重新找到了为之战斗的精神力量；反倒是甘尼克斯开始沉溺在糜烂的床上生活，和美女蛇萨莎搞在了一起。\n另一边：罗马元老院得到了财主克拉苏的援助。克拉苏是一个有勇有谋的人物，他懂的吸取前人的经验，并且尊重对手。加上年轻且战场经验丰富的凯撒加盟，克拉苏和斯巴达克斯的战争迫在眉睫。\n总之，《斯巴达克斯：亡者之役》将会带来你未曾见过的传奇史诗之旅。",
         "id": "https://neodb.social/tv/season/6XXqNtoCjzquJS3kkATZaN",
         "type": "TVSeason",
@@ -2864,7 +2954,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/173a6861f9-395d-4813-b674-98bc8dc8f139.jpg",
         "rating": 8.3,
-        "rating_count": 62,
+        "rating_count": 63,
         "brief": "一场发生在巴蒂塔斯家的血腥屠杀结束了《斯巴达克斯： 血与沙》的故事，《斯巴达克斯：复仇》继续讲述角斗士的大暴动，罗马共和国为此深感惊恐。盖乌斯·克罗迪斯·葛雷博率领罗马军队前往卡普亚，企图消灭日渐壮大的、以斯巴达克斯为首的自由奴隶军，永绝后患。斯巴达 克斯面临两个选择，要么向奴役且杀害他妻子的人复仇，了结私人恩怨，要么忍辱负重，保存处于萌芽状态的奴隶军。史诗大戏斯巴达克斯传奇，携血腥残忍的动作，异域风情的性爱，扬善惩恶的主题，再度袭来。\n《斯巴达克斯》第二季《复仇》，由澳洲演员连姆·麦肯泰尔（Liam McIntyre）顶替罹患癌症已逝世的安迪·怀特菲尔德（Andy Whitfield），饰演斯巴达克斯。而该剧第一季，以新西兰女星露西·劳莱丝（Lucy Lawless）为首的其他演员也将悉数回归。\n《斯巴达克斯》讲述斯巴达克斯从奴隶变成英雄的血泪辛酸史。斯巴达克斯因为被罗马人背叛，被迫背井离乡，离开自己最爱的女人，流放成奴隶，变为角斗士，同时他还得面临来自财富，腐败，美色诱惑的考验，这一段罗马共和国历史上最富盛名的传奇故事无人不知。",
         "id": "https://neodb.social/tv/season/1IvVGVb5bdcsCNFUDu4XDG",
         "type": "TVSeason",
@@ -3144,7 +3234,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2023/05/31/c3376f14-de62-4882-a7b5-c26e62c006ed.jpg",
         "rating": 7.9,
-        "rating_count": 42,
+        "rating_count": 43,
         "brief": "在人命如草芥的古罗马奴隶制时代，出身色雷斯的斯巴达克斯（安迪·怀特菲尔德 Andy Whitfield 饰）曾是罗马辅备军中一名孔武有力、骁勇善战的勇士，可却因为反抗了罗马军官而沦为奴隶。\n\n在经历了残酷的生死考验之后，他被巴蒂塔斯（约翰·汉南 John Hannah）买下训练成刀口舔血的角斗士，为了早日重获自由，回到最爱的妻子苏拉（伊尔瑞·卡明斯 Erin Cummings饰）身边，斯巴达克斯不得不拿起屠刀走上血腥的角斗场。\n\n亦敌亦友的王者战士克雷斯（莫奴·伯纳特 Manu Bennett 饰），纵欲贪婪的贵族显贵以及罪恶的阴谋与勾当，左右着斯巴达克斯的命运。",
         "id": "https://neodb.social/tv/season/3qpYosEiYmaaX4W5rLS876",
         "type": "TVSeason",
@@ -3819,7 +3909,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/154f5b96b2-9167-480b-81e7-40688604ecb8.jpg",
         "rating": 7.7,
-        "rating_count": 352,
+        "rating_count": 353,
         "brief": "连当个值日生也能酷到迷死人，县立学文高中一年二班。这里，有个一入学就引起瞩目的学生，名叫坂本。其举手投足都蕴含着一股酷劲，不对，根本酷过头了。因为成为校园焦点，眼前出现了各项威胁。 坂本最新潮、最流行的校园生活，自此揭幕。",
         "id": "https://neodb.social/tv/season/51hXXhIr170yJSRrexHUlt",
         "type": "TVSeason",
@@ -5008,5 +5098,5 @@
   ],
   "count": 92,
   "category": "tv",
-  "updated_at": "2024-11-17T00:57:56.869409"
+  "updated_at": "2024-11-18T00:56:30.193869"
 }
