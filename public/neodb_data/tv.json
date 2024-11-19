@@ -503,7 +503,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/02/24bdbed50e-f9d6-4444-aadb-20c719aa716f.jpg",
         "rating": 7.8,
-        "rating_count": 114,
+        "rating_count": 115,
         "brief": "苹果正式预订《弹子球游戏》(Pachinko)剧集整季。去年8月苹果拿下了李明锦所著同名小说的版权，计划拍剧，如今正式要拍。Soo Hugh(《天外来客》《穹顶之下》)担任编剧、运作人、执行制作人。\n小说记录了一个美国的韩国移民家庭四代人的希望和梦想，以一段禁忌的爱情故事开始发展，成为一部横跨韩国、日本和美国的长篇传奇。该书被《纽约时报》评为2017年十大最佳书籍之一，并入围美国国家图书奖。",
         "id": "https://neodb.social/tv/season/6lNKNyCtvD4Z5m9rE72U7J",
         "type": "TVSeason",
@@ -874,7 +874,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/12/09/e349737a-1ad1-4118-ab72-3f8fd067cf4d.webp",
         "rating": 8.7,
-        "rating_count": 221,
+        "rating_count": 222,
         "brief": "本剧是对2016年动画短片《拾荒者》概念的拓展。\r\n在一艘星际货运飞船受损后，船员发现他们被困在了一个美丽但让人难以应付的陌生星球上。在这里，他们必须存活得足够久，才有机会逃离或获救。当幸存者们努力寻找被击落的船只和失踪的船员时，他们的新家展现出一个充满敌意的世界，这个世界可以在没有人类干扰的情况下蓬勃发展。",
         "id": "https://neodb.social/tv/season/57PyYqzRowAjrcajGknvnl",
         "type": "TVSeason",
@@ -5098,5 +5098,5 @@
   ],
   "count": 92,
   "category": "tv",
-  "updated_at": "2024-11-18T00:56:30.193869"
+  "updated_at": "2024-11-19T00:55:01.774969"
 }
