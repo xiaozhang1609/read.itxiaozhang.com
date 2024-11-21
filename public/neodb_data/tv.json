@@ -28,7 +28,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14138f068a-33d6-4cb0-a556-1112c79ede52.jpg",
         "rating": 9.3,
-        "rating_count": 1507,
+        "rating_count": 1508,
         "brief": "这部英国迷你剧由3个各自独立的故事组成，彼此间并没有直接联系，但都以极端的黑色幽默讽刺和探讨了科技对人类生活产生的影响。\n《天佑吾主》：首相Michael Callow（罗里·金奈尔 Rory Kinnear 饰）被熟睡中的紧急电话召回办公室，得知广受喜爱的王室 成员Susannah公主遭人劫持，绑匪提出的交换条件匪夷所思。备感受辱的首相诸般尝试解救公主未果，最终在强大的社交网络民意压力下就范。\n《一千五百万的价值》：在未来世界，衣着统一的人们只通过虚拟网络交流，依靠日复一日骑自行车赚取赖以为生的消费点数。不甘做行尸走肉的Bing（丹尼尔·卡卢亚 Daniel Kaluuya 饰）倾尽自己所有点数帮助天籁般歌声的Abi（杰西卡·布朗-芬德利 Jessica Brown-Findlay 饰）登上选秀舞台，却被Abi沦为艳星的事实深深打击。\n《你的全部历史》：人人都植入内置芯片的时代，记忆影像可以被随时翻查。多疑的律师Liam（托比·凯贝尔 Toby Kebbell 饰）非常敏感妻子Fi（茱蒂·威泰克 Jodie Whittaker 饰）与前男友Jonas的关系。他歇斯底里的在三人记忆中搜查Fi不忠的证据，终于导致Fi崩溃离去。",
         "id": "https://neodb.social/tv/season/4yEbZYfnYeqWoc7PNxTeEi",
         "type": "TVSeason",
@@ -874,7 +874,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/12/09/e349737a-1ad1-4118-ab72-3f8fd067cf4d.webp",
         "rating": 8.7,
-        "rating_count": 221,
+        "rating_count": 223,
         "brief": "本剧是对2016年动画短片《拾荒者》概念的拓展。\r\n在一艘星际货运飞船受损后，船员发现他们被困在了一个美丽但让人难以应付的陌生星球上。在这里，他们必须存活得足够久，才有机会逃离或获救。当幸存者们努力寻找被击落的船只和失踪的船员时，他们的新家展现出一个充满敌意的世界，这个世界可以在没有人类干扰的情况下蓬勃发展。",
         "id": "https://neodb.social/tv/season/57PyYqzRowAjrcajGknvnl",
         "type": "TVSeason",
@@ -886,13 +886,16 @@
         "display_title": "拾荒者统治",
         "external_resources": [
           {
-            "url": "https://movie.douban.com/subject/35932858/"
+            "url": "https://bgm.tv/subject/443179"
+          },
+          {
+            "url": "https://eggplant.place/tv/season/0tudcLzldyeJ2mirvLefrr"
           },
           {
             "url": "https://www.themoviedb.org/tv/204154/season/1"
           },
           {
-            "url": "https://bgm.tv/subject/443179"
+            "url": "https://movie.douban.com/subject/35932858/"
           }
         ]
       },
@@ -1060,7 +1063,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/08/69d304f8-1a0f-4f06-9a4a-b1d870f43864.webp",
         "rating": 7.9,
-        "rating_count": 130,
+        "rating_count": 131,
         "brief": "Based on one of the greatest video game series of all time, Fallout is the story of haves and have-nots in a world in which there’s almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird and highly violent universe waiting for them.",
         "id": "https://neodb.social/tv/season/5FyXt7D9AV5ieWNoDj7OPV",
         "type": "TVSeason",
@@ -1178,7 +1181,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/06/1012f10cab-8842-442a-bd65-75dc2723a36b.jpg",
         "rating": 7.8,
-        "rating_count": 477,
+        "rating_count": 478,
         "brief": "开放世界角色扮演游戏《赛博朋克2077》将拍衍生动画剧集《Cyberpunk: Edgerunners》，2022年在Netflix上线，Studio Trigger和CD Projekt Red制作，今石洋之执导，共10集。动画剧聚焦一个街头成长的孩子在科技泛滥的城市中挣扎求生，成为了一个雇佣兵即edgerunner/cyberpunk。",
         "id": "https://neodb.social/tv/season/7PYVkySEYW8aKkOxFALUHy",
         "type": "TVSeason",
@@ -1327,7 +1330,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
         "rating": 9.0,
-        "rating_count": 498,
+        "rating_count": 500,
         "brief": "在积怨深重的孪生城市皮尔特沃夫和祖安，一场因魔法技术与信念冲突而引发的战争拉开序幕，分属敌对阵营的两姐妹展开对抗。",
         "id": "https://neodb.social/tv/season/49K22BtoKSg3oNXMNdViIW",
         "type": "TVSeason",
@@ -1339,13 +1342,13 @@
         "display_title": "英雄联盟：双城之战 第一季",
         "external_resources": [
           {
+            "url": "https://movie.douban.com/subject/34867871/"
+          },
+          {
             "url": "https://eggplant.place/tv/season/4ZMYmInlM6DLSVrgm31g1Q"
           },
           {
             "url": "https://www.themoviedb.org/tv/94605/season/1"
-          },
-          {
-            "url": "https://movie.douban.com/subject/34867871/"
           }
         ]
       },
@@ -1382,7 +1385,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/05/08/b1302e71-dc78-444c-b77c-7c9963751aef.jpg",
         "rating": 8.0,
-        "rating_count": 213,
+        "rating_count": 214,
         "brief": "高中生蒲一永（曾敬骅 饰）遭遇生死边缘的车祸后陷入昏迷，醒来后意外拥有超能力，原本无聊的生活从此产生翻天覆地的改变，与菜鸟女警官陈楮英（宋芸桦 饰），以及校内死对头曹光砚（彭千祐 饰）三人一同展开了一场奇幻又疯狂的打怪旅程。",
         "id": "https://neodb.social/tv/season/2dDNx379ARQZo3rij3cUbQ",
         "type": "TVSeason",
@@ -1641,8 +1644,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/09/04cbcb6fd5-268a-485b-ac86-17ebb9e1ecd8.jpg",
-        "rating": 8.3,
-        "rating_count": 354,
+        "rating": 8.2,
+        "rating_count": 355,
         "brief": "A young woman begins receiving messages from an unknown number that claims to be her deceased father. Trying to uncover the truth, she stumbles upon a larger conspiracy involving the singularity.",
         "id": "https://neodb.social/tv/season/7Hf4xWhbfQ8qQjTY9RR9Cp",
         "type": "TVSeason",
@@ -2011,7 +2014,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/03/14/e0cc80de-58b3-4a0c-ba0b-cb1ed25f326a.webp",
         "rating": 8.9,
-        "rating_count": 429,
+        "rating_count": 430,
         "brief": "2013年，突变的虫草菌肆虐美国，真菌将人类宿主变成了攻击性超强的吃人怪物。20年后，人类文明已面目全非，幸存者只能生活在治安隔离区。一天，乔尔（佩德罗·帕斯卡 饰）和泰丝（安娜·托芙 饰）接了一个赏金任务，要护送一个14岁的女孩艾莉（贝拉·拉姆齐 饰）去反抗组织火萤的研究基地。可他们不知道的是，女孩身上隐藏着一个关系到人类文明延续的秘密……",
         "id": "https://neodb.social/tv/season/1LaJ8HkYNgWaCDJk6OnZbA",
         "type": "TVSeason",
@@ -2493,7 +2496,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2024/04/17/7d1bda2d-db00-4136-a4cb-6ef3f39ef985.jpg",
         "rating": 7.2,
-        "rating_count": 70,
+        "rating_count": 71,
         "brief": "不明寄生生物强行侵占人类宿主的身体并夺得力量，人类必须挺身作战，对抗日益壮大的威胁。",
         "id": "https://neodb.social/tv/season/22yN2w1UhPOZ3iE42sWQuA",
         "type": "TVSeason",
@@ -5098,5 +5101,5 @@
   ],
   "count": 92,
   "category": "tv",
-  "updated_at": "2024-11-20T00:54:38.712372"
+  "updated_at": "2024-11-21T00:54:21.165525"
 }
