@@ -4,6 +4,58 @@
       "shelf_type": "complete",
       "visibility": 0,
       "item": {
+        "title": "黑镜 第二季",
+        "description": "和上一季相同，本季的《黑镜》也由3个故事组成，向观众展现了一个残酷而又现实的未来世界。\n《马上回来》：一次车祸夺走了玛莎（海莉·阿特维尔 Hayley Atwell 饰）的男友艾什（多姆纳尔·格利森 Domhnall Gleeson 饰）的生命。在朋友的推荐下，玛莎利用艾什在社交网络上留下的信息塑造了一个具有人工智能的假艾什。刚开始玛莎只能通过手机听到合成的艾什的声音，不久之后，那个声音告诉玛莎，有一个方法可以让艾什“真正”的回到她的身边。\n《白熊》：托尼（勒诺拉·克里奇洛 Lenora Crichlow 饰）从昏迷中醒来，发现自己在一间陌生的房间里并且失去了记忆。在她昏迷的这段时间中，世界显然发生了翻天覆地的变化，街道上充斥着无情的看客，而她竟然成为了杀人狂追杀的猎物。\n《沃尔多一刻》：沃尔多是一只虚拟的蓝熊，出现在深夜的喜剧节目中，而站在它背后的，是配音演员杰米（丹尼尔·里格比 Daniel Rigby 饰）。沃尔多极高的人气让节目组产生了以它的形象参加国会竞选，而杰米发现自己逐渐变成了被操控的傀儡。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "黑镜 第二季"
+          },
+          {
+            "lang": "en",
+            "text": "Black Mirror"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "黑镜子 第二季"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "和上一季相同，本季的《黑镜》也由3个故事组成，向观众展现了一个残酷而又现实的未来世界。\n《马上回来》：一次车祸夺走了玛莎（海莉·阿特维尔 Hayley Atwell 饰）的男友艾什（多姆纳尔·格利森 Domhnall Gleeson 饰）的生命。在朋友的推荐下，玛莎利用艾什在社交网络上留下的信息塑造了一个具有人工智能的假艾什。刚开始玛莎只能通过手机听到合成的艾什的声音，不久之后，那个声音告诉玛莎，有一个方法可以让艾什“真正”的回到她的身边。\n《白熊》：托尼（勒诺拉·克里奇洛 Lenora Crichlow 饰）从昏迷中醒来，发现自己在一间陌生的房间里并且失去了记忆。在她昏迷的这段时间中，世界显然发生了翻天覆地的变化，街道上充斥着无情的看客，而她竟然成为了杀人狂追杀的猎物。\n《沃尔多一刻》：沃尔多是一只虚拟的蓝熊，出现在深夜的喜剧节目中，而站在它背后的，是配音演员杰米（丹尼尔·里格比 Daniel Rigby 饰）。沃尔多极高的人气让节目组产生了以它的形象参加国会竞选，而杰米发现自己逐渐变成了被操控的傀儡。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/movie/2021/09/131b46667b-3905-4bdb-a7ec-441f1126be6d.jpg",
+        "rating": 9.0,
+        "rating_count": 1099,
+        "brief": "和上一季相同，本季的《黑镜》也由3个故事组成，向观众展现了一个残酷而又现实的未来世界。\n《马上回来》：一次车祸夺走了玛莎（海莉·阿特维尔 Hayley Atwell 饰）的男友艾什（多姆纳尔·格利森 Domhnall Gleeson 饰）的生命。在朋友的推荐下，玛莎利用艾什在社交网络上留下的信息塑造了一个具有人工智能的假艾什。刚开始玛莎只能通过手机听到合成的艾什的声音，不久之后，那个声音告诉玛莎，有一个方法可以让艾什“真正”的回到她的身边。\n《白熊》：托尼（勒诺拉·克里奇洛 Lenora Crichlow 饰）从昏迷中醒来，发现自己在一间陌生的房间里并且失去了记忆。在她昏迷的这段时间中，世界显然发生了翻天覆地的变化，街道上充斥着无情的看客，而她竟然成为了杀人狂追杀的猎物。\n《沃尔多一刻》：沃尔多是一只虚拟的蓝熊，出现在深夜的喜剧节目中，而站在它背后的，是配音演员杰米（丹尼尔·里格比 Daniel Rigby 饰）。沃尔多极高的人气让节目组产生了以它的形象参加国会竞选，而杰米发现自己逐渐变成了被操控的傀儡。",
+        "id": "https://neodb.social/tv/season/5qPyrf2Tof3tbMIJN4dlaO",
+        "type": "TVSeason",
+        "uuid": "5qPyrf2Tof3tbMIJN4dlaO",
+        "url": "/tv/season/5qPyrf2Tof3tbMIJN4dlaO",
+        "api_url": "/api/tv/season/5qPyrf2Tof3tbMIJN4dlaO",
+        "category": "tv",
+        "parent_uuid": "5Oe9xubkzFI1Fq2RnHRbep",
+        "display_title": "黑镜 第二季",
+        "external_resources": [
+          {
+            "url": "https://movie.douban.com/subject/11502153/"
+          },
+          {
+            "url": "https://www.themoviedb.org/tv/42009/season/2"
+          }
+        ]
+      },
+      "created_time": "2024-11-16T13:54:00Z",
+      "comment_text": null,
+      "rating_grade": 8,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
+      "item": {
         "title": "黑镜 第一季",
         "description": "这部英国迷你剧由3个各自独立的故事组成，彼此间并没有直接联系，但都以极端的黑色幽默讽刺和探讨了科技对人类生活产生的影响。\n《天佑吾主》：首相Michael Callow（罗里·金奈尔 Rory Kinnear 饰）被熟睡中的紧急电话召回办公室，得知广受喜爱的王室 成员Susannah公主遭人劫持，绑匪提出的交换条件匪夷所思。备感受辱的首相诸般尝试解救公主未果，最终在强大的社交网络民意压力下就范。\n《一千五百万的价值》：在未来世界，衣着统一的人们只通过虚拟网络交流，依靠日复一日骑自行车赚取赖以为生的消费点数。不甘做行尸走肉的Bing（丹尼尔·卡卢亚 Daniel Kaluuya 饰）倾尽自己所有点数帮助天籁般歌声的Abi（杰西卡·布朗-芬德利 Jessica Brown-Findlay 饰）登上选秀舞台，却被Abi沦为艳星的事实深深打击。\n《你的全部历史》：人人都植入内置芯片的时代，记忆影像可以被随时翻查。多疑的律师Liam（托比·凯贝尔 Toby Kebbell 饰）非常敏感妻子Fi（茱蒂·威泰克 Jodie Whittaker 饰）与前男友Jonas的关系。他歇斯底里的在三人记忆中搜查Fi不忠的证据，终于导致Fi崩溃离去。",
         "localized_title": [
@@ -874,7 +926,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/12/09/e349737a-1ad1-4118-ab72-3f8fd067cf4d.webp",
         "rating": 8.7,
-        "rating_count": 224,
+        "rating_count": 225,
         "brief": "本剧是对2016年动画短片《拾荒者》概念的拓展。\r\n在一艘星际货运飞船受损后，船员发现他们被困在了一个美丽但让人难以应付的陌生星球上。在这里，他们必须存活得足够久，才有机会逃离或获救。当幸存者们努力寻找被击落的船只和失踪的船员时，他们的新家展现出一个充满敌意的世界，这个世界可以在没有人类干扰的情况下蓬勃发展。",
         "id": "https://neodb.social/tv/season/57PyYqzRowAjrcajGknvnl",
         "type": "TVSeason",
@@ -1549,7 +1601,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/13/d643b437-3391-4e50-8c8e-22f26228aa04.jpg",
         "rating": 8.1,
-        "rating_count": 200,
+        "rating_count": 201,
         "brief": "该剧改编自姜草的同名漫画，讲述隐藏超能力生活于现在的孩子们，与隐藏过去痛苦的秘密的父母们共同面对跨越世代的巨大危险的超能力动作英雄故事。",
         "id": "https://neodb.social/tv/season/69AIBuiEdIWuSflP71zCi5",
         "type": "TVSeason",
@@ -2014,7 +2066,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/03/14/e0cc80de-58b3-4a0c-ba0b-cb1ed25f326a.webp",
         "rating": 8.9,
-        "rating_count": 431,
+        "rating_count": 432,
         "brief": "2013年，突变的虫草菌肆虐美国，真菌将人类宿主变成了攻击性超强的吃人怪物。20年后，人类文明已面目全非，幸存者只能生活在治安隔离区。一天，乔尔（佩德罗·帕斯卡 饰）和泰丝（安娜·托芙 饰）接了一个赏金任务，要护送一个14岁的女孩艾莉（贝拉·拉姆齐 饰）去反抗组织火萤的研究基地。可他们不知道的是，女孩身上隐藏着一个关系到人类文明延续的秘密……",
         "id": "https://neodb.social/tv/season/1LaJ8HkYNgWaCDJk6OnZbA",
         "type": "TVSeason",
@@ -4930,7 +4982,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/271548cb4b-40e2-4503-bda9-7dff00fd8e32.jpg",
         "rating": 7.6,
-        "rating_count": 64,
+        "rating_count": 65,
         "brief": "故事发生在水果世界之中。曾经，这里笼罩在宁静和祥和的氛围之下，直到有一天，守护着这个世界的七彩莲花被偷走了，噩梦开始了。邪恶的老板霸占了七彩花果山，在那里建造了一间水果加工厂，老板手下有着邪恶的四名爪牙，他们分别是天下无贼（李团 配音）、乱臣贼子（赵然 配音）、认贼作父和贼眉鼠眼（鞠月斌 饰）。每当工厂需要生产果汁时，四人便会触动抓来水果村的村民们将它们作为原料。\n英雄（赵然 配音）和无极（陈铁 配音）是果冻学园里两位德高望重的师父，他们深入敌后想要制服老板，却反而落入了陷阱之中。橙留香（陆双 配音）、菠萝吹雪（祖晴 配音）和陆小果（王巍 配音）三剑客为了拯救师父而踏上了旅途。",
         "id": "https://neodb.social/tv/season/2t4GC9SKx2YXYkUONVdzpY",
         "type": "TVSeason",
@@ -4978,8 +5030,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16301fc784-d92c-4c87-a7a0-bad93d1c52a6.jpg",
-        "rating": 8.4,
-        "rating_count": 78,
+        "rating": 8.5,
+        "rating_count": 79,
         "brief": "夜晚，洛洛在家里玩电脑游戏，突然落雷击中大厦，洛洛被传送到一个陌生的世界里。醒来之后，洛洛发现自己竟呆在一个以他最喜欢的机战游戏作为背景的虚拟世界。过不多久，茫然的洛洛就遭到猛兽族黑铁兽的袭击，差点小命不保，幸好时光之城的大将霹雳火及时出现将他救下，才避过猛兽族的追杀。洛洛与霹雳火结识成为朋友了，命运滚轮的转动无法避免，机战世界开始书写新的章程。",
         "id": "https://neodb.social/tv/season/4fGFIJ50r3DpdrVmQjBZpL",
         "type": "TVSeason",
@@ -5099,7 +5151,7 @@
       "tags": []
     }
   ],
-  "count": 92,
+  "count": 93,
   "category": "tv",
-  "updated_at": "2024-11-22T00:55:18.526728"
+  "updated_at": "2024-11-23T00:53:51.543701"
 }
