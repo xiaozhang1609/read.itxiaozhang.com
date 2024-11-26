@@ -2506,7 +2506,7 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/05/27/9a7c62bf-714d-4f6c-a97b-2404adef3642.webp",
-        "rating": 7.7,
+        "rating": 7.6,
         "rating_count": 92,
         "brief": "三年级小学生朱同，他成绩垫底、调皮捣蛋，每天他的小脑瓜里都会出现一万种幻想。然而有一天，他发现班主任牛老师居然在走廊上追打外星人、草坪中的小花会说话、同学变成了杂草人......无数令人匪夷所思的事件纷至沓来，离奇幻想与学校生活的苦恼交织。朱同能否顺利逃过惩罚，又能否如愿以偿代表学校参加全国广播操比赛？一场现实与奇幻交织的旅程即将展开……",
         "id": "https://neodb.social/movie/4CkegT1BFaWTEZmXsNt6nN",
@@ -3369,7 +3369,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/03/31/b84c552c-e4e4-4e40-a1f8-e78eca49f07e.jpg",
         "rating": 7.7,
-        "rating_count": 872,
+        "rating_count": 873,
         "brief": "脑洞大开高分奇片，地球人外星人千里奔现！\n唐志军（杨皓宇 饰）是一家诞生于上世纪八十年代的科幻杂志——《宇宙探索》编辑部的主编。现如今的杂志社日渐式微，唐志军也终成落魄潦倒，鳏寡孤独之人。但他却依然几十年如一日的痴迷于寻找地外文明。终于有一天，他接收到了一个疑似来自宇宙深处的异常信号，于是他召集同是天涯沦落人的伙伴们，带着那一个困惑他终生的问题，再一次踏上寻找外星人的旅途。",
         "id": "https://neodb.social/movie/44E3AK7EKtc9fb3lBBqZNr",
         "type": "Movie",
@@ -3503,7 +3503,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16d55ba3c5-3088-4dd0-a0b8-13546996ebb8.jpg",
         "rating": 7.7,
-        "rating_count": 569,
+        "rating_count": 570,
         "brief": "------银行小职员斯坦利（金•凯瑞 Jim Carrey 饰）老实本分，过着和所有老实人一样的平凡生活。一次，斯坦利在接待金发美女蒂娜（卡梅隆•迪亚茨 Cameron Diaz 饰）时深深恋上了对方，不料蒂娜却是黑帮头目多利安（彼得•格林纳 Peter Greene 饰）抢劫银行前派来打探地形的。多利安随后成功抢劫了斯坦利所在的银行。一晚，斯坦利意外获得了一个奇怪的面具。戴上面具后的斯坦利变得力大无比、身手敏捷。斯坦利开始四出捉弄平日欺负他的人，并抢走了多利安劫得的巨款，与蒂娜在夜总会尽情飞舞。多利安知道了面具的威力后，用计夺走了面具，斯坦利则被关进了监狱。斯坦利最后能否凭自己的智慧夺回面具，与蒂娜有情人终成眷属?",
         "id": "https://neodb.social/movie/79UiGKGrfD0qAJ44djs3jY",
         "type": "Movie",
@@ -4499,10 +4499,10 @@
             "url": "https://movie.douban.com/subject/26584673/"
           },
           {
-            "url": "https://www.themoviedb.org/movie/493529"
+            "url": "https://eggplant.place/movie/0oi6IckZfRkMvcnFgRgzy2"
           },
           {
-            "url": "https://eggplant.place/movie/0oi6IckZfRkMvcnFgRgzy2"
+            "url": "https://www.themoviedb.org/movie/493529"
           },
           {
             "url": "https://www.imdb.com/title/tt2906216/"
@@ -7410,5 +7410,5 @@
   ],
   "count": 109,
   "category": "movie",
-  "updated_at": "2024-11-25T00:56:08.015184"
+  "updated_at": "2024-11-26T00:55:15.606962"
 }
