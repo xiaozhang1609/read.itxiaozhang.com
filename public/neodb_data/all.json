@@ -2788,7 +2788,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/02/24bdbed50e-f9d6-4444-aadb-20c719aa716f.jpg",
         "rating": 7.8,
-        "rating_count": 115,
+        "rating_count": 116,
         "brief": "苹果正式预订《弹子球游戏》(Pachinko)剧集整季。去年8月苹果拿下了李明锦所著同名小说的版权，计划拍剧，如今正式要拍。Soo Hugh(《天外来客》《穹顶之下》)担任编剧、运作人、执行制作人。\n小说记录了一个美国的韩国移民家庭四代人的希望和梦想，以一段禁忌的爱情故事开始发展，成为一部横跨韩国、日本和美国的长篇传奇。该书被《纽约时报》评为2017年十大最佳书籍之一，并入围美国国家图书奖。",
         "id": "https://neodb.social/tv/season/6lNKNyCtvD4Z5m9rE72U7J",
         "type": "TVSeason",
@@ -12487,7 +12487,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13d1567d07-417b-4b7b-8356-5d0b87f43128.jpg",
         "rating": 9.1,
-        "rating_count": 2216,
+        "rating_count": 2217,
         "brief": "阿甘（汤姆·汉克斯 饰）于二战结束后不久出生在美国南方阿拉巴马州一个闭塞的小镇，他先天弱智，智商只有75，然而他的妈妈是一个性格坚强的女性，她常常鼓励阿甘“傻人有傻福”，要他自强不息。\n阿甘像普通孩子一样上学，并且认识了一生的朋友和至爱珍妮（罗宾·莱特·潘 饰），在珍妮 和妈妈的爱护下，阿甘凭着上帝赐予的“飞毛腿”开始了一生不停的奔跑。\n阿甘成为橄榄球巨星、越战英雄、乒乓球外交使者、亿万富翁，但是，他始终忘不了珍妮，几次匆匆的相聚和离别，更是加深了阿甘的思念。\n有一天，阿甘收到珍妮的信，他们终于又要见面……",
         "id": "https://neodb.social/movie/7RwHsgClhqDwb3vCzBNACZ",
         "type": "Movie",
@@ -14080,36 +14080,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2024-11-27T00:55:52.648750",
+  "updated_at": "2024-11-28T00:56:04.340964",
   "stats": {
     "movie": {
       "count": 109,
-      "time": 9.94
+      "time": 8.7
     },
     "tv": {
       "count": 93,
-      "time": 7.13
+      "time": 6.34
     },
     "book": {
       "count": 28,
-      "time": 2.11
+      "time": 1.76
     },
     "music": {
       "count": 4,
-      "time": 0.22
+      "time": 0.16
     },
     "podcast": {
       "count": 0,
-      "time": 0.14
+      "time": 0.11
     },
     "game": {
       "count": 1,
-      "time": 0.19
+      "time": 0.12
     },
     "performance": {
       "count": 2,
-      "time": 0.19
+      "time": 0.14
     }
   },
-  "total_time": 19.92
+  "total_time": 17.33
 }
