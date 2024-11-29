@@ -1070,7 +1070,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1532a54bd6-77fe-4203-b8f2-bd290c3b6dc0.jpg",
         "rating": 8.4,
-        "rating_count": 251,
+        "rating_count": 252,
         "brief": "《浴血黑帮》讲述了战后伯明翰地区传奇黑帮家族Peaky Blinders的故事。时间要追溯到1919年，家族成员有一大嗜好，就是将剃刀刀片缝进他们帽子的帽檐之间，这也是“剃刀党”的名称由来。斯里安·墨菲将饰演一名残酷的黑帮份子Tommy Shelby ，是家族兄弟的领袖，嗜血无情。在那个时代，退伍军人、革命者和罪犯，都在社会底层挣扎生存。而当贝尔法斯特的警方负责人开始介入时，Tommy和他的黑帮势力制造出的恐怖统治开始了倾斜。",
         "id": "https://neodb.social/tv/season/2RerD2Ds6CgDURGEIVu7Po",
         "type": "TVSeason",
@@ -4109,7 +4109,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2023/01/033be87cb9-20e8-43a6-831e-f59c540d018a.jpg",
         "rating": 8.1,
-        "rating_count": 547,
+        "rating_count": 548,
         "brief": "主人公·张楚岚，某天在墓地遭遇僵尸的袭击。在万分危急的时刻，一个少女出现在了他的面前手里拿着的菜刀将敌人击倒对着放心了得楚岚说道“现在这里有些困境，你就自己面对吧”留下了有着深意的话，离开了。过了几天，在大学上学的张楚岚的面前，又出现了少女的身影。自从那个瞬间，张楚岚激荡的命运便开始向前推进了。",
         "id": "https://neodb.social/tv/5wqntMd2XeFYIhYA7U6RVH",
         "type": "TVShow",
@@ -4881,8 +4881,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/03de6714d4-4709-40a4-83d0-7f91ee238ba5.jpg",
-        "rating": 8.2,
-        "rating_count": 122,
+        "rating": 8.1,
+        "rating_count": 123,
         "brief": "自古妖魔侵入人类的世界，化作人形并以吞食人类的内脏为生，对妖魔束手无策的人类唯有求助于身背巨剑的女性战士们。因为战士们是由于体内混合了妖魔的血肉才得到超人的力量，所以人类同样将她们视为异类，一方面依靠着她们斩杀妖魔，一方面畏惧并排斥着她们，并将她们称为“Claymore（大剑）”。 当妖魔的出现打破了一个普通山村的平静生活，万般无奈的村长只好求助于大剑组织。一位面容冷酷的战士接受委托来到这里，由此拉开了这场波澜壮阔的故事序幕。",
         "id": "https://neodb.social/tv/season/1B9vav4WHy9SRjOLoZh8ay",
         "type": "TVSeason",
@@ -5153,5 +5153,5 @@
   ],
   "count": 93,
   "category": "tv",
-  "updated_at": "2024-11-28T00:56:02.038357"
+  "updated_at": "2024-11-29T00:55:54.547059"
 }
