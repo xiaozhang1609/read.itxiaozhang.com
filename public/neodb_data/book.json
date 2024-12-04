@@ -752,8 +752,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/15f1ce16d9-6e6d-44d1-96b4-7b300817b664.jpg",
-        "rating": 7.9,
-        "rating_count": 117,
+        "rating": 8.0,
+        "rating_count": 118,
         "brief": "这是篇言情故事，写出了单恋的种种动人之处。",
         "id": "https://neodb.social/book/5oq3WAlsp0d5reBSMmGQEy",
         "type": "Edition",
@@ -1216,5 +1216,5 @@
   ],
   "count": 28,
   "category": "book",
-  "updated_at": "2024-12-03T00:57:23.964562"
+  "updated_at": "2024-12-04T00:57:16.654154"
 }
