@@ -4,6 +4,59 @@
       "shelf_type": "complete",
       "visibility": 0,
       "item": {
+        "title": "黑色五叶草",
+        "description": "曾经险些遭到魔神毁灭的世界，拯救它的是一位被后世称为“魔法帝”的魔导士……两位被遗弃在教堂的少年，一位是有卓越魔力跟魔法才能的四叶草魔导书的尤诺，另一位魔法值为零但却意外获得黑色五叶草的魔法书的亚斯塔……这是关于一位没魔法能力的少年却想要成为魔法帝的故事。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "黑色五叶草"
+          },
+          {
+            "lang": "ja",
+            "text": "ブラッククローバー"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "黑色四叶草"
+          },
+          {
+            "lang": "en",
+            "text": "Black Clover"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "曾经险些遭到魔神毁灭的世界，拯救它的是一位被后世称为“魔法帝”的魔导士……两位被遗弃在教堂的少年，一位是有卓越魔力跟魔法才能的四叶草魔导书的尤诺，另一位魔法值为零但却意外获得黑色五叶草的魔法书的亚斯塔……这是关于一位没魔法能力的少年却想要成为魔法帝的故事。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/movie/2021/12/10fea341ed-f3b8-4aaf-9d8e-c46a47286edc.webp",
+        "rating": 6.4,
+        "rating_count": 18,
+        "brief": "曾经险些遭到魔神毁灭的世界，拯救它的是一位被后世称为“魔法帝”的魔导士……两位被遗弃在教堂的少年，一位是有卓越魔力跟魔法才能的四叶草魔导书的尤诺，另一位魔法值为零但却意外获得黑色五叶草的魔法书的亚斯塔……这是关于一位没魔法能力的少年却想要成为魔法帝的故事。",
+        "id": "https://neodb.social/tv/season/1XhihxetIvnwzWzVGOiRz2",
+        "type": "TVSeason",
+        "uuid": "1XhihxetIvnwzWzVGOiRz2",
+        "url": "/tv/season/1XhihxetIvnwzWzVGOiRz2",
+        "api_url": "/api/tv/season/1XhihxetIvnwzWzVGOiRz2",
+        "category": "tv",
+        "parent_uuid": null,
+        "display_title": "黑色五叶草",
+        "external_resources": [
+          {
+            "url": "https://movie.douban.com/subject/27063402/"
+          }
+        ]
+      },
+      "created_time": "2024-12-09T03:28:42.135Z",
+      "comment_text": "就在这里超越极限吧！",
+      "rating_grade": 9,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
+      "item": {
         "title": "黑镜 第二季",
         "description": "和上一季相同，本季的《黑镜》也由3个故事组成，向观众展现了一个残酷而又现实的未来世界。\n《马上回来》：一次车祸夺走了玛莎（海莉·阿特维尔 Hayley Atwell 饰）的男友艾什（多姆纳尔·格利森 Domhnall Gleeson 饰）的生命。在朋友的推荐下，玛莎利用艾什在社交网络上留下的信息塑造了一个具有人工智能的假艾什。刚开始玛莎只能通过手机听到合成的艾什的声音，不久之后，那个声音告诉玛莎，有一个方法可以让艾什“真正”的回到她的身边。\n《白熊》：托尼（勒诺拉·克里奇洛 Lenora Crichlow 饰）从昏迷中醒来，发现自己在一间陌生的房间里并且失去了记忆。在她昏迷的这段时间中，世界显然发生了翻天覆地的变化，街道上充斥着无情的看客，而她竟然成为了杀人狂追杀的猎物。\n《沃尔多一刻》：沃尔多是一只虚拟的蓝熊，出现在深夜的喜剧节目中，而站在它背后的，是配音演员杰米（丹尼尔·里格比 Daniel Rigby 饰）。沃尔多极高的人气让节目组产生了以它的形象参加国会竞选，而杰米发现自己逐渐变成了被操控的傀儡。",
         "localized_title": [
@@ -307,7 +360,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/11/30/9ba014ae-5023-41ba-8414-b725d6bd2d67.jpg",
         "rating": 8.5,
-        "rating_count": 129,
+        "rating_count": 130,
         "brief": "Apple TV+续订《流人》第三、四季，第三季改编原著系列中的第三本《Real Tigers》。\r\n当Jackson Lamb手下的一员被绑架后，这群废柴间谍合作阻止一名擅自行动的流氓特工。",
         "id": "https://neodb.social/tv/season/3nfveBbMneBefgMBcWhZ3M",
         "type": "TVSeason",
@@ -414,8 +467,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/04/15b785f2f1-4e5a-4ab8-8344-90049e5ac6fb.jpg",
-        "rating": 8.2,
-        "rating_count": 270,
+        "rating": 8.3,
+        "rating_count": 271,
         "brief": "该剧根据Mick Herron的同名系列小说改编，讲述一队英国情报人员在军情五处的一个垃圾倾倒场Slough House工作。奥德曼饰演才华横溢但脾气暴躁的间谍首领杰克森，因犯错导致职业生涯结束而被关进了这里。",
         "id": "https://neodb.social/tv/season/4ZML2fMKimevs00ZNNZdUL",
         "type": "TVSeason",
@@ -503,7 +556,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/08/29/43e193de-dc85-411d-8021-7d18962b38e7.jpg",
         "rating": 7.1,
-        "rating_count": 50,
+        "rating_count": 51,
         "brief": "三边坡，一处鱼龙混杂的热带异域，一个繁茂与衰败并生的斑驳之地。意外流落三边坡的打工小白沈星（郭麒麟 饰）遇到在多方势力间游走的三边坡和事佬猜叔（吴镇宇 饰），一场冒险，一段善良微光指引下的回归，在留与逃的挣扎中将如何上演。",
         "id": "https://neodb.social/tv/season/4GaDRvr7rVHzwX34tTa4q2",
         "type": "TVSeason",
@@ -926,7 +979,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/12/09/e349737a-1ad1-4118-ab72-3f8fd067cf4d.webp",
         "rating": 8.7,
-        "rating_count": 226,
+        "rating_count": 227,
         "brief": "本剧是对2016年动画短片《拾荒者》概念的拓展。\r\n在一艘星际货运飞船受损后，船员发现他们被困在了一个美丽但让人难以应付的陌生星球上。在这里，他们必须存活得足够久，才有机会逃离或获救。当幸存者们努力寻找被击落的船只和失踪的船员时，他们的新家展现出一个充满敌意的世界，这个世界可以在没有人类干扰的情况下蓬勃发展。",
         "id": "https://neodb.social/tv/season/57PyYqzRowAjrcajGknvnl",
         "type": "TVSeason",
@@ -1115,7 +1168,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/08/69d304f8-1a0f-4f06-9a4a-b1d870f43864.webp",
         "rating": 7.9,
-        "rating_count": 131,
+        "rating_count": 132,
         "brief": "Based on one of the greatest video game series of all time, Fallout is the story of haves and have-nots in a world in which there’s almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird and highly violent universe waiting for them.",
         "id": "https://neodb.social/tv/season/5FyXt7D9AV5ieWNoDj7OPV",
         "type": "TVSeason",
@@ -1382,7 +1435,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
         "rating": 9.0,
-        "rating_count": 513,
+        "rating_count": 516,
         "brief": "在积怨深重的孪生城市皮尔特沃夫和祖安，一场因魔法技术与信念冲突而引发的战争拉开序幕，分属敌对阵营的两姐妹展开对抗。",
         "id": "https://neodb.social/tv/season/49K22BtoKSg3oNXMNdViIW",
         "type": "TVSeason",
@@ -1485,7 +1538,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/22/f95d069d-ccd4-4227-947f-269539e3e03e.jpg",
         "rating": 8.3,
-        "rating_count": 138,
+        "rating_count": 140,
         "brief": "该剧由漫画鬼才石黑正数亲自打造，贵留子与小丸踏上寻找“天国”的旅程，极力避开专门猎杀人类的怪物。时男舍弃井井有条的生活，勇闯外面的世界。",
         "id": "https://neodb.social/tv/season/1XwpVBJ9lAt7AQZAHtwdba",
         "type": "TVSeason",
@@ -2066,7 +2119,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/03/14/e0cc80de-58b3-4a0c-ba0b-cb1ed25f326a.webp",
         "rating": 8.9,
-        "rating_count": 433,
+        "rating_count": 435,
         "brief": "2013年，突变的虫草菌肆虐美国，真菌将人类宿主变成了攻击性超强的吃人怪物。20年后，人类文明已面目全非，幸存者只能生活在治安隔离区。一天，乔尔（佩德罗·帕斯卡 饰）和泰丝（安娜·托芙 饰）接了一个赏金任务，要护送一个14岁的女孩艾莉（贝拉·拉姆齐 饰）去反抗组织火萤的研究基地。可他们不知道的是，女孩身上隐藏着一个关系到人类文明延续的秘密……",
         "id": "https://neodb.social/tv/season/1LaJ8HkYNgWaCDJk6OnZbA",
         "type": "TVSeason",
@@ -5151,7 +5204,7 @@
       "tags": []
     }
   ],
-  "count": 93,
+  "count": 94,
   "category": "tv",
-  "updated_at": "2024-12-09T00:58:41.476753"
+  "updated_at": "2024-12-10T00:58:01.859647"
 }
