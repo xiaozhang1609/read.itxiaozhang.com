@@ -555,8 +555,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/08/29/43e193de-dc85-411d-8021-7d18962b38e7.jpg",
-        "rating": 7.1,
-        "rating_count": 51,
+        "rating": 7.2,
+        "rating_count": 52,
         "brief": "三边坡，一处鱼龙混杂的热带异域，一个繁茂与衰败并生的斑驳之地。意外流落三边坡的打工小白沈星（郭麒麟 饰）遇到在多方势力间游走的三边坡和事佬猜叔（吴镇宇 饰），一场冒险，一段善良微光指引下的回归，在留与逃的挣扎中将如何上演。",
         "id": "https://neodb.social/tv/season/4GaDRvr7rVHzwX34tTa4q2",
         "type": "TVSeason",
@@ -1435,7 +1435,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
         "rating": 9.0,
-        "rating_count": 516,
+        "rating_count": 517,
         "brief": "在积怨深重的孪生城市皮尔特沃夫和祖安，一场因魔法技术与信念冲突而引发的战争拉开序幕，分属敌对阵营的两姐妹展开对抗。",
         "id": "https://neodb.social/tv/season/49K22BtoKSg3oNXMNdViIW",
         "type": "TVSeason",
@@ -5206,5 +5206,5 @@
   ],
   "count": 94,
   "category": "tv",
-  "updated_at": "2024-12-10T00:58:01.859647"
+  "updated_at": "2024-12-11T00:57:10.444619"
 }
