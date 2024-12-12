@@ -3406,7 +3406,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/161de00e8e-350d-4b00-8703-62a3ec34bc3f.jpg",
         "rating": 9.5,
-        "rating_count": 111,
+        "rating_count": 112,
         "brief": "故事发生在从近未来到两百年后的历史跨度上，地球文明被三体用一种叫做智子的超级科技锁死，基础研究因而停滞不前。但人类仍然需要在此基础上不断前进来抵御即将到来的三体人的进攻，守卫自己的家园和人类文明。在更广大的基础上，三体文明和人类文明都是黑暗森林下的猎手，小心翼翼的保护好自己并且清理别人，为文明的存续而挣扎。",
         "id": "https://neodb.social/tv/season/3KKkEPk129UjZ31VIyAyVP",
         "type": "TVSeason",
@@ -5206,5 +5206,5 @@
   ],
   "count": 94,
   "category": "tv",
-  "updated_at": "2024-12-11T00:57:10.444619"
+  "updated_at": "2024-12-12T00:56:49.572714"
 }
