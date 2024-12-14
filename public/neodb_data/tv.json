@@ -415,8 +415,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/09/59f49696-e8a1-40b8-a956-07cc5e7e6891.jpg",
-        "rating": 8.6,
-        "rating_count": 173,
+        "rating": 8.5,
+        "rating_count": 174,
         "brief": "该剧根据Mick Herron的同名系列小说改编，故事围绕着军情五处内一个不正常的特务组，以及他们讨人厌的老板：臭名满天下的杰克逊·兰姆（加里·奥德曼 饰）。他们在真假难辨的间谍世界中努力着，以保卫英国免受邪恶势力的侵害。",
         "id": "https://neodb.social/tv/season/2Eqn7nsOKfduXHmcvFFLQP",
         "type": "TVSeason",
@@ -1702,7 +1702,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/10/22/061fa0ce-5b93-4b37-a162-d488e100d05d.jpg",
         "rating": 8.2,
-        "rating_count": 132,
+        "rating_count": 133,
         "brief": "America enters the cloud; Caspian takes over; Chanda forms a new rebellion; Cody continues the fight; David enters the battle; Waxman gets off the fence.",
         "id": "https://neodb.social/tv/season/0xC4D2WSR2h5HaEvT8KdNr",
         "type": "TVSeason",
@@ -5206,5 +5206,5 @@
   ],
   "count": 94,
   "category": "tv",
-  "updated_at": "2024-12-13T00:57:52.492266"
+  "updated_at": "2024-12-14T00:55:23.293378"
 }
