@@ -3323,7 +3323,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/08/09/d546187f-bf96-4341-a492-99bc987de142.jpg",
         "rating": 7.5,
-        "rating_count": 108,
+        "rating_count": 109,
         "brief": "在一个宁静的社区里，受人尊敬的中年理发师马哈拉吉与女儿乔蒂和拉克希米住在一起。当马哈拉吉向警方报案称有蒙面入侵者袭击了他并抢劫了拉克希米时，当局却拒绝了这一说法，并怀疑她所失财物的真实性。尽管他多次试图寻求帮助，但他还是不惜一切代价，甚至在女儿回来之前亲自调查。随着疑点越来越多，大君的理智受到质疑，谜团也越来越深。",
         "id": "https://neodb.social/movie/6BC9VYt0bEyqrIyfp6OwXj",
         "type": "Movie",
@@ -14286,23 +14286,23 @@
     "game",
     "performance"
   ],
-  "updated_at": "2024-12-16T00:59:05.057372",
+  "updated_at": "2024-12-17T00:57:16.501581",
   "stats": {
     "movie": {
       "count": 111,
-      "time": 8.37
+      "time": 8.47
     },
     "tv": {
       "count": 94,
-      "time": 6.28
+      "time": 6.23
     },
     "book": {
       "count": 29,
-      "time": 1.8
+      "time": 1.76
     },
     "music": {
       "count": 4,
-      "time": 0.28
+      "time": 0.16
     },
     "podcast": {
       "count": 0,
@@ -14310,12 +14310,12 @@
     },
     "game": {
       "count": 1,
-      "time": 0.13
+      "time": 0.14
     },
     "performance": {
       "count": 2,
       "time": 0.18
     }
   },
-  "total_time": 17.14
+  "total_time": 17.04
 }
