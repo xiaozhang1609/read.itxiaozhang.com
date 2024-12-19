@@ -360,7 +360,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/11/30/9ba014ae-5023-41ba-8414-b725d6bd2d67.jpg",
         "rating": 8.5,
-        "rating_count": 130,
+        "rating_count": 131,
         "brief": "Apple TV+续订《流人》第三、四季，第三季改编原著系列中的第三本《Real Tigers》。\r\n当Jackson Lamb手下的一员被绑架后，这群废柴间谍合作阻止一名擅自行动的流氓特工。",
         "id": "https://neodb.social/tv/season/3nfveBbMneBefgMBcWhZ3M",
         "type": "TVSeason",
@@ -416,7 +416,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/09/59f49696-e8a1-40b8-a956-07cc5e7e6891.jpg",
         "rating": 8.5,
-        "rating_count": 174,
+        "rating_count": 175,
         "brief": "该剧根据Mick Herron的同名系列小说改编，故事围绕着军情五处内一个不正常的特务组，以及他们讨人厌的老板：臭名满天下的杰克逊·兰姆（加里·奥德曼 饰）。他们在真假难辨的间谍世界中努力着，以保卫英国免受邪恶势力的侵害。",
         "id": "https://neodb.social/tv/season/2Eqn7nsOKfduXHmcvFFLQP",
         "type": "TVSeason",
@@ -468,7 +468,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/04/15b785f2f1-4e5a-4ab8-8344-90049e5ac6fb.jpg",
         "rating": 8.3,
-        "rating_count": 271,
+        "rating_count": 272,
         "brief": "该剧根据Mick Herron的同名系列小说改编，讲述一队英国情报人员在军情五处的一个垃圾倾倒场Slough House工作。奥德曼饰演才华横溢但脾气暴躁的间谍首领杰克森，因犯错导致职业生涯结束而被关进了这里。",
         "id": "https://neodb.social/tv/season/4ZML2fMKimevs00ZNNZdUL",
         "type": "TVSeason",
@@ -2455,6 +2455,47 @@
         ]
       },
       "created_time": "2023-12-15T13:54:00Z",
+      "comment_text": null,
+      "rating_grade": 8,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
+      "item": {
+        "title": "黑门",
+        "description": "2058年，人们安居乐业，科技高度发展，脑机系统（人脑与计算机互联）早已走入人们的生活。在白洋市一家叫做“绿洲”的脑机系统科技公司，在不断深入研究人脑世界（脑宇宙）时，发现了一种奇怪的症状，他们称之为“蜂群症”。为了遏制“蜂群症”的蔓延，众多平凡英雄前仆后继，一段波澜壮阔的故事就此拉开帷幕。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "黑门"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "2058年，人们安居乐业，科技高度发展，脑机系统（人脑与计算机互联）早已走入人们的生活。在白洋市一家叫做“绿洲”的脑机系统科技公司，在不断深入研究人脑世界（脑宇宙）时，发现了一种奇怪的症状，他们称之为“蜂群症”。为了遏制“蜂群症”的蔓延，众多平凡英雄前仆后继，一段波澜壮阔的故事就此拉开帷幕。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/movie/2022/09/11fd3c7e7d-4e00-4a70-9c44-f8cf1a418e56.jpg",
+        "rating": 6.9,
+        "rating_count": 9,
+        "brief": "2058年，人们安居乐业，科技高度发展，脑机系统（人脑与计算机互联）早已走入人们的生活。在白洋市一家叫做“绿洲”的脑机系统科技公司，在不断深入研究人脑世界（脑宇宙）时，发现了一种奇怪的症状，他们称之为“蜂群症”。为了遏制“蜂群症”的蔓延，众多平凡英雄前仆后继，一段波澜壮阔的故事就此拉开帷幕。",
+        "id": "https://neodb.social/tv/season/23FG6neljZnz7wAQ7OnXOU",
+        "type": "TVSeason",
+        "uuid": "23FG6neljZnz7wAQ7OnXOU",
+        "url": "/tv/season/23FG6neljZnz7wAQ7OnXOU",
+        "api_url": "/api/tv/season/23FG6neljZnz7wAQ7OnXOU",
+        "category": "tv",
+        "parent_uuid": null,
+        "display_title": "黑门",
+        "external_resources": [
+          {
+            "url": "https://movie.douban.com/subject/35259439/"
+          }
+        ]
+      },
+      "created_time": "2023-11-23T13:54:00Z",
       "comment_text": null,
       "rating_grade": 8,
       "tags": []
@@ -5204,7 +5245,7 @@
       "tags": []
     }
   ],
-  "count": 94,
+  "count": 95,
   "category": "tv",
-  "updated_at": "2024-12-18T00:54:49.304577"
+  "updated_at": "2024-12-19T00:55:17.672564"
 }
