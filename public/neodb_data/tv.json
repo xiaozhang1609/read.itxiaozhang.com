@@ -1168,7 +1168,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/08/69d304f8-1a0f-4f06-9a4a-b1d870f43864.webp",
         "rating": 7.9,
-        "rating_count": 133,
+        "rating_count": 134,
         "brief": "Based on one of the greatest video game series of all time, Fallout is the story of haves and have-nots in a world in which there’s almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird and highly violent universe waiting for them.",
         "id": "https://neodb.social/tv/season/5FyXt7D9AV5ieWNoDj7OPV",
         "type": "TVSeason",
@@ -5247,5 +5247,5 @@
   ],
   "count": 95,
   "category": "tv",
-  "updated_at": "2024-12-19T00:55:17.672564"
+  "updated_at": "2024-12-20T00:52:32.437479"
 }
