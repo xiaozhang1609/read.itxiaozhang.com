@@ -468,7 +468,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/04/15b785f2f1-4e5a-4ab8-8344-90049e5ac6fb.jpg",
         "rating": 8.3,
-        "rating_count": 274,
+        "rating_count": 275,
         "brief": "该剧根据Mick Herron的同名系列小说改编，讲述一队英国情报人员在军情五处的一个垃圾倾倒场Slough House工作。奥德曼饰演才华横溢但脾气暴躁的间谍首领杰克森，因犯错导致职业生涯结束而被关进了这里。",
         "id": "https://neodb.social/tv/season/4ZML2fMKimevs00ZNNZdUL",
         "type": "TVSeason",
@@ -1454,6 +1454,9 @@
           },
           {
             "url": "https://www.themoviedb.org/tv/94605/season/1"
+          },
+          {
+            "url": "https://bgm.tv/subject/335036"
           }
         ]
       },
@@ -2119,7 +2122,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/03/14/e0cc80de-58b3-4a0c-ba0b-cb1ed25f326a.webp",
         "rating": 8.9,
-        "rating_count": 435,
+        "rating_count": 436,
         "brief": "2013年，突变的虫草菌肆虐美国，真菌将人类宿主变成了攻击性超强的吃人怪物。20年后，人类文明已面目全非，幸存者只能生活在治安隔离区。一天，乔尔（佩德罗·帕斯卡 饰）和泰丝（安娜·托芙 饰）接了一个赏金任务，要护送一个14岁的女孩艾莉（贝拉·拉姆齐 饰）去反抗组织火萤的研究基地。可他们不知道的是，女孩身上隐藏着一个关系到人类文明延续的秘密……",
         "id": "https://neodb.social/tv/season/1LaJ8HkYNgWaCDJk6OnZbA",
         "type": "TVSeason",
@@ -2642,7 +2645,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2024/04/17/7d1bda2d-db00-4136-a4cb-6ef3f39ef985.jpg",
         "rating": 7.2,
-        "rating_count": 73,
+        "rating_count": 72,
         "brief": "不明寄生生物强行侵占人类宿主的身体并夺得力量，人类必须挺身作战，对抗日益壮大的威胁。",
         "id": "https://neodb.social/tv/season/22yN2w1UhPOZ3iE42sWQuA",
         "type": "TVSeason",
@@ -5247,5 +5250,5 @@
   ],
   "count": 95,
   "category": "tv",
-  "updated_at": "2024-12-23T00:53:59.210607"
+  "updated_at": "2024-12-24T00:52:32.517568"
 }
