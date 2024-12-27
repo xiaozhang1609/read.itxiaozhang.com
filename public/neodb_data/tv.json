@@ -360,7 +360,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/11/30/9ba014ae-5023-41ba-8414-b725d6bd2d67.jpg",
         "rating": 8.5,
-        "rating_count": 134,
+        "rating_count": 135,
         "brief": "Apple TV+续订《流人》第三、四季，第三季改编原著系列中的第三本《Real Tigers》。\r\n当Jackson Lamb手下的一员被绑架后，这群废柴间谍合作阻止一名擅自行动的流氓特工。",
         "id": "https://neodb.social/tv/season/3nfveBbMneBefgMBcWhZ3M",
         "type": "TVSeason",
@@ -5043,10 +5043,10 @@
         "display_title": "乒乓",
         "external_resources": [
           {
-            "url": "https://movie.douban.com/subject/25813424/"
+            "url": "https://www.themoviedb.org/tv/60811/season/1"
           },
           {
-            "url": "https://www.themoviedb.org/tv/60811/season/1"
+            "url": "https://movie.douban.com/subject/25813424/"
           }
         ]
       },
@@ -5250,5 +5250,5 @@
   ],
   "count": 95,
   "category": "tv",
-  "updated_at": "2024-12-26T00:52:06.022904"
+  "updated_at": "2024-12-27T00:52:23.218814"
 }
