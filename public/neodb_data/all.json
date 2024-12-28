@@ -4,6 +4,225 @@
       "shelf_type": "complete",
       "visibility": 0,
       "item": {
+        "title": "大话王",
+        "description": "弗莱彻是个炙手可热的大律师，他追求的物质生活，跟他在法庭上追求的真相一样：一切都能以金钱来衡量。事实对他来说，远不及有力的辩词来得重要，于是他为了胜诉，在法庭上说谎骗人，丝毫不以为意。久而久之，他在日常生活上也变得口是心非，成为不可救药的大骗子。就连他和前妻所生的5岁小儿子麦克斯，都对他的谎言习以为常，虽然如此，每次麦克斯遇到父亲爽约，却编造谎言当藉口时，他还是会伤心难过。 　　麦克斯生日那天，弗莱彻又因事失约，没有能前往参加他的生日派对，失望的麦克斯于是在许愿时许下父亲能有一天不能说谎的心愿，一连串神奇的事情也因此发生了……",
+        "localized_title": [
+          {
+            "lang": "ko",
+            "text": "라이어 라이어"
+          },
+          {
+            "lang": "ja",
+            "text": "ライアー ライアー"
+          },
+          {
+            "lang": "pt",
+            "text": "O Mentiroso Compulsivo"
+          },
+          {
+            "lang": "de",
+            "text": "Der Dummschwätzer"
+          },
+          {
+            "lang": "fr",
+            "text": "Menteur, menteur"
+          },
+          {
+            "lang": "es",
+            "text": "Mentiroso compulsivo"
+          },
+          {
+            "lang": "en",
+            "text": "Liar Liar"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "大話王"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "王牌大騙子"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "大话王"
+          },
+          {
+            "lang": "it",
+            "text": "Bugiardo bugiardo"
+          },
+          {
+            "lang": "da",
+            "text": "Fuld af løgn"
+          },
+          {
+            "lang": "lt",
+            "text": "Liar Liar"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "王牌大骗子(台)"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "说谎者"
+          },
+          {
+            "lang": "fr",
+            "text": "Menteur menteur"
+          },
+          {
+            "lang": "lt",
+            "text": "Bugiardo bugiardo"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "ko",
+            "text": "플레처 리드(Fletcher Reede: 짐 캐리 분)는 소송에 이기기 위해서는 모든 수단과 방법을 가리지 않는 악질 변호사이다. 그의 거짓말은 타의 추종을 불허할 정도로 능수능란해서 그의 처와 하나밖에 없는 아들 맥스(Max: 저스틴 쿠퍼 분)에게도 이미 신용을 잃은 상태이다. 가족과의 약속을 항상 지키지 못하고 변명만 하던 어느날, 아들 맥스의 생일때는 꼭 참석하겠다고 굳게 약속한다. 맥스는 기대에 부풀어 친구들과 생일파티를 준비해놓고 기다리지만 아빠는 끝내 나타나지 않는다. 실망한 맥스는 아빠가 원망스러워 생일 소원을 빌면서 아빠가 하루만이라도 거짓말을 하지 말아달라고 기도한다. 그런데, 신기하게도 맥스의 소원은 이루어진다. 다음날부터 플레처는 거짓말을 하려고 하지만 자신의 의지와는 상관없이 계속 정직한 말만 튀어나오게 되자 상당한 곤욕을 치룬다. 엘리베이터에서, 사무실에서, 거리에서 심지어는 법정에서 거짓말을 못하게되자 그의 생활은 엉망진창이 되어버린다. 나중에 아들이 그런 소원을 빌었다는 말을 들은 플레처는 맥스에게 그 소원을 취소하고 다른 소원을 빌어달라고 부탁하지만 그의 바램은 이루어지지 않았다. 하지만 법정에서 진심으로 아이들을 사랑하는 상대편 의뢰인을 보고 아들을 사랑하는 마음이 되살아난다. 한편 자신의 전처 오드리(Audrey: 모라 티어네이 분)는 다른 남자를 만나 아들 맥스와 함께 보스톤으로 떠나려 한다. 보스톤행 비행기의 출발 시간은 다가오고 플레처는 소송 때문에 애를 태워야만 했다. 가까스로 소송을 끝내고 보스톤으로 배웅해주겠다는 아들과의 약속을 지키기 위해 공항으로 달려간다."
+          },
+          {
+            "lang": "ja",
+            "text": "フレッチャー・リードは自他共に認める一流の弁護士。どんなに無理な依頼でも、彼は得意の“嘘”で無罪を勝ち取ってしまう。そのいかなる時も嘘をついて切り抜ける姿勢は私生活でも変わらず、そんな彼に妻のオードリーは愛想を尽かして息子のマックスを連れて出て行ってしまう。それでも彼は嘘をつくことをやめず、マックスの誕生日パーティをすっぽかし、またも適当な嘘でごまかすのだった。その夜、傷ついたマックスは「パパが一日だけでも嘘をつきませんように」と神に願う。するとフレッチャーは絶対に嘘をつけないようになってしまった。そして順調だった彼の人生は一変する。"
+          },
+          {
+            "lang": "pt",
+            "text": "Fletcher Reede é um advogado obcecado com a carreira, disposto a tudo para conseguir ganhar os casos, nem que para isso tenha de mentir. Mas o mau hábito acaba por afectar a própria família, colocando em risco o seu casamento com Audrey e o relacionamento com o filho Max. No dia do aniversário de Max, Fletcher não pode ir à festa e inventa uma desculpa. Quando chega altura de apagar as velas, o menino pede um desejo: que o seu pai não minta por um dia. E o desejo de Max vai realizar-se."
+          },
+          {
+            "lang": "de",
+            "text": "Fletcher Reede ist Anwalt, unzuverlässig und er lügt, dass sich die Balken biegen. Sein Sohn Max , der bei Fletchers Ex-Frau Audrey lebt und von Fletcher schon oft enttäuscht wurde, entlockt seinem Vater jedoch ein großes Versprechen: Fletcher soll 24 Stunden nicht lügen. Leichtfertig willigt Fletcher ein und hat noch keine Vorstellung davon, was der Wunsch seines Sohnes mit sich bringen könnte. Das Versprechen hat Konsequenzen – privat und beruflich – denn selbst die simpelsten Höflichkeitsfloskeln gehen Fletcher nun nicht mehr über die Lippen. Als Fletcher dann auch noch erfährt, dass Audrey, ihr neuer Liebhaber und Sohn Max in eine andere Stadt ziehen wollen, muss Fletcher alles geben. Und ganz nebenbei muss Fletcher lernen, dass es manchmal gar nicht so verkehrt ist, bei der Wahrheit zu bleiben."
+          },
+          {
+            "lang": "fr",
+            "text": "Un jeune ténor du barreau gagne toutes les causes qu'il défend en mentant comme un arracheur de dents et en usant d'une mauvaise foi abyssale. Mais il est allé jusqu'à décevoir son propre fils qui, écoeuré, conçoit le souhait qu'il soit incapable de mentir pendant vingt-quatre heures. Ce qui va entraîner catastrophe sur catastrophe mais finalement lui remettre les pieds sur terre."
+          },
+          {
+            "lang": "es",
+            "text": "Fletcher Reed es un servidor de la justicia que se atiene a un sólo código ético: la verdad es negociable. Sin permitir que los hechos interfieran con un buen argumento, no tiene rival en cuanto a exagerar y distorsionar la verdad. Él es una persona muy convincente y un mentiroso empedernido que se está labrando una prometedora carrera legal, representando a los personajes más inmorales de la sociedad, clientes que otros abogados no representan por pura ética. Pero lo que hace de Fletcher un buen abogado es también lo que le convierte en un padre irresponsable. Un día, su hijo Max lo transforma en una persona honrada y Fletcher descubre que su más preciado tesoro, su boca, de repente se ha convertido en su más grave debilidad."
+          },
+          {
+            "lang": "en",
+            "text": "Fletcher Reed, a fast-talking, habitual liar, divorced father, is an incredibly successful lawyer who has built his career by lying. He is used to giving priority to his job and always breaking promises to be with his young son Max, but Fletcher often lets Max down, by missing his son's birthday party. But even then at 8:15 Max decides to make him an honest man as he wishes for a whole day where his father can't lie. When his son Max blows out the candles on his fifth birthday, he only has one wish - for his father to stop lying for 24 hours. When Max's wish comes true, Fletcher discovers that his mouth has suddenly become his biggest obstacle"
+          },
+          {
+            "lang": "zh-hk",
+            "text": ""
+          },
+          {
+            "lang": "zh-tw",
+            "text": "佛萊契瑞德是一個能幹精明的律師，崇尚錦衣美食及舒適的生活，奉行他個人的道德觀，那就是在法庭上，，實情」是談判的籌碼，所有的一切都隨時機而定。  靠著他的三寸不爛之舌，能把假的變成真的，且據「理」力爭，幫客戶打贏官司。他簡直滑溜的像一條泥鰍，讓人幾乎查不出事情的真偽。對瑞德而言，說謊話根本就是家常便飯。  儘管他是謊言專家卻不是個盡責的父親，由於一再對小兒子馬克斯失約，馬克斯在生日時便許下一個願望--希望爸爸能一天不說謊。奇妙的是這個願望竟然成真，瑞德發現自己平日的生財利器--他的嘴巴，居然不聽使喚，說出的話字字是真，叫他不知如何是好......。"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "弗莱彻是个炙手可热的大律师，他追求的物质生活，跟他在法庭上追求的真相一样：一切都能以金钱来衡量。事实对他来说，远不及有力的辩词来得重要，于是他为了胜诉，在法庭上说谎骗人，丝毫不以为意。久而久之，他在日常生活上也变得口是心非，成为不可救药的大骗子。就连他和前妻所生的5岁小儿子麦克斯，都对他的谎言习以为常，虽然如此，每次麦克斯遇到父亲爽约，却编造谎言当藉口时，他还是会伤心难过。 　　麦克斯生日那天，弗莱彻又因事失约，没有能前往参加他的生日派对，失望的麦克斯于是在许愿时许下父亲能有一天不能说谎的心愿，一连串神奇的事情也因此发生了……"
+          },
+          {
+            "lang": "it",
+            "text": "Un avvocato, Fletcher Reede (Jim Carrey) riesce a difendere i suoi clienti grazie alle bugie. Ma quelle che erano le sue necessità per il lavoro, si rivelano un grave problema in famiglia. Infatti la moglie, Audrey Reede (Maura Tierney) ha divorziato da più di sette mesi coabitando con il suo nuovo fidanzato Jerry (Cary Elwes). I guai sembravano finiti, ma Jerry deve tornare a un ospedale di Boston di cui ne è il capo, invitando Audrey e suo figlio Max a seguirlo."
+          },
+          {
+            "lang": "da",
+            "text": "Sandheden skal gøre dig fri – eller give dig en bunke problember! Der er stribevis af morsomheder fra start til slut, når det komiske geni Jim Carrey bruger alle tricksene i den vanvittige komedie fra instruktøren og producenten bag ”The Nutty Professor” Reed (Carrey) er en hurtigsnakkende advokat og lystløgner. Da hans søn Max (Justin Cooper) puster lysene ud på sin fødselsdagskage, har han kun ét ønske – at hans far vil holde op med at lyve i 24 timer. Da Max's ønske på mystisk vis går i opfyldelse, opdager Fletcher, at hans største fordel – hans snakketøj – pludselig er blevet en ulempe. Løssluppen ravage følger, mens Reede forsøger at holde sin praksis kørende og forhindre sin ekskone Audrey (Maura Tierney) i at flytte til Boston med deres søn."
+          },
+          {
+            "lang": "zh-cn",
+            "text": "弗莱切（金•凯瑞 Jim Carrey 饰）是个知名的大律师，为获得官司的胜利，他练就一身颠倒是非、扭转黑白的本领，那就是，谎话连连。说慌已经成为了弗莱切的本能反应，就连面对妻子和5岁的儿子麦克斯（Justin Cooper 饰）时都是如此。妻儿也早已习惯了他的作风。\n这天，是麦克斯的生日，弗莱切又因事不能来。弗莱切自然又满口谎言编造各种借口。失望的弗莱切许下了他的生日愿望：父亲有一天不能说谎了。神奇的事情发生了！弗莱切真的不能说谎了，他因此洋相连连：差点输掉官司、得罪上司……陷入空前混乱的弗莱切最终如何面对这一切？"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/movie/2021/09/15000b3b6b-44f3-49bc-8f4b-161e365621f5.jpg",
+        "rating": 7.4,
+        "rating_count": 189,
+        "brief": "弗莱彻是个炙手可热的大律师，他追求的物质生活，跟他在法庭上追求的真相一样：一切都能以金钱来衡量。事实对他来说，远不及有力的辩词来得重要，于是他为了胜诉，在法庭上说谎骗人，丝毫不以为意。久而久之，他在日常生活上也变得口是心非，成为不可救药的大骗子。就连他和前妻所生的5岁小儿子麦克斯，都对他的谎言习以为常，虽然如此，每次麦克斯遇到父亲爽约，却编造谎言当藉口时，他还是会伤心难过。 　　麦克斯生日那天，弗莱彻又因事失约，没有能前往参加他的生日派对，失望的麦克斯于是在许愿时许下父亲能有一天不能说谎的心愿，一连串神奇的事情也因此发生了……",
+        "id": "https://neodb.social/movie/5egesg2ITcwKRICAaRVrYM",
+        "type": "Movie",
+        "uuid": "5egesg2ITcwKRICAaRVrYM",
+        "url": "/movie/5egesg2ITcwKRICAaRVrYM",
+        "api_url": "/api/movie/5egesg2ITcwKRICAaRVrYM",
+        "category": "movie",
+        "parent_uuid": null,
+        "display_title": "大话王",
+        "external_resources": [
+          {
+            "url": "https://eggplant.place/movie/5UxFqNtasrjLgMecMhhUWT"
+          },
+          {
+            "url": "https://www.themoviedb.org/movie/1624"
+          },
+          {
+            "url": "https://movie.douban.com/subject/1295318/"
+          }
+        ]
+      },
+      "created_time": "2024-12-27T05:09:52.361Z",
+      "comment_text": null,
+      "rating_grade": 8,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
+      "item": {
+        "title": "好好先生",
+        "description": "已过而立之年的卡尔·阿伦（金·凯瑞 Jim Carrey 饰）虽然衣食无忧，但他的人生可谓失败透顶。三年前和妻子离婚，始终过着单身生活。他在银行工作，不过基本呈混吃等死、升迁无望的状态。生活中他拒绝和他人交往，反而更愿意窝在家里看电影，整个人生仿佛被灰色的浓雾所笼罩。在 朋友的建议下，卡尔来到一家名为“好好先生”的机构作咨询，在导师泰伦斯（特伦斯·斯坦姆普 Terence Stamp 饰）的指引下，他尝试对生活中每一个问题都以肯定的方式回答。这小小的改变令卡尔的人生天翻地覆，荣誉、金钱、机遇、爱情接踵而来，正当他信心满满之时，却发现人生并非像他想得如此简单……\n本片改编自英国喜剧演员、作家丹尼·华莱士（Danny Wallace）的同名自传，并荣获2009年MTV最佳喜剧表演奖（Jim Carrey）。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "好好先生"
+          },
+          {
+            "lang": "en",
+            "text": "Yes Man"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "乜都得先生(港)"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "没问题先生(台)"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "应声虫"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "已过而立之年的卡尔·阿伦（金·凯瑞 Jim Carrey 饰）虽然衣食无忧，但他的人生可谓失败透顶。三年前和妻子离婚，始终过着单身生活。他在银行工作，不过基本呈混吃等死、升迁无望的状态。生活中他拒绝和他人交往，反而更愿意窝在家里看电影，整个人生仿佛被灰色的浓雾所笼罩。在 朋友的建议下，卡尔来到一家名为“好好先生”的机构作咨询，在导师泰伦斯（特伦斯·斯坦姆普 Terence Stamp 饰）的指引下，他尝试对生活中每一个问题都以肯定的方式回答。这小小的改变令卡尔的人生天翻地覆，荣誉、金钱、机遇、爱情接踵而来，正当他信心满满之时，却发现人生并非像他想得如此简单……\n本片改编自英国喜剧演员、作家丹尼·华莱士（Danny Wallace）的同名自传，并荣获2009年MTV最佳喜剧表演奖（Jim Carrey）。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/movie/2021/09/160e018b2d-fa80-44b2-bc46-8e8da412d3c9.jpg",
+        "rating": 7.5,
+        "rating_count": 255,
+        "brief": "已过而立之年的卡尔·阿伦（金·凯瑞 Jim Carrey 饰）虽然衣食无忧，但他的人生可谓失败透顶。三年前和妻子离婚，始终过着单身生活。他在银行工作，不过基本呈混吃等死、升迁无望的状态。生活中他拒绝和他人交往，反而更愿意窝在家里看电影，整个人生仿佛被灰色的浓雾所笼罩。在 朋友的建议下，卡尔来到一家名为“好好先生”的机构作咨询，在导师泰伦斯（特伦斯·斯坦姆普 Terence Stamp 饰）的指引下，他尝试对生活中每一个问题都以肯定的方式回答。这小小的改变令卡尔的人生天翻地覆，荣誉、金钱、机遇、爱情接踵而来，正当他信心满满之时，却发现人生并非像他想得如此简单……\n本片改编自英国喜剧演员、作家丹尼·华莱士（Danny Wallace）的同名自传，并荣获2009年MTV最佳喜剧表演奖（Jim Carrey）。",
+        "id": "https://neodb.social/movie/79Z7DfZMnTxGHw7QhTO95G",
+        "type": "Movie",
+        "uuid": "79Z7DfZMnTxGHw7QhTO95G",
+        "url": "/movie/79Z7DfZMnTxGHw7QhTO95G",
+        "api_url": "/api/movie/79Z7DfZMnTxGHw7QhTO95G",
+        "category": "movie",
+        "parent_uuid": null,
+        "display_title": "好好先生",
+        "external_resources": [
+          {
+            "url": "https://movie.douban.com/subject/2147854/"
+          },
+          {
+            "url": "https://www.themoviedb.org/movie/10201"
+          }
+        ]
+      },
+      "created_time": "2024-12-26T13:54:00Z",
+      "comment_text": null,
+      "rating_grade": 8,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
+      "item": {
         "title": "雪国列车",
         "description": "为了应对愈演愈烈的温室效应，世界各国在2014年发射了代号CW-7的冷冻剂，谁知却将地球推入了万劫不复的极寒深渊。大多数的人类死于寒冷与恐慌，只有为数不多的数千人登上了威尔福德工业开发的列车，成为永不停歇的流浪者。这列火车借助威尔福德（艾德·哈里斯 Ed Harris 饰）开发的永动引擎，并且配备各种完备设施，在之后的十七年里构建了属于自己的独立生态系统，周而复始旋转在43.8万公里的漫长旅途中。生活在末尾车厢的底层人民一直饱受压迫，为了争取自由和权力，他们在过去发起过多次暴动，但无疑例外均以失败告终。这一次，拥有领袖气质的柯蒂斯（克里斯·埃文斯 Chris Evans 饰）试图找到被囚禁的安保设计师南宫民秀（宋康昊 饰），借助他之手打开通往首节车厢的重重大门，推翻威尔福德的统治。新年伊始，一场血腥革命正在进行……\n本片根据根据法国漫画《Le Transperceneige》改编。",
         "localized_title": [
@@ -40,7 +259,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1547b89f8e-94c0-435e-8c7f-6b4513db2842.jpg",
         "rating": 7.1,
-        "rating_count": 1115,
+        "rating_count": 1116,
         "brief": "为了应对愈演愈烈的温室效应，世界各国在2014年发射了代号CW-7的冷冻剂，谁知却将地球推入了万劫不复的极寒深渊。大多数的人类死于寒冷与恐慌，只有为数不多的数千人登上了威尔福德工业开发的列车，成为永不停歇的流浪者。这列火车借助威尔福德（艾德·哈里斯 Ed Harris 饰）开发的永动引擎，并且配备各种完备设施，在之后的十七年里构建了属于自己的独立生态系统，周而复始旋转在43.8万公里的漫长旅途中。生活在末尾车厢的底层人民一直饱受压迫，为了争取自由和权力，他们在过去发起过多次暴动，但无疑例外均以失败告终。这一次，拥有领袖气质的柯蒂斯（克里斯·埃文斯 Chris Evans 饰）试图找到被囚禁的安保设计师南宫民秀（宋康昊 饰），借助他之手打开通往首节车厢的重重大门，推翻威尔福德的统治。新年伊始，一场血腥革命正在进行……\n本片根据根据法国漫画《Le Transperceneige》改编。",
         "id": "https://neodb.social/movie/2uW3JMR8ZIwzcrmdWTv6j9",
         "type": "Movie",
@@ -755,7 +974,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/16573efe00-fcb2-44d8-803a-538702f09986.jpg",
         "rating": 8.9,
-        "rating_count": 357,
+        "rating_count": 358,
         "brief": "《许三观卖血记》是余华1995年创作的一部长篇小说，它以博大的温情描绘了磨难中的人生，以激烈的故事形式表达了人在面对厄运时求生的欲望。小说讲述了许三观靠着卖血渡过了人生的一个个难关，战胜了命运强加给他的惊涛骇浪，而当他老了，知道自己的血再也没有人要时，精神却崩溃了。",
         "id": "https://neodb.social/book/4tvMgmCZtnRo56WGqFkWY2",
         "type": "Edition",
@@ -1279,7 +1498,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/05/14/c6b6a72c-2a26-487c-9c3f-54c23cf4ca9e.webp",
         "rating": 8.8,
-        "rating_count": 2279,
+        "rating_count": 2280,
         "brief": "民国年间，花钱捐得县长的马邦德（葛优 饰）携妻（刘嘉玲 饰）及随从走马上任。途经南国某地，遭劫匪张麻子（姜文 饰）一伙伏击，随从尽死，只夫妻二人侥幸活命。马为保命，谎称自己是县长的汤 师爷。为汤师爷许下的财富所动，张麻子摇身一变化身县长，带着手下赶赴鹅城上任。有道是天高皇帝远，鹅城地处偏僻，一方霸主黄四郎（周润发 饰）只手遮天，全然不将这个新来的县长放在眼里。张麻子痛打了黄的武教头（姜武 饰），黄则设计害死张的义子小六（张默 饰）。原本只想赚钱的马邦德，怎么也想不到竟会被卷入这场土匪和恶霸的角力之中。鹅城上空愁云密布，血雨腥风在所难免……\r\n本片根据马识途的小说《夜谭十记》中的《盗官记》一章改编。",
         "id": "https://neodb.social/movie/3W1p0hQhFGBgOYN4o0E3cT",
         "type": "Movie",
@@ -1331,7 +1550,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158a5847a4-2665-4249-8fcd-c0516f4820e7.jpg",
         "rating": 8.0,
-        "rating_count": 591,
+        "rating_count": 592,
         "brief": "该片改编自莫言1986年发表的两部中篇小说《红高粱》和《高粱酒》。因为一匹骡子，“ 我奶奶”九儿（巩俐饰）的父母要她嫁给一位拥有一座酒坊的50岁麻风病人。九儿乘坐花轿出嫁时，在途中被一名强盗拦截。其中一名抬轿男子余占鳌（姜文饰）打退了强盗，九儿因而和他开始相互喜欢。3天后九儿回乡探望父母 。抬轿男子突然从高粱田里冲出来，抢走了九儿。他们在高粱田野外交合。九儿回到酒坊的时候发现麻风病的丈夫死了，“ 我奶奶”撑起李家的烧酒作坊，不久余占鳌正式成为 “我爷爷”，并独创酿制好酒十八红的方法。抗日战争期间，“我爷爷”和“我奶奶”连手谱写了一曲悲歌。",
         "id": "https://neodb.social/movie/5sKjjUaNQG3eM8W7FkGmwt",
         "type": "Movie",
@@ -1563,7 +1782,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ef885c05-3eb7-48f9-8a51-ffc98674447b.jpg",
         "rating": 8.1,
-        "rating_count": 690,
+        "rating_count": 691,
         "brief": "在南京开小书店的王平（吴伟 饰）背着妻子林雪（江佳奇 饰）与男同性恋者姜城（秦昊饰）有染。对丈夫行为生疑的林雪委托罗海涛（陈思成 饰）跟踪王平，发现了姜城的行踪。气愤的林雪到姜城任职的旅游公司大闹，迫使其与王平分手。罗海涛有一个在制衣厂做工的女友李静（谭卓 饰），但他却在跟踪的过程中对姜城产生了好感。罗海涛与分手后情绪低落的姜城交往，二人关系日渐亲密，但与此同时他又难舍李静。在三人共同出游的过程中，李静发现了罗海涛与姜城的暧昧关系，伤心落泪。一座城，许多人，都在感情的路上崎岖前行。\n本片被提名2009年第62届戛纳电影节金棕榈奖，并获最佳编剧奖。",
         "id": "https://neodb.social/movie/0wuHeSHIeXLtezLCsssmnf",
         "type": "Movie",
@@ -1818,7 +2037,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/05/05/ff4458fb-b949-416c-833f-def4a33e1a74.webp",
         "rating": 7.9,
-        "rating_count": 348,
+        "rating_count": 349,
         "brief": "1979年10月26日，时任韩国总统的朴正熙被自己的亲信射杀，局势顿时波谲云诡。为调查此事，陆军保安司令官全斗光（黄政民 饰）被任命为联合调查总部部长，而这个天生反骨的男人趁机扩大自己的势力，拉帮结伙，培植亲信，狼子野心昭然若揭。为了牵制全斗光，参谋总长任命将军李泰信（郑雨盛 饰）担任首都警备司令官，以防肘腋之变。与此同时，全斗光感受到来自总长的威胁，于是纠集亲信密谋逮捕总长，试图先下手为强。谁曾想全的人马急于求成，在未能逼迫代总统签署逮捕令之前便展开行动。成王败寇，一旦失败就会成为韩国的叛国者。一不做二不休的全斗光索性揭竿而起。\n而孤军奋战的李泰信，将秉承最朴素的信念与叛军展开对抗……",
         "id": "https://neodb.social/movie/6rjVMh6bdr8u0LJBAKf8Td",
         "type": "Movie",
@@ -1925,7 +2144,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15a5cb7008-acae-4a3b-8d5d-581355037dcf.jpg",
         "rating": 7.4,
-        "rating_count": 1362,
+        "rating_count": 1363,
         "brief": "2001年的某一天，刚刚考上大学的贾晓玲（贾玲 饰）经历了人生中的一次大起大落。一心想要成为母亲骄傲的她却因母亲突遭严重意外，而悲痛万分。在贾晓玲情绪崩溃的状态下，竟意外的回到了1981年，并与年轻的母亲李焕英（张小斐 饰）相遇，二人形影不离，宛如闺蜜。与此同时，也结识了一群天真善良的好朋友。晓玲以为来到了这片“广阔天地”，她可以凭借自己超前的思维，让母亲“大有作为”，但结果却让晓玲感到意外......",
         "id": "https://neodb.social/movie/4uYHvMrXEFGcX8koF4raMS",
         "type": "Movie",
@@ -2062,7 +2281,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/1659fe98c3-c730-4c99-8cf1-bf17727e61e6.jpg",
         "rating": 8.1,
-        "rating_count": 76,
+        "rating_count": 77,
         "brief": "莫言怀抱华美颓败的土地，决意对半个世纪的土地做出重述。莫言郑重地将土地放在记忆的丰碑前，看着它在历史中渐渐荒废并确认它在荒废中重新获得庄严、熔铸、锋利。\n《生死疲劳》是一部向中国古典小说和民间叙事的伟大传统致敬的大书。在这次神圣的“认祖归宗”仪式中，小说将六道轮回这一东方想象力草灰蛇线般隐没在全书的字里行间，写出了农民对生命无比执著的颂歌和悲歌。\n地主西门闹一家和农民蓝解放一家的故事充满了吊诡和狂热，唏嘘和罹难。当转世为人的“大头儿”终于执著坚定地叙述时，我们看到了一条生气沛然的人与土地、生与死，苦难与慈悲的大河，流进了我们的心田。\n在莫言对伟大古典小说呼应的那一刻，聆听到了“章回体”那最亲切熟悉的大音；莫言承受着生死疲劳的磨砺以及冤缠孽结，将中国人百感交集、庞杂喧哗的苦难经验化为纯美准确的诗篇，祈祷祖国庄严、宁静、祈望人类丰沛的生命祥和、自然。",
         "id": "https://neodb.social/book/2d1BQdJ5WJPu6YiCvd8rKa",
         "type": "Edition",
@@ -2290,7 +2509,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/156bbc2ea2-fc09-440a-bb29-83dd0339574a.jpg",
         "rating": 6.7,
-        "rating_count": 1251,
+        "rating_count": 1252,
         "brief": "被恶德男友强迫帮人送货的年轻女子露西（斯嘉丽·约翰逊 Scarlett Johansson 饰），遭遇了穷凶恶极的黑帮头目张先生（崔岷植 饰）一伙。她连同三个男人被张先生在腹部缝入了代号为CPH4的神秘药品，以此将药品偷偷带入不同国家。在台北盘桓期间，露西遭到恶男暴打，以致药品破裂进入血液之中。谁知令人难以置信的事情就此发生，药品激发了露西大脑的潜力，令人脑中约90%的神经元相继苏醒。伴随着身体的飞快进化，露西掌握了越来越多人们所谓的超能力。她清楚地了解到CPH4所拥有的强大威力，于是想方设法要阻止其他三袋药品落入张先生一伙手中。\n期间她试图与大脑研究方面的资深教授塞缪尔·诺曼（摩根·弗里曼 Morgan Freeman 饰）取得联系，在后者的见证下，露西将迎来大脑100%苏醒的历史性时刻……",
         "id": "https://neodb.social/movie/4byB5tFgbdwUuOO81GlSuM",
         "type": "Movie",
@@ -2338,7 +2557,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/07/01/f929217a-3c36-4a6e-8885-64fc07476424.webp",
         "rating": 6.0,
-        "rating_count": 199,
+        "rating_count": 200,
         "brief": "困苦的爹，辛劳的妈，破烂的院子，破碎的他。西虹市做大做强的路上怎么把老马家落下了？！\n“汤里没油，兜里没子”的马成钢（沈腾 饰）和春兰（马丽 饰），赶驴打工，家徒四壁，而儿子马继业（肖帛辰 饰）则是他们逆天改命的唯一希望。小马很争气，年年好成绩，一点不娇气，意志贼坚毅。但随着小马一天天长大，他却逐渐发现身边的人们都越来越不对劲……",
         "id": "https://neodb.social/movie/1O3OM5a0GELT6BtF7KEtUp",
         "type": "Movie",
@@ -2474,7 +2693,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15a2f45055-f7fd-4e4c-ba2b-c9438595671d.jpg",
         "rating": 8.0,
-        "rating_count": 747,
+        "rating_count": 748,
         "brief": "少年时代的一场意外让男孩小马（黄轩 饰）的双眼失去了光明，自杀未遂后，阴沉的小马辗转来到了由沙复明（秦昊 饰）所经营的盲人按摩中心就职。在这里，聚集了许多和小马一样的盲人，无论是先天还是后天，生活在共同的黑暗里让这群盲人之间产生了深厚而坚实的友谊。\n王大夫（郭晓冬 饰） 和女友小孔（张磊 饰）远道而来投奔沙复明，小孔充满了女人味的声音和气息令小马的内心产生了涟漪，执着而决绝的小马追寻着内心的声音，不断的向小孔靠近着。之后，一个名叫小蛮（黄璐 饰）的发廊小姐出现在了小马的生命里，随着时间的推移，小马竟然开始对小蛮产生了感情。",
         "id": "https://neodb.social/movie/4WzBsUhzv4IXog2TYyJAP4",
         "type": "Movie",
@@ -2913,7 +3132,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/08/29/43e193de-dc85-411d-8021-7d18962b38e7.jpg",
         "rating": 7.2,
-        "rating_count": 54,
+        "rating_count": 56,
         "brief": "三边坡，一处鱼龙混杂的热带异域，一个繁茂与衰败并生的斑驳之地。意外流落三边坡的打工小白沈星（郭麒麟 饰）遇到在多方势力间游走的三边坡和事佬猜叔（吴镇宇 饰），一场冒险，一段善良微光指引下的回归，在留与逃的挣扎中将如何上演。",
         "id": "https://neodb.social/tv/season/4GaDRvr7rVHzwX34tTa4q2",
         "type": "TVSeason",
@@ -3222,7 +3441,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/159f8910db-b66d-47a4-bfe2-681b9b942ab5.jpg",
         "rating": 7.6,
-        "rating_count": 1029,
+        "rating_count": 1030,
         "brief": "一出上世纪30年代旧上海的群像戏——叱咤风云的帮派大佬，不甘寂寞的交际花，说着地道上海话的日本妹夫，只收交通费的杀手，被冷落却忠诚的姨太太，外表光鲜的电影皇后，深宅大院里深不可测的管家，偶尔偷腥的电影皇帝，荷尔蒙满溢大脑的帮派小弟，一心想要破处的处男，善良的妓女，随波逐流的明星丈夫，投靠日本人的帮派二哥，日理万机却抽空恋爱的戴先生。\n战争之下，繁华落尽。帮派大佬逃亡香港，交际花不知所踪，日本妹夫死在上海，电影皇后被丈夫抛弃，处男遇上妓女，姨太太杀死二哥。战争惨烈，战争终于结束。",
         "id": "https://neodb.social/movie/3gajXpfqmeFgHOwLTNo61G",
         "type": "Movie",
@@ -3278,7 +3497,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/141ac4ecd0-60a1-4b48-9c43-a1fb3a42f224.jpg",
         "rating": 8.3,
-        "rating_count": 1510,
+        "rating_count": 1512,
         "brief": "《她》是讲述在不远的未来人与人工智能相爱的科幻爱情电影。主人公西奥多（杰昆·菲尼克斯 Joaquin Phoenix 饰）是一位信件撰写人，心思细腻而深邃，能写出最感人肺腑的信件。他刚结束与妻子凯瑟琳（鲁妮·玛拉 Rooney Mara 饰）的婚姻，还没走出心碎的阴影。一次偶然机会让他接触到最新的人工智能系统OS1，它的化身萨曼莎（斯嘉丽·约翰逊 Scarlett Johansson 声）拥有迷人的声线，温柔体贴而又幽默风趣。西奥多与萨曼莎很快发现他们如此的投缘，而且存在双向的需求与欲望，人机友谊最终发展成为一段不被世俗理解的奇异爱情......\n《她》主要在中国上海取景，由美国导演斯派克·琼斯历时3年筹备拍摄。电影融合了新奇的科幻设定与传统的浪漫气息，真人与虚拟共同谱写温暖治愈的恋曲。导演表示，这是一部探讨“亲密关系”的电影，因人类都渴望亲密关系，但是又对它害怕和抗拒；科技为沟通提供了便利，但也让人们躲在它后面，逃避真正的情感接触。《她》直接脱去科技冰冷的面纱，赋予它高度人性化和活色生香的情趣，让一段人机对话变成情人絮语。",
         "id": "https://neodb.social/movie/0LlndMsSi8vopNBGKyH3Yv",
         "type": "Movie",
@@ -3442,7 +3661,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/08/09/d546187f-bf96-4341-a492-99bc987de142.jpg",
         "rating": 7.4,
-        "rating_count": 120,
+        "rating_count": 123,
         "brief": "在一个宁静的社区里，受人尊敬的中年理发师马哈拉吉与女儿乔蒂和拉克希米住在一起。当马哈拉吉向警方报案称有蒙面入侵者袭击了他并抢劫了拉克希米时，当局却拒绝了这一说法，并怀疑她所失财物的真实性。尽管他多次试图寻求帮助，但他还是不惜一切代价，甚至在女儿回来之前亲自调查。随着疑点越来越多，大君的理智受到质疑，谜团也越来越深。",
         "id": "https://neodb.social/movie/6BC9VYt0bEyqrIyfp6OwXj",
         "type": "Movie",
@@ -4139,7 +4358,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/133604f9b2-b434-4aa8-92c0-e8f88336e4db.jpg",
         "rating": 9.3,
-        "rating_count": 2347,
+        "rating_count": 2348,
         "brief": "楚门（金•凯瑞 Jim Carrey 饰）是一个平凡得不能再平凡的人，除了一些有些稀奇的经历之外——初恋女友突然失踪、溺水身亡的父亲忽然似乎又出现在眼前，他和绝大多数30多岁的美国男人绝无异样。这令他倍感失落。他也曾试过离开自己生活了多年的地方，但总因种种理由而不能成行。\n直到有一天，他忽然发觉自己似乎一直在被人跟踪，无论他走到哪里，干什么事情。这种感觉愈来愈强烈。楚门决定不惜一切代价逃离这个他生活了30多年的地方，去寻找他的初恋女友。\n但他却发现自己怎样也逃不出去。真相其实很残忍。",
         "id": "https://neodb.social/movie/6KMxh5WhS3tgLgdGjWqUSV",
         "type": "Movie",
@@ -5230,7 +5449,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/156963fe1b-b7c5-48eb-bd54-03d23c3d8c01.jpg",
         "rating": 8.7,
-        "rating_count": 1782,
+        "rating_count": 1783,
         "brief": "正就读中学的少年迈尔斯（沙梅克·摩尔 Shameik Moore 配音）意外被一只遭受放射性污染的蜘蛛咬伤，随后身体发生奇特的变化。偶然机缘，他目睹了蜘蛛侠（克里斯·派恩 Chris Pine 配音）和犯罪头目金并（列维·施瑞博尔 Liev Schreiber 配音）的战斗。为了阻止金并利用时空对撞机扰乱宇宙，蜘蛛侠最终壮烈牺牲。可未过多久，来自平行宇宙的颓废的彼德·帕克（杰克·约翰逊 Jake M. Johnson 配音）出现在迈尔斯面前。为了阻止金并的阴谋，并帮助这个帕克返回自己的宇宙，他们闯入金并的老巢。在这一过程中，二人遭到章鱼博士和徘徊者的狙击。与此同时，来自其他宇宙的女蜘蛛侠、暗影蜘蛛侠、蜘猪侠、二次元蜘蛛妹相继出现。\n他们合力与恶势力展开斗争……",
         "id": "https://neodb.social/movie/7LXcnrlommYYE4oSom6OXI",
         "type": "Movie",
@@ -5694,7 +5913,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/06/1012f10cab-8842-442a-bd65-75dc2723a36b.jpg",
         "rating": 7.8,
-        "rating_count": 481,
+        "rating_count": 482,
         "brief": "开放世界角色扮演游戏《赛博朋克2077》将拍衍生动画剧集《Cyberpunk: Edgerunners》，2022年在Netflix上线，Studio Trigger和CD Projekt Red制作，今石洋之执导，共10集。动画剧聚焦一个街头成长的孩子在科技泛滥的城市中挣扎求生，成为了一个雇佣兵即edgerunner/cyberpunk。",
         "id": "https://neodb.social/tv/season/7PYVkySEYW8aKkOxFALUHy",
         "type": "TVSeason",
@@ -5884,7 +6103,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
         "rating": 9.0,
-        "rating_count": 520,
+        "rating_count": 521,
         "brief": "在积怨深重的孪生城市皮尔特沃夫和祖安，一场因魔法技术与信念冲突而引发的战争拉开序幕，分属敌对阵营的两姐妹展开对抗。",
         "id": "https://neodb.social/tv/season/49K22BtoKSg3oNXMNdViIW",
         "type": "TVSeason",
@@ -5942,7 +6161,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/05/08/b1302e71-dc78-444c-b77c-7c9963751aef.jpg",
         "rating": 8.0,
-        "rating_count": 218,
+        "rating_count": 219,
         "brief": "高中生蒲一永（曾敬骅 饰）遭遇生死边缘的车祸后陷入昏迷，醒来后意外拥有超能力，原本无聊的生活从此产生翻天覆地的改变，与菜鸟女警官陈楮英（宋芸桦 饰），以及校内死对头曹光砚（彭千祐 饰）三人一同展开了一场奇幻又疯狂的打怪旅程。",
         "id": "https://neodb.social/tv/season/2dDNx379ARQZo3rij3cUbQ",
         "type": "TVSeason",
@@ -6256,7 +6475,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2022/10/2573823f61-b01b-40a3-926a-f2563cbd989a.jpg",
         "rating": 7.8,
-        "rating_count": 194,
+        "rating_count": 195,
         "brief": "大唐天宝十四年，长安城的小吏李善德突然接到一个任务：要在贵妃诞日之前，从岭南运来新鲜荔枝。荔枝“一日色变，两日香变，三日味变”，而岭南距长安五千余里，山水迢迢，这是个不可能完成的任务，可为了家人，李善德决心放手一搏：“就算失败，我也想知道，自己倒在距离终点多远的地方。”",
         "id": "https://neodb.social/book/44L5oz7o3AkDfmKt8CVaEp",
         "type": "Edition",
@@ -6323,7 +6542,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/13/d643b437-3391-4e50-8c8e-22f26228aa04.jpg",
         "rating": 8.1,
-        "rating_count": 204,
+        "rating_count": 205,
         "brief": "该剧改编自姜草的同名漫画，讲述隐藏超能力生活于现在的孩子们，与隐藏过去痛苦的秘密的父母们共同面对跨越世代的巨大危险的超能力动作英雄故事。",
         "id": "https://neodb.social/tv/season/69AIBuiEdIWuSflP71zCi5",
         "type": "TVSeason",
@@ -6539,7 +6758,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/10/20/1da820fd-8dfc-40c4-95b4-84aaa71ee443.webp",
         "rating": 6.4,
-        "rating_count": 297,
+        "rating_count": 298,
         "brief": "老金（黄渤 饰）为供女儿金丽娜（周依然 饰）留学终日捕鱼，却换来女儿身中17刀离奇身亡的死讯，最大嫌疑人则指向她的男友李苗苗（张宥浩 饰）。愤怒的老金踏上跨海寻仇之路，李苗苗却在母亲景岚（周迅 饰）的庇护下不断潜逃……这场人性迷局中，究竟谁能抵达爱与宽恕的彼岸？",
         "id": "https://neodb.social/movie/3Dj1JNy6ouVms2AUT4pPy1",
         "type": "Movie",
@@ -6773,7 +6992,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/02/11/279d76f8-a2a0-4bca-8893-0e040c0f673e.jpg",
         "rating": 6.6,
-        "rating_count": 115,
+        "rating_count": 116,
         "brief": "改编自纪实文学《请转告局长，三大队任务完成了》。\r\n奸杀嫌犯因先前被群众殴打，死在审讯室中。负责此案的三大队也连带入狱。而另一名嫌犯还逍遥法外。出狱后，三大队在队长老程带领下追查其行踪，最终协助警方抓获嫌犯，追凶十二年。",
         "id": "https://neodb.social/movie/7mKTnEIpqPzDbCbZZzUY9v",
         "type": "Movie",
@@ -6982,7 +7201,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/17/da289586-3223-4796-9a8a-1aeae83663c3.jpg",
         "rating": 6.3,
-        "rating_count": 615,
+        "rating_count": 618,
         "brief": "商王殷寿（费翔 饰）勾结狐妖妲己（娜然 饰），暴虐无道，引发天谴。昆仑仙人姜子牙（黄渤 饰）携“封神榜”下山，寻找天下共主，以救苍生。西伯侯之子姬发（于适 饰）逐渐发现殷寿的本来面目，反出朝歌。各方势力暗流涌动，风云变幻端倪初显……",
         "id": "https://neodb.social/movie/5Xfum3pnX9THSwFnW5PLrY",
         "type": "Movie",
@@ -7056,6 +7275,64 @@
       "created_time": "2024-02-15T13:54:00Z",
       "comment_text": null,
       "rating_grade": 9,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
+      "item": {
+        "title": "宇宙探索编辑部",
+        "description": "脑洞大开高分奇片，地球人外星人千里奔现！\n唐志军（杨皓宇 饰）是一家诞生于上世纪八十年代的科幻杂志——《宇宙探索》编辑部的主编。现如今的杂志社日渐式微，唐志军也终成落魄潦倒，鳏寡孤独之人。但他却依然几十年如一日的痴迷于寻找地外文明。终于有一天，他接收到了一个疑似来自宇宙深处的异常信号，于是他召集同是天涯沦落人的伙伴们，带着那一个困惑他终生的问题，再一次踏上寻找外星人的旅途。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "宇宙探索编辑部"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "宇宙编辑部的故事"
+          },
+          {
+            "lang": "en",
+            "text": "Journey to the West"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "脑洞大开高分奇片，地球人外星人千里奔现！\n唐志军（杨皓宇 饰）是一家诞生于上世纪八十年代的科幻杂志——《宇宙探索》编辑部的主编。现如今的杂志社日渐式微，唐志军也终成落魄潦倒，鳏寡孤独之人。但他却依然几十年如一日的痴迷于寻找地外文明。终于有一天，他接收到了一个疑似来自宇宙深处的异常信号，于是他召集同是天涯沦落人的伙伴们，带着那一个困惑他终生的问题，再一次踏上寻找外星人的旅途。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/03/31/b84c552c-e4e4-4e40-a1f8-e78eca49f07e.jpg",
+        "rating": 7.7,
+        "rating_count": 892,
+        "brief": "脑洞大开高分奇片，地球人外星人千里奔现！\n唐志军（杨皓宇 饰）是一家诞生于上世纪八十年代的科幻杂志——《宇宙探索》编辑部的主编。现如今的杂志社日渐式微，唐志军也终成落魄潦倒，鳏寡孤独之人。但他却依然几十年如一日的痴迷于寻找地外文明。终于有一天，他接收到了一个疑似来自宇宙深处的异常信号，于是他召集同是天涯沦落人的伙伴们，带着那一个困惑他终生的问题，再一次踏上寻找外星人的旅途。",
+        "id": "https://neodb.social/movie/44E3AK7EKtc9fb3lBBqZNr",
+        "type": "Movie",
+        "uuid": "44E3AK7EKtc9fb3lBBqZNr",
+        "url": "/movie/44E3AK7EKtc9fb3lBBqZNr",
+        "api_url": "/api/movie/44E3AK7EKtc9fb3lBBqZNr",
+        "category": "movie",
+        "parent_uuid": null,
+        "display_title": "宇宙探索编辑部",
+        "external_resources": [
+          {
+            "url": "https://www.imdb.com/title/tt15072612/"
+          },
+          {
+            "url": "https://www.themoviedb.org/movie/851977"
+          },
+          {
+            "url": "https://eggplant.place/movie/1AxBFlumNtuT3z31DUyTZU"
+          },
+          {
+            "url": "https://movie.douban.com/subject/34941536/"
+          }
+        ]
+      },
+      "created_time": "2024-02-08T13:54:00Z",
+      "comment_text": null,
+      "rating_grade": 8,
       "tags": []
     },
     {
@@ -7193,64 +7470,6 @@
       "shelf_type": "complete",
       "visibility": 0,
       "item": {
-        "title": "宇宙探索编辑部",
-        "description": "脑洞大开高分奇片，地球人外星人千里奔现！\n唐志军（杨皓宇 饰）是一家诞生于上世纪八十年代的科幻杂志——《宇宙探索》编辑部的主编。现如今的杂志社日渐式微，唐志军也终成落魄潦倒，鳏寡孤独之人。但他却依然几十年如一日的痴迷于寻找地外文明。终于有一天，他接收到了一个疑似来自宇宙深处的异常信号，于是他召集同是天涯沦落人的伙伴们，带着那一个困惑他终生的问题，再一次踏上寻找外星人的旅途。",
-        "localized_title": [
-          {
-            "lang": "zh-cn",
-            "text": "宇宙探索编辑部"
-          },
-          {
-            "lang": "zh-cn",
-            "text": "宇宙编辑部的故事"
-          },
-          {
-            "lang": "en",
-            "text": "Journey to the West"
-          }
-        ],
-        "localized_description": [
-          {
-            "lang": "zh-cn",
-            "text": "脑洞大开高分奇片，地球人外星人千里奔现！\n唐志军（杨皓宇 饰）是一家诞生于上世纪八十年代的科幻杂志——《宇宙探索》编辑部的主编。现如今的杂志社日渐式微，唐志军也终成落魄潦倒，鳏寡孤独之人。但他却依然几十年如一日的痴迷于寻找地外文明。终于有一天，他接收到了一个疑似来自宇宙深处的异常信号，于是他召集同是天涯沦落人的伙伴们，带着那一个困惑他终生的问题，再一次踏上寻找外星人的旅途。"
-          }
-        ],
-        "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/03/31/b84c552c-e4e4-4e40-a1f8-e78eca49f07e.jpg",
-        "rating": 7.7,
-        "rating_count": 890,
-        "brief": "脑洞大开高分奇片，地球人外星人千里奔现！\n唐志军（杨皓宇 饰）是一家诞生于上世纪八十年代的科幻杂志——《宇宙探索》编辑部的主编。现如今的杂志社日渐式微，唐志军也终成落魄潦倒，鳏寡孤独之人。但他却依然几十年如一日的痴迷于寻找地外文明。终于有一天，他接收到了一个疑似来自宇宙深处的异常信号，于是他召集同是天涯沦落人的伙伴们，带着那一个困惑他终生的问题，再一次踏上寻找外星人的旅途。",
-        "id": "https://neodb.social/movie/44E3AK7EKtc9fb3lBBqZNr",
-        "type": "Movie",
-        "uuid": "44E3AK7EKtc9fb3lBBqZNr",
-        "url": "/movie/44E3AK7EKtc9fb3lBBqZNr",
-        "api_url": "/api/movie/44E3AK7EKtc9fb3lBBqZNr",
-        "category": "movie",
-        "parent_uuid": null,
-        "display_title": "宇宙探索编辑部",
-        "external_resources": [
-          {
-            "url": "https://www.imdb.com/title/tt15072612/"
-          },
-          {
-            "url": "https://www.themoviedb.org/movie/851977"
-          },
-          {
-            "url": "https://eggplant.place/movie/1AxBFlumNtuT3z31DUyTZU"
-          },
-          {
-            "url": "https://movie.douban.com/subject/34941536/"
-          }
-        ]
-      },
-      "created_time": "2024-02-08T13:54:00Z",
-      "comment_text": null,
-      "rating_grade": 8,
-      "tags": []
-    },
-    {
-      "shelf_type": "complete",
-      "visibility": 0,
-      "item": {
         "title": "中国奇谭",
         "description": "短片集由八个植根于中国传统文化的独立的故事组成：《小妖怪的夏天》《鹅鹅鹅》《林林》《乡村巴士带走了王孩儿和神仙》《小满》《玉兔》《小卖部》《飞鸟与鱼》，在观众面前铺陈开一个极具中式想象力和审美魅力的“妖怪”故事集。\r\n其中故事纵览古今、展望未来，从古代故事到科幻想象、 从乡土眷恋到唯美爱情、从生命母题到人性思考，展现着中式想象力、承载着中国民族文化与哲学。影片涵盖多种美术风格以及制作手法：既有传统的二维、剪纸、偶定格动画，又有CG、三渲二的现代技术，还有将素描与中国水墨韵味相结合的创新尝试，是创作者们对中国美学一次多视角的诠释。",
         "localized_title": [
@@ -7271,7 +7490,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/19/368cf45a-631c-4500-9ec0-c814f93efe6f.jpg",
         "rating": 7.9,
-        "rating_count": 248,
+        "rating_count": 249,
         "brief": "短片集由八个植根于中国传统文化的独立的故事组成：《小妖怪的夏天》《鹅鹅鹅》《林林》《乡村巴士带走了王孩儿和神仙》《小满》《玉兔》《小卖部》《飞鸟与鱼》，在观众面前铺陈开一个极具中式想象力和审美魅力的“妖怪”故事集。\r\n其中故事纵览古今、展望未来，从古代故事到科幻想象、 从乡土眷恋到唯美爱情、从生命母题到人性思考，展现着中式想象力、承载着中国民族文化与哲学。影片涵盖多种美术风格以及制作手法：既有传统的二维、剪纸、偶定格动画，又有CG、三渲二的现代技术，还有将素描与中国水墨韵味相结合的创新尝试，是创作者们对中国美学一次多视角的诠释。",
         "id": "https://neodb.social/tv/season/6I6TutwG8JI3xyOgioAqEJ",
         "type": "TVSeason",
@@ -7320,7 +7539,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/11/10/3577ead9-a516-4fbf-90cc-7810c773e4b9.jpg",
         "rating": 8.0,
-        "rating_count": 922,
+        "rating_count": 924,
         "brief": "当我们为权力金钱焦虑、兴奋与愤怒时，却根本想象不到“他们”在谈论着怎样更重要的事情。\n随着战争阴云笼罩世界上空，各国紧锣密鼓抓紧军事竞赛。为了抢占先机，美国陆军中将莱斯利·格罗夫斯（马特·达蒙 Matt Damon 饰）找到量子力学与核物理学领域的扛鼎人物罗伯特·奥本海默（基里安·墨菲 Cillian Murphy 饰），力荐其担任曼哈顿计划的首席科学家以及洛斯阿拉莫斯国家实验室的总负责人。经过两年争分夺秒的研发，硕大的蘑菇云终于在荒原的上空腾起，也宣告着绞肉机一般的二战即将落下帷幕。奥本海默有如将火种带到人间的普罗米修斯，可是对人性的参悟和对未来的担忧迫使他走向与政府相悖的道路。更可悲的是，凡人钟情的物欲也将一世天才裹挟至炼狱之中，永世燃烧……",
         "id": "https://neodb.social/movie/5VHXvvI05hLkzedOSVa4z2",
         "type": "Movie",
@@ -7426,7 +7645,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/12/0838bda30b-4624-44fc-a506-fe2dec0f453c.jpg",
         "rating": 8.1,
-        "rating_count": 939,
+        "rating_count": 940,
         "brief": "本片讲述了留守少年阿娟和好友阿猫、阿狗在退役狮王咸鱼强的培训下参加舞狮比赛，经过重重磨砺，从病猫变成雄狮的成长故事。",
         "id": "https://neodb.social/movie/1PuzXvCdcayhObXGvLF7gL",
         "type": "Movie",
@@ -7505,7 +7724,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/03/41516609-e6fa-44a4-84af-430b4a20e707.jpg",
         "rating": 8.3,
-        "rating_count": 749,
+        "rating_count": 751,
         "brief": "影片讲述了新生代蜘蛛侠迈尔斯（沙梅克·摩尔 Shameik Moore 配音）携手蜘蛛格温（海莉·斯坦菲尔德 Hailee Steinfeld 配音），穿越多元宇宙踏上更宏大的冒险征程的故事。面临每个蜘蛛侠都会失去至亲的宿命，迈尔斯誓言打破命运魔咒，找到属于自己的英雄之路。而这个决定和蜘蛛侠2099（奥斯卡·伊萨克 Oscar Is aac 配音）所领军的蜘蛛联盟产生了极大冲突，一场以一敌百的蜘蛛侠大内战即将拉响！",
         "id": "https://neodb.social/movie/6TvJKU2rJ5SoJSeTLwdDdv",
         "type": "Movie",
@@ -7954,7 +8173,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/270dc3b5ec-1067-46cf-906a-902223291896.jpg",
         "rating": 8.7,
-        "rating_count": 54,
+        "rating_count": 55,
         "brief": "一边：葛雷博死后，斯巴达克斯和部下带领的克雷斯、甘尼克斯和艾力冈等带领下的奴隶起义军在向罗马进军的途中取得连续的胜利。解放后获得自由的奴隶们大多加入了这支军队，使得整个奴隶起义军的力量越发壮大。一步一步地威胁着罗马的统治。\n在这种形势下，斯巴达克斯比以前更坚信能拿下罗马；阿苏尔死后有意卸甲归田的妮维雅和克雷斯也重新找到了为之战斗的精神力量；反倒是甘尼克斯开始沉溺在糜烂的床上生活，和美女蛇萨莎搞在了一起。\n另一边：罗马元老院得到了财主克拉苏的援助。克拉苏是一个有勇有谋的人物，他懂的吸取前人的经验，并且尊重对手。加上年轻且战场经验丰富的凯撒加盟，克拉苏和斯巴达克斯的战争迫在眉睫。\n总之，《斯巴达克斯：亡者之役》将会带来你未曾见过的传奇史诗之旅。",
         "id": "https://neodb.social/tv/season/6XXqNtoCjzquJS3kkATZaN",
         "type": "TVSeason",
@@ -7965,6 +8184,9 @@
         "parent_uuid": "2aofe1KKVKNcC5qkfQOwo8",
         "display_title": "斯巴达克斯：诅咒者之战 第三季",
         "external_resources": [
+          {
+            "url": "https://eggplant.place/tv/season/7ZSQcBtFymm4a81yCtnuEX"
+          },
           {
             "url": "https://www.themoviedb.org/tv/46296/season/3"
           },
@@ -7998,7 +8220,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/02/0877652c-19db-4f9b-8be5-e8645b18db8b.jpg",
         "rating": 6.9,
-        "rating_count": 271,
+        "rating_count": 273,
         "brief": "安史之乱爆发后数年，吐蕃大军攻打西南。大唐节度使高适交战不利，长安岌岌可危。困守孤城的高适向监军太监回忆起自己与李白的一生往事。",
         "id": "https://neodb.social/movie/0DE4CClGV25yDhpLyQhrmt",
         "type": "Movie",
@@ -8046,7 +8268,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/05/13c80ca032-f642-4ed2-86c0-94704a240cf0.jpg",
         "rating": 7.0,
-        "rating_count": 218,
+        "rating_count": 219,
         "brief": "绰号“集安断尾虎”的昔日大佬魏平安，中年落魄，靠卖墓地为生，他的客户韩露“入住”后卷入一场谣言风波，面临墓地被“强拆”，为了一句承诺，魏平安想方设法试图查明真相，却发现散播谣言的人并不在乎真相，只在乎他们所相信的真相，而魏平安自己，也陷入了新的谣言。",
         "id": "https://neodb.social/movie/5uX15VSZj21aM8voysXdsg",
         "type": "Movie",
@@ -8233,7 +8455,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/12/01ee3e9dc1-74b7-4420-ad90-84759f7092e4.webp",
         "rating": 5.8,
-        "rating_count": 382,
+        "rating_count": 383,
         "brief": "2033年，为了抵御小行星的撞击，拯救地球，人类在月球部署了月盾计划。全员撤离时，维修工独孤月（沈腾 饰）被领队马蓝星（马丽 饰）落在了月球。不料月盾计划失败，独孤月成为了“宇宙最后的人类”，开始了他在月球上破罐子破摔的生活……",
         "id": "https://neodb.social/movie/0SW0IkbjMRJidamOBIOKE3",
         "type": "Movie",
@@ -8493,7 +8715,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2024/04/17/7d1bda2d-db00-4136-a4cb-6ef3f39ef985.jpg",
         "rating": 7.2,
-        "rating_count": 72,
+        "rating_count": 73,
         "brief": "不明寄生生物强行侵占人类宿主的身体并夺得力量，人类必须挺身作战，对抗日益壮大的威胁。",
         "id": "https://neodb.social/tv/season/22yN2w1UhPOZ3iE42sWQuA",
         "type": "TVSeason",
@@ -8541,7 +8763,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/131f51610c-f166-4ba3-a734-bf089151525e.jpg",
         "rating": 9.2,
-        "rating_count": 445,
+        "rating_count": 446,
         "brief": "本片分上下两集，讲述了位于湘、粤、桂三省交界处的芙蓉镇上，人称“芙蓉姐”的漂亮女人胡玉音（刘晓庆）在“四清运动”及“文化大革命”中的遭遇。\n1963年，凭着热情周到的服务，胡玉音与丈夫桂桂（刘利年）经营的米豆腐摊子前渐渐成为早市上最热闹的一道风景，加上夫妻俩省吃俭用，手中积攒了一 笔数目可观的财富。镇党支书也是胡玉音干哥的黎满庚（张光北）、粮站主任谷燕山（郑在石）及乡邻们都为他们高兴。当他们盖好新房准备日子更上一层楼时，迎上“四清运动”，一直嫉妒胡玉音的原国营饮食店经理、今县商业局科长李国香（徐松子）与二流子王秋赦（祝士彬）联手，趁机将她定性为“反革命五类分子”中的“富农婆”，将之派去与原县文化馆馆长、今被人称作“秦癫子”的“右派”秦书田（姜文）一起清扫大街，桂桂身亡。运动中黎满庚昧着良心将胡玉音背叛，谷燕山则一直以老革命军人的标准诚实做人。\n1966年，“文化大革命”开始，世道的荒谬从不停调换角色的李国香与王秋赦两人身上便可窥见。一起扫街时，胡玉音将自己的悲惨遭遇归罪于秦书田，后者曾在她与桂桂成亲之时唱了后被认为反革命的贺喜歌、在她新房子建成之时写了后被认为反革命的贺喜联。对于胡玉音的怨恨，秦书田并不多做辩解，相反时常暗中将她帮助。慢慢地，两人生出感情，计划着成为一家人好好生活，但前路充满血风腥雨。而在他们最艰难时，谷燕山从没忘伸手一帮。",
         "id": "https://neodb.social/movie/5jsADC9sGUhv0s3cPXPkRQ",
         "type": "Movie",
@@ -9382,7 +9604,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15a943f019-10a8-4203-a8b7-1c0ade81fde0.jpg",
         "rating": 8.5,
-        "rating_count": 2294,
+        "rating_count": 2296,
         "brief": "　　托尼（维果·莫腾森 Viggo Mortensen 饰）是一个吊儿郎当游手好闲的混混，在一家夜总会做侍者。这间夜总会因故要停业几个月，可托尼所要支付的房租和生活费不会因此取消，所以他的当务之急是去寻找另一份工作来填补这几个月的空缺。在这个节骨眼上，一位名叫唐雪莉（马赫沙拉·阿里 Mahershala Ali 饰）的黑人钢琴家提出雇佣托尼。\r 　　唐雪莉即将开始为期八个星期的南下巡回演出，可是，那个时候南方对黑人的歧视非常的严重，于是托尼便成为了唐雪莉的司机兼保镖。一路上，两人迥异的性格使得他们之间产生了很多的矛盾，与此同时，唐雪莉在南方所遭受的种种不公平的对待也让托尼对种族歧视感到深恶痛绝。",
         "id": "https://neodb.social/movie/3QjgE0V4yaQGbcjGtpvRIz",
         "type": "Movie",
@@ -9572,7 +9794,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/173a6861f9-395d-4813-b674-98bc8dc8f139.jpg",
         "rating": 8.3,
-        "rating_count": 63,
+        "rating_count": 64,
         "brief": "一场发生在巴蒂塔斯家的血腥屠杀结束了《斯巴达克斯： 血与沙》的故事，《斯巴达克斯：复仇》继续讲述角斗士的大暴动，罗马共和国为此深感惊恐。盖乌斯·克罗迪斯·葛雷博率领罗马军队前往卡普亚，企图消灭日渐壮大的、以斯巴达克斯为首的自由奴隶军，永绝后患。斯巴达 克斯面临两个选择，要么向奴役且杀害他妻子的人复仇，了结私人恩怨，要么忍辱负重，保存处于萌芽状态的奴隶军。史诗大戏斯巴达克斯传奇，携血腥残忍的动作，异域风情的性爱，扬善惩恶的主题，再度袭来。\n《斯巴达克斯》第二季《复仇》，由澳洲演员连姆·麦肯泰尔（Liam McIntyre）顶替罹患癌症已逝世的安迪·怀特菲尔德（Andy Whitfield），饰演斯巴达克斯。而该剧第一季，以新西兰女星露西·劳莱丝（Lucy Lawless）为首的其他演员也将悉数回归。\n《斯巴达克斯》讲述斯巴达克斯从奴隶变成英雄的血泪辛酸史。斯巴达克斯因为被罗马人背叛，被迫背井离乡，离开自己最爱的女人，流放成奴隶，变为角斗士，同时他还得面临来自财富，腐败，美色诱惑的考验，这一段罗马共和国历史上最富盛名的传奇故事无人不知。",
         "id": "https://neodb.social/tv/season/1IvVGVb5bdcsCNFUDu4XDG",
         "type": "TVSeason",
@@ -9583,6 +9805,9 @@
         "parent_uuid": "2aofe1KKVKNcC5qkfQOwo8",
         "display_title": "斯巴达克斯：复仇 第二季",
         "external_resources": [
+          {
+            "url": "https://eggplant.place/tv/season/6RH4nJXGWxW2uInARZ6QuE"
+          },
           {
             "url": "https://www.themoviedb.org/tv/46296/season/2"
           },
@@ -10154,7 +10379,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/145f861699-f73a-4881-8146-9f775950635b.jpg",
         "rating": 9.0,
-        "rating_count": 1195,
+        "rating_count": 1196,
         "brief": "根据余华同名小说改编。\n富少福贵（葛优）嗜赌成性，妻子家珍（巩俐）屡劝无果后带着女儿凤霞离开了他，当夜，福贵输光所有家产气死父亲，被迫靠变卖母亲首饰租间破屋过活。一年后，家珍手拉凤霞怀抱刚出世的儿子有庆回到家中，福贵痛改前非，开始靠演皮影戏过起安份守己的日子。\n但好景不常，内战时期，福贵被国民党抓去当劳工，一番辗转终回到家乡与一家人团圆后，凤霞因病变成哑巴，而在后来的大跃进运动和文化大革命中，他虽获某些小福，逆境却也一直与他如影相随。",
         "id": "https://neodb.social/movie/3hD43Qk0eUcU6grfX8wE19",
         "type": "Movie",
@@ -10252,61 +10477,6 @@
       "shelf_type": "complete",
       "visibility": 0,
       "item": {
-        "title": "了不起的盖茨比",
-        "description": "1922年的春天，作家尼克(托比•马奎尔 Tobey Maguire 饰)满怀希望离开家乡，随淘金热潮来到纽约这个新兴的城市，虽然这里爵士乐流行，股票飞涨，但是贫富两极分化，人们沉沦在纸醉金迷中。尼克为了追寻美国梦，放弃写作而进入证券市场，并搬入纽约附近的海湾居住，成为了神秘富豪盖茨比（莱昂纳多•迪卡普里奥 Leonardo DiCaprio 饰）的邻居。而海湾的对岸住着尼克的表妹黛西（凯瑞•穆里根 Carey Mulligan 饰）和她的贵族丈夫汤姆（乔尔•埃哲顿 Joel Edgerton 饰），尼克不仅被邀请去赴宴，之后汤姆还带着他去找情妇寻欢，尼克渐渐迷失在这个充满魅力，以及富豪编制的假象、爱与谎言的世界中。\n但是只有盖茨比最特别，他是唯一让尼克感到在这个迷失城市里充满希望的人。尼克被邀请参加了盖茨比豪宅中的盛宴，还发现盖茨比心中的秘密，原来他一直深爱着黛西，即使她没等到他战后归来，转而嫁给富豪汤姆，盖茨比一直深信他们的爱情矢志不渝。尼克作为盖茨比与黛西爱情的见证者，终于在盖茨比被谋杀之后，看清了这个上流社会的虚情寡义，决心远离喧嚣、冷漠、虚假的大都市，黯然回到故乡……",
-        "localized_title": [
-          {
-            "lang": "zh-cn",
-            "text": "了不起的盖茨比"
-          },
-          {
-            "lang": "en",
-            "text": "The Great Gatsby"
-          },
-          {
-            "lang": "zh-cn",
-            "text": "大亨小传(港/台)"
-          }
-        ],
-        "localized_description": [
-          {
-            "lang": "zh-cn",
-            "text": "1922年的春天，作家尼克(托比•马奎尔 Tobey Maguire 饰)满怀希望离开家乡，随淘金热潮来到纽约这个新兴的城市，虽然这里爵士乐流行，股票飞涨，但是贫富两极分化，人们沉沦在纸醉金迷中。尼克为了追寻美国梦，放弃写作而进入证券市场，并搬入纽约附近的海湾居住，成为了神秘富豪盖茨比（莱昂纳多•迪卡普里奥 Leonardo DiCaprio 饰）的邻居。而海湾的对岸住着尼克的表妹黛西（凯瑞•穆里根 Carey Mulligan 饰）和她的贵族丈夫汤姆（乔尔•埃哲顿 Joel Edgerton 饰），尼克不仅被邀请去赴宴，之后汤姆还带着他去找情妇寻欢，尼克渐渐迷失在这个充满魅力，以及富豪编制的假象、爱与谎言的世界中。\n但是只有盖茨比最特别，他是唯一让尼克感到在这个迷失城市里充满希望的人。尼克被邀请参加了盖茨比豪宅中的盛宴，还发现盖茨比心中的秘密，原来他一直深爱着黛西，即使她没等到他战后归来，转而嫁给富豪汤姆，盖茨比一直深信他们的爱情矢志不渝。尼克作为盖茨比与黛西爱情的见证者，终于在盖茨比被谋杀之后，看清了这个上流社会的虚情寡义，决心远离喧嚣、冷漠、虚假的大都市，黯然回到故乡……"
-          }
-        ],
-        "cover_image_url": "https://neodb.social/m/movie/2021/09/153c3015b5-9fa5-4673-a6d0-49abd1664fa9.jpg",
-        "rating": 7.4,
-        "rating_count": 1386,
-        "brief": "1922年的春天，作家尼克(托比•马奎尔 Tobey Maguire 饰)满怀希望离开家乡，随淘金热潮来到纽约这个新兴的城市，虽然这里爵士乐流行，股票飞涨，但是贫富两极分化，人们沉沦在纸醉金迷中。尼克为了追寻美国梦，放弃写作而进入证券市场，并搬入纽约附近的海湾居住，成为了神秘富豪盖茨比（莱昂纳多•迪卡普里奥 Leonardo DiCaprio 饰）的邻居。而海湾的对岸住着尼克的表妹黛西（凯瑞•穆里根 Carey Mulligan 饰）和她的贵族丈夫汤姆（乔尔•埃哲顿 Joel Edgerton 饰），尼克不仅被邀请去赴宴，之后汤姆还带着他去找情妇寻欢，尼克渐渐迷失在这个充满魅力，以及富豪编制的假象、爱与谎言的世界中。\n但是只有盖茨比最特别，他是唯一让尼克感到在这个迷失城市里充满希望的人。尼克被邀请参加了盖茨比豪宅中的盛宴，还发现盖茨比心中的秘密，原来他一直深爱着黛西，即使她没等到他战后归来，转而嫁给富豪汤姆，盖茨比一直深信他们的爱情矢志不渝。尼克作为盖茨比与黛西爱情的见证者，终于在盖茨比被谋杀之后，看清了这个上流社会的虚情寡义，决心远离喧嚣、冷漠、虚假的大都市，黯然回到故乡……",
-        "id": "https://neodb.social/movie/1RKw529fXy1hGGcCfQl5kU",
-        "type": "Movie",
-        "uuid": "1RKw529fXy1hGGcCfQl5kU",
-        "url": "/movie/1RKw529fXy1hGGcCfQl5kU",
-        "api_url": "/api/movie/1RKw529fXy1hGGcCfQl5kU",
-        "category": "movie",
-        "parent_uuid": null,
-        "display_title": "了不起的盖茨比",
-        "external_resources": [
-          {
-            "url": "https://www.themoviedb.org/movie/64682"
-          },
-          {
-            "url": "https://movie.douban.com/subject/3364223/"
-          },
-          {
-            "url": "https://eggplant.place/movie/4HGcuXrygn9ziA0zvunGfV"
-          }
-        ]
-      },
-      "created_time": "2022-08-31T13:54:00Z",
-      "comment_text": null,
-      "rating_grade": 9,
-      "tags": []
-    },
-    {
-      "shelf_type": "complete",
-      "visibility": 0,
-      "item": {
         "title": "魁拔Ⅲ战神崛起",
         "description": "历经惨烈的元泱界大战，成功突破魁拔十二妖第一道防线的蛮吉（刘婧荦 配音）、镜心（刘校妤 配音）一行，为追赶曲境一号再踏征途，却意外闯入萨库人大仓（王宇腾 配音）与粼妖姑娘海问香（姚姝 配音）所设下的诡异防线。面对大仓与海问香的步步紧逼，蛮吉等人无奈应战。激战中，神秘少年 敖江（刘校妤 配音）凭空出现、曲境一号舰长远浪（杨晨 配音）更做出种种令人匪夷所思的决定，让本已复杂的局面，越发显得扑朔迷离；而机缘巧合下，脉门封闭已久的蛮吉竟意外开启六大脉门，化身无敌战神，携魁拔脉兽驰骋于漫天烽火中，上演了一场气势磅礴的惊世之战……",
         "localized_title": [
@@ -10358,6 +10528,61 @@
       "created_time": "2022-08-31T13:54:00Z",
       "comment_text": null,
       "rating_grade": 8,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
+      "item": {
+        "title": "了不起的盖茨比",
+        "description": "1922年的春天，作家尼克(托比•马奎尔 Tobey Maguire 饰)满怀希望离开家乡，随淘金热潮来到纽约这个新兴的城市，虽然这里爵士乐流行，股票飞涨，但是贫富两极分化，人们沉沦在纸醉金迷中。尼克为了追寻美国梦，放弃写作而进入证券市场，并搬入纽约附近的海湾居住，成为了神秘富豪盖茨比（莱昂纳多•迪卡普里奥 Leonardo DiCaprio 饰）的邻居。而海湾的对岸住着尼克的表妹黛西（凯瑞•穆里根 Carey Mulligan 饰）和她的贵族丈夫汤姆（乔尔•埃哲顿 Joel Edgerton 饰），尼克不仅被邀请去赴宴，之后汤姆还带着他去找情妇寻欢，尼克渐渐迷失在这个充满魅力，以及富豪编制的假象、爱与谎言的世界中。\n但是只有盖茨比最特别，他是唯一让尼克感到在这个迷失城市里充满希望的人。尼克被邀请参加了盖茨比豪宅中的盛宴，还发现盖茨比心中的秘密，原来他一直深爱着黛西，即使她没等到他战后归来，转而嫁给富豪汤姆，盖茨比一直深信他们的爱情矢志不渝。尼克作为盖茨比与黛西爱情的见证者，终于在盖茨比被谋杀之后，看清了这个上流社会的虚情寡义，决心远离喧嚣、冷漠、虚假的大都市，黯然回到故乡……",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "了不起的盖茨比"
+          },
+          {
+            "lang": "en",
+            "text": "The Great Gatsby"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "大亨小传(港/台)"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "1922年的春天，作家尼克(托比•马奎尔 Tobey Maguire 饰)满怀希望离开家乡，随淘金热潮来到纽约这个新兴的城市，虽然这里爵士乐流行，股票飞涨，但是贫富两极分化，人们沉沦在纸醉金迷中。尼克为了追寻美国梦，放弃写作而进入证券市场，并搬入纽约附近的海湾居住，成为了神秘富豪盖茨比（莱昂纳多•迪卡普里奥 Leonardo DiCaprio 饰）的邻居。而海湾的对岸住着尼克的表妹黛西（凯瑞•穆里根 Carey Mulligan 饰）和她的贵族丈夫汤姆（乔尔•埃哲顿 Joel Edgerton 饰），尼克不仅被邀请去赴宴，之后汤姆还带着他去找情妇寻欢，尼克渐渐迷失在这个充满魅力，以及富豪编制的假象、爱与谎言的世界中。\n但是只有盖茨比最特别，他是唯一让尼克感到在这个迷失城市里充满希望的人。尼克被邀请参加了盖茨比豪宅中的盛宴，还发现盖茨比心中的秘密，原来他一直深爱着黛西，即使她没等到他战后归来，转而嫁给富豪汤姆，盖茨比一直深信他们的爱情矢志不渝。尼克作为盖茨比与黛西爱情的见证者，终于在盖茨比被谋杀之后，看清了这个上流社会的虚情寡义，决心远离喧嚣、冷漠、虚假的大都市，黯然回到故乡……"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/movie/2021/09/153c3015b5-9fa5-4673-a6d0-49abd1664fa9.jpg",
+        "rating": 7.4,
+        "rating_count": 1386,
+        "brief": "1922年的春天，作家尼克(托比•马奎尔 Tobey Maguire 饰)满怀希望离开家乡，随淘金热潮来到纽约这个新兴的城市，虽然这里爵士乐流行，股票飞涨，但是贫富两极分化，人们沉沦在纸醉金迷中。尼克为了追寻美国梦，放弃写作而进入证券市场，并搬入纽约附近的海湾居住，成为了神秘富豪盖茨比（莱昂纳多•迪卡普里奥 Leonardo DiCaprio 饰）的邻居。而海湾的对岸住着尼克的表妹黛西（凯瑞•穆里根 Carey Mulligan 饰）和她的贵族丈夫汤姆（乔尔•埃哲顿 Joel Edgerton 饰），尼克不仅被邀请去赴宴，之后汤姆还带着他去找情妇寻欢，尼克渐渐迷失在这个充满魅力，以及富豪编制的假象、爱与谎言的世界中。\n但是只有盖茨比最特别，他是唯一让尼克感到在这个迷失城市里充满希望的人。尼克被邀请参加了盖茨比豪宅中的盛宴，还发现盖茨比心中的秘密，原来他一直深爱着黛西，即使她没等到他战后归来，转而嫁给富豪汤姆，盖茨比一直深信他们的爱情矢志不渝。尼克作为盖茨比与黛西爱情的见证者，终于在盖茨比被谋杀之后，看清了这个上流社会的虚情寡义，决心远离喧嚣、冷漠、虚假的大都市，黯然回到故乡……",
+        "id": "https://neodb.social/movie/1RKw529fXy1hGGcCfQl5kU",
+        "type": "Movie",
+        "uuid": "1RKw529fXy1hGGcCfQl5kU",
+        "url": "/movie/1RKw529fXy1hGGcCfQl5kU",
+        "api_url": "/api/movie/1RKw529fXy1hGGcCfQl5kU",
+        "category": "movie",
+        "parent_uuid": null,
+        "display_title": "了不起的盖茨比",
+        "external_resources": [
+          {
+            "url": "https://www.themoviedb.org/movie/64682"
+          },
+          {
+            "url": "https://movie.douban.com/subject/3364223/"
+          },
+          {
+            "url": "https://eggplant.place/movie/4HGcuXrygn9ziA0zvunGfV"
+          }
+        ]
+      },
+      "created_time": "2022-08-31T13:54:00Z",
+      "comment_text": null,
+      "rating_grade": 9,
       "tags": []
     },
     {
@@ -10458,6 +10683,77 @@
       "shelf_type": "complete",
       "visibility": 0,
       "item": {
+        "title": "失控玩家",
+        "description": "银行出纳员盖（瑞安·雷诺兹 饰）发现自己其实是开放世界电子游戏中的背景角色，于是决定成为英雄，并改写自己的故事。现在，在一个没有限制的世界里，他决心以自己的方式拯救他的世界，以免为时过晚。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "失控玩家"
+          },
+          {
+            "lang": "en",
+            "text": "Free Guy"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "分身人"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "爆机自由仁(港)"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "脱稿玩家(台)"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "自由之人"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "自由人"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "银行出纳员盖（瑞安·雷诺兹 饰）发现自己其实是开放世界电子游戏中的背景角色，于是决定成为英雄，并改写自己的故事。现在，在一个没有限制的世界里，他决心以自己的方式拯救他的世界，以免为时过晚。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/movie/2021/09/14d28366c5-e2a3-43eb-b6f5-51d60fca3330.jpg",
+        "rating": 7.1,
+        "rating_count": 1609,
+        "brief": "银行出纳员盖（瑞安·雷诺兹 饰）发现自己其实是开放世界电子游戏中的背景角色，于是决定成为英雄，并改写自己的故事。现在，在一个没有限制的世界里，他决心以自己的方式拯救他的世界，以免为时过晚。",
+        "id": "https://neodb.social/movie/37ZiOGG6I7IzCmbPksWJ5p",
+        "type": "Movie",
+        "uuid": "37ZiOGG6I7IzCmbPksWJ5p",
+        "url": "/movie/37ZiOGG6I7IzCmbPksWJ5p",
+        "api_url": "/api/movie/37ZiOGG6I7IzCmbPksWJ5p",
+        "category": "movie",
+        "parent_uuid": null,
+        "display_title": "失控玩家",
+        "external_resources": [
+          {
+            "url": "https://www.themoviedb.org/movie/550988"
+          },
+          {
+            "url": "https://movie.douban.com/subject/30337388/"
+          },
+          {
+            "url": "https://www.imdb.com/title/tt6264654/"
+          }
+        ]
+      },
+      "created_time": "2022-08-08T13:54:00Z",
+      "comment_text": null,
+      "rating_grade": 8,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
+      "item": {
         "title": "教父",
         "description": "40年代的美国，“教父”维托·柯里昂（马龙·白兰度 饰）是黑手党柯里昂家族的首领，带领家族从事非法的勾当，但同时他也是许多弱小平民的保护神，深得人们爱戴。\r\n因为拒绝了毒枭索洛索的毒品交易要求，柯里昂家族和纽约其他几个黑手党家族的矛盾激化。圣诞前夕，索洛索劫持了“教父”的参谋汤姆，并派人暗杀“教父”；因为内奸的出卖，“教父”的大儿子桑尼被仇家杀害；小儿子麦可（阿尔·帕西诺 饰）也被卷了进来，失去爱妻。黑手党家族之间的矛盾越来越白热化。\r\n年老的“教父”面对丧子之痛怎样统领全局？黑手党之间的仇杀如何落幕？谁是家族的内奸？谁又能够成为新一代的“教父”？\r\n血雨腥风和温情脉脉，在这部里程碑式的黑帮史诗巨片里真实上演。",
         "localized_title": [
@@ -10516,77 +10812,6 @@
       "shelf_type": "complete",
       "visibility": 0,
       "item": {
-        "title": "失控玩家",
-        "description": "银行出纳员盖（瑞安·雷诺兹 饰）发现自己其实是开放世界电子游戏中的背景角色，于是决定成为英雄，并改写自己的故事。现在，在一个没有限制的世界里，他决心以自己的方式拯救他的世界，以免为时过晚。",
-        "localized_title": [
-          {
-            "lang": "zh-cn",
-            "text": "失控玩家"
-          },
-          {
-            "lang": "en",
-            "text": "Free Guy"
-          },
-          {
-            "lang": "zh-cn",
-            "text": "分身人"
-          },
-          {
-            "lang": "zh-cn",
-            "text": "爆机自由仁(港)"
-          },
-          {
-            "lang": "zh-cn",
-            "text": "脱稿玩家(台)"
-          },
-          {
-            "lang": "zh-cn",
-            "text": "自由之人"
-          },
-          {
-            "lang": "zh-cn",
-            "text": "自由人"
-          }
-        ],
-        "localized_description": [
-          {
-            "lang": "zh-cn",
-            "text": "银行出纳员盖（瑞安·雷诺兹 饰）发现自己其实是开放世界电子游戏中的背景角色，于是决定成为英雄，并改写自己的故事。现在，在一个没有限制的世界里，他决心以自己的方式拯救他的世界，以免为时过晚。"
-          }
-        ],
-        "cover_image_url": "https://neodb.social/m/movie/2021/09/14d28366c5-e2a3-43eb-b6f5-51d60fca3330.jpg",
-        "rating": 7.1,
-        "rating_count": 1608,
-        "brief": "银行出纳员盖（瑞安·雷诺兹 饰）发现自己其实是开放世界电子游戏中的背景角色，于是决定成为英雄，并改写自己的故事。现在，在一个没有限制的世界里，他决心以自己的方式拯救他的世界，以免为时过晚。",
-        "id": "https://neodb.social/movie/37ZiOGG6I7IzCmbPksWJ5p",
-        "type": "Movie",
-        "uuid": "37ZiOGG6I7IzCmbPksWJ5p",
-        "url": "/movie/37ZiOGG6I7IzCmbPksWJ5p",
-        "api_url": "/api/movie/37ZiOGG6I7IzCmbPksWJ5p",
-        "category": "movie",
-        "parent_uuid": null,
-        "display_title": "失控玩家",
-        "external_resources": [
-          {
-            "url": "https://www.themoviedb.org/movie/550988"
-          },
-          {
-            "url": "https://movie.douban.com/subject/30337388/"
-          },
-          {
-            "url": "https://www.imdb.com/title/tt6264654/"
-          }
-        ]
-      },
-      "created_time": "2022-08-08T13:54:00Z",
-      "comment_text": null,
-      "rating_grade": 8,
-      "tags": []
-    },
-    {
-      "shelf_type": "complete",
-      "visibility": 0,
-      "item": {
         "title": "罗小黑战记",
         "description": "在熙攘的人类世界里，很多妖精隐匿其中，他们与人类相安无事地生活着。猫妖罗小黑因为家园被破坏，开始了它的流浪之旅。这场旅途中惺惺相惜的妖精同类与和谐包容的人类伙伴相继出现，让小黑陷入了两难抉择，究竟何处才是真正的归属？",
         "localized_title": [
@@ -10615,7 +10840,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1540ca6a04-7e73-4d51-bf03-5e75bb63a8de.jpg",
         "rating": 8.0,
-        "rating_count": 950,
+        "rating_count": 951,
         "brief": "在熙攘的人类世界里，很多妖精隐匿其中，他们与人类相安无事地生活着。猫妖罗小黑因为家园被破坏，开始了它的流浪之旅。这场旅途中惺惺相惜的妖精同类与和谐包容的人类伙伴相继出现，让小黑陷入了两难抉择，究竟何处才是真正的归属？",
         "id": "https://neodb.social/movie/0DamGvp69SwyGrylQbjZFR",
         "type": "Movie",
@@ -10671,7 +10896,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1546799891-feac-4c14-ae56-f3a0c893251a.jpg",
         "rating": 9.0,
-        "rating_count": 21,
+        "rating_count": 22,
         "brief": "故事讲述两派来到地球后，因为发生了一些“事件”，导致双方外形大变（也解释了两系列风格不同的原因）。也由于这些“事件”，变形金刚要隐藏于人类社会之中。如何去平衡一切关系是擎天柱作为领袖将要面临的考验，本作品的标题也由此而来。\n值得一提的是，本次两派领袖 擎天柱 和 威震天 的配音者是久违的梦幻组合：来自初代动画的 Peter Cullen 和 Frank Welker！他们在阔别电视版的变形金刚作品多年后，再次一起回来共演这双经典的死对头！",
         "id": "https://neodb.social/tv/season/4z9TqMaTHLOrpeFVEfI1k6",
         "type": "TVSeason",
@@ -10838,7 +11063,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15d0883f9f-f849-4054-9b49-e021f380f73b.jpg",
         "rating": 6.4,
-        "rating_count": 1270,
+        "rating_count": 1271,
         "brief": "在学生时代的初恋秋雅（王智 饰）的婚礼上，毕业后吃软饭靠老婆养的夏洛（沈腾 饰）假充大款，出尽其丑，中间还被老婆马冬梅（马丽 饰）戳穿暴捶。混乱之中，夏洛意外穿越时空，回到了1997年的学生时代的课堂里。他懵懵懂懂，以为是场真实感极强的梦，于是痛揍王老师，强吻秋雅，还尝试跳楼让自己醒来。当受伤的他从病床上苏醒时，他意识到自己真的穿越了时空。既然有机会重新来过，那不如好好折腾一回。他勇敢追求秋雅、奚落优等生袁华（尹正 饰）、拒绝马冬梅的死缠烂打。后来夏洛凭借“创作”朴树、窦唯等人的成名曲而进入娱乐圈。\n他的人生发生翻天覆地的巨变，但是内心某个地方却越来越感到空虚……",
         "id": "https://neodb.social/movie/0S6OeEAjL7DhWm3lGecNby",
         "type": "Movie",
@@ -11126,7 +11351,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1350cd3e5a-2934-4404-944c-aa2bb09c71fc.jpg",
         "rating": 8.3,
-        "rating_count": 2420,
+        "rating_count": 2421,
         "brief": "故事发生在2045年，虚拟现实技术已经渗透到了人类生活的每一个角落。詹姆斯哈利迪（马克·里朗斯 Mark Rylance 饰）一手建造了名为“绿洲”的虚拟现实游戏世界，临终前，他宣布自己在游戏中设置了一个彩蛋，找到这枚彩蛋的人即可成为绿洲的继承人。要找到这枚彩蛋，必须先获得三把钥匙，而寻找钥匙的线索就隐藏在詹姆斯的过往之中。\n韦德（泰尔·谢里丹 Tye Sheridan 饰）、艾奇（丽娜·维特 Lena Waithe 饰）、大东（森崎温 饰）和修（赵家正 饰）是游戏中的好友，和之后遇见的阿尔忒弥斯（奥利维亚·库克 Olivia Cooke 饰）一起，五人踏上了寻找彩蛋的征程。他们所要对抗的，是名为诺兰索伦托（本·门德尔森 Ben Mendelsohn 饰）的大资本家。",
         "id": "https://neodb.social/movie/1OaWCbcMzYAp15438lDbjh",
         "type": "Movie",
@@ -11214,7 +11439,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2023/05/31/c3376f14-de62-4882-a7b5-c26e62c006ed.jpg",
         "rating": 7.9,
-        "rating_count": 44,
+        "rating_count": 45,
         "brief": "在人命如草芥的古罗马奴隶制时代，出身色雷斯的斯巴达克斯（安迪·怀特菲尔德 Andy Whitfield 饰）曾是罗马辅备军中一名孔武有力、骁勇善战的勇士，可却因为反抗了罗马军官而沦为奴隶。\n\n在经历了残酷的生死考验之后，他被巴蒂塔斯（约翰·汉南 John Hannah）买下训练成刀口舔血的角斗士，为了早日重获自由，回到最爱的妻子苏拉（伊尔瑞·卡明斯 Erin Cummings饰）身边，斯巴达克斯不得不拿起屠刀走上血腥的角斗场。\n\n亦敌亦友的王者战士克雷斯（莫奴·伯纳特 Manu Bennett 饰），纵欲贪婪的贵族显贵以及罪恶的阴谋与勾当，左右着斯巴达克斯的命运。",
         "id": "https://neodb.social/tv/season/3qpYosEiYmaaX4W5rLS876",
         "type": "TVSeason",
@@ -11230,6 +11455,9 @@
           },
           {
             "url": "https://movie.douban.com/subject/3754940/"
+          },
+          {
+            "url": "https://eggplant.place/tv/season/2u9evs9oHR2Uh0zPEjGcko"
           }
         ]
       },
@@ -11541,7 +11769,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/135717365f-c912-4679-9f01-b05fcca43095.jpg",
         "rating": 8.3,
-        "rating_count": 1564,
+        "rating_count": 1565,
         "brief": "1940年代的上海，自小受尽欺辱的街头混混阿星（周星驰）为了能出人头地，可谓窥见机会的缝隙就往里钻，今次他盯上行动日益猖獗的黑道势力“斧头帮”，想借之大名成就大业。\n阿星假冒“斧头帮”成员试图在一个叫“猪笼城寨”的地方对居民敲诈，不想引来真的“斧头帮”与“猪笼城寨”居民的恩怨。“猪笼城寨”原是藏龙卧虎之处，居民中有许多身怀绝技者（元华、梁小龙等），他们隐藏于此本是为远离江湖恩怨，不想麻烦自动上身，躲都躲不及。而在观战正邪两派的斗争中，阿星逐渐领悟功夫的真谛。",
         "id": "https://neodb.social/movie/79xI5OWqu8YpRy91nH4P0V",
         "type": "Movie",
@@ -11734,7 +11962,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/014cdd2b80-60fe-49eb-9325-fef03421027c.jpg",
         "rating": 8.8,
-        "rating_count": 368,
+        "rating_count": 369,
         "brief": "在私人小煤矿做工的农民唐朝阳（王双宝）和宋金明（李易祥）发家致富的招数是，先套近乎将打工无门的外地农民认作亲人带到煤矿做工，在井下工作时制造“安全事故”将“亲人”杀死，再找矿主私了。两人在火车站盯上16岁的懵懂农村少年元凤鸣（王宝强）后，故伎重操帮其办了假身份证，更名后元凤鸣“成为”宋金明的侄子。 三人来到新一家小煤矿成为挖煤工人，元凤鸣的好学、纯朴、天真与体贴常令宋金明想起自己正在念书的娃子，生出恻隐之心迟迟不肯下手，与唐朝阳的矛盾日益激化，不久，唐朝阳给他定下最后期限。",
         "id": "https://neodb.social/movie/2RvYofkkyDRLz4WZid9Mn6",
         "type": "Movie",
@@ -12225,7 +12453,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/133ed46be4-3fc4-4a59-9639-21a4c9b06bf1.jpg",
         "rating": 7.5,
-        "rating_count": 1165,
+        "rating_count": 1166,
         "brief": "近未来，地球环境逐步恶化。神秘外星殖民者通过大洋底部的虫洞“缺口”将身形庞大、残冷迅猛、身藏剧毒的怪兽接连派往地球，有条不紊地实施着它们的殖民毁灭计划。为此，人类联手打造“贼鸥计划”，制造出与怪兽体型相当的机甲战士迎战，但随着怪兽渐次进化，机甲战士全面溃败，各国政要试图修筑偏于防守的“生命之墙”以阻挡侵略者的脚步，无奈很快遭遇挫折。在此危急关头，暗中仍推进“贼鸥计划”的斯特克·潘特考斯特将军（伊德瑞斯·艾尔巴 Idris Elba 饰）找回五年前曾遭受重大打击的“危险流浪者”驾驶员（查理·汉纳姆 Charlie Hunnam 饰），并通过严格选拔为他选择了新的搭档森麻子（菊地凛子 饰）。复活的“流浪者”即将与另外三台仅存的机甲战士迎战更强大的怪兽侵略者，同时寻找彻底扫除敌人的良机。\n苍茫的大海之上，人类保卫之战接连而起……",
         "id": "https://neodb.social/movie/1YIyYuAASm3uB5nG629Ybu",
         "type": "Movie",
@@ -12393,7 +12621,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158bab1067-4d98-4fa8-bb4c-06415a35b9ec.jpg",
         "rating": 7.3,
-        "rating_count": 383,
+        "rating_count": 384,
         "brief": "这部电影描述了人类史上最残酷的战争之一：温泉关之战。公元前480年，波斯国王薛西斯一世（罗德里格•桑托罗 Rodrigo Santoro 饰）亲率30万大军征战希腊。希腊各个城邦迅速派出军队结成了联军，准备抵御波斯军队的入侵。\n防线的最前线设在希腊的温泉关，此处由斯巴达 城的国王列奥尼达（杰拉德•巴特勒 Gerard Butler 饰）率领本城300精兵和联军4000余人镇守。由于叛徒的出卖，希腊军队被波斯军队抄到了身后形成围剿之势。列奥尼达为了保存联军实力，让联军首先撤退，自己率领300精兵死守温泉关断后。\n数以十万波斯大军浩浩汤汤蜂拥而至，自知必死的斯巴达士兵反而士气高涨，在战斗中爆发出惊人的战力。整个战争整整持续了2天，最后列奥尼达和他的300精兵全部阵亡，而波斯军队则损失了20000多士兵，薛西斯一世的两个兄弟也在此役中战死……",
         "id": "https://neodb.social/movie/21vHMJnyu6E4MtHu85JoVm",
         "type": "Movie",
@@ -12453,7 +12681,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1544ebc29e-ef48-41ed-8188-4355a1d66c34.jpg",
         "rating": 7.0,
-        "rating_count": 718,
+        "rating_count": 719,
         "brief": "1947年冬，为了从土匪手中夺取控制东北九岭上万先遣军的分布图，东北民主联军203小分队队长少剑波（林更新 饰）委派侦查员杨子荣（张涵予 饰）卧底潜入最大的土匪山头“威虎山”。杨子荣凭借自己的机智应变获得了匪首座山雕（梁家辉 饰）和座下八大金刚的赏识，被封为威虎山“老九”。座山雕天生多疑，多次派人试探杨子荣，杨子荣一面与土匪多方周旋，一面涉险为山下战友传出情报。一波未平一波又起，被203小分队生擒的土匪联络副官栾平（杜奕衡 饰）趁乱逃脱，知道杨子荣卧底详情的他竟出现在威虎寨中与杨子荣当面对质，杨子荣腹背受敌陷入全面危机......",
         "id": "https://neodb.social/movie/4i2b7K3dP4kM7x4VdMWhu4",
         "type": "Movie",
@@ -12573,7 +12801,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1502c1ffd2-6210-4a80-b843-27465766fc86.jpg",
         "rating": 8.6,
-        "rating_count": 1764,
+        "rating_count": 1765,
         "brief": "马哈维亚（阿米尔·汗 Aamir Khan 饰）曾经是一名前途无量的摔跤运动员，在放弃了职业生涯后，他最大的遗憾就是没有能够替国家赢得金牌。马哈维亚将这份希望寄托在了尚未出生的儿子身上，哪知道妻子接连给他生了两个女儿，取名吉塔（法缇玛·萨那·纱卡 Fatima Sana Shaikh 饰）和巴比塔（桑亚·玛荷塔 Sanya Malhotra 饰）。让马哈维亚没有想到的是，两个姑娘展现出了杰出的摔跤天赋，让他幡然醒悟，就算是女孩，也能够昂首挺胸的站在比赛场上，为了国家和她们自己赢得荣誉。\n就这样，在马哈维亚的指导下，吉塔和巴比塔开始了艰苦的训练，两人进步神速，很快就因为在比赛中连连获胜而成为了当地的名人。为了获得更多的机会，吉塔进入了国家体育学院学习，在那里，她将面对更大的诱惑和更多的选择。",
         "id": "https://neodb.social/movie/7YokK8HuhFi8EwCtl7lGM5",
         "type": "Movie",
@@ -12764,7 +12992,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14e5043627-8e2d-43c0-a6cc-a8e05d8115d3.jpg",
         "rating": 9.4,
-        "rating_count": 2496,
+        "rating_count": 2497,
         "brief": "一场谋杀案使银行家安迪（蒂姆•罗宾斯 Tim Robbins 饰）蒙冤入狱，谋杀妻子及其情人的指控将囚禁他终生。在肖申克监狱的首次现身就让监狱“大哥”瑞德（摩根•弗里曼 Morgan Freeman 饰）对他另眼相看。瑞德帮助他搞到一把石锤和一幅女明星海报，两人渐成患难 之交。很快，安迪在监狱里大显其才，担当监狱图书管理员，并利用自己的金融知识帮助监狱官避税，引起了典狱长的注意，被招致麾下帮助典狱长洗黑钱。偶然一次，他得知一名新入狱的小偷能够作证帮他洗脱谋杀罪。燃起一丝希望的安迪找到了典狱长，希望他能帮自己翻案。阴险伪善的狱长假装答应安迪，背后却派人杀死小偷，让他唯一能合法出狱的希望泯灭。沮丧的安迪并没有绝望，在一个电闪雷鸣的风雨夜，一场暗藏几十年的越狱计划让他自我救赎，重获自由！老朋友瑞德在他的鼓舞和帮助下，也勇敢地奔向自由。\n本片获得1995年奥斯卡10项提名，以及金球奖、土星奖等多项提名。",
         "id": "https://neodb.social/movie/6SAqdyMEu3kGepBN0mHZAr",
         "type": "Movie",
@@ -12819,7 +13047,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13d1567d07-417b-4b7b-8356-5d0b87f43128.jpg",
         "rating": 9.1,
-        "rating_count": 2231,
+        "rating_count": 2232,
         "brief": "阿甘（汤姆·汉克斯 饰）于二战结束后不久出生在美国南方阿拉巴马州一个闭塞的小镇，他先天弱智，智商只有75，然而他的妈妈是一个性格坚强的女性，她常常鼓励阿甘“傻人有傻福”，要他自强不息。\n阿甘像普通孩子一样上学，并且认识了一生的朋友和至爱珍妮（罗宾·莱特·潘 饰），在珍妮 和妈妈的爱护下，阿甘凭着上帝赐予的“飞毛腿”开始了一生不停的奔跑。\n阿甘成为橄榄球巨星、越战英雄、乒乓球外交使者、亿万富翁，但是，他始终忘不了珍妮，几次匆匆的相聚和离别，更是加深了阿甘的思念。\n有一天，阿甘收到珍妮的信，他们终于又要见面……",
         "id": "https://neodb.social/movie/7RwHsgClhqDwb3vCzBNACZ",
         "type": "Movie",
@@ -13050,6 +13278,62 @@
       "shelf_type": "complete",
       "visibility": 0,
       "item": {
+        "title": "马达加斯加的企鹅",
+        "description": "为了给最疼爱的小老弟菜鸟（克里斯多夫·奈茨 Christopher Knights 配音）庆生，老大（汤姆·麦格拉思 Tom McGrath 配音）带领菜鸟以及好搭档科斯基（克里斯·米勒 Chris Miller 配音）、瑞哥闯入了防守最严密的美国黄金储备中心，只为找到金库尽头仅有的那台销售炸薯条的自动贩卖机。谁知他们刚刚完成任务没多久，便被长着触角的贩卖机吞了进去，随后被运到一个神秘的所在。在全封闭的设施内，四只企鹅见到了伪装成基因遗传科学家的章鱼戴夫（约翰·马尔科维奇 John Malkovich 配音）。原来戴夫曾是动物园一只明星章鱼，但随着萌态十足的企鹅们的到来，他便跌入了绝望的深谷。因此戴夫潜心研制了可怕的血清，发誓要向所有他曾待过的动物园中的企鹅展开报复。\n老大和伙伴们在逃亡途中得到北风特工队的救助，而他们和这些高傲的特工队员将分别阻止戴夫的阴谋……",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "马达加斯加的企鹅"
+          },
+          {
+            "lang": "id",
+            "text": "Penguins of Madagascar"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "马达加斯加爆走企鹅(台)"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "荒失失企鹅(港)"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "为了给最疼爱的小老弟菜鸟（克里斯多夫·奈茨 Christopher Knights 配音）庆生，老大（汤姆·麦格拉思 Tom McGrath 配音）带领菜鸟以及好搭档科斯基（克里斯·米勒 Chris Miller 配音）、瑞哥闯入了防守最严密的美国黄金储备中心，只为找到金库尽头仅有的那台销售炸薯条的自动贩卖机。谁知他们刚刚完成任务没多久，便被长着触角的贩卖机吞了进去，随后被运到一个神秘的所在。在全封闭的设施内，四只企鹅见到了伪装成基因遗传科学家的章鱼戴夫（约翰·马尔科维奇 John Malkovich 配音）。原来戴夫曾是动物园一只明星章鱼，但随着萌态十足的企鹅们的到来，他便跌入了绝望的深谷。因此戴夫潜心研制了可怕的血清，发誓要向所有他曾待过的动物园中的企鹅展开报复。\n老大和伙伴们在逃亡途中得到北风特工队的救助，而他们和这些高傲的特工队员将分别阻止戴夫的阴谋……"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/movie/2021/09/1588f7554a-267d-406f-97e9-4ad09f9b5fe7.jpg",
+        "rating": 7.1,
+        "rating_count": 365,
+        "brief": "为了给最疼爱的小老弟菜鸟（克里斯多夫·奈茨 Christopher Knights 配音）庆生，老大（汤姆·麦格拉思 Tom McGrath 配音）带领菜鸟以及好搭档科斯基（克里斯·米勒 Chris Miller 配音）、瑞哥闯入了防守最严密的美国黄金储备中心，只为找到金库尽头仅有的那台销售炸薯条的自动贩卖机。谁知他们刚刚完成任务没多久，便被长着触角的贩卖机吞了进去，随后被运到一个神秘的所在。在全封闭的设施内，四只企鹅见到了伪装成基因遗传科学家的章鱼戴夫（约翰·马尔科维奇 John Malkovich 配音）。原来戴夫曾是动物园一只明星章鱼，但随着萌态十足的企鹅们的到来，他便跌入了绝望的深谷。因此戴夫潜心研制了可怕的血清，发誓要向所有他曾待过的动物园中的企鹅展开报复。\n老大和伙伴们在逃亡途中得到北风特工队的救助，而他们和这些高傲的特工队员将分别阻止戴夫的阴谋……",
+        "id": "https://neodb.social/movie/0Yxx81A14ZVEVjOuemHS96",
+        "type": "Movie",
+        "uuid": "0Yxx81A14ZVEVjOuemHS96",
+        "url": "/movie/0Yxx81A14ZVEVjOuemHS96",
+        "api_url": "/api/movie/0Yxx81A14ZVEVjOuemHS96",
+        "category": "movie",
+        "parent_uuid": null,
+        "display_title": "马达加斯加的企鹅",
+        "external_resources": [
+          {
+            "url": "https://movie.douban.com/subject/11810348/"
+          },
+          {
+            "url": "https://www.themoviedb.org/movie/270946"
+          }
+        ]
+      },
+      "created_time": "2019-10-17T13:54:00Z",
+      "comment_text": null,
+      "rating_grade": 8,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
+      "item": {
         "title": "秒速5厘米",
         "description": "如果，樱花掉落的速度是每秒5厘米，那么两颗心需要多久才能靠近？\n少年时，贵树（水橋研二配）和明理（近藤好美配）是形影不离的好朋友，可很快，一道巨大的鸿沟便横亘在两人中间：明理转学，贵树也随着父母工作的调动搬到遥远的鹿儿岛。在搬家前，贵树乘坐新干线千里迢迢和明理相会，在漫长的等待后，茫茫大雪中，两人在枯萎的樱花树下深情相拥，并献出彼此的first kiss，约定着下一次再一起来看樱花。\n时光荏苒，两人竟再没见过，虽然在人海中一直搜寻彼此的身影，但似乎总是徒然。再后来，他们分别有了各自的生活，只是还偶尔会梦到13岁时的这段青涩而美好的感情，才明白当年怎么也说不出口的那个字就是爱。",
         "localized_title": [
@@ -13106,62 +13390,6 @@
           },
           {
             "url": "https://www.themoviedb.org/movie/38142"
-          }
-        ]
-      },
-      "created_time": "2019-10-17T13:54:00Z",
-      "comment_text": null,
-      "rating_grade": 8,
-      "tags": []
-    },
-    {
-      "shelf_type": "complete",
-      "visibility": 0,
-      "item": {
-        "title": "马达加斯加的企鹅",
-        "description": "为了给最疼爱的小老弟菜鸟（克里斯多夫·奈茨 Christopher Knights 配音）庆生，老大（汤姆·麦格拉思 Tom McGrath 配音）带领菜鸟以及好搭档科斯基（克里斯·米勒 Chris Miller 配音）、瑞哥闯入了防守最严密的美国黄金储备中心，只为找到金库尽头仅有的那台销售炸薯条的自动贩卖机。谁知他们刚刚完成任务没多久，便被长着触角的贩卖机吞了进去，随后被运到一个神秘的所在。在全封闭的设施内，四只企鹅见到了伪装成基因遗传科学家的章鱼戴夫（约翰·马尔科维奇 John Malkovich 配音）。原来戴夫曾是动物园一只明星章鱼，但随着萌态十足的企鹅们的到来，他便跌入了绝望的深谷。因此戴夫潜心研制了可怕的血清，发誓要向所有他曾待过的动物园中的企鹅展开报复。\n老大和伙伴们在逃亡途中得到北风特工队的救助，而他们和这些高傲的特工队员将分别阻止戴夫的阴谋……",
-        "localized_title": [
-          {
-            "lang": "zh-cn",
-            "text": "马达加斯加的企鹅"
-          },
-          {
-            "lang": "id",
-            "text": "Penguins of Madagascar"
-          },
-          {
-            "lang": "zh-cn",
-            "text": "马达加斯加爆走企鹅(台)"
-          },
-          {
-            "lang": "zh-cn",
-            "text": "荒失失企鹅(港)"
-          }
-        ],
-        "localized_description": [
-          {
-            "lang": "zh-cn",
-            "text": "为了给最疼爱的小老弟菜鸟（克里斯多夫·奈茨 Christopher Knights 配音）庆生，老大（汤姆·麦格拉思 Tom McGrath 配音）带领菜鸟以及好搭档科斯基（克里斯·米勒 Chris Miller 配音）、瑞哥闯入了防守最严密的美国黄金储备中心，只为找到金库尽头仅有的那台销售炸薯条的自动贩卖机。谁知他们刚刚完成任务没多久，便被长着触角的贩卖机吞了进去，随后被运到一个神秘的所在。在全封闭的设施内，四只企鹅见到了伪装成基因遗传科学家的章鱼戴夫（约翰·马尔科维奇 John Malkovich 配音）。原来戴夫曾是动物园一只明星章鱼，但随着萌态十足的企鹅们的到来，他便跌入了绝望的深谷。因此戴夫潜心研制了可怕的血清，发誓要向所有他曾待过的动物园中的企鹅展开报复。\n老大和伙伴们在逃亡途中得到北风特工队的救助，而他们和这些高傲的特工队员将分别阻止戴夫的阴谋……"
-          }
-        ],
-        "cover_image_url": "https://neodb.social/m/movie/2021/09/1588f7554a-267d-406f-97e9-4ad09f9b5fe7.jpg",
-        "rating": 7.1,
-        "rating_count": 365,
-        "brief": "为了给最疼爱的小老弟菜鸟（克里斯多夫·奈茨 Christopher Knights 配音）庆生，老大（汤姆·麦格拉思 Tom McGrath 配音）带领菜鸟以及好搭档科斯基（克里斯·米勒 Chris Miller 配音）、瑞哥闯入了防守最严密的美国黄金储备中心，只为找到金库尽头仅有的那台销售炸薯条的自动贩卖机。谁知他们刚刚完成任务没多久，便被长着触角的贩卖机吞了进去，随后被运到一个神秘的所在。在全封闭的设施内，四只企鹅见到了伪装成基因遗传科学家的章鱼戴夫（约翰·马尔科维奇 John Malkovich 配音）。原来戴夫曾是动物园一只明星章鱼，但随着萌态十足的企鹅们的到来，他便跌入了绝望的深谷。因此戴夫潜心研制了可怕的血清，发誓要向所有他曾待过的动物园中的企鹅展开报复。\n老大和伙伴们在逃亡途中得到北风特工队的救助，而他们和这些高傲的特工队员将分别阻止戴夫的阴谋……",
-        "id": "https://neodb.social/movie/0Yxx81A14ZVEVjOuemHS96",
-        "type": "Movie",
-        "uuid": "0Yxx81A14ZVEVjOuemHS96",
-        "url": "/movie/0Yxx81A14ZVEVjOuemHS96",
-        "api_url": "/api/movie/0Yxx81A14ZVEVjOuemHS96",
-        "category": "movie",
-        "parent_uuid": null,
-        "display_title": "马达加斯加的企鹅",
-        "external_resources": [
-          {
-            "url": "https://movie.douban.com/subject/11810348/"
-          },
-          {
-            "url": "https://www.themoviedb.org/movie/270946"
           }
         ]
       },
@@ -13307,7 +13535,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2023/01/033be87cb9-20e8-43a6-831e-f59c540d018a.jpg",
         "rating": 8.2,
-        "rating_count": 562,
+        "rating_count": 564,
         "brief": "主人公·张楚岚，某天在墓地遭遇僵尸的袭击。在万分危急的时刻，一个少女出现在了他的面前手里拿着的菜刀将敌人击倒对着放心了得楚岚说道“现在这里有些困境，你就自己面对吧”留下了有着深意的话，离开了。过了几天，在大学上学的张楚岚的面前，又出现了少女的身影。自从那个瞬间，张楚岚激荡的命运便开始向前推进了。",
         "id": "https://neodb.social/tv/5wqntMd2XeFYIhYA7U6RVH",
         "type": "TVShow",
@@ -14185,7 +14413,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155c5cd599-d9ed-4144-b6dd-f450ec1edd27.jpg",
         "rating": 9.4,
-        "rating_count": 547,
+        "rating_count": 548,
         "brief": "片濑高中的新生“阿扁”星野裕（片山福十郎 配音）和“笑爷”月本诚（内山昂辉 配音）是同出自一个乒乓球道场的朋友。阿扁个性张扬，爱说爱笑，由于对球技信心十足，因此根本不把乒乓球部的同期和前辈放在眼里。与之相对，笑爷内敛冷静，对于取胜这件事似乎根本没有半点强烈的欲望，潜意识中他更希望像机器人一般不被人注意到。为了迎接即将到来的高中联赛，乒乓球部顾问小泉老师（屋良有作 配音）选定月本进行操练。与此同时，附近的辻堂学院高中转来了被踢出国家队的中国选手孔文革（文晔星 饰），此人恃才傲物，完全不把技术底下的日本选手放在眼里。另一方面，高手云集的海王学院高中也蓄势待发，备战接下来的大赛。方寸球桌，战况激烈……\n本片根据松本大洋的同名原作改编。",
         "id": "https://neodb.social/tv/season/4buPkXAVXmI5KwY0ZPDhaM",
         "type": "TVSeason",
@@ -14402,7 +14630,7 @@
       "tags": []
     }
   ],
-  "count": 243,
+  "count": 245,
   "categories": [
     "movie",
     "tv",
@@ -14412,36 +14640,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2024-12-27T00:52:25.506453",
+  "updated_at": "2024-12-28T00:51:29.325381",
   "stats": {
     "movie": {
-      "count": 112,
-      "time": 8.13
+      "count": 114,
+      "time": 9.78
     },
     "tv": {
       "count": 95,
-      "time": 6.2
+      "time": 6.89
     },
     "book": {
       "count": 29,
-      "time": 1.68
+      "time": 1.98
     },
     "music": {
       "count": 4,
-      "time": 0.18
+      "time": 0.19
     },
     "podcast": {
       "count": 0,
-      "time": 0.13
+      "time": 0.14
     },
     "game": {
       "count": 1,
-      "time": 0.11
+      "time": 0.16
     },
     "performance": {
       "count": 2,
-      "time": 0.17
+      "time": 0.18
     }
   },
-  "total_time": 16.62
+  "total_time": 19.32
 }
