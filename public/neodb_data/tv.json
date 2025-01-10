@@ -1070,7 +1070,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/12/09/e349737a-1ad1-4118-ab72-3f8fd067cf4d.webp",
         "rating": 8.7,
-        "rating_count": 232,
+        "rating_count": 233,
         "brief": "本剧是对2016年动画短片《拾荒者》概念的拓展。\r\n在一艘星际货运飞船受损后，船员发现他们被困在了一个美丽但让人难以应付的陌生星球上。在这里，他们必须存活得足够久，才有机会逃离或获救。当幸存者们努力寻找被击落的船只和失踪的船员时，他们的新家展现出一个充满敌意的世界，这个世界可以在没有人类干扰的情况下蓬勃发展。",
         "id": "https://neodb.social/tv/season/57PyYqzRowAjrcajGknvnl",
         "type": "TVSeason",
@@ -1259,7 +1259,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/08/69d304f8-1a0f-4f06-9a4a-b1d870f43864.webp",
         "rating": 7.9,
-        "rating_count": 141,
+        "rating_count": 142,
         "brief": "Based on one of the greatest video game series of all time, Fallout is the story of haves and have-nots in a world in which there’s almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird and highly violent universe waiting for them.",
         "id": "https://neodb.social/tv/season/5FyXt7D9AV5ieWNoDj7OPV",
         "type": "TVSeason",
@@ -1748,7 +1748,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/13/d643b437-3391-4e50-8c8e-22f26228aa04.jpg",
         "rating": 8.1,
-        "rating_count": 208,
+        "rating_count": 209,
         "brief": "该剧改编自姜草的同名漫画，讲述隐藏超能力生活于现在的孩子们，与隐藏过去痛苦的秘密的父母们共同面对跨越世代的巨大危险的超能力动作英雄故事。",
         "id": "https://neodb.social/tv/season/69AIBuiEdIWuSflP71zCi5",
         "type": "TVSeason",
@@ -3205,8 +3205,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/173a6861f9-395d-4813-b674-98bc8dc8f139.jpg",
-        "rating": 8.3,
-        "rating_count": 66,
+        "rating": 8.2,
+        "rating_count": 67,
         "brief": "一场发生在巴蒂塔斯家的血腥屠杀结束了《斯巴达克斯： 血与沙》的故事，《斯巴达克斯：复仇》继续讲述角斗士的大暴动，罗马共和国为此深感惊恐。盖乌斯·克罗迪斯·葛雷博率领罗马军队前往卡普亚，企图消灭日渐壮大的、以斯巴达克斯为首的自由奴隶军，永绝后患。斯巴达 克斯面临两个选择，要么向奴役且杀害他妻子的人复仇，了结私人恩怨，要么忍辱负重，保存处于萌芽状态的奴隶军。史诗大戏斯巴达克斯传奇，携血腥残忍的动作，异域风情的性爱，扬善惩恶的主题，再度袭来。\n《斯巴达克斯》第二季《复仇》，由澳洲演员连姆·麦肯泰尔（Liam McIntyre）顶替罹患癌症已逝世的安迪·怀特菲尔德（Andy Whitfield），饰演斯巴达克斯。而该剧第一季，以新西兰女星露西·劳莱丝（Lucy Lawless）为首的其他演员也将悉数回归。\n《斯巴达克斯》讲述斯巴达克斯从奴隶变成英雄的血泪辛酸史。斯巴达克斯因为被罗马人背叛，被迫背井离乡，离开自己最爱的女人，流放成奴隶，变为角斗士，同时他还得面临来自财富，腐败，美色诱惑的考验，这一段罗马共和国历史上最富盛名的传奇故事无人不知。",
         "id": "https://neodb.social/tv/season/1IvVGVb5bdcsCNFUDu4XDG",
         "type": "TVSeason",
@@ -5359,5 +5359,5 @@
   ],
   "count": 96,
   "category": "tv",
-  "updated_at": "2025-01-09T00:52:41.762249"
+  "updated_at": "2025-01-10T00:54:12.464880"
 }
