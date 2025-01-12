@@ -1,56 +1,6 @@
 {
-  "data": [
-    {
-      "shelf_type": "complete",
-      "visibility": 0,
-      "item": {
-        "title": "英雄联盟",
-        "description": "《英雄联盟》（简称lol）是由美国Riot Games开发，中国大陆地区由腾讯游戏运营的网络游戏。\r\n《英雄联盟》除了即时战略、团队作战外，还拥有一百多位特色各异的英雄、丰富的地图及玩法、自动匹配的战网平台，包括天赋树、召唤师系统、符文等元素。\r\n2014年1月，根据官方数据显示，LOL全球最高同时在线已突破750万，全球日活跃高达2700万，全球月活跃已达6700万，注册用户亿计，LOL已经成为当今世界最具人气和影响力的网络游戏之一。",
-        "localized_title": [
-          {
-            "lang": "zh-cn",
-            "text": "英雄联盟"
-          },
-          {
-            "lang": "en",
-            "text": "LOL"
-          },
-          {
-            "lang": "en",
-            "text": "League of Legends"
-          }
-        ],
-        "localized_description": [
-          {
-            "lang": "zh-cn",
-            "text": "《英雄联盟》（简称lol）是由美国Riot Games开发，中国大陆地区由腾讯游戏运营的网络游戏。\r\n《英雄联盟》除了即时战略、团队作战外，还拥有一百多位特色各异的英雄、丰富的地图及玩法、自动匹配的战网平台，包括天赋树、召唤师系统、符文等元素。\r\n2014年1月，根据官方数据显示，LOL全球最高同时在线已突破750万，全球日活跃高达2700万，全球月活跃已达6700万，注册用户亿计，LOL已经成为当今世界最具人气和影响力的网络游戏之一。"
-          }
-        ],
-        "cover_image_url": "https://neodb.social/m/item/doubangame/2024/07/16/c6005816-cd8a-46f8-9856-36d26be7a372.jpg",
-        "rating": 7.9,
-        "rating_count": 86,
-        "brief": "《英雄联盟》（简称lol）是由美国Riot Games开发，中国大陆地区由腾讯游戏运营的网络游戏。\r\n《英雄联盟》除了即时战略、团队作战外，还拥有一百多位特色各异的英雄、丰富的地图及玩法、自动匹配的战网平台，包括天赋树、召唤师系统、符文等元素。\r\n2014年1月，根据官方数据显示，LOL全球最高同时在线已突破750万，全球日活跃高达2700万，全球月活跃已达6700万，注册用户亿计，LOL已经成为当今世界最具人气和影响力的网络游戏之一。",
-        "id": "https://neodb.social/game/0meIHpyCy0vxflVeqahMNo",
-        "type": "Game",
-        "uuid": "0meIHpyCy0vxflVeqahMNo",
-        "url": "/game/0meIHpyCy0vxflVeqahMNo",
-        "api_url": "/api/game/0meIHpyCy0vxflVeqahMNo",
-        "category": "game",
-        "parent_uuid": null,
-        "display_title": "英雄联盟",
-        "external_resources": [
-          {
-            "url": "https://www.douban.com/game/26775340/"
-          }
-        ]
-      },
-      "created_time": "2024-08-08T08:19:35.746Z",
-      "comment_text": null,
-      "rating_grade": 9,
-      "tags": []
-    }
-  ],
-  "count": 1,
+  "data": [],
+  "count": 0,
   "category": "game",
-  "updated_at": "2025-01-11T00:53:15.584417"
+  "updated_at": "2025-01-12T00:57:39.024760"
 }
