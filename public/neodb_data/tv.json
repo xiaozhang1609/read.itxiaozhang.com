@@ -451,7 +451,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/11/30/9ba014ae-5023-41ba-8414-b725d6bd2d67.jpg",
         "rating": 8.5,
-        "rating_count": 139,
+        "rating_count": 140,
         "brief": "Apple TV+续订《流人》第三、四季，第三季改编原著系列中的第三本《Real Tigers》。\r\n当Jackson Lamb手下的一员被绑架后，这群废柴间谍合作阻止一名擅自行动的流氓特工。",
         "id": "https://neodb.social/tv/season/3nfveBbMneBefgMBcWhZ3M",
         "type": "TVSeason",
@@ -507,7 +507,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/09/59f49696-e8a1-40b8-a956-07cc5e7e6891.jpg",
         "rating": 8.5,
-        "rating_count": 185,
+        "rating_count": 186,
         "brief": "该剧根据Mick Herron的同名系列小说改编，故事围绕着军情五处内一个不正常的特务组，以及他们讨人厌的老板：臭名满天下的杰克逊·兰姆（加里·奥德曼 饰）。他们在真假难辨的间谍世界中努力着，以保卫英国免受邪恶势力的侵害。",
         "id": "https://neodb.social/tv/season/2Eqn7nsOKfduXHmcvFFLQP",
         "type": "TVSeason",
@@ -559,7 +559,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/04/15b785f2f1-4e5a-4ab8-8344-90049e5ac6fb.jpg",
         "rating": 8.3,
-        "rating_count": 284,
+        "rating_count": 285,
         "brief": "该剧根据Mick Herron的同名系列小说改编，讲述一队英国情报人员在军情五处的一个垃圾倾倒场Slough House工作。奥德曼饰演才华横溢但脾气暴躁的间谍首领杰克森，因犯错导致职业生涯结束而被关进了这里。",
         "id": "https://neodb.social/tv/season/4ZML2fMKimevs00ZNNZdUL",
         "type": "TVSeason",
@@ -1259,7 +1259,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/08/69d304f8-1a0f-4f06-9a4a-b1d870f43864.webp",
         "rating": 7.9,
-        "rating_count": 143,
+        "rating_count": 144,
         "brief": "Based on one of the greatest video game series of all time, Fallout is the story of haves and have-nots in a world in which there’s almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird and highly violent universe waiting for them.",
         "id": "https://neodb.social/tv/season/5FyXt7D9AV5ieWNoDj7OPV",
         "type": "TVSeason",
@@ -5359,5 +5359,5 @@
   ],
   "count": 96,
   "category": "tv",
-  "updated_at": "2025-01-13T00:56:22.488025"
+  "updated_at": "2025-01-14T00:50:17.920125"
 }
