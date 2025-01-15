@@ -820,6 +820,9 @@
             "url": "https://movie.douban.com/subject/3326764/"
           },
           {
+            "url": "https://bgm.tv/subject/965"
+          },
+          {
             "url": "https://www.themoviedb.org/tv/34121/season/1"
           }
         ]
@@ -968,8 +971,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/22/a170513d-27d1-4a66-b415-83bcc178b78b.webp",
-        "rating": 7.5,
-        "rating_count": 108,
+        "rating": 7.4,
+        "rating_count": 109,
         "brief": "最强2人，回不去的青春。2017年12月，乙骨忧太解除了祈本里香的诅咒。追溯到2006年（春天），高专时代的五条悟与夏油杰。作为咒术师活跃着，所向披靡的2人，接受来自咒术界拥有不死术式的要·天元的委托。委托有两个，天元的的适合者——被选中成为“星浆体”的天内理子，对那个少女的“护卫”和“抹去”两人为了维持咒术界而进行护卫任务，在那里自称伏黑的“术师杀手”以暗杀“星浆体”为目标介入。在之后被称为最强的咒术师和最恶的咒术师，五条与夏油，两人的过去被揭开…",
         "id": "https://neodb.social/tv/season/3lnrTxp2pGchm4KpABRE9J",
         "type": "TVSeason",
@@ -1259,7 +1262,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/08/69d304f8-1a0f-4f06-9a4a-b1d870f43864.webp",
         "rating": 7.9,
-        "rating_count": 144,
+        "rating_count": 145,
         "brief": "Based on one of the greatest video game series of all time, Fallout is the story of haves and have-nots in a world in which there’s almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird and highly violent universe waiting for them.",
         "id": "https://neodb.social/tv/season/5FyXt7D9AV5ieWNoDj7OPV",
         "type": "TVSeason",
@@ -2057,6 +2060,9 @@
         "external_resources": [
           {
             "url": "https://movie.douban.com/subject/30353357/"
+          },
+          {
+            "url": "https://bgm.tv/subject/263750"
           }
         ]
       },
@@ -3319,6 +3325,9 @@
         "external_resources": [
           {
             "url": "https://movie.douban.com/subject/2282635/"
+          },
+          {
+            "url": "https://bgm.tv/subject/10419"
           }
         ]
       },
@@ -3358,8 +3367,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1546799891-feac-4c14-ae56-f3a0c893251a.jpg",
-        "rating": 8.8,
-        "rating_count": 23,
+        "rating": 8.7,
+        "rating_count": 24,
         "brief": "故事讲述两派来到地球后，因为发生了一些“事件”，导致双方外形大变（也解释了两系列风格不同的原因）。也由于这些“事件”，变形金刚要隐藏于人类社会之中。如何去平衡一切关系是擎天柱作为领袖将要面临的考验，本作品的标题也由此而来。\n值得一提的是，本次两派领袖 擎天柱 和 威震天 的配音者是久违的梦幻组合：来自初代动画的 Peter Cullen 和 Frank Welker！他们在阔别电视版的变形金刚作品多年后，再次一起回来共演这双经典的死对头！",
         "id": "https://neodb.social/tv/season/4z9TqMaTHLOrpeFVEfI1k6",
         "type": "TVSeason",
@@ -5156,6 +5165,9 @@
           },
           {
             "url": "https://movie.douban.com/subject/25813424/"
+          },
+          {
+            "url": "https://bgm.tv/subject/93739"
           }
         ]
       },
@@ -5359,5 +5371,5 @@
   ],
   "count": 96,
   "category": "tv",
-  "updated_at": "2025-01-14T00:50:17.920125"
+  "updated_at": "2025-01-15T00:51:46.903074"
 }
