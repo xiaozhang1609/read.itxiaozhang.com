@@ -559,7 +559,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/04/15b785f2f1-4e5a-4ab8-8344-90049e5ac6fb.jpg",
         "rating": 8.2,
-        "rating_count": 287,
+        "rating_count": 288,
         "brief": "该剧根据Mick Herron的同名系列小说改编，讲述一队英国情报人员在军情五处的一个垃圾倾倒场Slough House工作。奥德曼饰演才华横溢但脾气暴躁的间谍首领杰克森，因犯错导致职业生涯结束而被关进了这里。",
         "id": "https://neodb.social/tv/season/4ZML2fMKimevs00ZNNZdUL",
         "type": "TVSeason",
@@ -1763,10 +1763,10 @@
         "display_title": "超异能族",
         "external_resources": [
           {
-            "url": "https://www.themoviedb.org/tv/126485/season/1"
+            "url": "https://movie.douban.com/subject/35206436/"
           },
           {
-            "url": "https://movie.douban.com/subject/35206436/"
+            "url": "https://www.themoviedb.org/tv/126485/season/1"
           }
         ]
       },
@@ -5383,5 +5383,5 @@
   ],
   "count": 96,
   "category": "tv",
-  "updated_at": "2025-01-22T00:52:33.480202"
+  "updated_at": "2025-01-23T00:51:25.481772"
 }
