@@ -5,6 +5,7 @@
       "visibility": 0,
       "post_id": 351503768708766656,
       "item": {
+        "type": "Performance",
         "title": "主角与配角",
         "description": "\n      \n  \n    《主角与配角》是由陈佩斯、朱时茂创作并表演的小品，于1990年1月26日在《1990年中央电视台春节联欢晚会》上演出。该作品讲述了饰演“叛徒”的陈佩斯为了当上主角“八路军”，耍尽了各种小聪明，在他的软缠硬磨下，终于心想事成，可最后因形象、习惯等问题又不自觉地回归了“叛徒”的形象故事。\n    \n  ",
         "localized_title": [
@@ -24,7 +25,6 @@
         "rating_count": 6,
         "brief": "\n      \n  \n    《主角与配角》是由陈佩斯、朱时茂创作并表演的小品，于1990年1月26日在《1990年中央电视台春节联欢晚会》上演出。该作品讲述了饰演“叛徒”的陈佩斯为了当上主角“八路军”，耍尽了各种小聪明，在他的软缠硬磨下，终于心想事成，可最后因形象、习惯等问题又不自觉地回归了“叛徒”的形象故事。\n    \n  ",
         "id": "https://neodb.social/performance/2OpwKoWoRx8AB4zSGRp2yl",
-        "type": "Performance",
         "uuid": "2OpwKoWoRx8AB4zSGRp2yl",
         "url": "/performance/2OpwKoWoRx8AB4zSGRp2yl",
         "api_url": "/api/performance/2OpwKoWoRx8AB4zSGRp2yl",
@@ -47,6 +47,7 @@
       "visibility": 0,
       "post_id": 351503618912361320,
       "item": {
+        "type": "Performance",
         "title": "小偷公司",
         "description": "\n      \n  \n    小偷公司是牛群及冯巩表演的一段相声。牛群在相声中扮演一个在“小偷公司”工作的职业小偷，由于厌于小偷的生活而向冯巩抱怨，在制造幽默的同时也讽刺了当代机关机构臃肿、人浮于事的现象。\r\n“小偷公司”在小品中的全名为“小偷金融股份有限公司”。在小偷公司中，一共只有两个小偷是真正的小偷，剩下的100多人却是领导干部。\n    \n  ",
         "localized_title": [
@@ -66,7 +67,6 @@
         "rating_count": 1,
         "brief": "\n      \n  \n    小偷公司是牛群及冯巩表演的一段相声。牛群在相声中扮演一个在“小偷公司”工作的职业小偷，由于厌于小偷的生活而向冯巩抱怨，在制造幽默的同时也讽刺了当代机关机构臃肿、人浮于事的现象。\r\n“小偷公司”在小品中的全名为“小偷金融股份有限公司”。在小偷公司中，一共只有两个小偷是真正的小偷，剩下的100多人却是领导干部。\n    \n  ",
         "id": "https://neodb.social/performance/4ytWmnWR5WGsJPrPgpqZWr",
-        "type": "Performance",
         "uuid": "4ytWmnWR5WGsJPrPgpqZWr",
         "url": "/performance/4ytWmnWR5WGsJPrPgpqZWr",
         "api_url": "/api/performance/4ytWmnWR5WGsJPrPgpqZWr",
@@ -87,5 +87,5 @@
   ],
   "count": 2,
   "category": "performance",
-  "updated_at": "2025-01-29T00:51:30.961002"
+  "updated_at": "2025-01-30T00:50:35.691372"
 }

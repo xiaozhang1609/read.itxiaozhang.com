@@ -5,6 +5,7 @@
       "visibility": 0,
       "post_id": 345288178522912272,
       "item": {
+        "type": "Album",
         "title": "Ti Amo",
         "description": "",
         "localized_title": [
@@ -24,7 +25,6 @@
         "rating_count": 3,
         "brief": "",
         "id": "https://neodb.social/album/6l08TZcbgCJ7PnF95QDuL1",
-        "type": "Album",
         "uuid": "6l08TZcbgCJ7PnF95QDuL1",
         "url": "/album/6l08TZcbgCJ7PnF95QDuL1",
         "api_url": "/api/album/6l08TZcbgCJ7PnF95QDuL1",
@@ -47,6 +47,7 @@
       "visibility": 0,
       "post_id": 345287436822679032,
       "item": {
+        "type": "Album",
         "title": "My Life Is Going On",
         "description": "",
         "localized_title": [
@@ -66,7 +67,6 @@
         "rating_count": 2,
         "brief": "",
         "id": "https://neodb.social/album/5XtXNn5ErnYg4S2DQTayTX",
-        "type": "Album",
         "uuid": "5XtXNn5ErnYg4S2DQTayTX",
         "url": "/album/5XtXNn5ErnYg4S2DQTayTX",
         "api_url": "/api/album/5XtXNn5ErnYg4S2DQTayTX",
@@ -89,6 +89,7 @@
       "visibility": 0,
       "post_id": 344588740661811184,
       "item": {
+        "type": "Album",
         "title": "笑看风云",
         "description": "",
         "localized_title": [
@@ -108,7 +109,6 @@
         "rating_count": 7,
         "brief": "",
         "id": "https://neodb.social/album/58tsaoYG4CU6iPmtpNWPjM",
-        "type": "Album",
         "uuid": "58tsaoYG4CU6iPmtpNWPjM",
         "url": "/album/58tsaoYG4CU6iPmtpNWPjM",
         "api_url": "/api/album/58tsaoYG4CU6iPmtpNWPjM",
@@ -131,6 +131,7 @@
       "visibility": 0,
       "post_id": 344288180810815352,
       "item": {
+        "type": "Album",
         "title": "上海滩",
         "description": "叶丽仪凭参加无线电视的《声宝之夜》歌唱比赛夺得冠军而晋身乐坛，早期以唱欧西歌曲为主，七十年代在粤语流行曲方面发展不大，至主唱无线电视剧主题曲《上海滩》，到叫人意外的成功，一跃而成一线女歌手。她继后为《上海滩续集》唱的《万般情》、《上海滩龙虎斗》亦承着《上海滩》的余威而有不错的成绩，而其他歌曲则以《那天将心交给你》、《愿你待我真的好》、《爱是无涯》和无线电视剧主题曲《笑傲江湖》较为流行。",
         "localized_title": [
@@ -154,7 +155,6 @@
         "rating_count": 11,
         "brief": "叶丽仪凭参加无线电视的《声宝之夜》歌唱比赛夺得冠军而晋身乐坛，早期以唱欧西歌曲为主，七十年代在粤语流行曲方面发展不大，至主唱无线电视剧主题曲《上海滩》，到叫人意外的成功，一跃而成一线女歌手。她继后为《上海滩续集》唱的《万般情》、《上海滩龙虎斗》亦承着《上海滩》的余威而有不错的成绩，而其他歌曲则以《那天将心交给你》、《愿你待我真的好》、《爱是无涯》和无线电视剧主题曲《笑傲江湖》较为流行。",
         "id": "https://neodb.social/album/2pfP33RX1f8dkUOUNCV98Q",
-        "type": "Album",
         "uuid": "2pfP33RX1f8dkUOUNCV98Q",
         "url": "/album/2pfP33RX1f8dkUOUNCV98Q",
         "api_url": "/api/album/2pfP33RX1f8dkUOUNCV98Q",
@@ -175,5 +175,5 @@
   ],
   "count": 4,
   "category": "music",
-  "updated_at": "2025-01-29T00:51:30.541083"
+  "updated_at": "2025-01-30T00:50:35.105907"
 }
