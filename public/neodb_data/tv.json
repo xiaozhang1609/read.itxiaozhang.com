@@ -3,6 +3,249 @@
     {
       "shelf_type": "complete",
       "visibility": 0,
+      "post_id": 408866573409921000,
+      "item": {
+        "type": "TVSeason",
+        "title": "鬼灭之刃 锻刀村篇",
+        "description": "卖炭维生的善良少年炭治郎，某天家人惨遭鬼杀害。而唯一幸存的妹妹祢豆子，却变化成鬼。遭到绝望现实打击的炭治郎，为了让妹妹恢复回人类，为了被杀害的家人向鬼报仇，决定踏上”猎鬼”之路。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "鬼灭之刃 锻刀村篇"
+          },
+          {
+            "lang": "ja",
+            "text": "鬼滅の刃 刀鍛冶の里編"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "鬼灭之刃 第三季"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "卖炭维生的善良少年炭治郎，某天家人惨遭鬼杀害。而唯一幸存的妹妹祢豆子，却变化成鬼。遭到绝望现实打击的炭治郎，为了让妹妹恢复回人类，为了被杀害的家人向鬼报仇，决定踏上”猎鬼”之路。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/26a4fa45-6953-49f9-b8cf-35f7ca58275b.jpg",
+        "rating": 7.6,
+        "rating_count": 152,
+        "brief": "卖炭维生的善良少年炭治郎，某天家人惨遭鬼杀害。而唯一幸存的妹妹祢豆子，却变化成鬼。遭到绝望现实打击的炭治郎，为了让妹妹恢复回人类，为了被杀害的家人向鬼报仇，决定踏上”猎鬼”之路。",
+        "id": "https://neodb.social/tv/season/1PqdYLkjQ8fHaEQ6pIuKPM",
+        "uuid": "1PqdYLkjQ8fHaEQ6pIuKPM",
+        "url": "/tv/season/1PqdYLkjQ8fHaEQ6pIuKPM",
+        "api_url": "/api/tv/season/1PqdYLkjQ8fHaEQ6pIuKPM",
+        "category": "tv",
+        "parent_uuid": "1p8GW1mCSiANDR6FwLAhE4",
+        "display_title": "鬼灭之刃 锻刀村篇",
+        "external_resources": [
+          {
+            "url": "https://movie.douban.com/subject/35769236/"
+          },
+          {
+            "url": "https://bgm.tv/subject/369768"
+          },
+          {
+            "url": "https://www.themoviedb.org/tv/85937/season/4"
+          }
+        ]
+      },
+      "created_time": "2025-01-31T13:54:00Z",
+      "comment_text": null,
+      "rating_grade": 9,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
+      "post_id": 408866478586241808,
+      "item": {
+        "type": "TVSeason",
+        "title": "鬼灭之刃 游郭篇",
+        "description": "鬼灭之刃游郭篇故事剧情将从《鬼灭之刃无限列车篇》失去炎柱后做为开端，以日本花街为舞台，而最让人期待的音柱、堕姬即将在鬼灭第二季登场！",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "鬼灭之刃 游郭篇"
+          },
+          {
+            "lang": "ko",
+            "text": "鬼滅の刃 遊郭編"
+          },
+          {
+            "lang": "sw",
+            "text": "Kimetsu no Yaiba: Yuukaku-hen"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "鬼灭之刃 花街篇"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "鬼灭之刃游郭篇故事剧情将从《鬼灭之刃无限列车篇》失去炎柱后做为开端，以日本花街为舞台，而最让人期待的音柱、堕姬即将在鬼灭第二季登场！"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/9b8c9c00-d17c-4de2-9dc4-d7d8eba26a3c.jpg",
+        "rating": 8.2,
+        "rating_count": 319,
+        "brief": "鬼灭之刃游郭篇故事剧情将从《鬼灭之刃无限列车篇》失去炎柱后做为开端，以日本花街为舞台，而最让人期待的音柱、堕姬即将在鬼灭第二季登场！",
+        "id": "https://neodb.social/tv/season/1ykxiMTfM08WVVP6zvyLmE",
+        "uuid": "1ykxiMTfM08WVVP6zvyLmE",
+        "url": "/tv/season/1ykxiMTfM08WVVP6zvyLmE",
+        "api_url": "/api/tv/season/1ykxiMTfM08WVVP6zvyLmE",
+        "category": "tv",
+        "parent_uuid": "1p8GW1mCSiANDR6FwLAhE4",
+        "display_title": "鬼灭之刃 游郭篇",
+        "external_resources": [
+          {
+            "url": "https://www.themoviedb.org/tv/230122"
+          },
+          {
+            "url": "https://movie.douban.com/subject/34813210/"
+          },
+          {
+            "url": "https://bgm.tv/subject/328195"
+          },
+          {
+            "url": "https://www.themoviedb.org/tv/85937/season/3"
+          }
+        ]
+      },
+      "created_time": "2025-01-29T13:54:00Z",
+      "comment_text": null,
+      "rating_grade": 9,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
+      "post_id": 408866384596759472,
+      "item": {
+        "type": "TVSeason",
+        "title": "鬼灭之刃 无限列车篇",
+        "description": "在蝴蝶屋结束修业之后，炭治郎等人抵达了下一任务的地方“无限列车”。在那里，短时间内有四十多人失踪。带着祢豆子的炭治郎与善逸、伊之助一行人，与鬼杀队的最强剑士“柱”之一的炎柱炼狱杏寿郎会合了。在通向黑暗的无限列车中，他们将面对潜伏在此的鬼。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "鬼灭之刃 无限列车篇"
+          },
+          {
+            "lang": "ko",
+            "text": "鬼滅の刃 無限列車編"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "鬼灭之刃 无限列车篇TV版"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "在蝴蝶屋结束修业之后，炭治郎等人抵达了下一任务的地方“无限列车”。在那里，短时间内有四十多人失踪。带着祢豆子的炭治郎与善逸、伊之助一行人，与鬼杀队的最强剑士“柱”之一的炎柱炼狱杏寿郎会合了。在通向黑暗的无限列车中，他们将面对潜伏在此的鬼。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/91aef100-a4ff-4866-8e5e-a6b1af1bc754.jpg",
+        "rating": 8.6,
+        "rating_count": 213,
+        "brief": "在蝴蝶屋结束修业之后，炭治郎等人抵达了下一任务的地方“无限列车”。在那里，短时间内有四十多人失踪。带着祢豆子的炭治郎与善逸、伊之助一行人，与鬼杀队的最强剑士“柱”之一的炎柱炼狱杏寿郎会合了。在通向黑暗的无限列车中，他们将面对潜伏在此的鬼。",
+        "id": "https://neodb.social/tv/season/4fvcgLiQQhhUlA64nAUMEG",
+        "uuid": "4fvcgLiQQhhUlA64nAUMEG",
+        "url": "/tv/season/4fvcgLiQQhhUlA64nAUMEG",
+        "api_url": "/api/tv/season/4fvcgLiQQhhUlA64nAUMEG",
+        "category": "tv",
+        "parent_uuid": "1p8GW1mCSiANDR6FwLAhE4",
+        "display_title": "鬼灭之刃 无限列车篇",
+        "external_resources": [
+          {
+            "url": "https://bgm.tv/subject/350764"
+          },
+          {
+            "url": "https://movie.douban.com/subject/35620761/"
+          },
+          {
+            "url": "https://www.themoviedb.org/tv/85937/season/2"
+          }
+        ]
+      },
+      "created_time": "2025-01-27T13:54:00Z",
+      "comment_text": null,
+      "rating_grade": 9,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
+      "post_id": 405253820254597928,
+      "item": {
+        "type": "TVSeason",
+        "title": "鬼灭之刃 第一季",
+        "description": "电视动画《鬼灭之刃》改编自吾峠呼世晴创作的同名漫画，于2018年6月4日在《周刊少年JUMP》2018年6月第27号上发表了动画化的消息。动画由ufotable负责制作。 于2019年4月放送开始。\n日本大正时期，那是一个吃人的恶鬼横行的世界，一名家人被鬼杀死，妹妹也变成了鬼的主人公炭治郎，在猎鬼人的指引下，成为了鬼猎人组织“鬼杀队”的一员，为了让妹妹祢豆子变回人类，为了讨伐杀害家人的恶鬼，为了斩断悲伤的连锁而展开了战斗。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "鬼灭之刃"
+          },
+          {
+            "lang": "ja",
+            "text": "鬼滅の刃"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "灭鬼之刃"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "鬼灭之刃 龟门炭治郎 立志篇"
+          },
+          {
+            "lang": "en",
+            "text": "Demon Slayer"
+          },
+          {
+            "lang": "hr",
+            "text": "Kimetsu no Yaiba"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "电视动画《鬼灭之刃》改编自吾峠呼世晴创作的同名漫画，于2018年6月4日在《周刊少年JUMP》2018年6月第27号上发表了动画化的消息。动画由ufotable负责制作。 于2019年4月放送开始。\n日本大正时期，那是一个吃人的恶鬼横行的世界，一名家人被鬼杀死，妹妹也变成了鬼的主人公炭治郎，在猎鬼人的指引下，成为了鬼猎人组织“鬼杀队”的一员，为了让妹妹祢豆子变回人类，为了讨伐杀害家人的恶鬼，为了斩断悲伤的连锁而展开了战斗。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/movie/2021/09/158cac42e4-74fb-472f-afd5-78984be19315.jpg",
+        "rating": 8.2,
+        "rating_count": 720,
+        "brief": "电视动画《鬼灭之刃》改编自吾峠呼世晴创作的同名漫画，于2018年6月4日在《周刊少年JUMP》2018年6月第27号上发表了动画化的消息。动画由ufotable负责制作。 于2019年4月放送开始。\n日本大正时期，那是一个吃人的恶鬼横行的世界，一名家人被鬼杀死，妹妹也变成了鬼的主人公炭治郎，在猎鬼人的指引下，成为了鬼猎人组织“鬼杀队”的一员，为了让妹妹祢豆子变回人类，为了讨伐杀害家人的恶鬼，为了斩断悲伤的连锁而展开了战斗。",
+        "id": "https://neodb.social/tv/season/6w9C7lVHbDMULFhw8sywTo",
+        "uuid": "6w9C7lVHbDMULFhw8sywTo",
+        "url": "/tv/season/6w9C7lVHbDMULFhw8sywTo",
+        "api_url": "/api/tv/season/6w9C7lVHbDMULFhw8sywTo",
+        "category": "tv",
+        "parent_uuid": "1p8GW1mCSiANDR6FwLAhE4",
+        "display_title": "鬼灭之刃 第一季",
+        "external_resources": [
+          {
+            "url": "https://movie.douban.com/subject/30210221/"
+          },
+          {
+            "url": "https://www.themoviedb.org/tv/85937/season/1"
+          },
+          {
+            "url": "https://bgm.tv/subject/245665"
+          }
+        ]
+      },
+      "created_time": "2025-01-23T13:54:00Z",
+      "comment_text": null,
+      "rating_grade": 9,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
       "post_id": 399085441805823624,
       "item": {
         "type": "TVSeason",
@@ -460,7 +703,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/11/30/9ba014ae-5023-41ba-8414-b725d6bd2d67.jpg",
         "rating": 8.5,
-        "rating_count": 145,
+        "rating_count": 146,
         "brief": "Apple TV+续订《流人》第三、四季，第三季改编原著系列中的第三本《Real Tigers》。\r\n当Jackson Lamb手下的一员被绑架后，这群废柴间谍合作阻止一名擅自行动的流氓特工。",
         "id": "https://neodb.social/tv/season/3nfveBbMneBefgMBcWhZ3M",
         "uuid": "3nfveBbMneBefgMBcWhZ3M",
@@ -517,7 +760,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/09/59f49696-e8a1-40b8-a956-07cc5e7e6891.jpg",
         "rating": 8.5,
-        "rating_count": 192,
+        "rating_count": 194,
         "brief": "该剧根据Mick Herron的同名系列小说改编，故事围绕着军情五处内一个不正常的特务组，以及他们讨人厌的老板：臭名满天下的杰克逊·兰姆（加里·奥德曼 饰）。他们在真假难辨的间谍世界中努力着，以保卫英国免受邪恶势力的侵害。",
         "id": "https://neodb.social/tv/season/2Eqn7nsOKfduXHmcvFFLQP",
         "uuid": "2Eqn7nsOKfduXHmcvFFLQP",
@@ -570,7 +813,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/04/15b785f2f1-4e5a-4ab8-8344-90049e5ac6fb.jpg",
         "rating": 8.3,
-        "rating_count": 293,
+        "rating_count": 294,
         "brief": "该剧根据Mick Herron的同名系列小说改编，讲述一队英国情报人员在军情五处的一个垃圾倾倒场Slough House工作。奥德曼饰演才华横溢但脾气暴躁的间谍首领杰克森，因犯错导致职业生涯结束而被关进了这里。",
         "id": "https://neodb.social/tv/season/4ZML2fMKimevs00ZNNZdUL",
         "uuid": "4ZML2fMKimevs00ZNNZdUL",
@@ -659,8 +902,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/08/29/43e193de-dc85-411d-8021-7d18962b38e7.jpg",
-        "rating": 7.2,
-        "rating_count": 59,
+        "rating": 7.3,
+        "rating_count": 60,
         "brief": "三边坡，一处鱼龙混杂的热带异域，一个繁茂与衰败并生的斑驳之地。意外流落三边坡的打工小白沈星（郭麒麟 饰）遇到在多方势力间游走的三边坡和事佬猜叔（吴镇宇 饰），一场冒险，一段善良微光指引下的回归，在留与逃的挣扎中将如何上演。",
         "id": "https://neodb.social/tv/season/4GaDRvr7rVHzwX34tTa4q2",
         "uuid": "4GaDRvr7rVHzwX34tTa4q2",
@@ -1287,7 +1530,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/08/69d304f8-1a0f-4f06-9a4a-b1d870f43864.webp",
         "rating": 7.9,
-        "rating_count": 152,
+        "rating_count": 153,
         "brief": "Based on one of the greatest video game series of all time, Fallout is the story of haves and have-nots in a world in which there’s almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird and highly violent universe waiting for them.",
         "id": "https://neodb.social/tv/season/5FyXt7D9AV5ieWNoDj7OPV",
         "uuid": "5FyXt7D9AV5ieWNoDj7OPV",
@@ -1616,7 +1859,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/05/08/b1302e71-dc78-444c-b77c-7c9963751aef.jpg",
         "rating": 8.0,
-        "rating_count": 225,
+        "rating_count": 226,
         "brief": "高中生蒲一永（曾敬骅 饰）遭遇生死边缘的车祸后陷入昏迷，醒来后意外拥有超能力，原本无聊的生活从此产生翻天覆地的改变，与菜鸟女警官陈楮英（宋芸桦 饰），以及校内死对头曹光砚（彭千祐 饰）三人一同展开了一场奇幻又疯狂的打怪旅程。",
         "id": "https://neodb.social/tv/season/2dDNx379ARQZo3rij3cUbQ",
         "uuid": "2dDNx379ARQZo3rij3cUbQ",
@@ -2143,8 +2386,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/19/368cf45a-631c-4500-9ec0-c814f93efe6f.jpg",
-        "rating": 7.9,
-        "rating_count": 260,
+        "rating": 7.8,
+        "rating_count": 262,
         "brief": "短片集由八个植根于中国传统文化的独立的故事组成：《小妖怪的夏天》《鹅鹅鹅》《林林》《乡村巴士带走了王孩儿和神仙》《小满》《玉兔》《小卖部》《飞鸟与鱼》，在观众面前铺陈开一个极具中式想象力和审美魅力的“妖怪”故事集。\r\n其中故事纵览古今、展望未来，从古代故事到科幻想象、 从乡土眷恋到唯美爱情、从生命母题到人性思考，展现着中式想象力、承载着中国民族文化与哲学。影片涵盖多种美术风格以及制作手法：既有传统的二维、剪纸、偶定格动画，又有CG、三渲二的现代技术，还有将素描与中国水墨韵味相结合的创新尝试，是创作者们对中国美学一次多视角的诠释。",
         "id": "https://neodb.social/tv/season/6I6TutwG8JI3xyOgioAqEJ",
         "uuid": "6I6TutwG8JI3xyOgioAqEJ",
@@ -2330,7 +2573,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/2775557ce8-06f5-4882-a7e4-a3293ba16d3a.jpg",
         "rating": 8.9,
-        "rating_count": 985,
+        "rating_count": 986,
         "brief": "曾几何时，世界上突然出现无数身形庞大的巨人，普通人类的生命受到前所未有的威胁。为了保护自身安全，最后的人类筑起三座高墙：玛莉亚、露丝和希娜。人类迎来了长达一个世纪的和平岁月，却也让自己成为圈养在笼中的鸟儿，屈辱地失去自由。845年，高达60米的超大型巨人和铠之巨人登场， 摧毁了最外层的玛莉亚之壁，也惊醒了人类似乎永远不会苏醒的长梦。在此事件中，不愿蜷缩在墙内的少年艾伦·耶格尔（梶裕贵 配音）亲眼目睹母亲遇害，由此更坚定了他加入调查兵团的决心。在此之后，艾伦和青梅竹马三笠·阿克曼（石川由依 配音）、好友阿尔敏·亚鲁雷特（井上麻里奈 配音）加入第104期训练兵团，发誓成为足以消灭所有巨人的英勇战士。百年的和平结束，人类和巨人的战争再度拉开序幕……\n本片根据谏山创的同名原作改编。",
         "id": "https://neodb.social/tv/season/420HRHE7vRO8iPYcV4QIkZ",
         "uuid": "420HRHE7vRO8iPYcV4QIkZ",
@@ -3129,7 +3372,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1373cde94d-7ce8-4f88-9d1e-adcf85e9d479.jpg",
         "rating": 8.1,
-        "rating_count": 200,
+        "rating_count": 201,
         "brief": "八名窃贼将自己与人质反锁在西班牙皇家造币厂内，他们背后的犯罪首脑则妄图操纵警察实现自己的计划。",
         "id": "https://neodb.social/tv/season/5w3sln5wabjUgWdjoekteN",
         "uuid": "5w3sln5wabjUgWdjoekteN",
@@ -3500,8 +3743,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ddb8977a-6e04-4d3f-bb55-a73b948034e7.jpg",
-        "rating": 9.2,
-        "rating_count": 322,
+        "rating": 9.3,
+        "rating_count": 323,
         "brief": "雨夜，一只流落街头的小黑猫，被少女罗小白（山新 配音）带回家，起名罗小黑。罗小黑不是一只普通的猫咪，它极通人性，会上厕所，不吃猫粮，长长的尾巴甚至会分裂成一个个名为“嘿咻”的不明生物体。另一方面，名为“谛听”（皇贞季 配音）的神秘人物，发动手下三匹会幻化成鸟的狼，搜寻着罗小黑的下落。不久，罗小白带着小黑到乡下探望堂哥阿根和爷爷，由此发生了种种离奇玄幻事件。\n《罗小黑战记》是中国大陆独立动画制作人MTJJ及其工作室于2011年03月出品的一部动画片。",
         "id": "https://neodb.social/tv/season/6IUiZ4vdsprrN2lSeZMT9n",
         "uuid": "6IUiZ4vdsprrN2lSeZMT9n",
@@ -4438,7 +4681,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2023/01/033be87cb9-20e8-43a6-831e-f59c540d018a.jpg",
         "rating": 8.2,
-        "rating_count": 572,
+        "rating_count": 573,
         "brief": "主人公·张楚岚，某天在墓地遭遇僵尸的袭击。在万分危急的时刻，一个少女出现在了他的面前手里拿着的菜刀将敌人击倒对着放心了得楚岚说道“现在这里有些困境，你就自己面对吧”留下了有着深意的话，离开了。过了几天，在大学上学的张楚岚的面前，又出现了少女的身影。自从那个瞬间，张楚岚激荡的命运便开始向前推进了。",
         "id": "https://neodb.social/tv/5wqntMd2XeFYIhYA7U6RVH",
         "uuid": "5wqntMd2XeFYIhYA7U6RVH",
@@ -5503,7 +5746,7 @@
       "tags": []
     }
   ],
-  "count": 96,
+  "count": 100,
   "category": "tv",
-  "updated_at": "2025-02-02T00:54:22.746878"
+  "updated_at": "2025-02-03T00:52:46.454180"
 }
