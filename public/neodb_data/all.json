@@ -3806,7 +3806,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/04/15b785f2f1-4e5a-4ab8-8344-90049e5ac6fb.jpg",
         "rating": 8.3,
-        "rating_count": 299,
+        "rating_count": 300,
         "brief": "该剧根据Mick Herron的同名系列小说改编，讲述一队英国情报人员在军情五处的一个垃圾倾倒场Slough House工作。奥德曼饰演才华横溢但脾气暴躁的间谍首领杰克森，因犯错导致职业生涯结束而被关进了这里。",
         "id": "https://neodb.social/tv/season/4ZML2fMKimevs00ZNNZdUL",
         "uuid": "4ZML2fMKimevs00ZNNZdUL",
@@ -6711,7 +6711,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/133604f9b2-b434-4aa8-92c0-e8f88336e4db.jpg",
         "rating": 9.3,
-        "rating_count": 2399,
+        "rating_count": 2400,
         "brief": "楚门（金•凯瑞 Jim Carrey 饰）是一个平凡得不能再平凡的人，除了一些有些稀奇的经历之外——初恋女友突然失踪、溺水身亡的父亲忽然似乎又出现在眼前，他和绝大多数30多岁的美国男人绝无异样。这令他倍感失落。他也曾试过离开自己生活了多年的地方，但总因种种理由而不能成行。\n直到有一天，他忽然发觉自己似乎一直在被人跟踪，无论他走到哪里，干什么事情。这种感觉愈来愈强烈。楚门决定不惜一切代价逃离这个他生活了30多年的地方，去寻找他的初恋女友。\n但他却发现自己怎样也逃不出去。真相其实很残忍。",
         "id": "https://neodb.social/movie/6KMxh5WhS3tgLgdGjWqUSV",
         "uuid": "6KMxh5WhS3tgLgdGjWqUSV",
@@ -10280,7 +10280,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16d55ba3c5-3088-4dd0-a0b8-13546996ebb8.jpg",
         "rating": 7.7,
-        "rating_count": 579,
+        "rating_count": 580,
         "brief": "------银行小职员斯坦利（金•凯瑞 Jim Carrey 饰）老实本分，过着和所有老实人一样的平凡生活。一次，斯坦利在接待金发美女蒂娜（卡梅隆•迪亚茨 Cameron Diaz 饰）时深深恋上了对方，不料蒂娜却是黑帮头目多利安（彼得•格林纳 Peter Greene 饰）抢劫银行前派来打探地形的。多利安随后成功抢劫了斯坦利所在的银行。一晚，斯坦利意外获得了一个奇怪的面具。戴上面具后的斯坦利变得力大无比、身手敏捷。斯坦利开始四出捉弄平日欺负他的人，并抢走了多利安劫得的巨款，与蒂娜在夜总会尽情飞舞。多利安知道了面具的威力后，用计夺走了面具，斯坦利则被关进了监狱。斯坦利最后能否凭自己的智慧夺回面具，与蒂娜有情人终成眷属?",
         "id": "https://neodb.social/movie/79UiGKGrfD0qAJ44djs3jY",
         "uuid": "79UiGKGrfD0qAJ44djs3jY",
@@ -10563,7 +10563,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/12/0838bda30b-4624-44fc-a506-fe2dec0f453c.jpg",
         "rating": 8.1,
-        "rating_count": 968,
+        "rating_count": 969,
         "brief": "本片讲述了留守少年阿娟和好友阿猫、阿狗在退役狮王咸鱼强的培训下参加舞狮比赛，经过重重磨砺，从病猫变成雄狮的成长故事。",
         "id": "https://neodb.social/movie/1PuzXvCdcayhObXGvLF7gL",
         "uuid": "1PuzXvCdcayhObXGvLF7gL",
@@ -19366,36 +19366,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2025-02-15T00:51:55.942170",
+  "updated_at": "2025-02-16T00:56:50.109334",
   "stats": {
     "movie": {
       "count": 122,
-      "time": 11.64
+      "time": 10.25
     },
     "tv": {
       "count": 100,
-      "time": 7.51
+      "time": 6.73
     },
     "book": {
       "count": 29,
-      "time": 2.33
+      "time": 1.78
     },
     "music": {
       "count": 4,
-      "time": 0.21
+      "time": 0.19
     },
     "podcast": {
       "count": 0,
-      "time": 0.14
+      "time": 0.09
     },
     "game": {
       "count": 1,
-      "time": 0.16
+      "time": 0.11
     },
     "performance": {
       "count": 2,
-      "time": 0.18
+      "time": 0.14
     }
   },
-  "total_time": 22.16
+  "total_time": 19.28
 }
