@@ -38,7 +38,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/12eb1ffdd9-8769-429d-9b4a-a2a3a7bd3764.jpg",
         "rating": 9.0,
-        "rating_count": 371,
+        "rating_count": 372,
         "rating_distribution": [
           0,
           0,
@@ -677,7 +677,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/131b46667b-3905-4bdb-a7ec-441f1126be6d.jpg",
         "rating": 9.0,
-        "rating_count": 1125,
+        "rating_count": 1126,
         "rating_distribution": [
           0,
           0,
@@ -761,12 +761,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14138f068a-33d6-4cb0-a556-1112c79ede52.jpg",
         "rating": 9.3,
-        "rating_count": 1554,
+        "rating_count": 1556,
         "rating_distribution": [
           0,
           0,
           4,
-          24,
+          23,
           70
         ],
         "tags": [
@@ -1126,12 +1126,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/11/30/9ba014ae-5023-41ba-8414-b725d6bd2d67.jpg",
         "rating": 8.5,
-        "rating_count": 155,
+        "rating_count": 156,
         "rating_distribution": [
           0,
           0,
           7,
-          47,
+          48,
           44
         ],
         "tags": [
@@ -1143,12 +1143,12 @@
           "下等马",
           "剧集",
           "动作",
+          "大脸怪",
           "小说改编",
           "悬疑",
           "政治",
           "流人",
           "漂在加拿大",
-          "特工",
           "电视剧",
           "美剧",
           "英剧",
@@ -1215,12 +1215,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/09/59f49696-e8a1-40b8-a956-07cc5e7e6891.jpg",
         "rating": 8.5,
-        "rating_count": 203,
+        "rating_count": 204,
         "rating_distribution": [
           0,
           0,
           5,
-          49,
+          50,
           44
         ],
         "tags": [
@@ -1229,7 +1229,7 @@
           "俄罗斯",
           "剧集",
           "加里奥德曼",
-          "影集",
+          "大脸怪",
           "情报",
           "政治",
           "梗概",
@@ -2075,13 +2075,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/12/09/e349737a-1ad1-4118-ab72-3f8fd067cf4d.webp",
         "rating": 8.7,
-        "rating_count": 256,
+        "rating_count": 258,
         "rating_distribution": [
           0,
           0,
-          9,
+          10,
           32,
-          57
+          56
         ],
         "tags": [
           "2020s",
@@ -2093,10 +2093,10 @@
           "冒险",
           "剧情",
           "剧集",
-          "动漫",
           "动画",
           "動畫",
           "科幻",
+          "科技",
           "美剧",
           "美国",
           "美国动画",
@@ -2466,7 +2466,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157c78ce20-44be-4128-85cd-0cfdc73ebb0a.jpg",
         "rating": 8.0,
-        "rating_count": 643,
+        "rating_count": 644,
         "rating_distribution": [
           1,
           2,
@@ -3186,11 +3186,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/10/22/061fa0ce-5b93-4b37-a162-d488e100d05d.jpg",
         "rating": 8.2,
-        "rating_count": 144,
+        "rating_count": 145,
         "rating_distribution": [
           1,
           2,
-          14,
+          15,
           34,
           46
         ],
@@ -3200,7 +3200,7 @@
           "amazon",
           "w",
           "万神殿",
-          "剧情",
+          "刘宇昆",
           "剧集",
           "动作",
           "动漫",
@@ -3266,7 +3266,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/09/04cbcb6fd5-268a-485b-ac86-17ebb9e1ecd8.jpg",
         "rating": 8.2,
-        "rating_count": 379,
+        "rating_count": 380,
         "rating_distribution": [
           0,
           0,
@@ -3822,7 +3822,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/03/14/e0cc80de-58b3-4a0c-ba0b-cb1ed25f326a.webp",
         "rating": 8.8,
-        "rating_count": 464,
+        "rating_count": 466,
         "rating_distribution": [
           0,
           0,
@@ -4577,22 +4577,38 @@
           {
             "lang": "en",
             "text": "Parasyte: The Grey"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "寄生兽 灰色部队"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "寄生兽：The Gray"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "寄生兽韩国版"
           }
         ],
         "localized_description": [
           {
             "lang": "zh-cn",
             "text": "不明寄生生物强行侵占人类宿主的身体并夺得力量，人类必须挺身作战，对抗日益壮大的威胁。"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "《寄生獸：The Grey》改編自漫畫家岩明均的漫畫作品《寄生獸》，漫畫劇情講述寄生生物掌控人類大腦後所發生的一連串驚悚事件，該漫畫作品也翻拍成動畫片與電影，而韓國也確定翻拍成Netflix原創系列，將由擅長刻畫末日世界觀還有暗黑人性的名導延尚昊執導，延尚昊已經打造眾多末日類型影視，包括《屍速列車》系列、《謗法》、《怪異》等作，延尚昊將以新作《寄生獸：The Grey》再現全新暗黑世界觀，該劇也找來《紙房子：韓國篇》編劇劉勇在聯手打造。\r\n具教煥2020年演出延尚昊執導的《屍速列車：感染半島》「徐大尉」一角後正式爆紅！之後陸續演出《逃出摩加迪休》、《屍戰朝鮮：雅信傳》、《D.P：逃兵追緝令》、《怪異》等作，都展現了無可取代的魅力，目前已經確定出演《D.P：逃兵追緝令2》，今日再官宣最新作《寄生獸：The Grey》，在新劇中飾演男主角，為尋找妹妹的「薛康宇(音譯)」一角，由於妹妹被寄生後繼而消失，薛康宇展開追逐還有對抗寄生獸的故事！"
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2024/04/17/7d1bda2d-db00-4136-a4cb-6ef3f39ef985.jpg",
         "rating": 7.2,
-        "rating_count": 84,
+        "rating_count": 85,
         "rating_distribution": [
           0,
           2,
           30,
-          55,
+          56,
           10
         ],
         "tags": [
@@ -4631,6 +4647,9 @@
           },
           {
             "url": "https://eggplant.place/tv/season/0wbRmNTxi5IeNA1asi4t2R"
+          },
+          {
+            "url": "https://bgm.tv/subject/449520"
           }
         ]
       },
@@ -5095,7 +5114,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1543e536b3-fcc3-44d0-a4da-96eacc5607bf.jpg",
         "rating": 9.6,
-        "rating_count": 453,
+        "rating_count": 454,
         "rating_distribution": [
           0,
           0,
@@ -5536,7 +5555,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ddb8977a-6e04-4d3f-bb55-a73b948034e7.jpg",
         "rating": 9.3,
-        "rating_count": 326,
+        "rating_count": 327,
         "rating_distribution": [
           0,
           1,
@@ -7723,8 +7742,8 @@
         "rating_distribution": [
           1,
           1,
-          13,
-          56,
+          12,
+          57,
           25
         ],
         "tags": [
@@ -7940,7 +7959,7 @@
           0,
           0,
           3,
-          18,
+          19,
           77
         ],
         "tags": [
@@ -8457,5 +8476,5 @@
   ],
   "count": 101,
   "category": "tv",
-  "updated_at": "2025-03-05T00:54:57.802730"
+  "updated_at": "2025-03-06T00:54:56.998275"
 }
