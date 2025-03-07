@@ -38,7 +38,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/12eb1ffdd9-8769-429d-9b4a-a2a3a7bd3764.jpg",
         "rating": 9.0,
-        "rating_count": 372,
+        "rating_count": 373,
         "rating_distribution": [
           0,
           0,
@@ -677,7 +677,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/131b46667b-3905-4bdb-a7ec-441f1126be6d.jpg",
         "rating": 9.0,
-        "rating_count": 1126,
+        "rating_count": 1127,
         "rating_distribution": [
           0,
           0,
@@ -761,7 +761,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14138f068a-33d6-4cb0-a556-1112c79ede52.jpg",
         "rating": 9.3,
-        "rating_count": 1556,
+        "rating_count": 1557,
         "rating_distribution": [
           0,
           0,
@@ -1492,12 +1492,32 @@
           {
             "lang": "zh-cn",
             "text": "柏青哥"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "弹子球游戏 第一季"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "柏青哥 第一季"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "弹珠人生 第一季"
+          },
+          {
+            "lang": "en",
+            "text": "Pachinko Season 1"
           }
         ],
         "localized_description": [
           {
             "lang": "zh-cn",
             "text": "苹果正式预订《弹子球游戏》(Pachinko)剧集整季。去年8月苹果拿下了李明锦所著同名小说的版权，计划拍剧，如今正式要拍。Soo Hugh(《天外来客》《穹顶之下》)担任编剧、运作人、执行制作人。\n小说记录了一个美国的韩国移民家庭四代人的希望和梦想，以一段禁忌的爱情故事开始发展，成为一部横跨韩国、日本和美国的长篇传奇。该书被《纽约时报》评为2017年十大最佳书籍之一，并入围美国国家图书奖。"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "　　该剧讲述了历经四代的韩国移民家庭的故事。故事始于一段禁忌的爱恋，并扩展为跨越韩国、日本与美国三地，关于希望与梦想、和平、爱与失落、胜利与算计的史诗传奇。 \r\n　　从朝鲜到日本，四代移民家庭的恩怨纠葛，大时代的巨光照在每一个小人物的身上，都留下了一道崎岖的阴影，生生地拖着他们的躯体前行。从1920年日本殖民时期的韩国渔村，到日本大阪，经历了二战和朝鲜战争，一直到90年代末日本泡沫经济时代的横滨和东京乃至纽约。在这样复杂的历史背景下，全剧着重描绘了几代人在家族与故乡、融入与归属、金钱与信仰等一系列问题上的关系与矛盾。"
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/02/24bdbed50e-f9d6-4444-aadb-20c719aa716f.jpg",
@@ -1506,7 +1526,7 @@
         "rating_distribution": [
           0,
           7,
-          14,
+          13,
           53,
           24
         ],
@@ -1542,6 +1562,9 @@
         "external_resources": [
           {
             "url": "https://movie.douban.com/subject/30489824/"
+          },
+          {
+            "url": "https://bgm.tv/subject/377414"
           }
         ]
       },
@@ -1660,7 +1683,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13de2367b3-cbe1-4669-996e-e3ef1f5ae43b.jpg",
         "rating": 8.9,
-        "rating_count": 297,
+        "rating_count": 298,
         "rating_distribution": [
           0,
           2,
@@ -2823,7 +2846,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/05/08/b1302e71-dc78-444c-b77c-7c9963751aef.jpg",
         "rating": 8.0,
-        "rating_count": 230,
+        "rating_count": 231,
         "rating_distribution": [
           0,
           0,
@@ -3633,7 +3656,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/19/368cf45a-631c-4500-9ec0-c814f93efe6f.jpg",
         "rating": 7.8,
-        "rating_count": 266,
+        "rating_count": 267,
         "rating_distribution": [
           0,
           5,
@@ -3913,7 +3936,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/2775557ce8-06f5-4882-a7e4-a3293ba16d3a.jpg",
         "rating": 8.9,
-        "rating_count": 995,
+        "rating_count": 996,
         "rating_distribution": [
           0,
           1,
@@ -5960,7 +5983,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16fd33afd9-4f8c-4b59-9a56-04059b8adbc5.jpg",
         "rating": 8.6,
-        "rating_count": 319,
+        "rating_count": 320,
         "rating_distribution": [
           1,
           1,
@@ -6213,12 +6236,52 @@
           {
             "lang": "en",
             "text": "The Romance of Three Kingdoms"
+          },
+          {
+            "lang": "ko",
+            "text": "시즌 1"
+          },
+          {
+            "lang": "ja",
+            "text": "シーズン1"
+          },
+          {
+            "lang": "pt",
+            "text": "1.ª Temporada"
+          },
+          {
+            "lang": "de",
+            "text": "Staffel 1"
+          },
+          {
+            "lang": "fr",
+            "text": "Saison 1"
+          },
+          {
+            "lang": "es",
+            "text": "Temporada 1"
+          },
+          {
+            "lang": "en",
+            "text": "Season 1"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "第 1 季"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "第 1 季"
           }
         ],
         "localized_description": [
           {
             "lang": "zh-cn",
             "text": "东汉末年，山河动荡，刘汉王朝气数将尽。内有十常侍颠倒黑白，祸乱朝纲。外有张氏兄弟高呼“苍天已死，黄巾当立”的口号，掀起浩大的农民起义。一时间狼烟四起，刘家朝廷宛如大厦将倾，岌岌可危。\r\n正所谓乱世出英雄，曹操（鲍国安 饰）、公孙瓒、袁术、袁绍、吕布（张光北 饰）、刘备、孙策、关羽、张飞、诸葛亮（唐国强 饰）等各路豪杰不断涌现，从群雄逐鹿到赤壁之战，从魏蜀吴三国鼎立到三分归一统，波澜壮阔的三国时代的大幕缓缓拉开……\r\n本片根据中国古典名著《三国演义》改编。"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "　　东汉末年，山河动荡，刘汉王朝气数将尽。内有十常侍颠倒黑白，祸乱朝纲。外有张氏兄弟高呼“苍天已死，黄巾当立”的口号，掀起浩大的农民起义。一时间狼烟四起，刘家朝廷宛如大厦将倾，岌岌可危。\n\n　　正所谓乱世出英雄，曹操（鲍国安 饰）、公孙瓒、袁术、袁绍、吕布（张光北 饰）、刘备、孙策、关羽、张飞、诸葛亮（唐国强 饰）等各路豪杰不断涌现，从群雄逐鹿到赤壁之战，从魏蜀吴三国鼎立到三分归一统，波澜壮阔的三国时代的大幕缓缓拉开……"
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/21/58486641-69b1-46ad-b902-66a09b705e9d.jpg",
@@ -6264,6 +6327,9 @@
         "external_resources": [
           {
             "url": "https://movie.douban.com/subject/1830528/"
+          },
+          {
+            "url": "https://www.themoviedb.org/tv/72645/season/1"
           }
         ]
       },
@@ -6866,7 +6932,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27fe09ead9-76a1-44f6-b1cf-98e7701606e9.webp",
         "rating": 9.2,
-        "rating_count": 28,
+        "rating_count": 29,
         "rating_distribution": [
           3,
           0,
@@ -7234,13 +7300,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27d51851ac-c5ef-436b-b7c6-723fc0c07620.jpg",
         "rating": 9.3,
-        "rating_count": 31,
+        "rating_count": 32,
         "rating_distribution": [
           0,
           3,
           6,
           12,
-          77
+          78
         ],
         "tags": [
           "2011",
@@ -8476,5 +8542,5 @@
   ],
   "count": 101,
   "category": "tv",
-  "updated_at": "2025-03-06T00:54:56.998275"
+  "updated_at": "2025-03-07T00:55:20.471718"
 }
