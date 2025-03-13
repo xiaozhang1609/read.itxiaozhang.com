@@ -2767,11 +2767,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
         "rating": 9.0,
-        "rating_count": 557,
+        "rating_count": 558,
         "rating_distribution": [
           0,
           1,
-          7,
+          6,
           30,
           60
         ],
@@ -3406,7 +3406,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/16/f28d5972-1708-4dd1-a655-d75431e32c33.webp",
         "rating": 9.0,
-        "rating_count": 708,
+        "rating_count": 709,
         "rating_distribution": [
           0,
           0,
@@ -8552,5 +8552,5 @@
   ],
   "count": 101,
   "category": "tv",
-  "updated_at": "2025-03-12T00:54:35.004759"
+  "updated_at": "2025-03-13T00:55:22.479298"
 }
