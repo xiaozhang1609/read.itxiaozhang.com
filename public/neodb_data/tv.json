@@ -475,12 +475,60 @@
           {
             "lang": "en",
             "text": "Shōgun"
+          },
+          {
+            "lang": "ko",
+            "text": "시즌 1"
+          },
+          {
+            "lang": "ja",
+            "text": "シーズン1"
+          },
+          {
+            "lang": "pt",
+            "text": "1.ª Temporada"
+          },
+          {
+            "lang": "de",
+            "text": "Staffel 1"
+          },
+          {
+            "lang": "fr",
+            "text": "Saison 1"
+          },
+          {
+            "lang": "es",
+            "text": "Temporada 1"
+          },
+          {
+            "lang": "en",
+            "text": "Season 1"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "第 1 季"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "第 1 季"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "第 1 季"
           }
         ],
         "localized_description": [
           {
             "lang": "zh-cn",
             "text": "该剧根据1975年James Clavell的同名畅销小说改编，故事的原型是德川家康和三浦按针。\r\n1600年的日本，关原合战前，丰臣政权当政的五大老中以石堂和成为首的三人联合起来意欲消灭另一位成员大名吉井虎长（真田广之 饰），双方关系紧张，一触即发。此时，在伊豆半岛的一个渔村附近发现了一艘神秘的欧洲航船，船上的英国引航员John Blackthorne（柯斯莫·贾维斯 饰）带来了可能帮助虎长颠覆权力天平的秘密，这些秘密也可能摧毁Blackthorne自己的敌人——耶稣会教士和葡萄牙商人拥有的强大影响力。虎长和Blackthorne的命运与他们的翻译鞠子（泽井杏奈 饰）变得密不可分。鞠子是一位神秘的基督教女子，是一位来自没落的贵族血脉最后的家族成员。在政治局势动荡的时代，鞠子不仅要为她的大名服务，还必须在自己与Blackthorne建立的新关系、对信仰和先父遗愿的使命感之间找到平衡点。"
+          },
+          {
+            "lang": "fr",
+            "text": "En l'an 1600 au Japon, le seigneur Yoshii Toranaga lutte pour sa survie alors que ses ennemis du Conseil des régents se liguent contre lui, lorsqu'un mystérieux navire européen est retrouvé échoué dans un village de pêcheurs voisin."
+          },
+          {
+            "lang": "es",
+            "text": "Japón, año 1600, en los albores de una guerra civil que definirá un siglo. Lord Yoshii Toranaga lucha por mantenerse con vida mientras sus enemigos del Consejo de Regentes conspiran contra él. Cuando en un pueblo pesquero cercano aparece un misterioso barco europeo abandonado, el destino de Toranaga se unirá al de John Blackthorne, el patrón de nacionalidad inglesa de este barco.\n\nBlackthorne llega cargado de secretos que podrían ayudar a Toranaga, e inclinar así la balanza del poder. Juntos tienen la oportunidad de acabar con la enorme influencia de los enemigos de Toranaga, que son los mismos que los de Blackthorne: los sacerdotes jesuitas y los mercaderes portugueses. Como traductora de ambos juega un papel esencial Lady Toda Mariko, la última de un linaje caído en desgracia que debe compaginar su reciente amistad con Blackthorne y su lealtad hacia su difunto padre en mitad de este tenso panorama político."
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2024/04/20/7448d3b5-249e-40c0-b76d-daed7a64157f.webp",
@@ -529,6 +577,9 @@
           },
           {
             "url": "https://eggplant.place/tv/season/7ZGwNumil9IQI13ibFkf6n"
+          },
+          {
+            "url": "https://www.themoviedb.org/tv/126308/season/1"
           }
         ]
       },
@@ -1126,13 +1177,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/11/30/9ba014ae-5023-41ba-8414-b725d6bd2d67.jpg",
         "rating": 8.5,
-        "rating_count": 159,
+        "rating_count": 160,
         "rating_distribution": [
           0,
           0,
           7,
-          47,
-          44
+          46,
+          45
         ],
         "tags": [
           "2023",
@@ -1215,13 +1266,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/09/59f49696-e8a1-40b8-a956-07cc5e7e6891.jpg",
         "rating": 8.5,
-        "rating_count": 209,
+        "rating_count": 210,
         "rating_distribution": [
           0,
           0,
           5,
           50,
-          44
+          43
         ],
         "tags": [
           "2020s",
@@ -2098,7 +2149,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/12/09/e349737a-1ad1-4118-ab72-3f8fd067cf4d.webp",
         "rating": 8.7,
-        "rating_count": 263,
+        "rating_count": 264,
         "rating_distribution": [
           0,
           0,
@@ -2404,7 +2455,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/08/69d304f8-1a0f-4f06-9a4a-b1d870f43864.webp",
         "rating": 7.9,
-        "rating_count": 167,
+        "rating_count": 168,
         "rating_distribution": [
           1,
           1,
@@ -2581,10 +2632,10 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/06/1012f10cab-8842-442a-bd65-75dc2723a36b.jpg",
         "rating": 7.9,
-        "rating_count": 519,
+        "rating_count": 522,
         "rating_distribution": [
           1,
-          5,
+          4,
           19,
           39,
           34
@@ -2767,13 +2818,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
         "rating": 9.0,
-        "rating_count": 560,
+        "rating_count": 562,
         "rating_distribution": [
           0,
           1,
           6,
           30,
-          60
+          61
         ],
         "tags": [
           "2021",
@@ -3218,7 +3269,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/10/22/061fa0ce-5b93-4b37-a162-d488e100d05d.jpg",
         "rating": 8.2,
-        "rating_count": 146,
+        "rating_count": 147,
         "rating_distribution": [
           1,
           2,
@@ -3298,7 +3349,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/09/04cbcb6fd5-268a-485b-ac86-17ebb9e1ecd8.jpg",
         "rating": 8.2,
-        "rating_count": 383,
+        "rating_count": 384,
         "rating_distribution": [
           0,
           0,
@@ -3406,7 +3457,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/16/f28d5972-1708-4dd1-a655-d75431e32c33.webp",
         "rating": 9.0,
-        "rating_count": 711,
+        "rating_count": 714,
         "rating_distribution": [
           0,
           0,
@@ -3502,7 +3553,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/24/a9688316-76fe-4704-add5-ab62c18e523f.webp",
         "rating": 9.3,
-        "rating_count": 637,
+        "rating_count": 640,
         "rating_distribution": [
           0,
           0,
@@ -3587,7 +3638,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/01/0601fef99c-a667-460e-bebd-99e45fb92e8a.webp",
         "rating": 9.7,
-        "rating_count": 567,
+        "rating_count": 569,
         "rating_distribution": [
           0,
           0,
@@ -3665,13 +3716,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/19/368cf45a-631c-4500-9ec0-c814f93efe6f.jpg",
         "rating": 7.8,
-        "rating_count": 274,
+        "rating_count": 275,
         "rating_distribution": [
           0,
           5,
           22,
-          39,
-          31
+          38,
+          32
         ],
         "tags": [
           "2020s",
@@ -3759,7 +3810,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/21/156627ec-4352-454a-a41e-6a1a5ae83070.jpg",
         "rating": 9.1,
-        "rating_count": 539,
+        "rating_count": 542,
         "rating_distribution": [
           0,
           0,
@@ -3945,7 +3996,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/2775557ce8-06f5-4882-a7e4-a3293ba16d3a.jpg",
         "rating": 8.9,
-        "rating_count": 1005,
+        "rating_count": 1007,
         "rating_distribution": [
           0,
           1,
@@ -4151,7 +4202,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/24/7b6ac0a9-1096-4531-a7b5-3dbb05ca776e.webp",
         "rating": 9.1,
-        "rating_count": 297,
+        "rating_count": 299,
         "rating_distribution": [
           0,
           0,
@@ -5146,7 +5197,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1543e536b3-fcc3-44d0-a4da-96eacc5607bf.jpg",
         "rating": 9.6,
-        "rating_count": 455,
+        "rating_count": 456,
         "rating_distribution": [
           0,
           0,
@@ -8029,12 +8080,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/139d724fe4-c423-4a7b-8d56-6d81dff61afc.jpg",
         "rating": 9.5,
-        "rating_count": 621,
+        "rating_count": 622,
         "rating_distribution": [
           0,
           0,
           3,
-          19,
+          18,
           77
         ],
         "tags": [
@@ -8194,7 +8245,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155c5cd599-d9ed-4144-b6dd-f450ec1edd27.jpg",
         "rating": 9.4,
-        "rating_count": 565,
+        "rating_count": 566,
         "rating_distribution": [
           0,
           0,
@@ -8234,13 +8285,13 @@
         "display_title": "乒乓",
         "external_resources": [
           {
-            "url": "https://www.themoviedb.org/tv/60811/season/1"
-          },
-          {
             "url": "https://movie.douban.com/subject/25813424/"
           },
           {
             "url": "https://bgm.tv/subject/93739"
+          },
+          {
+            "url": "https://www.themoviedb.org/tv/60811/season/1"
           }
         ]
       },
@@ -8552,5 +8603,5 @@
   ],
   "count": 101,
   "category": "tv",
-  "updated_at": "2025-03-15T00:54:08.438795"
+  "updated_at": "2025-03-16T00:59:29.504297"
 }
