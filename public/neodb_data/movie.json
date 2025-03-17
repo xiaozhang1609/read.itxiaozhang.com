@@ -34,7 +34,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1663bcc4de-a15c-4d50-a3ab-13f9736bd689.jpg",
         "rating": 6.8,
-        "rating_count": 1095,
+        "rating_count": 1096,
         "rating_distribution": [
           1,
           10,
@@ -316,11 +316,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/02/02/d801edae-d1f3-499d-8a73-123ce9669780.jpg",
         "rating": 6.7,
-        "rating_count": 320,
+        "rating_count": 322,
         "rating_distribution": [
           5,
           9,
-          30,
+          29,
           37,
           17
         ],
@@ -555,12 +555,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/05/8722487d-911a-4260-8589-4ea0626eb134.jpg",
         "rating": 5.6,
-        "rating_count": 254,
+        "rating_count": 255,
         "rating_distribution": [
           9,
           19,
-          42,
-          22,
+          43,
+          21,
           5
         ],
         "tags": [
@@ -962,7 +962,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/159aaa290e-3e36-4e6d-b463-ae522aacb61c.jpg",
         "rating": 6.3,
-        "rating_count": 665,
+        "rating_count": 666,
         "rating_distribution": [
           2,
           15,
@@ -1049,12 +1049,80 @@
           {
             "lang": "zh-cn",
             "text": "抢钱老兵"
+          },
+          {
+            "lang": "ko",
+            "text": "고잉 인 스타일"
+          },
+          {
+            "lang": "ja",
+            "text": "ジーサンズ はじめての強盗"
+          },
+          {
+            "lang": "pt",
+            "text": "Ladrões Com Muito Estilo"
+          },
+          {
+            "lang": "de",
+            "text": "Abgang mit Stil"
+          },
+          {
+            "lang": "fr",
+            "text": "Braquage à l'ancienne"
+          },
+          {
+            "lang": "es",
+            "text": "Un golpe con estilo"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "搶錢耆兵"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "瀟灑搶一回"
           }
         ],
         "localized_description": [
           {
             "lang": "zh-cn",
             "text": "故事讲述每天到银行确认有没有老人金进帐的3位老人，决定受够这一切，放手一搏、携手抢银行，但他们面临到一个关键问题，他们不太会用枪……"
+          },
+          {
+            "lang": "ko",
+            "text": "연금 동결이라니? 어느 날 갑자기 날벼락 같은 소식을 듣게 된 노년의 세 친구. 하루아침에 길거리에 나앉게 생겼다가 해결책(?)을 찾았다. 은행을 털고 범행은 완벽히 은폐하기! 하지만 FBI가 그리 호락호락할 리가."
+          },
+          {
+            "lang": "ja",
+            "text": "ジョーは離婚して戻ってきた娘や孫と一緒に暮らしながら、親友のウィリーやアルとブルックリンの公園でローンボウリングをするのが日課になっていた。彼らは40年間、ウェクスラー社で働き、定年後は悠々自適な年金生活を送るはずが、会社の所有者が変わったことで年金がもらえなくなる。さらにジョーは住宅ローンのことで銀行に相談に行くが相手にしてもらえない。その時、銀行強盗事件が起き、ジョーはある計画を思い付く。"
+          },
+          {
+            "lang": "pt",
+            "text": "Há já várias décadas que Willie, Joe e Albert são amigos inseparáveis. Reformados e com pouco que fazer, levam uma vida tranquila e rotineira. Mas quando descobrem que, por culpa do banco, perderam todo o dinheiro que lhes garantia uma reforma condigna, ficam sem saber o que fazer. É então que Joe, ao testemunhar um aparatoso assalto a um banco, encontra aí a solução para todos os problemas. Se, a princípio, os companheiros acham a ideia estapafúrdia, depressa o desespero e a atraente visão de viver uns últimos anos sem preocupações financeiras os convence a alinhar no plano. O grande problema é que nenhum deles sabe, sequer, empunhar uma arma…"
+          },
+          {
+            "lang": "de",
+            "text": "Willie, Joe und Albert sind lebenslange Freunde. Als sich ihre Firmenrente plötzlich in Luft auflöst, können Rechnungen nicht mehr bezahlt und die Familien nicht mehr versorgt werden, weswegen das Senioren-Trio einen extremen Beschluss mit potentiell weitreichenden Folgen fasst: Gemeinsam wollen die drei, die sich noch nie in ihrem Leben etwas zu Schulden kommen haben lassen, nun genau die Bank ausnehmen, die dafür verantwortlich ist, dass ihr Pensionsfonds bankrottgegangen ist. Hilfe bekommen sie von einem ziemlich merkwürdigen Typen namens Jesus, Joes genialer Enkelin Brooklyn, seinem Marihuana-kundigen Ex-Schwiegersohn Murphy und der Supermarktkassiererin Annie, die mit Albert im Schlafzimmer ordentlich was laufen hat…"
+          },
+          {
+            "lang": "fr",
+            "text": "Amis de longue date, Willie, Joe et Al décident de s’écarter du droit chemin pour la première fois de leur vie quand leur fond de pension est victime d’une opération financière. Soudain incapables de payer leurs factures et de subvenir aux besoins de leurs familles, les trois retraités vont jouer le tout pour le tout afin de faire tomber la banque qui les a ruinés."
+          },
+          {
+            "lang": "es",
+            "text": "Willie, Joe y Al son tres amigos jubilados a los que el sistema les ha congelado su plan de pensiones. Desesperados porque no pueden pagar las facturas, están decididos a recuperar su dinero. Los tres ancianos deciden entonces arriesgarlo todo y embarcarse en un temerario plan que consiste en atracar al mismísimo banco que se quedó con su dinero."
+          },
+          {
+            "lang": "en",
+            "text": "Desperate to pay the bills and come through for their loved ones, three lifelong pals risk it all by embarking on a daring bid to knock off the very bank that absconded with their money."
+          },
+          {
+            "lang": "zh-hk",
+            "text": "邊個話做咗爺爺唔可以食大茶飯!? 80歲後都可以打劫銀行, 攞番屬於自己失去咗嘅嘢!!!!"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "摩根費里曼、米高肯恩、亞倫阿金、喬伊金主演。重新翻拍自1979年同名版本，荒謬的搶案中突顯社會需要面臨的老年問題。  故事講述每天到銀行確認有沒有老人年金進帳的3位老人，決定受夠這一切，放手一搏、攜手搶銀行，但他們面臨到一個關鍵問題，他們不太會用槍？！"
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/2262525396-9dcf-4fc7-a01e-8790548550e3.jpg",
@@ -1099,6 +1167,9 @@
         "external_resources": [
           {
             "url": "https://movie.douban.com/subject/26266085/"
+          },
+          {
+            "url": "https://www.themoviedb.org/movie/353070"
           }
         ]
       },
@@ -2027,7 +2098,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15a47c8284-e2de-42cb-8e53-3066c6a3f0f1.jpg",
         "rating": 7.1,
-        "rating_count": 840,
+        "rating_count": 841,
         "rating_distribution": [
           1,
           4,
@@ -2797,13 +2868,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15b1a129f9-80cf-44a4-b61d-574ad0aa49b5.jpg",
         "rating": 8.0,
-        "rating_count": 183,
+        "rating_count": 184,
         "rating_distribution": [
           0,
           2,
           16,
           56,
-          24
+          23
         ],
         "tags": [
           "2010s",
@@ -3037,7 +3108,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/05/14/c6b6a72c-2a26-487c-9c3f-54c23cf4ca9e.webp",
         "rating": 8.8,
-        "rating_count": 2368,
+        "rating_count": 2370,
         "rating_distribution": [
           0,
           1,
@@ -3139,6 +3210,7 @@
           "历史",
           "大陆",
           "姜文",
+          "小说改编",
           "巩俐",
           "张艺谋",
           "战争",
@@ -3146,8 +3218,7 @@
           "爱情",
           "电影",
           "经典",
-          "莫言",
-          "金熊奖"
+          "莫言"
         ],
         "brief": "该片改编自莫言1986年发表的两部中篇小说《红高粱》和《高粱酒》。因为一匹骡子，“ 我奶奶”九儿（巩俐饰）的父母要她嫁给一位拥有一座酒坊的50岁麻风病人。九儿乘坐花轿出嫁时，在途中被一名强盗拦截。其中一名抬轿男子余占鳌（姜文饰）打退了强盗，九儿因而和他开始相互喜欢。3天后九儿回乡探望父母 。抬轿男子突然从高粱田里冲出来，抢走了九儿。他们在高粱田野外交合。九儿回到酒坊的时候发现麻风病的丈夫死了，“ 我奶奶”撑起李家的烧酒作坊，不久余占鳌正式成为 “我爷爷”，并独创酿制好酒十八红的方法。抗日战争期间，“我爷爷”和“我奶奶”连手谱写了一曲悲歌。",
         "id": "https://neodb.social/movie/5sKjjUaNQG3eM8W7FkGmwt",
@@ -3925,7 +3996,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15a5cb7008-acae-4a3b-8d5d-581355037dcf.jpg",
         "rating": 7.4,
-        "rating_count": 1415,
+        "rating_count": 1416,
         "rating_distribution": [
           0,
           5,
@@ -4384,11 +4455,11 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/07/01/f929217a-3c36-4a6e-8885-64fc07476424.webp",
-        "rating": 6.0,
-        "rating_count": 266,
+        "rating": 6.1,
+        "rating_count": 268,
         "rating_distribution": [
           7,
-          12,
+          11,
           41,
           32,
           6
@@ -5383,7 +5454,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13676fe4c9-0bb8-4ba4-88d9-109f12d316f1.jpg",
         "rating": 9.5,
-        "rating_count": 1350,
+        "rating_count": 1351,
         "rating_distribution": [
           0,
           0,
@@ -5475,7 +5546,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ce6a4ea1-e930-4890-857f-95f944cf49c8.jpg",
         "rating": 8.8,
-        "rating_count": 1483,
+        "rating_count": 1484,
         "rating_distribution": [
           0,
           0,
@@ -5707,7 +5778,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/141ac4ecd0-60a1-4b48-9c43-a1fb3a42f224.jpg",
         "rating": 8.3,
-        "rating_count": 1567,
+        "rating_count": 1568,
         "rating_distribution": [
           0,
           1,
@@ -6494,7 +6565,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/02/09/4b06c21f-3439-4a71-a88d-3a62ee8d8f3e.webp",
         "rating": 8.3,
-        "rating_count": 783,
+        "rating_count": 784,
         "rating_distribution": [
           0,
           0,
@@ -6650,7 +6721,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/02/09/521f8674-8810-46f3-9a78-a22145369684.webp",
         "rating": 8.1,
-        "rating_count": 1003,
+        "rating_count": 1004,
         "rating_distribution": [
           0,
           0,
@@ -6826,7 +6897,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/133604f9b2-b434-4aa8-92c0-e8f88336e4db.jpg",
         "rating": 9.3,
-        "rating_count": 2441,
+        "rating_count": 2443,
         "rating_distribution": [
           0,
           0,
@@ -7151,20 +7222,19 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/05/27/9a7c62bf-714d-4f6c-a97b-2404adef3642.webp",
         "rating": 7.7,
-        "rating_count": 127,
+        "rating_count": 129,
         "rating_distribution": [
           0,
           0,
           23,
           51,
-          23
+          24
         ],
         "tags": [
           "2020s",
           "2023",
           "2024",
           "7",
-          "first",
           "flight",
           "中国",
           "中国大陆",
@@ -7174,6 +7244,7 @@
           "喜剧",
           "喜劇",
           "国内电影",
+          "大陆",
           "奇幻",
           "成长",
           "王子川",
@@ -7191,13 +7262,13 @@
         "display_title": "朱同在三年级丢失了超能力",
         "external_resources": [
           {
-            "url": "https://www.themoviedb.org/movie/1136557"
-          },
-          {
             "url": "https://movie.douban.com/subject/35749842/"
           },
           {
             "url": "https://www.imdb.com/title/tt27881502/"
+          },
+          {
+            "url": "https://www.themoviedb.org/movie/1136557"
           }
         ]
       },
@@ -7607,6 +7678,22 @@
           {
             "lang": "zh-cn",
             "text": "蜘蛛侠：新宇宙"
+          },
+          {
+            "lang": "nn",
+            "text": "Spider-Man: Into the Spider-Verse"
+          },
+          {
+            "lang": "nb",
+            "text": "Spider-Man: Into the Spider-Verse"
+          },
+          {
+            "lang": "no",
+            "text": "Spider-Man: Into the Spider-Verse"
+          },
+          {
+            "lang": "sv",
+            "text": "Spider-Man: Into the Spider-Verse"
           }
         ],
         "localized_description": [
@@ -7645,11 +7732,23 @@
           {
             "lang": "zh-cn",
             "text": "蜘蛛侠不止一个！漫威首部超英动画巨制《蜘蛛侠：平行宇宙》将经典漫画与CGI技术完美呈现，讲述了普通高中生迈尔斯·莫拉斯如何师从蜘蛛侠彼得·帕克，成长为新一代超级英雄的故事。影片中迈尔斯和从其它平行宇宙中穿越而来的彼得、女蜘蛛侠格温、暗影蜘蛛侠、潘妮·帕克和蜘猪侠集结成团，六位蜘蛛侠首次同框大银幕，对抗蜘蛛侠宇宙最强反派。"
+          },
+          {
+            "lang": "nb",
+            "text": "En tenåring fra Brooklyn, Miles Morales, blir bitt av en radioaktiv edderkopp og får et kjapt kurs i spindelvevkasting av motstykkene sine fra en annen dimensjon."
+          },
+          {
+            "lang": "no",
+            "text": "Miles Morales får superkrefter etter et edderkoppbitt, og oppdager et parallelt univers hvor det finnes mer enn bare én Spider-Man. Han må slå seg sammen med Peter Parker og de andre Spider-folkene for å bekjempe en trussel som også kan utslette hans egen verden."
+          },
+          {
+            "lang": "sv",
+            "text": "Miles Morales är en 13-åring från Broooklyn och en Spider-Man olik alla andra vi någonsin sett tidigare. Han är en klipsk tonåring som gillar att hänga med sina vänner och vara som barn i den åldern är mest. Men vad hans vänner inte vet är att Miles också lär sig att omfamna ett helt nytt och oväntat liv som den helt nye Spider-Man! Med hjälp av några överraskande nya vänner lär Miles sig att hitta hjälten inom sig."
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/156963fe1b-b7c5-48eb-bd54-03d23c3d8c01.jpg",
         "rating": 8.7,
-        "rating_count": 1851,
+        "rating_count": 1854,
         "rating_distribution": [
           0,
           0,
@@ -7688,6 +7787,9 @@
         "parent_uuid": null,
         "display_title": "蜘蛛侠：平行宇宙",
         "external_resources": [
+          {
+            "url": "https://minreol.dk/movie/6eecBzpsSstWWXv9rzhQW2"
+          },
           {
             "url": "https://movie.douban.com/subject/26374197/"
           },
@@ -7852,7 +7954,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/01/e4b2048e-6b85-4488-9859-7c519e74dc60.jpg",
         "rating": 9.2,
-        "rating_count": 1943,
+        "rating_count": 1944,
         "rating_distribution": [
           0,
           0,
@@ -8031,7 +8133,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/10/20/1da820fd-8dfc-40c4-95b4-84aaa71ee443.webp",
         "rating": 6.5,
-        "rating_count": 337,
+        "rating_count": 338,
         "rating_distribution": [
           3,
           10,
@@ -8183,7 +8285,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/9c60c854-c003-4fde-8112-218faee891da.jpg",
         "rating": 8.8,
-        "rating_count": 1031,
+        "rating_count": 1033,
         "rating_distribution": [
           0,
           0,
@@ -8577,13 +8679,13 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/07/5c08ca37-111a-4d69-847a-6590365d31e7.jpg",
-        "rating": 6.3,
-        "rating_count": 697,
+        "rating": 6.2,
+        "rating_count": 699,
         "rating_distribution": [
           5,
           14,
           38,
-          35,
+          34,
           7
         ],
         "tags": [
@@ -8746,11 +8848,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15f440c10b-6210-43ff-860d-907297628e18.jpg",
         "rating": 7.4,
-        "rating_count": 2203,
+        "rating_count": 2205,
         "rating_distribution": [
           1,
           6,
-          30,
+          29,
           40,
           21
         ],
@@ -9080,7 +9182,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/07/be012b58-ed0a-4750-b71d-03b0f59276a6.jpg",
         "rating": 7.7,
-        "rating_count": 970,
+        "rating_count": 973,
         "rating_distribution": [
           2,
           2,
@@ -9239,7 +9341,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/c50f391f-f017-4478-ae8c-ff4cd460e2c2.jpg",
         "rating": 8.0,
-        "rating_count": 1020,
+        "rating_count": 1023,
         "rating_distribution": [
           0,
           2,
@@ -9375,7 +9477,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/12/0838bda30b-4624-44fc-a506-fe2dec0f453c.jpg",
         "rating": 8.1,
-        "rating_count": 998,
+        "rating_count": 1000,
         "rating_distribution": [
           0,
           2,
@@ -9494,6 +9596,46 @@
           {
             "lang": "zh-cn",
             "text": "蜘蛛侠：飞跃蜘蛛宇宙"
+          },
+          {
+            "lang": "nn",
+            "text": "Spider-Man: Across the Spider-Verse"
+          },
+          {
+            "lang": "nb",
+            "text": "Spider-Man: Across the Spider-Verse"
+          },
+          {
+            "lang": "no",
+            "text": "Spider-Man: Across the Spider-Verse"
+          },
+          {
+            "lang": "sv",
+            "text": "Spider-Man: Across the Spider-Verse"
+          },
+          {
+            "lang": "da",
+            "text": "Spider-Man: Across the Spider-Verse"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "蜘蛛侠：纵横宇宙(上)"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "蜘蛛侠：平行宇宙2"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "蜘蛛人：穿越新宇宙(台)"
+          },
+          {
+            "lang": "de",
+            "text": "Spider-Man: Across The Spider-Verse (Part One)"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "蜘蛛侠：飞跃蜘蛛宇宙(港)"
           }
         ],
         "localized_description": [
@@ -9540,17 +9682,29 @@
           {
             "lang": "zh-cn",
             "text": "　　影片讲述了新生代蜘蛛侠迈尔斯（沙梅克·摩尔 Shameik Moore 配音）携手蜘蛛格温（海莉·斯坦菲尔德 Hailee Steinfeld 配音），穿越多元宇宙踏上更宏大的冒险征程的故事。面临每个蜘蛛侠都会失去至亲的宿命，迈尔斯誓言打破命运魔咒，找到属于自己的英雄之路。而这个决定和蜘蛛侠2099（奥斯卡·伊萨克 Oscar Is aac 配音）所领军的蜘蛛联盟产生了极大冲突，一场以一敌百的蜘蛛侠大内战即将拉响！"
+          },
+          {
+            "lang": "no",
+            "text": "Etter gjenforeningen med Gwen Stacy, slynges Spider-Man, Brooklyns snilleste nabolagshelt, gjennom multiverset hvor han slår seg sammen med en gjeng Spider-folk, for å beskytte universets eksistens. Men når heltene uenes om hvordan man skal håndtere en ny trussel, står Miles alene mot de andre og må redefinere hva det vil si å være en helt - for å redde menneskeheten og alle folkene han er så glad i."
+          },
+          {
+            "lang": "sv",
+            "text": "Miles Morales ger sig ut på ett episkt äventyr som tar honom från Brooklyn tvärs över multiversumet. Han slår sig samman med Gwen Stacy och ett nytt gäng Spider-människor, och de ställs mot en skurk som är kraftfullare än någon som de tidigare har mött."
+          },
+          {
+            "lang": "zh-cn",
+            "text": "地球-65，蜘蛛女格温（海莉·斯坦菲尔德 Hailee Steinfeld 配音）因为好友彼特之死而充满愧疚，而父亲对蜘蛛侠的误解也让她倍感焦虑。某次行动中，格温结识了来自其他宇宙的同伴米圭尔·奥哈拉和杰西卡·德鲁。从他们口中得知，为了防止多元宇宙进一步崩坏，米圭尔策划成立了由蜘蛛侠中的精英组成的突击队。格温受邀加入他们，并利用时空穿梭的机会来到了地球-1610，见到久违的迈尔斯（沙梅克·摩尔 Shameik Moore 配音）。此时的迈尔斯和父母关系紧张，他憧憬格温，渴望加入突击队又遭到拒绝。\n随后迈尔斯又听到一个可怕的消息，每一个宇宙中，失去至亲正是所有蜘蛛侠的可悲宿命……"
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/7a48ff6e-aae2-458e-9b35-523ece2badfb.jpg",
         "rating": 8.3,
-        "rating_count": 816,
+        "rating_count": 818,
         "rating_distribution": [
           0,
           1,
           14,
-          40,
-          42
+          39,
+          43
         ],
         "tags": [
           "2020s",
@@ -9585,6 +9739,9 @@
         "external_resources": [
           {
             "url": "https://eggplant.place/movie/5DiIyPd2VhGESymPKGQ1GG"
+          },
+          {
+            "url": "https://minreol.dk/movie/5CahxGr5TupAXRdhMLqUYs"
           },
           {
             "url": "https://www.imdb.com/title/tt9362722/"
@@ -9627,7 +9784,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/02/0877652c-19db-4f9b-8be5-e8645b18db8b.jpg",
         "rating": 7.0,
-        "rating_count": 303,
+        "rating_count": 304,
         "rating_distribution": [
           4,
           11,
@@ -9705,11 +9862,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/05/13c80ca032-f642-4ed2-86c0-94704a240cf0.jpg",
         "rating": 7.0,
-        "rating_count": 247,
+        "rating_count": 248,
         "rating_distribution": [
           0,
           6,
-          38,
+          37,
           45,
           8
         ],
@@ -9782,11 +9939,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/12/01ee3e9dc1-74b7-4420-ad90-84759f7092e4.webp",
         "rating": 5.8,
-        "rating_count": 416,
+        "rating_count": 417,
         "rating_distribution": [
           7,
           19,
-          45,
+          46,
           23,
           3
         ],
@@ -9899,11 +10056,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2023/07/20/8206c5c4-0d6d-46f6-a08c-7a7d3af84393.jpg",
         "rating": 7.0,
-        "rating_count": 732,
+        "rating_count": 733,
         "rating_distribution": [
           0,
           6,
-          34,
+          35,
           46,
           10
         ],
@@ -10050,7 +10207,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/imdb/2023/09/24/81ccb741-f4e2-4ab3-a957-5f99e5e605f5.jpg",
         "rating": 8.9,
-        "rating_count": 481,
+        "rating_count": 483,
         "rating_distribution": [
           0,
           0,
@@ -10220,10 +10377,10 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/05/08ce26bdb6-eb1d-4b5d-8baf-559ae723b8cd.jpg",
         "rating": 5.4,
-        "rating_count": 623,
+        "rating_count": 624,
         "rating_distribution": [
           8,
-          26,
+          27,
           47,
           16,
           1
@@ -10338,7 +10495,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/152e6e9667-35c2-499e-b909-50b6c5601160.jpg",
         "rating": 6.8,
-        "rating_count": 1410,
+        "rating_count": 1411,
         "rating_distribution": [
           1,
           10,
@@ -10499,7 +10656,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ce3e35c1-f475-46ab-9a12-f1cc8cd55c19.jpg",
         "rating": 7.6,
-        "rating_count": 1733,
+        "rating_count": 1734,
         "rating_distribution": [
           0,
           3,
@@ -10906,7 +11063,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/fedi/2025/01/20/9af3d23c-62c9-4794-a514-bd3f69ed9f76.jpg",
         "rating": 8.5,
-        "rating_count": 2375,
+        "rating_count": 2377,
         "rating_distribution": [
           0,
           1,
@@ -12141,7 +12298,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/145f861699-f73a-4881-8146-9f775950635b.jpg",
         "rating": 9.0,
-        "rating_count": 1247,
+        "rating_count": 1249,
         "rating_distribution": [
           0,
           0,
@@ -12680,7 +12837,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14d28366c5-e2a3-43eb-b6f5-51d60fca3330.jpg",
         "rating": 7.1,
-        "rating_count": 1678,
+        "rating_count": 1679,
         "rating_distribution": [
           1,
           6,
@@ -12919,7 +13076,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1540ca6a04-7e73-4d51-bf03-5e75bb63a8de.jpg",
         "rating": 8.0,
-        "rating_count": 974,
+        "rating_count": 975,
         "rating_distribution": [
           0,
           3,
@@ -13217,7 +13374,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1342d14337-0e7e-42e2-b3f5-d92f0903d33f.jpg",
         "rating": 8.5,
-        "rating_count": 1676,
+        "rating_count": 1677,
         "rating_distribution": [
           0,
           0,
@@ -13859,7 +14016,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/fedi/2024/10/23/a22a5764-cfb6-4e2f-bbd6-254d0a241f3d.jpg",
         "rating": 8.3,
-        "rating_count": 2500,
+        "rating_count": 2502,
         "rating_distribution": [
           0,
           2,
@@ -14553,13 +14710,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16cdd68220-3080-488d-a01a-056c9d87c395.jpg",
         "rating": 6.5,
-        "rating_count": 941,
+        "rating_count": 943,
         "rating_distribution": [
           2,
           14,
           48,
-          27,
-          7
+          28,
+          6
         ],
         "tags": [
           "2020",
@@ -14858,7 +15015,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/133ed46be4-3fc4-4a59-9639-21a4c9b06bf1.jpg",
         "rating": 7.5,
-        "rating_count": 1213,
+        "rating_count": 1214,
         "rating_distribution": [
           0,
           5,
@@ -14950,7 +15107,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155798a734-660d-42a2-ae49-b3a9916150de.jpg",
         "rating": 7.3,
-        "rating_count": 244,
+        "rating_count": 245,
         "rating_distribution": [
           1,
           6,
@@ -15509,10 +15666,10 @@
             "url": "https://eggplant.place/movie/6IApLgC7PB98SQE3aNdTHM"
           },
           {
-            "url": "https://www.themoviedb.org/movie/360814"
+            "url": "https://movie.douban.com/subject/26387939/"
           },
           {
-            "url": "https://movie.douban.com/subject/26387939/"
+            "url": "https://www.themoviedb.org/movie/360814"
           }
         ]
       },
@@ -15729,7 +15886,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14e5043627-8e2d-43c0-a6cc-a8e05d8115d3.jpg",
         "rating": 9.4,
-        "rating_count": 2582,
+        "rating_count": 2585,
         "rating_distribution": [
           0,
           0,
@@ -15881,7 +16038,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13d1567d07-417b-4b7b-8356-5d0b87f43128.jpg",
         "rating": 9.1,
-        "rating_count": 2307,
+        "rating_count": 2309,
         "rating_distribution": [
           0,
           0,
@@ -15988,7 +16145,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157eee4ad4-84de-4e92-8fc4-aa4ff42da48f.jpg",
         "rating": 7.9,
-        "rating_count": 1484,
+        "rating_count": 1485,
         "rating_distribution": [
           1,
           3,
@@ -16442,5 +16599,5 @@
   ],
   "count": 128,
   "category": "movie",
-  "updated_at": "2025-03-16T00:59:20.886514"
+  "updated_at": "2025-03-17T00:57:01.164533"
 }
