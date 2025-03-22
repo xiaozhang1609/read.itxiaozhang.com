@@ -130,12 +130,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/26a4fa45-6953-49f9-b8cf-35f7ca58275b.jpg",
         "rating": 7.6,
-        "rating_count": 163,
+        "rating_count": 164,
         "rating_distribution": [
           0,
-          4,
+          5,
           23,
-          46,
+          45,
           25
         ],
         "tags": [
@@ -219,7 +219,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/9b8c9c00-d17c-4de2-9dc4-d7d8eba26a3c.jpg",
         "rating": 8.2,
-        "rating_count": 327,
+        "rating_count": 328,
         "rating_distribution": [
           0,
           3,
@@ -307,7 +307,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/91aef100-a4ff-4866-8e5e-a6b1af1bc754.jpg",
         "rating": 8.6,
-        "rating_count": 221,
+        "rating_count": 222,
         "rating_distribution": [
           0,
           0,
@@ -404,7 +404,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158cac42e4-74fb-472f-afd5-78984be19315.jpg",
         "rating": 8.2,
-        "rating_count": 731,
+        "rating_count": 732,
         "rating_distribution": [
           1,
           2,
@@ -812,7 +812,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14138f068a-33d6-4cb0-a556-1112c79ede52.jpg",
         "rating": 9.3,
-        "rating_count": 1566,
+        "rating_count": 1567,
         "rating_distribution": [
           0,
           0,
@@ -1338,6 +1338,34 @@
           {
             "lang": "zh-cn",
             "text": "慢马"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "流人 第四季"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "翻盘特工队 第四季"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "外放特务组 第四季"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "驽马 第四季"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "下等马 第四季"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "慢马 第四季"
+          },
+          {
+            "lang": "en",
+            "text": "Slow Horses Season 4"
           }
         ],
         "localized_description": [
@@ -1391,6 +1419,9 @@
           },
           {
             "url": "https://www.themoviedb.org/tv/95480/season/1"
+          },
+          {
+            "url": "https://bgm.tv/subject/409613"
           }
         ]
       },
@@ -1480,7 +1511,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/08/29/43e193de-dc85-411d-8021-7d18962b38e7.jpg",
         "rating": 7.2,
-        "rating_count": 74,
+        "rating_count": 75,
         "rating_distribution": [
           0,
           5,
@@ -2818,13 +2849,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
         "rating": 9.0,
-        "rating_count": 563,
+        "rating_count": 564,
         "rating_distribution": [
           0,
           1,
           6,
           30,
-          61
+          60
         ],
         "tags": [
           "2021",
@@ -3457,7 +3488,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/16/f28d5972-1708-4dd1-a655-d75431e32c33.webp",
         "rating": 9.0,
-        "rating_count": 716,
+        "rating_count": 717,
         "rating_distribution": [
           0,
           0,
@@ -3553,7 +3584,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/24/a9688316-76fe-4704-add5-ab62c18e523f.webp",
         "rating": 9.3,
-        "rating_count": 642,
+        "rating_count": 643,
         "rating_distribution": [
           0,
           0,
@@ -3638,7 +3669,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/01/0601fef99c-a667-460e-bebd-99e45fb92e8a.webp",
         "rating": 9.7,
-        "rating_count": 571,
+        "rating_count": 572,
         "rating_distribution": [
           0,
           0,
@@ -3716,7 +3747,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/19/368cf45a-631c-4500-9ec0-c814f93efe6f.jpg",
         "rating": 7.8,
-        "rating_count": 277,
+        "rating_count": 278,
         "rating_distribution": [
           0,
           5,
@@ -3996,7 +4027,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/2775557ce8-06f5-4882-a7e4-a3293ba16d3a.jpg",
         "rating": 8.9,
-        "rating_count": 1008,
+        "rating_count": 1009,
         "rating_distribution": [
           0,
           1,
@@ -4974,7 +5005,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/17/18d1616a-20a3-4c95-9694-b8b225b56ffa.jpg",
         "rating": 8.5,
-        "rating_count": 328,
+        "rating_count": 329,
         "rating_distribution": [
           0,
           1,
@@ -5119,8 +5150,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1373cde94d-7ce8-4f88-9d1e-adcf85e9d479.jpg",
-        "rating": 8.2,
-        "rating_count": 208,
+        "rating": 8.1,
+        "rating_count": 209,
         "rating_distribution": [
           0,
           3,
@@ -5350,13 +5381,13 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/173a6861f9-395d-4813-b674-98bc8dc8f139.jpg",
-        "rating": 8.1,
-        "rating_count": 68,
+        "rating": 8.0,
+        "rating_count": 69,
         "rating_distribution": [
-          0,
+          1,
           5,
-          16,
-          44,
+          15,
+          43,
           33
         ],
         "tags": [
@@ -5792,13 +5823,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2023/05/31/c3376f14-de62-4882-a7b5-c26e62c006ed.jpg",
         "rating": 7.9,
-        "rating_count": 54,
+        "rating_count": 55,
         "rating_distribution": [
           0,
           5,
-          22,
+          23,
           40,
-          31
+          30
         ],
         "tags": [
           "2010",
@@ -5891,12 +5922,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/161de00e8e-350d-4b00-8703-62a3ec34bc3f.jpg",
         "rating": 9.5,
-        "rating_count": 123,
+        "rating_count": 124,
         "rating_distribution": [
           0,
           0,
           2,
-          17,
+          16,
           79
         ],
         "tags": [
@@ -8080,7 +8111,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/139d724fe4-c423-4a7b-8d56-6d81dff61afc.jpg",
         "rating": 9.5,
-        "rating_count": 624,
+        "rating_count": 625,
         "rating_distribution": [
           0,
           0,
@@ -8603,5 +8634,5 @@
   ],
   "count": 101,
   "category": "tv",
-  "updated_at": "2025-03-21T00:56:13.258495"
+  "updated_at": "2025-03-22T00:54:28.246072"
 }
