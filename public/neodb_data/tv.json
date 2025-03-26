@@ -916,7 +916,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/131b46667b-3905-4bdb-a7ec-441f1126be6d.jpg",
         "rating": 9.0,
-        "rating_count": 1133,
+        "rating_count": 1134,
         "rating_distribution": [
           0,
           0,
@@ -1000,7 +1000,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14138f068a-33d6-4cb0-a556-1112c79ede52.jpg",
         "rating": 9.3,
-        "rating_count": 1569,
+        "rating_count": 1570,
         "rating_distribution": [
           0,
           0,
@@ -2526,13 +2526,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/17942e6d87-3ed1-4274-97d5-64cd5430a2b6.jpg",
         "rating": 8.6,
-        "rating_count": 148,
+        "rating_count": 147,
         "rating_distribution": [
           0,
           1,
           13,
-          35,
-          49
+          36,
+          48
         ],
         "tags": [
           "11",
@@ -2674,13 +2674,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/08/69d304f8-1a0f-4f06-9a4a-b1d870f43864.webp",
         "rating": 7.9,
-        "rating_count": 170,
+        "rating_count": 171,
         "rating_distribution": [
           1,
           1,
-          17,
-          45,
-          34
+          16,
+          46,
+          33
         ],
         "tags": [
           "2024",
@@ -3037,11 +3037,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
         "rating": 9.0,
-        "rating_count": 564,
+        "rating_count": 565,
         "rating_distribution": [
           0,
           1,
-          6,
+          7,
           30,
           60
         ],
@@ -3248,7 +3248,7 @@
           2,
           10,
           40,
-          45
+          46
         ],
         "tags": [
           "2023",
@@ -5193,13 +5193,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/17/18d1616a-20a3-4c95-9694-b8b225b56ffa.jpg",
         "rating": 8.5,
-        "rating_count": 329,
+        "rating_count": 328,
         "rating_distribution": [
           0,
           1,
           15,
           38,
-          44
+          43
         ],
         "tags": [
           "2020",
@@ -5416,7 +5416,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1543e536b3-fcc3-44d0-a4da-96eacc5607bf.jpg",
         "rating": 9.6,
-        "rating_count": 458,
+        "rating_count": 457,
         "rating_distribution": [
           0,
           0,
@@ -7211,7 +7211,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27fe09ead9-76a1-44f6-b1cf-98e7701606e9.webp",
         "rating": 9.2,
-        "rating_count": 29,
+        "rating_count": 28,
         "rating_distribution": [
           3,
           0,
@@ -7273,13 +7273,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2023/01/033be87cb9-20e8-43a6-831e-f59c540d018a.jpg",
         "rating": 8.2,
-        "rating_count": 590,
+        "rating_count": 589,
         "rating_distribution": [
           0,
           2,
           16,
           45,
-          34
+          33
         ],
         "tags": [],
         "brief": "主人公·张楚岚，某天在墓地遭遇僵尸的袭击。在万分危急的时刻，一个少女出现在了他的面前手里拿着的菜刀将敌人击倒对着放心了得楚岚说道“现在这里有些困境，你就自己面对吧”留下了有着深意的话，离开了。过了几天，在大学上学的张楚岚的面前，又出现了少女的身影。自从那个瞬间，张楚岚激荡的命运便开始向前推进了。",
@@ -8857,5 +8857,5 @@
   ],
   "count": 102,
   "category": "tv",
-  "updated_at": "2025-03-25T00:56:28.326616"
+  "updated_at": "2025-03-26T00:56:02.192302"
 }
