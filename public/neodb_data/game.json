@@ -30,13 +30,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubangame/2024/07/16/c6005816-cd8a-46f8-9856-36d26be7a372.jpg",
         "rating": 7.9,
-        "rating_count": 89,
+        "rating_count": 90,
         "rating_distribution": [
           3,
           3,
           22,
-          33,
-          37
+          34,
+          36
         ],
         "tags": [
           "6",
@@ -80,5 +80,5 @@
   ],
   "count": 1,
   "category": "game",
-  "updated_at": "2025-03-31T00:59:39.029511"
+  "updated_at": "2025-04-01T01:03:40.120806"
 }
