@@ -849,12 +849,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/26a4fa45-6953-49f9-b8cf-35f7ca58275b.jpg",
         "rating": 7.6,
-        "rating_count": 167,
+        "rating_count": 168,
         "rating_distribution": [
           0,
           5,
           22,
-          44,
+          45,
           26
         ],
         "tags": [
@@ -938,7 +938,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/9b8c9c00-d17c-4de2-9dc4-d7d8eba26a3c.jpg",
         "rating": 8.2,
-        "rating_count": 333,
+        "rating_count": 334,
         "rating_distribution": [
           0,
           3,
@@ -1025,8 +1025,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/91aef100-a4ff-4866-8e5e-a6b1af1bc754.jpg",
-        "rating": 8.7,
-        "rating_count": 227,
+        "rating": 8.6,
+        "rating_count": 228,
         "rating_distribution": [
           0,
           0,
@@ -3568,19 +3568,18 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
         "rating": 9.0,
-        "rating_count": 568,
+        "rating_count": 569,
         "rating_distribution": [
           0,
           1,
           7,
           30,
-          61
+          60
         ],
         "tags": [
           "2021",
           "netflix",
           "tv",
-          "剧",
           "剧情",
           "动作",
           "动画",
@@ -3589,6 +3588,7 @@
           "拳头",
           "法国",
           "游戏",
+          "游戏改",
           "游戏改编",
           "电视剧",
           "科幻",
@@ -4019,7 +4019,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/10/22/061fa0ce-5b93-4b37-a162-d488e100d05d.jpg",
         "rating": 8.2,
-        "rating_count": 152,
+        "rating_count": 153,
         "rating_distribution": [
           1,
           2,
@@ -4028,16 +4028,17 @@
           45
         ],
         "tags": [
+          "2020s",
           "2023",
           "2024",
           "2025",
-          "amazon",
-          "w",
           "剧情",
           "剧集",
           "动作",
           "动漫",
           "动画",
+          "动画剧",
+          "小说改编",
           "幻想",
           "欧美动画",
           "科幻",
@@ -4099,13 +4100,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/09/04cbcb6fd5-268a-485b-ac86-17ebb9e1ecd8.jpg",
         "rating": 8.2,
-        "rating_count": 394,
+        "rating_count": 395,
         "rating_distribution": [
           0,
           0,
           17,
           44,
-          37
+          36
         ],
         "tags": [
           "2020s",
@@ -4207,12 +4208,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/16/f28d5972-1708-4dd1-a655-d75431e32c33.webp",
         "rating": 9.0,
-        "rating_count": 727,
+        "rating_count": 728,
         "rating_distribution": [
           0,
           0,
           5,
-          33,
+          34,
           59
         ],
         "tags": [
@@ -4303,7 +4304,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/24/a9688316-76fe-4704-add5-ab62c18e523f.webp",
         "rating": 9.3,
-        "rating_count": 651,
+        "rating_count": 652,
         "rating_distribution": [
           0,
           0,
@@ -4388,7 +4389,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/01/0601fef99c-a667-460e-bebd-99e45fb92e8a.webp",
         "rating": 9.7,
-        "rating_count": 582,
+        "rating_count": 583,
         "rating_distribution": [
           0,
           0,
@@ -4466,7 +4467,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/19/368cf45a-631c-4500-9ec0-c814f93efe6f.jpg",
         "rating": 7.8,
-        "rating_count": 280,
+        "rating_count": 281,
         "rating_distribution": [
           0,
           5,
@@ -4479,15 +4480,15 @@
           "2022",
           "2023",
           "中国",
-          "中国动画",
           "中国大陆",
           "人性",
           "剧情",
           "剧集",
           "动画",
           "动画片",
+          "动画短片",
+          "动画短片集",
           "動畫",
-          "华语",
           "国产",
           "国产动画",
           "大陆",
@@ -4560,7 +4561,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/21/156627ec-4352-454a-a41e-6a1a5ae83070.jpg",
         "rating": 9.2,
-        "rating_count": 550,
+        "rating_count": 551,
         "rating_distribution": [
           0,
           0,
@@ -4570,6 +4571,7 @@
         ],
         "tags": [
           "2020",
+          "2020s",
           "anime",
           "アニメ",
           "人性",
@@ -4655,7 +4657,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/03/14/e0cc80de-58b3-4a0c-ba0b-cb1ed25f326a.webp",
         "rating": 8.8,
-        "rating_count": 481,
+        "rating_count": 482,
         "rating_distribution": [
           0,
           0,
@@ -4746,7 +4748,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/2775557ce8-06f5-4882-a7e4-a3293ba16d3a.jpg",
         "rating": 8.9,
-        "rating_count": 1021,
+        "rating_count": 1022,
         "rating_distribution": [
           0,
           1,
@@ -4952,7 +4954,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/24/7b6ac0a9-1096-4531-a7b5-3dbb05ca776e.webp",
         "rating": 9.1,
-        "rating_count": 306,
+        "rating_count": 307,
         "rating_distribution": [
           0,
           0,
@@ -4961,6 +4963,7 @@
           67
         ],
         "tags": [
+          "2020s",
           "2021",
           "2022",
           "anime",
@@ -4971,7 +4974,6 @@
           "动作",
           "动漫",
           "动画",
-          "动画片",
           "奇幻",
           "战争",
           "日本",
@@ -5724,13 +5726,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/17/18d1616a-20a3-4c95-9694-b8b225b56ffa.jpg",
         "rating": 8.5,
-        "rating_count": 329,
+        "rating_count": 330,
         "rating_distribution": [
           0,
           1,
           15,
           38,
-          44
+          43
         ],
         "tags": [
           "2020",
@@ -6388,7 +6390,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ddb8977a-6e04-4d3f-bb55-a73b948034e7.jpg",
         "rating": 9.3,
-        "rating_count": 334,
+        "rating_count": 335,
         "rating_distribution": [
           0,
           1,
@@ -6641,13 +6643,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/161de00e8e-350d-4b00-8703-62a3ec34bc3f.jpg",
         "rating": 9.5,
-        "rating_count": 124,
+        "rating_count": 125,
         "rating_distribution": [
           0,
           0,
           2,
           16,
-          79
+          80
         ],
         "tags": [
           "2020",
@@ -7261,7 +7263,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16c1d450ea-c8ef-43f5-b29a-024062efeda9.jpg",
         "rating": 9.4,
-        "rating_count": 89,
+        "rating_count": 90,
         "rating_distribution": [
           0,
           0,
@@ -7274,7 +7276,6 @@
           "2016",
           "2018",
           "2020年看的",
-          "animation",
           "三体",
           "中国",
           "刘慈欣",
@@ -7284,6 +7285,7 @@
           "同人逼死官方",
           "国产动画",
           "大陆动画",
+          "我的世界",
           "神游八方",
           "科",
           "科幻",
@@ -7472,21 +7474,20 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/164196bd4a-d9ca-472f-b930-3c9951369ccc.jpg",
         "rating": 9.0,
-        "rating_count": 90,
+        "rating_count": 91,
         "rating_distribution": [
           0,
           0,
           6,
-          34,
+          35,
           58
         ],
         "tags": [
           "2010s",
+          "2014",
           "三体",
           "中国",
           "中国大陆",
-          "剧",
-          "动",
           "动画",
           "动画 蝉",
           "动画剧集",
@@ -7497,6 +7498,7 @@
           "在线视频",
           "大陆",
           "大陆动画",
+          "我的三体",
           "有生之年",
           "科幻",
           "良心作"
@@ -7597,7 +7599,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/154f5b96b2-9167-480b-81e7-40688604ecb8.jpg",
         "rating": 7.7,
-        "rating_count": 369,
+        "rating_count": 370,
         "rating_distribution": [
           1,
           4,
@@ -7946,13 +7948,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ff05449c-d8e8-4a87-a939-e48f28f1d8d3.jpg",
         "rating": 7.4,
-        "rating_count": 295,
+        "rating_count": 296,
         "rating_distribution": [
           0,
           6,
           33,
           38,
-          21
+          20
         ],
         "tags": [
           "2010s",
@@ -8477,28 +8479,28 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/154640d33f-f755-4e3c-a9e4-39e36fa7afa3.jpg",
         "rating": 9.2,
-        "rating_count": 71,
+        "rating_count": 72,
         "rating_distribution": [
           0,
           0,
           2,
-          33,
-          63
+          34,
+          62
         ],
         "tags": [
           "2011",
+          "2017",
+          "2019",
+          "9分",
           "中国",
           "中国动画",
           "中国大陆",
           "二次元",
           "冒险",
-          "动作",
           "动漫",
           "动画",
-          "动画剧集",
-          "华语",
+          "动画 中国",
           "国产",
-          "国产动漫动画",
           "国产动画",
           "大陆",
           "少年",
@@ -8548,20 +8550,23 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/05/1038509b7b-ca93-4967-bfa2-f22924dd2e4a.jpg",
         "rating": 6.6,
-        "rating_count": 17,
+        "rating_count": 18,
         "rating_distribution": [
           0,
           5,
-          58,
-          29,
+          61,
+          27,
           5
         ],
         "tags": [
+          "2010s",
           "2014",
+          "中国",
           "中国大陆",
           "中国惊奇先生",
           "动漫",
           "动画",
+          "喜剧",
           "国产",
           "国漫",
           "大陆",
@@ -8614,7 +8619,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/150ef62a14-2640-4819-8fd2-4d573fca17df.jpg",
         "rating": 8.0,
-        "rating_count": 105,
+        "rating_count": 106,
         "rating_distribution": [
           1,
           1,
@@ -8623,12 +8628,11 @@
           25
         ],
         "tags": [
+          "2010s",
           "2016",
           "中国",
           "二次元",
-          "剧集",
           "动作",
-          "动漫",
           "动画",
           "国产",
           "国产动漫动画",
@@ -8642,7 +8646,8 @@
           "漫画改编",
           "热血",
           "电视剧",
-          "艾尔平方"
+          "艾尔平方",
+          "连续剧"
         ],
         "brief": "普通的应届大学毕业生夏铃在求职之际，收到了一条奇怪的面试通知，因此误入罗刹街并遭到了危险，幸而被镇魂将曹焱兵搭救。然而接触中，曹焱兵却发现夏铃并非看起来那样普通，因为她的身体里也存在着灵力，并且寄宿着一位神秘的守护灵。与此同时，夏铃开始遭到不明身份刺客的追杀，曹焱兵亦被卷入其中，二人的命运从此开始了交集，而在这一切的背后，似乎还隐藏着某些更加危险的秘密……",
         "id": "https://neodb.social/tv/season/5dz6kA2gOXuAwwu7j5JISU",
@@ -8830,7 +8835,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/139d724fe4-c423-4a7b-8d56-6d81dff61afc.jpg",
         "rating": 9.5,
-        "rating_count": 632,
+        "rating_count": 633,
         "rating_distribution": [
           0,
           0,
@@ -9388,5 +9393,5 @@
   ],
   "count": 105,
   "category": "tv",
-  "updated_at": "2025-04-02T00:57:16.708851"
+  "updated_at": "2025-04-03T00:56:37.135011"
 }
