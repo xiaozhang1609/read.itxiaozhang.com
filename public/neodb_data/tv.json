@@ -938,7 +938,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/9b8c9c00-d17c-4de2-9dc4-d7d8eba26a3c.jpg",
         "rating": 8.2,
-        "rating_count": 334,
+        "rating_count": 335,
         "rating_distribution": [
           0,
           3,
@@ -1123,7 +1123,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158cac42e4-74fb-472f-afd5-78984be19315.jpg",
         "rating": 8.2,
-        "rating_count": 740,
+        "rating_count": 741,
         "rating_distribution": [
           1,
           2,
@@ -1447,7 +1447,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/131b46667b-3905-4bdb-a7ec-441f1126be6d.jpg",
         "rating": 9.0,
-        "rating_count": 1141,
+        "rating_count": 1143,
         "rating_distribution": [
           0,
           0,
@@ -1531,7 +1531,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14138f068a-33d6-4cb0-a556-1112c79ede52.jpg",
         "rating": 9.3,
-        "rating_count": 1578,
+        "rating_count": 1579,
         "rating_distribution": [
           0,
           0,
@@ -2739,18 +2739,20 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/22/a170513d-27d1-4a66-b415-83bcc178b78b.webp",
         "rating": 7.5,
-        "rating_count": 119,
+        "rating_count": 120,
         "rating_distribution": [
           2,
           5,
-          21,
-          44,
-          26
+          20,
+          45,
+          25
         ],
         "tags": [
           "2023",
+          "动作",
           "动漫",
           "动画",
+          "动画片",
           "动画番剧",
           "動畫",
           "咒术",
@@ -2765,9 +2767,7 @@
           "日本动画",
           "日漫",
           "日语",
-          "漫画改编",
-          "热血",
-          "番剧"
+          "漫画改编"
         ],
         "brief": "最强2人，回不去的青春。2017年12月，乙骨忧太解除了祈本里香的诅咒。追溯到2006年（春天），高专时代的五条悟与夏油杰。作为咒术师活跃着，所向披靡的2人，接受来自咒术界拥有不死术式的要·天元的委托。委托有两个，天元的的适合者——被选中成为“星浆体”的天内理子，对那个少女的“护卫”和“抹去”两人为了维持咒术界而进行护卫任务，在那里自称伏黑的“术师杀手”以暗杀“星浆体”为目标介入。在之后被称为最强的咒术师和最恶的咒术师，五条与夏油，两人的过去被揭开…",
         "id": "https://neodb.social/tv/season/3lnrTxp2pGchm4KpABRE9J",
@@ -2899,7 +2899,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/12/09/e349737a-1ad1-4118-ab72-3f8fd067cf4d.webp",
         "rating": 8.7,
-        "rating_count": 274,
+        "rating_count": 275,
         "rating_distribution": [
           0,
           0,
@@ -3131,10 +3131,10 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1532a54bd6-77fe-4203-b8f2-bd290c3b6dc0.jpg",
         "rating": 8.4,
-        "rating_count": 264,
+        "rating_count": 265,
         "rating_distribution": [
           0,
-          3,
+          4,
           10,
           43,
           41
@@ -3655,7 +3655,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/05/08/b1302e71-dc78-444c-b77c-7c9963751aef.jpg",
         "rating": 8.1,
-        "rating_count": 236,
+        "rating_count": 237,
         "rating_distribution": [
           0,
           0,
@@ -4100,7 +4100,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/09/04cbcb6fd5-268a-485b-ac86-17ebb9e1ecd8.jpg",
         "rating": 8.2,
-        "rating_count": 395,
+        "rating_count": 396,
         "rating_distribution": [
           0,
           0,
@@ -7599,7 +7599,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/154f5b96b2-9167-480b-81e7-40688604ecb8.jpg",
         "rating": 7.7,
-        "rating_count": 370,
+        "rating_count": 371,
         "rating_distribution": [
           1,
           4,
@@ -9393,5 +9393,5 @@
   ],
   "count": 105,
   "category": "tv",
-  "updated_at": "2025-04-03T00:56:37.135011"
+  "updated_at": "2025-04-04T00:56:20.903763"
 }
