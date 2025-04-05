@@ -1267,15 +1267,15 @@
           "剧情",
           "历史",
           "小说改编",
-          "幕府时代",
-          "德川家康",
-          "成长",
           "战争",
           "改編",
           "改编",
           "政治",
+          "新教徒",
           "日剧",
           "日本",
+          "日本史",
+          "权力",
           "电视剧",
           "真田广之",
           "美剧",
@@ -2230,12 +2230,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/08/29/43e193de-dc85-411d-8021-7d18962b38e7.jpg",
         "rating": 7.2,
-        "rating_count": 78,
+        "rating_count": 79,
         "rating_distribution": [
           0,
           5,
-          29,
-          50,
+          30,
+          49,
           15
         ],
         "tags": [
@@ -3568,7 +3568,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
         "rating": 9.0,
-        "rating_count": 569,
+        "rating_count": 570,
         "rating_distribution": [
           0,
           1,
@@ -9393,5 +9393,5 @@
   ],
   "count": 105,
   "category": "tv",
-  "updated_at": "2025-04-04T00:56:20.903763"
+  "updated_at": "2025-04-05T00:55:30.814958"
 }
