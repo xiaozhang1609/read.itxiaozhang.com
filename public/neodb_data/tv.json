@@ -1896,7 +1896,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/11/30/9ba014ae-5023-41ba-8414-b725d6bd2d67.jpg",
         "rating": 8.5,
-        "rating_count": 168,
+        "rating_count": 169,
         "rating_distribution": [
           0,
           0,
@@ -5040,7 +5040,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2024/02/16/ebc8a989-7250-4d9a-bc87-f0015d90a64b.jpg",
         "rating": 8.7,
-        "rating_count": 98,
+        "rating_count": 99,
         "rating_distribution": [
           1,
           2,
@@ -5259,14 +5259,14 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/3162443ce4-c901-4bcc-b518-2ded04071051.jpg",
-        "rating": 8.5,
-        "rating_count": 108,
+        "rating": 8.6,
+        "rating_count": 109,
         "rating_distribution": [
           0,
           0,
           21,
           26,
-          50
+          51
         ],
         "tags": [
           "2020",
@@ -5344,13 +5344,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/275e2658ad-2aae-4ba2-9d91-73860d948fa3.webp",
         "rating": 8.7,
-        "rating_count": 113,
+        "rating_count": 114,
         "rating_distribution": [
           0,
           0,
-          15,
+          14,
           35,
-          49
+          50
         ],
         "tags": [
           "2019",
@@ -5591,7 +5591,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13fad64691-a76f-489b-a7d7-ea2a222066c6.jpg",
         "rating": 8.3,
-        "rating_count": 135,
+        "rating_count": 136,
         "rating_distribution": [
           0,
           2,
@@ -5872,7 +5872,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1373cde94d-7ce8-4f88-9d1e-adcf85e9d479.jpg",
         "rating": 8.2,
-        "rating_count": 211,
+        "rating_count": 212,
         "rating_distribution": [
           0,
           3,
@@ -9393,5 +9393,5 @@
   ],
   "count": 105,
   "category": "tv",
-  "updated_at": "2025-04-05T00:55:30.814958"
+  "updated_at": "2025-04-06T01:00:18.023833"
 }
