@@ -3,6 +3,65 @@
     {
       "shelf_type": "complete",
       "visibility": 0,
+      "post_id": 431556111784786544,
+      "item": {
+        "type": "Edition",
+        "title": "呼兰河传",
+        "description": "《呼兰河传》主要内容：今年4月，第三次到香港，我是带着几分感伤的心情的。从我在重庆决定了要绕这么一个圈子回上海的时候起，我的心怀总有点儿矛盾和抑悒，我决定了这么走，可又怕这么走，我怕香港会引起我的一些回忆，而这些回忆我是愿意忘却的；不过，在忘却之前，我又极愿意再温习一遍。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "呼兰河传"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "《呼兰河传》主要内容：今年4月，第三次到香港，我是带着几分感伤的心情的。从我在重庆决定了要绕这么一个圈子回上海的时候起，我的心怀总有点儿矛盾和抑悒，我决定了这么走，可又怕这么走，我怕香港会引起我的一些回忆，而这些回忆我是愿意忘却的；不过，在忘却之前，我又极愿意再温习一遍。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/book/2021/10/1574872255-786f-4133-9e81-0a8ab12e3a78.jpg",
+        "rating": 8.0,
+        "rating_count": 5,
+        "rating_distribution": [
+          0,
+          0,
+          20,
+          60,
+          20
+        ],
+        "tags": [
+          "2016",
+          "中国",
+          "女性",
+          "小说",
+          "萧红"
+        ],
+        "brief": "《呼兰河传》主要内容：今年4月，第三次到香港，我是带着几分感伤的心情的。从我在重庆决定了要绕这么一个圈子回上海的时候起，我的心怀总有点儿矛盾和抑悒，我决定了这么走，可又怕这么走，我怕香港会引起我的一些回忆，而这些回忆我是愿意忘却的；不过，在忘却之前，我又极愿意再温习一遍。",
+        "id": "https://neodb.social/book/2CsuEW1krmNyK53H7ps8dk",
+        "uuid": "2CsuEW1krmNyK53H7ps8dk",
+        "url": "/book/2CsuEW1krmNyK53H7ps8dk",
+        "api_url": "/api/book/2CsuEW1krmNyK53H7ps8dk",
+        "category": "book",
+        "parent_uuid": null,
+        "display_title": "呼兰河传",
+        "external_resources": [
+          {
+            "url": "https://book.douban.com/subject/3629877/"
+          },
+          {
+            "url": "https://www.goodreads.com/book/show/53492856"
+          }
+        ]
+      },
+      "created_time": "2025-04-06T03:49:54.917Z",
+      "comment_text": null,
+      "rating_grade": 8,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
       "post_id": 391113585100477984,
       "item": {
         "type": "Edition",
@@ -269,7 +328,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/16573efe00-fcb2-44d8-803a-538702f09986.jpg",
         "rating": 8.9,
-        "rating_count": 372,
+        "rating_count": 373,
         "rating_distribution": [
           0,
           0,
@@ -543,8 +602,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanbook/2023/05/29/cc933957-9ec9-4c69-a74d-23f7e3a52ef0.jpg",
-        "rating": 8.2,
-        "rating_count": 138,
+        "rating": 8.3,
+        "rating_count": 139,
         "rating_distribution": [
           0,
           1,
@@ -1482,7 +1541,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/11/285379a838-6709-418b-ad18-ae3c8cc915e1.jpg",
         "rating": null,
-        "rating_count": 3,
+        "rating_count": 4,
         "rating_distribution": [
           0,
           0,
@@ -1671,7 +1730,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2022/10/2573823f61-b01b-40a3-926a-f2563cbd989a.jpg",
         "rating": 7.9,
-        "rating_count": 231,
+        "rating_count": 232,
         "rating_distribution": [
           0,
           0,
@@ -1877,7 +1936,7 @@
       "tags": []
     }
   ],
-  "count": 29,
+  "count": 30,
   "category": "book",
-  "updated_at": "2025-04-06T01:00:19.785984"
+  "updated_at": "2025-04-07T00:58:45.972123"
 }
