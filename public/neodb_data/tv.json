@@ -3945,7 +3945,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/bangumi/2024/02/24/721c8a8b-f563-4994-b35f-940327755105.jpg",
         "rating": 8.3,
-        "rating_count": 149,
+        "rating_count": 150,
         "rating_distribution": [
           0,
           2,
@@ -6121,13 +6121,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1543e536b3-fcc3-44d0-a4da-96eacc5607bf.jpg",
         "rating": 9.6,
-        "rating_count": 458,
+        "rating_count": 459,
         "rating_distribution": [
           0,
           0,
           2,
           14,
-          82
+          83
         ],
         "tags": [
           "2007",
@@ -6633,13 +6633,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1654673dfe-17d7-4871-9f25-eed5867ad0e5.jpg",
         "rating": 8.6,
-        "rating_count": 192,
+        "rating_count": 193,
         "rating_distribution": [
           1,
           0,
           9,
-          42,
-          46
+          41,
+          47
         ],
         "tags": [
           "1997",
@@ -7270,7 +7270,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/21/58486641-69b1-46ad-b902-66a09b705e9d.jpg",
         "rating": 9.2,
-        "rating_count": 309,
+        "rating_count": 310,
         "rating_distribution": [
           0,
           0,
@@ -9007,11 +9007,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/139d724fe4-c423-4a7b-8d56-6d81dff61afc.jpg",
         "rating": 9.5,
-        "rating_count": 633,
+        "rating_count": 634,
         "rating_distribution": [
           0,
           0,
-          3,
+          2,
           18,
           77
         ],
@@ -9565,5 +9565,5 @@
   ],
   "count": 106,
   "category": "tv",
-  "updated_at": "2025-04-07T00:58:44.235529"
+  "updated_at": "2025-04-08T00:56:48.106548"
 }
