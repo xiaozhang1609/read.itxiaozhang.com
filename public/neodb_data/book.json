@@ -1271,7 +1271,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/130a836090-38a7-4ff8-ba17-e28898c892f6.jpg",
         "rating": 9.0,
-        "rating_count": 254,
+        "rating_count": 255,
         "rating_distribution": [
           0,
           0,
@@ -1938,5 +1938,5 @@
   ],
   "count": 30,
   "category": "book",
-  "updated_at": "2025-04-11T00:57:23.921781"
+  "updated_at": "2025-04-12T00:56:25.793719"
 }
