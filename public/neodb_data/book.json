@@ -150,14 +150,14 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/16a752aa93-74de-48a9-83a6-a8c922e68ccc.jpg",
-        "rating": 8.3,
-        "rating_count": 12,
+        "rating": 8.5,
+        "rating_count": 13,
         "rating_distribution": [
           0,
           0,
-          8,
-          58,
-          33
+          7,
+          53,
+          38
         ],
         "tags": [
           "中国",
@@ -328,13 +328,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/16573efe00-fcb2-44d8-803a-538702f09986.jpg",
         "rating": 8.9,
-        "rating_count": 374,
+        "rating_count": 375,
         "rating_distribution": [
           0,
           0,
           6,
           40,
-          52
+          53
         ],
         "tags": [
           "中国",
@@ -1468,13 +1468,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2022/03/13255f8b5f-8f72-4b6f-8f0b-c15346e9cad1.jpg",
         "rating": 8.6,
-        "rating_count": 175,
+        "rating_count": 176,
         "rating_distribution": [
           0,
           0,
           8,
-          50,
-          40
+          51,
+          39
         ],
         "tags": [
           "1文学",
@@ -1730,7 +1730,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2022/10/2573823f61-b01b-40a3-926a-f2563cbd989a.jpg",
         "rating": 7.9,
-        "rating_count": 233,
+        "rating_count": 234,
         "rating_distribution": [
           0,
           0,
@@ -1938,5 +1938,5 @@
   ],
   "count": 30,
   "category": "book",
-  "updated_at": "2025-04-12T00:56:25.793719"
+  "updated_at": "2025-04-13T02:26:42.713562"
 }
