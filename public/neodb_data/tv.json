@@ -118,12 +118,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15b584a17b-254f-4e46-8023-e1eee5f27544.jpg",
         "rating": 8.7,
-        "rating_count": 778,
+        "rating_count": 779,
         "rating_distribution": [
           1,
           2,
           10,
-          28,
+          27,
           57
         ],
         "tags": [
@@ -290,7 +290,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15c334a558-9307-41cf-a344-9f8fb889cd27.jpg",
         "rating": 9.4,
-        "rating_count": 841,
+        "rating_count": 842,
         "rating_distribution": [
           0,
           0,
@@ -462,7 +462,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15d0e7610b-a4e2-4ee5-a4d9-14c3732300b5.jpg",
         "rating": 9.3,
-        "rating_count": 864,
+        "rating_count": 865,
         "rating_distribution": [
           0,
           0,
@@ -630,12 +630,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15230a44b5-d9e7-4ed0-9dca-f56d188b2e65.jpg",
         "rating": 9.3,
-        "rating_count": 961,
+        "rating_count": 962,
         "rating_distribution": [
           0,
           0,
           3,
-          27,
+          28,
           68
         ],
         "tags": [
@@ -818,7 +818,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13f0f1086d-2dd2-4f8b-a1a8-fff29ef19e35.jpg",
         "rating": 9.3,
-        "rating_count": 1245,
+        "rating_count": 1246,
         "rating_distribution": [
           0,
           0,
@@ -1101,13 +1101,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/12eb1ffdd9-8769-429d-9b4a-a2a3a7bd3764.jpg",
         "rating": 9.0,
-        "rating_count": 378,
+        "rating_count": 379,
         "rating_distribution": [
           0,
           0,
           6,
-          32,
-          61
+          31,
+          60
         ],
         "tags": [
           "2000s",
@@ -1791,7 +1791,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/131b46667b-3905-4bdb-a7ec-441f1126be6d.jpg",
         "rating": 9.0,
-        "rating_count": 1144,
+        "rating_count": 1145,
         "rating_distribution": [
           0,
           0,
@@ -1875,7 +1875,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14138f068a-33d6-4cb0-a556-1112c79ede52.jpg",
         "rating": 9.3,
-        "rating_count": 1582,
+        "rating_count": 1583,
         "rating_distribution": [
           0,
           0,
@@ -2439,7 +2439,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/04/15b785f2f1-4e5a-4ab8-8344-90049e5ac6fb.jpg",
         "rating": 8.3,
-        "rating_count": 317,
+        "rating_count": 318,
         "rating_distribution": [
           0,
           0,
@@ -2994,13 +2994,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/05/01/126d2c3a-9c25-47b1-9e71-9680c338c0b8.webp",
         "rating": 6.7,
-        "rating_count": 53,
+        "rating_count": 54,
         "rating_distribution": [
           1,
           9,
           35,
-          41,
-          11
+          40,
+          12
         ],
         "tags": [
           "2024",
@@ -3083,12 +3083,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/22/a170513d-27d1-4a66-b415-83bcc178b78b.webp",
         "rating": 7.5,
-        "rating_count": 121,
+        "rating_count": 122,
         "rating_distribution": [
           3,
           5,
           20,
-          44,
+          45,
           25
         ],
         "tags": [
@@ -3243,13 +3243,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/12/09/e349737a-1ad1-4118-ab72-3f8fd067cf4d.webp",
         "rating": 8.6,
-        "rating_count": 278,
+        "rating_count": 279,
         "rating_distribution": [
           0,
           0,
           10,
           32,
-          56
+          55
         ],
         "tags": [
           "2020s",
@@ -3549,7 +3549,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/08/69d304f8-1a0f-4f06-9a4a-b1d870f43864.webp",
         "rating": 7.9,
-        "rating_count": 174,
+        "rating_count": 175,
         "rating_distribution": [
           1,
           1,
@@ -4117,10 +4117,10 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/bangumi/2024/02/24/721c8a8b-f563-4994-b35f-940327755105.jpg",
         "rating": 8.3,
-        "rating_count": 150,
+        "rating_count": 151,
         "rating_distribution": [
           0,
-          2,
+          1,
           10,
           40,
           46
@@ -4363,13 +4363,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/10/22/061fa0ce-5b93-4b37-a162-d488e100d05d.jpg",
         "rating": 8.2,
-        "rating_count": 153,
+        "rating_count": 154,
         "rating_distribution": [
           1,
           2,
           15,
           35,
-          45
+          44
         ],
         "tags": [
           "2020s",
@@ -4444,12 +4444,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/09/04cbcb6fd5-268a-485b-ac86-17ebb9e1ecd8.jpg",
         "rating": 8.2,
-        "rating_count": 396,
+        "rating_count": 397,
         "rating_distribution": [
           0,
           0,
           17,
-          44,
+          45,
           36
         ],
         "tags": [
@@ -4811,7 +4811,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/19/368cf45a-631c-4500-9ec0-c814f93efe6f.jpg",
         "rating": 7.8,
-        "rating_count": 281,
+        "rating_count": 282,
         "rating_distribution": [
           0,
           5,
@@ -4905,13 +4905,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/21/156627ec-4352-454a-a41e-6a1a5ae83070.jpg",
         "rating": 9.2,
-        "rating_count": 552,
+        "rating_count": 553,
         "rating_distribution": [
           0,
           0,
           5,
           25,
-          68
+          67
         ],
         "tags": [
           "2020",
@@ -5298,12 +5298,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/24/7b6ac0a9-1096-4531-a7b5-3dbb05ca776e.webp",
         "rating": 9.1,
-        "rating_count": 308,
+        "rating_count": 309,
         "rating_distribution": [
           0,
           0,
           6,
-          25,
+          24,
           67
         ],
         "tags": [
@@ -5325,6 +5325,7 @@
           "漫改",
           "漫画改编",
           "热血",
+          "科幻",
           "进击的巨人"
         ],
         "brief": "在艾伦他们居住的帕拉迪岛之外，还存在一个其他人类居住的世界。当中一个国家「玛雷」与其他各国爆发战争。陷入苦战之际，他们决定要攻进帕拉迪岛，把「始祖的巨人」抢过来。在这里又看到另一群孩子们拼命求生存的身影……",
@@ -6293,7 +6294,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1543e536b3-fcc3-44d0-a4da-96eacc5607bf.jpg",
         "rating": 9.6,
-        "rating_count": 460,
+        "rating_count": 461,
         "rating_distribution": [
           0,
           0,
@@ -6805,7 +6806,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1654673dfe-17d7-4871-9f25-eed5867ad0e5.jpg",
         "rating": 8.6,
-        "rating_count": 194,
+        "rating_count": 195,
         "rating_distribution": [
           1,
           0,
@@ -6888,13 +6889,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2023/05/31/c3376f14-de62-4882-a7b5-c26e62c006ed.jpg",
         "rating": 7.9,
-        "rating_count": 56,
+        "rating_count": 57,
         "rating_distribution": [
           0,
           5,
-          23,
-          39,
-          32
+          22,
+          38,
+          33
         ],
         "tags": [
           "2010",
@@ -7139,7 +7140,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16fd33afd9-4f8c-4b59-9a56-04059b8adbc5.jpg",
         "rating": 8.6,
-        "rating_count": 324,
+        "rating_count": 325,
         "rating_distribution": [
           1,
           1,
@@ -7442,7 +7443,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/21/58486641-69b1-46ad-b902-66a09b705e9d.jpg",
         "rating": 9.2,
-        "rating_count": 311,
+        "rating_count": 312,
         "rating_distribution": [
           0,
           0,
@@ -8150,13 +8151,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2023/01/033be87cb9-20e8-43a6-831e-f59c540d018a.jpg",
         "rating": 8.2,
-        "rating_count": 600,
+        "rating_count": 602,
         "rating_distribution": [
           0,
           2,
           16,
           45,
-          34
+          33
         ],
         "tags": [],
         "brief": "主人公·张楚岚，某天在墓地遭遇僵尸的袭击。在万分危急的时刻，一个少女出现在了他的面前手里拿着的菜刀将敌人击倒对着放心了得楚岚说道“现在这里有些困境，你就自己面对吧”留下了有着深意的话，离开了。过了几天，在大学上学的张楚岚的面前，又出现了少女的身影。自从那个瞬间，张楚岚激荡的命运便开始向前推进了。",
@@ -9179,7 +9180,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/139d724fe4-c423-4a7b-8d56-6d81dff61afc.jpg",
         "rating": 9.5,
-        "rating_count": 636,
+        "rating_count": 637,
         "rating_distribution": [
           0,
           0,
@@ -9344,12 +9345,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155c5cd599-d9ed-4144-b6dd-f450ec1edd27.jpg",
         "rating": 9.4,
-        "rating_count": 573,
+        "rating_count": 575,
         "rating_distribution": [
           0,
           0,
           2,
-          18,
+          19,
           77
         ],
         "tags": [
@@ -9737,5 +9738,5 @@
   ],
   "count": 107,
   "category": "tv",
-  "updated_at": "2025-04-14T00:59:59.585648"
+  "updated_at": "2025-04-15T00:58:41.820794"
 }

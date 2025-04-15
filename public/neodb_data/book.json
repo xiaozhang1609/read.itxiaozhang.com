@@ -328,13 +328,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/16573efe00-fcb2-44d8-803a-538702f09986.jpg",
         "rating": 8.9,
-        "rating_count": 375,
+        "rating_count": 376,
         "rating_distribution": [
           0,
           0,
           6,
           40,
-          53
+          52
         ],
         "tags": [
           "中国",
@@ -1067,7 +1067,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/15e852899b-0b52-41b1-b8e5-772c8e13f739.jpg",
         "rating": 9.2,
-        "rating_count": 428,
+        "rating_count": 429,
         "rating_distribution": [
           0,
           0,
@@ -1658,11 +1658,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanbook/2023/12/26/9e4d5cb9-8b97-4462-8c03-98d74ecbe4c0.jpg",
         "rating": 8.1,
-        "rating_count": 54,
+        "rating_count": 55,
         "rating_distribution": [
           0,
           0,
-          18,
+          20,
           40,
           40
         ],
@@ -1938,5 +1938,5 @@
   ],
   "count": 30,
   "category": "book",
-  "updated_at": "2025-04-14T01:00:01.457525"
+  "updated_at": "2025-04-15T00:58:43.687308"
 }
