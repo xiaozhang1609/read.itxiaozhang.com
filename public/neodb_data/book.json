@@ -723,13 +723,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/1659fe98c3-c730-4c99-8cf1-bf17727e61e6.jpg",
         "rating": 8.1,
-        "rating_count": 84,
+        "rating_count": 85,
         "rating_distribution": [
           0,
           0,
           23,
-          45,
-          30
+          44,
+          31
         ],
         "tags": [
           "2012",
@@ -1067,7 +1067,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/15e852899b-0b52-41b1-b8e5-772c8e13f739.jpg",
         "rating": 9.2,
-        "rating_count": 429,
+        "rating_count": 430,
         "rating_distribution": [
           0,
           0,
@@ -1938,5 +1938,5 @@
   ],
   "count": 30,
   "category": "book",
-  "updated_at": "2025-04-15T00:58:43.687308"
+  "updated_at": "2025-04-16T00:58:24.805292"
 }
