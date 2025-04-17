@@ -1467,7 +1467,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158cac42e4-74fb-472f-afd5-78984be19315.jpg",
         "rating": 8.2,
-        "rating_count": 745,
+        "rating_count": 746,
         "rating_distribution": [
           1,
           2,
@@ -1959,11 +1959,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/164e90e745-d9f9-41b9-909f-cf0cddbe277a.jpg",
         "rating": 8.3,
-        "rating_count": 78,
+        "rating_count": 79,
         "rating_distribution": [
           0,
           3,
-          19,
+          18,
           32,
           44
         ],
@@ -2045,13 +2045,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1705209cf5-697e-4f69-869e-95773faea143.jpg",
         "rating": 8.5,
-        "rating_count": 108,
+        "rating_count": 109,
         "rating_distribution": [
           0,
           0,
           13,
           44,
-          40
+          41
         ],
         "tags": [
           "2016",
@@ -2143,7 +2143,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15e12434a1-6ca2-45d1-8a09-9d9291ad77e5.jpg",
         "rating": 8.2,
-        "rating_count": 242,
+        "rating_count": 243,
         "rating_distribution": [
           0,
           2,
@@ -5001,13 +5001,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/03/14/e0cc80de-58b3-4a0c-ba0b-cb1ed25f326a.webp",
         "rating": 8.8,
-        "rating_count": 483,
+        "rating_count": 484,
         "rating_distribution": [
           0,
           0,
           6,
           34,
-          57
+          58
         ],
         "tags": [
           "2020s",
@@ -6735,7 +6735,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ddb8977a-6e04-4d3f-bb55-a73b948034e7.jpg",
         "rating": 9.3,
-        "rating_count": 337,
+        "rating_count": 338,
         "rating_distribution": [
           0,
           1,
@@ -7140,7 +7140,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16fd33afd9-4f8c-4b59-9a56-04059b8adbc5.jpg",
         "rating": 8.6,
-        "rating_count": 325,
+        "rating_count": 326,
         "rating_distribution": [
           1,
           1,
@@ -8745,15 +8745,16 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16ee3ed273-89b5-4eb3-b4a3-8cdfd3d7c388.jpg",
         "rating": 8.1,
-        "rating_count": 62,
+        "rating_count": 63,
         "rating_distribution": [
           3,
           3,
           11,
-          50,
-          32
+          49,
+          33
         ],
         "tags": [
+          "2010s",
           "2017",
           "2017年7月",
           "production i g",
@@ -8768,7 +8769,6 @@
           "日本",
           "日本动画",
           "日系动画",
-          "漫画改",
           "竞技",
           "舞蹈",
           "萌",
@@ -9345,7 +9345,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155c5cd599-d9ed-4144-b6dd-f450ec1edd27.jpg",
         "rating": 9.4,
-        "rating_count": 575,
+        "rating_count": 576,
         "rating_distribution": [
           0,
           0,
@@ -9738,5 +9738,5 @@
   ],
   "count": 107,
   "category": "tv",
-  "updated_at": "2025-04-16T00:58:23.011915"
+  "updated_at": "2025-04-17T00:57:37.593217"
 }
