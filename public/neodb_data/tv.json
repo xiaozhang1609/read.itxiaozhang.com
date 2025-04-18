@@ -1101,7 +1101,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/12eb1ffdd9-8769-429d-9b4a-a2a3a7bd3764.jpg",
         "rating": 9.0,
-        "rating_count": 380,
+        "rating_count": 381,
         "rating_distribution": [
           0,
           0,
@@ -1791,7 +1791,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/131b46667b-3905-4bdb-a7ec-441f1126be6d.jpg",
         "rating": 9.0,
-        "rating_count": 1146,
+        "rating_count": 1147,
         "rating_distribution": [
           0,
           0,
@@ -1875,7 +1875,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14138f068a-33d6-4cb0-a556-1112c79ede52.jpg",
         "rating": 9.3,
-        "rating_count": 1585,
+        "rating_count": 1586,
         "rating_distribution": [
           0,
           0,
@@ -3475,13 +3475,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1532a54bd6-77fe-4203-b8f2-bd290c3b6dc0.jpg",
         "rating": 8.4,
-        "rating_count": 268,
+        "rating_count": 269,
         "rating_distribution": [
           0,
           4,
           10,
-          44,
-          41
+          43,
+          40
         ],
         "tags": [
           "11",
@@ -4648,12 +4648,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/24/a9688316-76fe-4704-add5-ab62c18e523f.webp",
         "rating": 9.3,
-        "rating_count": 655,
+        "rating_count": 656,
         "rating_distribution": [
           0,
           0,
           2,
-          24,
+          25,
           71
         ],
         "tags": [
@@ -4733,7 +4733,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/01/0601fef99c-a667-460e-bebd-99e45fb92e8a.webp",
         "rating": 9.7,
-        "rating_count": 585,
+        "rating_count": 586,
         "rating_distribution": [
           0,
           0,
@@ -9738,5 +9738,5 @@
   ],
   "count": 107,
   "category": "tv",
-  "updated_at": "2025-04-17T00:57:37.593217"
+  "updated_at": "2025-04-18T00:56:52.649551"
 }

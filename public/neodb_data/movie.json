@@ -4378,11 +4378,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/156bbc2ea2-fc09-440a-bb29-83dd0339574a.jpg",
         "rating": 6.7,
-        "rating_count": 1315,
+        "rating_count": 1316,
         "rating_distribution": [
           2,
           10,
-          45,
+          44,
           30,
           11
         ],
@@ -5982,12 +5982,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/08/09/d546187f-bf96-4341-a492-99bc987de142.jpg",
         "rating": 7.6,
-        "rating_count": 175,
+        "rating_count": 176,
         "rating_distribution": [
           1,
           2,
           22,
-          45,
+          44,
           28
         ],
         "tags": [
@@ -7280,7 +7280,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/05/27/9a7c62bf-714d-4f6c-a97b-2404adef3642.webp",
         "rating": 7.7,
-        "rating_count": 136,
+        "rating_count": 137,
         "rating_distribution": [
           0,
           0,
@@ -7293,7 +7293,6 @@
           "2023",
           "2024",
           "ba",
-          "first",
           "flight",
           "中国",
           "中国大陆",
@@ -7302,6 +7301,7 @@
           "剧情",
           "喜剧",
           "喜劇",
+          "国产电影",
           "国内电影",
           "大陆",
           "奇幻",
@@ -11450,7 +11450,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13a47e43fe-9ea3-43ca-a9e2-808483a6598b.jpg",
         "rating": 7.9,
-        "rating_count": 1506,
+        "rating_count": 1507,
         "rating_distribution": [
           0,
           2,
@@ -11757,7 +11757,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15b71e1380-9ed2-4ac2-bf49-d2e2b3c92156.jpg",
         "rating": 7.7,
-        "rating_count": 1488,
+        "rating_count": 1489,
         "rating_distribution": [
           0,
           3,
@@ -12728,7 +12728,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/153c3015b5-9fa5-4673-a6d0-49abd1664fa9.jpg",
         "rating": 7.4,
-        "rating_count": 1451,
+        "rating_count": 1452,
         "rating_distribution": [
           0,
           4,
@@ -15597,7 +15597,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1544ebc29e-ef48-41ed-8188-4355a1d66c34.jpg",
         "rating": 7.0,
-        "rating_count": 753,
+        "rating_count": 754,
         "rating_distribution": [
           1,
           6,
@@ -16278,7 +16278,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157eee4ad4-84de-4e92-8fc4-aa4ff42da48f.jpg",
         "rating": 7.9,
-        "rating_count": 1505,
+        "rating_count": 1506,
         "rating_distribution": [
           0,
           3,
@@ -16732,5 +16732,5 @@
   ],
   "count": 128,
   "category": "movie",
-  "updated_at": "2025-04-17T00:57:29.774901"
+  "updated_at": "2025-04-18T00:56:44.672319"
 }
