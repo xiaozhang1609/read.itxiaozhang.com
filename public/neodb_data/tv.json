@@ -1596,7 +1596,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2024/04/20/7448d3b5-249e-40c0-b76d-daed7a64157f.webp",
         "rating": 7.4,
-        "rating_count": 118,
+        "rating_count": 119,
         "rating_distribution": [
           0,
           4,
@@ -2143,13 +2143,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15e12434a1-6ca2-45d1-8a09-9d9291ad77e5.jpg",
         "rating": 8.2,
-        "rating_count": 243,
+        "rating_count": 244,
         "rating_distribution": [
           0,
           2,
           14,
           51,
-          30
+          31
         ],
         "tags": [
           "2010s",
@@ -3401,13 +3401,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/17942e6d87-3ed1-4274-97d5-64cd5430a2b6.jpg",
         "rating": 8.6,
-        "rating_count": 152,
+        "rating_count": 153,
         "rating_distribution": [
           0,
           1,
           13,
           37,
-          48
+          47
         ],
         "tags": [
           "11",
@@ -3475,13 +3475,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1532a54bd6-77fe-4203-b8f2-bd290c3b6dc0.jpg",
         "rating": 8.4,
-        "rating_count": 269,
+        "rating_count": 270,
         "rating_distribution": [
           0,
           4,
           10,
           43,
-          40
+          41
         ],
         "tags": [
           "11",
@@ -3549,12 +3549,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/08/69d304f8-1a0f-4f06-9a4a-b1d870f43864.webp",
         "rating": 7.9,
-        "rating_count": 175,
+        "rating_count": 176,
         "rating_distribution": [
           1,
           1,
           16,
-          46,
+          47,
           33
         ],
         "tags": [
@@ -3912,7 +3912,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
         "rating": 9.0,
-        "rating_count": 573,
+        "rating_count": 574,
         "rating_distribution": [
           0,
           1,
@@ -3999,7 +3999,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/05/08/b1302e71-dc78-444c-b77c-7c9963751aef.jpg",
         "rating": 8.1,
-        "rating_count": 237,
+        "rating_count": 238,
         "rating_distribution": [
           0,
           0,
@@ -4277,13 +4277,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/13/d643b437-3391-4e50-8c8e-22f26228aa04.jpg",
         "rating": 8.1,
-        "rating_count": 230,
+        "rating_count": 231,
         "rating_distribution": [
           0,
           1,
           14,
           48,
-          34
+          35
         ],
         "tags": [
           "2023",
@@ -4363,13 +4363,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/10/22/061fa0ce-5b93-4b37-a162-d488e100d05d.jpg",
         "rating": 8.2,
-        "rating_count": 154,
+        "rating_count": 155,
         "rating_distribution": [
           1,
           2,
           15,
           35,
-          44
+          45
         ],
         "tags": [
           "2020s",
@@ -4444,12 +4444,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/09/04cbcb6fd5-268a-485b-ac86-17ebb9e1ecd8.jpg",
         "rating": 8.2,
-        "rating_count": 397,
+        "rating_count": 398,
         "rating_distribution": [
           0,
           0,
           17,
-          45,
+          44,
           36
         ],
         "tags": [
@@ -4810,8 +4810,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/19/368cf45a-631c-4500-9ec0-c814f93efe6f.jpg",
-        "rating": 7.9,
-        "rating_count": 283,
+        "rating": 7.8,
+        "rating_count": 284,
         "rating_distribution": [
           0,
           5,
@@ -5001,13 +5001,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/03/14/e0cc80de-58b3-4a0c-ba0b-cb1ed25f326a.webp",
         "rating": 8.8,
-        "rating_count": 484,
+        "rating_count": 485,
         "rating_distribution": [
           0,
           0,
-          6,
+          7,
           34,
-          58
+          57
         ],
         "tags": [
           "2020s",
@@ -5213,7 +5213,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/10/25/9d58efc5-69fd-4a00-b651-942c37a2ed0f.jpg",
         "rating": 8.8,
-        "rating_count": 355,
+        "rating_count": 356,
         "rating_distribution": [
           0,
           0,
@@ -5783,13 +5783,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2024/04/17/7d1bda2d-db00-4136-a4cb-6ef3f39ef985.jpg",
         "rating": 7.2,
-        "rating_count": 90,
+        "rating_count": 91,
         "rating_distribution": [
           0,
           2,
-          31,
-          56,
-          10
+          30,
+          57,
+          9
         ],
         "tags": [
           "2024",
@@ -6294,7 +6294,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1543e536b3-fcc3-44d0-a4da-96eacc5607bf.jpg",
         "rating": 9.6,
-        "rating_count": 462,
+        "rating_count": 463,
         "rating_distribution": [
           0,
           0,
@@ -6447,14 +6447,14 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/173a6861f9-395d-4813-b674-98bc8dc8f139.jpg",
-        "rating": 8.0,
-        "rating_count": 71,
+        "rating": 8.1,
+        "rating_count": 72,
         "rating_distribution": [
           1,
           5,
           15,
           43,
-          33
+          34
         ],
         "tags": [
           "2012",
@@ -6462,6 +6462,7 @@
           "spartacus",
           "starz",
           "teleplay",
+          "动作",
           "历史",
           "古罗马",
           "史诗",
@@ -6888,32 +6889,33 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2023/05/31/c3376f14-de62-4882-a7b5-c26e62c006ed.jpg",
-        "rating": 7.9,
-        "rating_count": 57,
+        "rating": 8.0,
+        "rating_count": 58,
         "rating_distribution": [
           0,
           5,
           22,
-          38,
-          33
+          37,
+          34
         ],
         "tags": [
           "2010",
           "2016",
           "2023",
-          "history",
+          "enu",
           "spartacus",
           "starz",
-          "war",
           "剧情",
-          "剧集",
+          "动作",
           "历史",
           "古罗马",
           "史诗",
+          "情色",
           "斯巴达克斯",
           "暴力",
           "电视剧",
           "电视剧美国",
+          "竟然是十年前的电视",
           "美剧",
           "美国",
           "血腥"
@@ -9180,7 +9182,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/139d724fe4-c423-4a7b-8d56-6d81dff61afc.jpg",
         "rating": 9.5,
-        "rating_count": 638,
+        "rating_count": 639,
         "rating_distribution": [
           0,
           0,
@@ -9738,5 +9740,5 @@
   ],
   "count": 107,
   "category": "tv",
-  "updated_at": "2025-04-20T01:01:56.774054"
+  "updated_at": "2025-04-21T01:00:59.033311"
 }
