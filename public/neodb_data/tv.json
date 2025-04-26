@@ -4987,6 +4987,10 @@
           {
             "lang": "zh-cn",
             "text": "我们最后一代"
+          },
+          {
+            "lang": "es",
+            "text": "Temporada 1"
           }
         ],
         "localized_description": [
@@ -4997,11 +5001,15 @@
           {
             "lang": "zh-cn",
             "text": "　　该剧由HBO出品，改编自顽皮狗于2013年6月14日推出的PlayStation平台同名游戏。讲述了在现代文明被摧毁的二十年后，人类因现代传染病而面临绝种危机，幸存的人类为了生存自相残杀。中年男性走私犯乔尔（佩德罗·帕斯卡 饰）为了完成“火萤”组织首领玛琳（梅尔·丹德里奇 饰）的托付，带着14岁少女艾莉（贝拉·拉姆齐 饰）一同踏出由军队保护的疫情隔离区，穿越化为废墟丛林的大都会。面对病毒感染变种人类与其他幸存者集团威胁，展开了一场改变两人一生的深刻旅程。"
+          },
+          {
+            "lang": "es",
+            "text": "Cuando una pandemia global destruye la civilización, un superviviente se hace cargo de una chica de 14 años que podría ser la última esperanza de la humanidad."
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/03/14/e0cc80de-58b3-4a0c-ba0b-cb1ed25f326a.webp",
         "rating": 8.8,
-        "rating_count": 486,
+        "rating_count": 487,
         "rating_distribution": [
           0,
           0,
@@ -5050,6 +5058,9 @@
           },
           {
             "url": "https://www.themoviedb.org/tv/100088/season/1"
+          },
+          {
+            "url": "https://fantastika.social/tv/season/3cqIl70H7ySJFCh3oktYXE"
           }
         ]
       },
@@ -9740,5 +9751,5 @@
   ],
   "count": 107,
   "category": "tv",
-  "updated_at": "2025-04-25T00:58:42.072298"
+  "updated_at": "2025-04-26T00:56:28.915170"
 }
