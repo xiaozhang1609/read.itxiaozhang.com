@@ -4378,7 +4378,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/156bbc2ea2-fc09-440a-bb29-83dd0339574a.jpg",
         "rating": 6.7,
-        "rating_count": 1319,
+        "rating_count": 1320,
         "rating_distribution": [
           2,
           10,
@@ -5982,7 +5982,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/08/09/d546187f-bf96-4341-a492-99bc987de142.jpg",
         "rating": 7.6,
-        "rating_count": 179,
+        "rating_count": 180,
         "rating_distribution": [
           1,
           2,
@@ -5997,7 +5997,7 @@
           "2024年所看影视",
           "35歲的片",
           "5",
-          "y",
+          "nithilan_saminathan",
           "剧情",
           "动作",
           "印度",
@@ -16732,5 +16732,5 @@
   ],
   "count": 128,
   "category": "movie",
-  "updated_at": "2025-04-30T00:58:57.764005"
+  "updated_at": "2025-05-01T01:04:25.986330"
 }
