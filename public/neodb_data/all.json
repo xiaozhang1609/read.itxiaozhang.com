@@ -647,10 +647,6 @@
             "text": "겨울의 찬 바람이 웨스테로스에서 일어나고 있다. 전쟁이 오고 있다. 철왕좌를 차지하기 위한 다섯 왕들의 무자비한 여정은 계속된다. 욕망의 철왕좌는 잔인한 조프리가 차지하였고, 그의 어머니 세르세이와 삼촌 티리온의 섭정이 시작된다. 그러나 왕좌를 움켜쥔 라니스터 가문에 대하여 주위로부터의 견제와 공격이 시작된다. 한편 북부 장벽 밖 황야에서는 새로운 지도자가 일어나, 존 스노우와 나이트 워치에게 또다른 고난을 안겨주는데..."
           },
           {
-            "lang": "ja",
-            "text": ""
-          },
-          {
             "lang": "pt",
             "text": "A guerra está a chegar a Westeros. À medida que os ventos gelados aumentam e cinco reis duelam pelo poder, alianças são forjadas e quebradas, identidades são desafiadas e romances florescem. Com apostas em jogo ainda mais altas do que antes, quem vai sobreviver ao caos para reclamar o Trono de Ferro?\n\nMas o domínio dos Lannister sobre o Trono está sob ataque de várias frentes. Rob Stark, filho de Ned Stark, o Senhor de Winterfell, busca autonomia no Norte e tomou o irmão de Cersei, Jaime, como prisioneiro na batalha. Daenerys Targaryen procura manter seu combalido poder no Leste com a ajuda de seus três dragões recém nascidos. Stannis Baratheon, irmão do falecido Rei Robert, rejeita a legimitidade de Joffrey e faz uma aliança com uma poderosa sacerdotisa para orquestrar um ataque naval. E Renly, o carismático irmão de Stannis, mantém sua ideia de tomar o trono depois de fugir de Porto Real."
           },
@@ -669,10 +665,6 @@
           {
             "lang": "en",
             "text": "The cold winds of winter are rising in Westeros...war is coming...and five kings continue their savage quest for control of the all-powerful Iron Throne. With winter fast approaching, the coveted Iron Throne is occupied by the cruel Joffrey, counseled by his conniving mother Cersei and uncle Tyrion. But the Lannister hold on the Throne is under assault on many fronts. Meanwhile, a new leader is rising among the wildings outside the Great Wall, adding new perils for Jon Snow and the order of the Night's Watch."
-          },
-          {
-            "lang": "zh-hk",
-            "text": ""
           },
           {
             "lang": "zh-tw",
@@ -1052,18 +1044,6 @@
           {
             "lang": "zh-cn",
             "text": "本剧改编自乔治·马丁的《血与火》，背景为《权力的游戏》涉及事件的200年前，聚焦坦格利安家族。故事将讲述坦格利安家族的衰落，以及被称之为“血龙狂舞”的家族内战。"
-          },
-          {
-            "lang": "pt",
-            "text": ""
-          },
-          {
-            "lang": "es",
-            "text": ""
-          },
-          {
-            "lang": "en",
-            "text": ""
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/02/16/1c296bee-5d49-4208-b11b-f7f0f949bc64.jpg",
@@ -6329,14 +6309,6 @@
             "text": "Weil sein einst brillanter Vater Charles an Demenz leidet, beginnt der Wissenschaftler Will Rodman an Schimpansen zu experimentieren, um ein geeignetes Heilmittel gegen die Alzheimer-Krankheit zu finden. Eines der Tiere, das den Namen Caesar trägt, entwickelt sich durch die Einnahme der Medikamente sehr rapide. Um den hyperintelligenten Affen vor seinen zunehmend aggressiv werdenden Kollegen zu schützen, nimmt der Wissenschaftler seinen besonderen Probanden mit zu sich nach Hause und zieht ihn wie ein Familienmitglied groß. Als Charles einige Zeit später seiner Krankheit zum Opfer fällt, wird Caesar ebenfalls immer aggressiver. Aufgrund seines gewalttätigen Verhaltens wird der Primat in ein riesiges Käfigsystem mit anderen Schimpansen gesperrt. Dort zettelt Caesar einen Aufstand an - die Revolution der Affen."
           },
           {
-            "lang": "nn",
-            "text": ""
-          },
-          {
-            "lang": "nb",
-            "text": ""
-          },
-          {
             "lang": "no",
             "text": "Sci-Fi møter virkeligheten i denne nyskapende eventyrfilmen som beskriver et scenario for fremtiden som er ulikt alt annet vi har opplevd. Filmen utspiller seg i en mulig fremtid hvor et forskningsteams jakt på en kur for Alzheimers fører til at en gruppe med aper utvikler en intelligens lik vår egen. Dette fører til full krig mellom aper og mennesker om den planeten som vi hittil har kalt for vår."
           },
@@ -7193,7 +7165,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/04/15b785f2f1-4e5a-4ab8-8344-90049e5ac6fb.jpg",
         "rating": 8.3,
-        "rating_count": 324,
+        "rating_count": 325,
         "rating_distribution": [
           0,
           0,
@@ -7909,12 +7881,7 @@
             "text": "十二金钱镖"
           }
         ],
-        "localized_description": [
-          {
-            "lang": "x",
-            "text": ""
-          }
-        ],
+        "localized_description": [],
         "cover_image_url": "https://neodb.social/m/book/2022/05/035b5883e5-4ab5-4232-89f0-2e5b9f587f84.jpg",
         "rating": null,
         "rating_count": 1,
@@ -8835,12 +8802,56 @@
           {
             "lang": "zh-cn",
             "text": "边水往事"
+          },
+          {
+            "lang": "ko",
+            "text": "시즌 1"
+          },
+          {
+            "lang": "ja",
+            "text": "シーズン1"
+          },
+          {
+            "lang": "pt",
+            "text": "Temporada 1"
+          },
+          {
+            "lang": "de",
+            "text": "Staffel 1"
+          },
+          {
+            "lang": "fr",
+            "text": "Saison 1"
+          },
+          {
+            "lang": "es",
+            "text": "Temporada 1"
+          },
+          {
+            "lang": "en",
+            "text": "Season 1"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "第 1 季"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "第 1 季"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "第 1 季"
           }
         ],
         "localized_description": [
           {
             "lang": "zh-cn",
             "text": "三边坡，一处鱼龙混杂的热带异域，一个繁茂与衰败并生的斑驳之地。意外流落三边坡的打工小白沈星（郭麒麟 饰）遇到在多方势力间游走的三边坡和事佬猜叔（吴镇宇 饰），一场冒险，一段善良微光指引下的回归，在留与逃的挣扎中将如何上演。"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "三边坡，一处鱼龙混杂的热带异域，一个繁茂与衰败并生的斑驳之地。意外流落三边坡的打工小白沈星遇到在多方势力间游走的三边坡和事佬猜叔，一场冒险，一段善良微光指引下的回归，在留与逃的挣扎中将如何上演。"
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/08/29/43e193de-dc85-411d-8021-7d18962b38e7.jpg",
@@ -8880,6 +8891,9 @@
           },
           {
             "url": "https://www.themoviedb.org/tv/252636/season/1"
+          },
+          {
+            "url": "https://bgm.tv/subject/508964"
           }
         ]
       },
@@ -11320,12 +11334,7 @@
             "text": "Ti Amo"
           }
         ],
-        "localized_description": [
-          {
-            "lang": "x",
-            "text": ""
-          }
-        ],
+        "localized_description": [],
         "cover_image_url": "https://neodb.social/m/album/2021/12/060f833652-4ad4-4880-bc31-0f31a217ac52.jpg",
         "rating": null,
         "rating_count": 3,
@@ -11568,12 +11577,7 @@
             "text": "笑看风云"
           }
         ],
-        "localized_description": [
-          {
-            "lang": "x",
-            "text": ""
-          }
-        ],
+        "localized_description": [],
         "cover_image_url": "https://neodb.social/m/album/2021/10/14a781e8ef-5ce0-44f3-835b-41518472868a.jpg",
         "rating": 8.7,
         "rating_count": 7,
@@ -11647,13 +11651,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/05/27/9a7c62bf-714d-4f6c-a97b-2404adef3642.webp",
         "rating": 7.7,
-        "rating_count": 140,
+        "rating_count": 141,
         "rating_distribution": [
           0,
           0,
           23,
-          52,
-          23
+          51,
+          24
         ],
         "tags": [
           "2020s",
@@ -12568,7 +12572,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/12/09/e349737a-1ad1-4118-ab72-3f8fd067cf4d.webp",
         "rating": 8.6,
-        "rating_count": 281,
+        "rating_count": 282,
         "rating_distribution": [
           0,
           0,
@@ -13824,14 +13828,6 @@
             "text": "《英雄联盟：双城之战》是英雄联盟官方动画剧集，讲述的是在充满蒸汽朋克气息的乌托邦-皮尔特沃夫和由化学品驱动的地下城-祖安中，蔚和金克丝两姐妹，她们在一场激烈的冲突后发现两个人站在了彼此的对立面。她们从此分开，走上不同的道路，朝着不同的命运终点走去，但心中的羁绊又无时不刻地让姐妹二人想要破镜重圆。"
           },
           {
-            "lang": "pt",
-            "text": ""
-          },
-          {
-            "lang": "es",
-            "text": ""
-          },
-          {
             "lang": "zh-cn",
             "text": "本片作为英雄联盟官方动画剧集，讲述的是在充满蒸汽朋克气息的乌托邦-皮尔特沃夫和由化学品驱动的地下城-祖安中，蔚和金克丝两姐妹，她们在一场激烈的冲突后发现两个人站在了彼此的对立面。她们从此分开，走上不同的道路，朝着不同的命运终点走去，但心中的羁绊又无时不刻 地让姐妹二人想要破镜重圆"
           },
@@ -14449,7 +14445,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2022/10/2573823f61-b01b-40a3-926a-f2563cbd989a.jpg",
         "rating": 7.9,
-        "rating_count": 235,
+        "rating_count": 236,
         "rating_distribution": [
           0,
           0,
@@ -15530,7 +15526,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1342c2c8f4-6447-4008-9f51-2fcd641c4799.jpg",
         "rating": 7.8,
-        "rating_count": 1696,
+        "rating_count": 1697,
         "rating_distribution": [
           0,
           2,
@@ -18199,7 +18195,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2023/07/20/8206c5c4-0d6d-46f6-a08c-7a7d3af84393.jpg",
         "rating": 7.0,
-        "rating_count": 759,
+        "rating_count": 760,
         "rating_distribution": [
           0,
           6,
@@ -26693,7 +26689,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157eee4ad4-84de-4e92-8fc4-aa4ff42da48f.jpg",
         "rating": 7.9,
-        "rating_count": 1512,
+        "rating_count": 1513,
         "rating_distribution": [
           0,
           3,
@@ -27073,7 +27069,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155c04dbf9-a5ea-49f7-807c-8f46e3fda242.jpg",
         "rating": 7.8,
-        "rating_count": 1103,
+        "rating_count": 1104,
         "rating_distribution": [
           0,
           3,
@@ -28835,36 +28831,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2025-05-01T01:04:36.447354",
+  "updated_at": "2025-05-02T00:59:10.666517",
   "stats": {
     "movie": {
       "count": 128,
-      "time": 11.11
+      "time": 12.87
     },
     "tv": {
       "count": 107,
-      "time": 8.0
+      "time": 9.01
     },
     "book": {
       "count": 30,
-      "time": 1.88
+      "time": 1.89
     },
     "music": {
       "count": 4,
-      "time": 0.16
+      "time": 0.22
     },
     "podcast": {
       "count": 0,
-      "time": 0.1
+      "time": 0.17
     },
     "game": {
       "count": 1,
-      "time": 0.15
+      "time": 0.17
     },
     "performance": {
       "count": 2,
-      "time": 0.14
+      "time": 0.28
     }
   },
-  "total_time": 21.55
+  "total_time": 24.61
 }

@@ -14,12 +14,7 @@
             "text": "Ti Amo"
           }
         ],
-        "localized_description": [
-          {
-            "lang": "x",
-            "text": ""
-          }
-        ],
+        "localized_description": [],
         "cover_image_url": "https://neodb.social/m/album/2021/12/060f833652-4ad4-4880-bc31-0f31a217ac52.jpg",
         "rating": null,
         "rating_count": 3,
@@ -121,12 +116,7 @@
             "text": "笑看风云"
           }
         ],
-        "localized_description": [
-          {
-            "lang": "x",
-            "text": ""
-          }
-        ],
+        "localized_description": [],
         "cover_image_url": "https://neodb.social/m/album/2021/10/14a781e8ef-5ce0-44f3-835b-41518472868a.jpg",
         "rating": 8.7,
         "rating_count": 7,
@@ -231,5 +221,5 @@
   ],
   "count": 4,
   "category": "music",
-  "updated_at": "2025-05-01T01:04:36.051315"
+  "updated_at": "2025-05-02T00:59:10.050135"
 }

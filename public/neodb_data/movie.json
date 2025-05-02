@@ -3622,14 +3622,6 @@
             "text": "Weil sein einst brillanter Vater Charles an Demenz leidet, beginnt der Wissenschaftler Will Rodman an Schimpansen zu experimentieren, um ein geeignetes Heilmittel gegen die Alzheimer-Krankheit zu finden. Eines der Tiere, das den Namen Caesar trägt, entwickelt sich durch die Einnahme der Medikamente sehr rapide. Um den hyperintelligenten Affen vor seinen zunehmend aggressiv werdenden Kollegen zu schützen, nimmt der Wissenschaftler seinen besonderen Probanden mit zu sich nach Hause und zieht ihn wie ein Familienmitglied groß. Als Charles einige Zeit später seiner Krankheit zum Opfer fällt, wird Caesar ebenfalls immer aggressiver. Aufgrund seines gewalttätigen Verhaltens wird der Primat in ein riesiges Käfigsystem mit anderen Schimpansen gesperrt. Dort zettelt Caesar einen Aufstand an - die Revolution der Affen."
           },
           {
-            "lang": "nn",
-            "text": ""
-          },
-          {
-            "lang": "nb",
-            "text": ""
-          },
-          {
             "lang": "no",
             "text": "Sci-Fi møter virkeligheten i denne nyskapende eventyrfilmen som beskriver et scenario for fremtiden som er ulikt alt annet vi har opplevd. Filmen utspiller seg i en mulig fremtid hvor et forskningsteams jakt på en kur for Alzheimers fører til at en gruppe med aper utvikler en intelligens lik vår egen. Dette fører til full krig mellom aper og mennesker om den planeten som vi hittil har kalt for vår."
           },
@@ -7280,13 +7272,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/05/27/9a7c62bf-714d-4f6c-a97b-2404adef3642.webp",
         "rating": 7.7,
-        "rating_count": 140,
+        "rating_count": 141,
         "rating_distribution": [
           0,
           0,
           23,
-          52,
-          23
+          51,
+          24
         ],
         "tags": [
           "2020s",
@@ -8648,7 +8640,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1342c2c8f4-6447-4008-9f51-2fcd641c4799.jpg",
         "rating": 7.8,
-        "rating_count": 1696,
+        "rating_count": 1697,
         "rating_distribution": [
           0,
           2,
@@ -10190,7 +10182,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2023/07/20/8206c5c4-0d6d-46f6-a08c-7a7d3af84393.jpg",
         "rating": 7.0,
-        "rating_count": 759,
+        "rating_count": 760,
         "rating_distribution": [
           0,
           6,
@@ -16278,7 +16270,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157eee4ad4-84de-4e92-8fc4-aa4ff42da48f.jpg",
         "rating": 7.9,
-        "rating_count": 1512,
+        "rating_count": 1513,
         "rating_distribution": [
           0,
           3,
@@ -16584,7 +16576,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155c04dbf9-a5ea-49f7-807c-8f46e3fda242.jpg",
         "rating": 7.8,
-        "rating_count": 1103,
+        "rating_count": 1104,
         "rating_distribution": [
           0,
           3,
@@ -16732,5 +16724,5 @@
   ],
   "count": 128,
   "category": "movie",
-  "updated_at": "2025-05-01T01:04:25.986330"
+  "updated_at": "2025-05-02T00:58:58.908868"
 }
