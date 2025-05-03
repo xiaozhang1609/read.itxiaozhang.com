@@ -63,12 +63,7 @@
             "text": "My Life Is Going On"
           }
         ],
-        "localized_description": [
-          {
-            "lang": "x",
-            "text": ""
-          }
-        ],
+        "localized_description": [],
         "cover_image_url": "https://neodb.social/m/item/doubanmusic/2024/07/06/b5b9628c-6bde-4d94-8f7c-983579def4b2.jpg",
         "rating": null,
         "rating_count": 2,
@@ -221,5 +216,5 @@
   ],
   "count": 4,
   "category": "music",
-  "updated_at": "2025-05-02T00:59:10.050135"
+  "updated_at": "2025-05-03T00:57:44.195357"
 }
