@@ -4197,7 +4197,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15e76bca99-667d-4bc2-a4ba-140d9ac4572d.jpg",
         "rating": 7.2,
-        "rating_count": 660,
+        "rating_count": 661,
         "rating_distribution": [
           0,
           4,
@@ -5612,7 +5612,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/159f8910db-b66d-47a4-bfe2-681b9b942ab5.jpg",
         "rating": 7.6,
-        "rating_count": 1073,
+        "rating_count": 1074,
         "rating_distribution": [
           0,
           4,
@@ -9239,7 +9239,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/07/be012b58-ed0a-4750-b71d-03b0f59276a6.jpg",
         "rating": 7.7,
-        "rating_count": 1006,
+        "rating_count": 1007,
         "rating_distribution": [
           2,
           2,
@@ -13664,6 +13664,10 @@
           {
             "lang": "da",
             "text": "Unge Harry har taget hul på sit andet år på Hogwarts, trods adskillige advarsler. Det varer ikke længe, før Harry og vennerne opdager, at der er noget helt galt på skolen. Elever bliver forvandlet til sten, trusler bliver skrevet med blod på væggene og et dødbringende monster er løs! Nogen har åbnet Hemmelighedernes Kammer. Harry, Ron og Hermione sætter sig for at finde kammeret og dræbe monstret. Rygtet siger, at Hemmelighedernes Kammer er blevet åbnet af en arvtager til Salazar Slytherin – en af Hogwarts grundlæggere. Mistanken retter sig mod den arrogante elev, Draco Malfoy, men Harry frygter, at hans arvefjende, Voldemort står bag de skræmmende begivenheder."
+          },
+          {
+            "lang": "nn",
+            "text": ""
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15f3e99e45-6b26-4747-a8f2-09f292b8f332.jpg",
@@ -16062,7 +16066,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13d1567d07-417b-4b7b-8356-5d0b87f43128.jpg",
         "rating": 9.1,
-        "rating_count": 2343,
+        "rating_count": 2344,
         "rating_distribution": [
           0,
           0,
@@ -16607,5 +16611,5 @@
   ],
   "count": 128,
   "category": "movie",
-  "updated_at": "2025-05-04T01:04:47.160831"
+  "updated_at": "2025-05-05T01:01:46.563105"
 }
