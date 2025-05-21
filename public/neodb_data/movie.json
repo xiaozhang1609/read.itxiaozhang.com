@@ -5957,7 +5957,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13676fe4c9-0bb8-4ba4-88d9-109f12d316f1.jpg",
         "rating": 9.5,
-        "rating_count": 1373,
+        "rating_count": 1374,
         "rating_distribution": [
           0,
           0,
@@ -12892,7 +12892,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/145f861699-f73a-4881-8146-9f775950635b.jpg",
         "rating": 9.0,
-        "rating_count": 1274,
+        "rating_count": 1275,
         "rating_distribution": [
           0,
           0,
@@ -13813,7 +13813,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1540ca6a04-7e73-4d51-bf03-5e75bb63a8de.jpg",
         "rating": 8.0,
-        "rating_count": 994,
+        "rating_count": 995,
         "rating_distribution": [
           0,
           3,
@@ -16727,13 +16727,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14e5043627-8e2d-43c0-a6cc-a8e05d8115d3.jpg",
         "rating": 9.4,
-        "rating_count": 2640,
+        "rating_count": 2642,
         "rating_distribution": [
           0,
           0,
           3,
           21,
-          74
+          73
         ],
         "tags": [
           "1990s",
@@ -17568,5 +17568,5 @@
   ],
   "count": 132,
   "category": "movie",
-  "updated_at": "2025-05-20T01:01:26.814114"
+  "updated_at": "2025-05-21T01:00:47.850662"
 }

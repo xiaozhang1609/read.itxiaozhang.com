@@ -1733,6 +1733,14 @@
           {
             "lang": "zh-cn",
             "text": "改编自乔治·R·R·马丁所著的奇幻小说《冰与火之歌》第一部，故事发生在虚构的维斯特洛大陆上。由国王劳勃·拜拉席恩前往北地拜访他的好友、临冬城主暨北境统领艾德·史塔克开始，逐渐展示了这片奇幻大陆的全貌。单纯的国王，耿直的首相，各怀鬼胎的大臣，拥兵自重的四方诸侯，和平的表象即将打破，国家面临无尽的战乱。而更让人惊悚的是，北境长城之外，神秘的异鬼隐隐现身。"
+          },
+          {
+            "lang": "ja",
+            "text": ""
+          },
+          {
+            "lang": "zh-hk",
+            "text": ""
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13f0f1086d-2dd2-4f8b-a1a8-fff29ef19e35.jpg",
@@ -1783,6 +1791,9 @@
           },
           {
             "url": "https://www.themoviedb.org/tv/1399/season/1"
+          },
+          {
+            "url": "https://neodb.kevga.de/tv/season/6bnEop1iQEUn92Y7pkkEip"
           },
           {
             "url": "https://bgm.tv/subject/15877"
@@ -9988,7 +9999,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13676fe4c9-0bb8-4ba4-88d9-109f12d316f1.jpg",
         "rating": 9.5,
-        "rating_count": 1373,
+        "rating_count": 1374,
         "rating_distribution": [
           0,
           0,
@@ -18096,7 +18107,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/03/14/e0cc80de-58b3-4a0c-ba0b-cb1ed25f326a.webp",
         "rating": 8.8,
-        "rating_count": 499,
+        "rating_count": 500,
         "rating_distribution": [
           0,
           0,
@@ -22206,7 +22217,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/145f861699-f73a-4881-8146-9f775950635b.jpg",
         "rating": 9.0,
-        "rating_count": 1274,
+        "rating_count": 1275,
         "rating_distribution": [
           0,
           0,
@@ -23340,7 +23351,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1540ca6a04-7e73-4d51-bf03-5e75bb63a8de.jpg",
         "rating": 8.0,
-        "rating_count": 994,
+        "rating_count": 995,
         "rating_distribution": [
           0,
           3,
@@ -27404,13 +27415,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14e5043627-8e2d-43c0-a6cc-a8e05d8115d3.jpg",
         "rating": 9.4,
-        "rating_count": 2640,
+        "rating_count": 2642,
         "rating_distribution": [
           0,
           0,
           3,
           21,
-          74
+          73
         ],
         "tags": [
           "1990s",
@@ -30174,36 +30185,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2025-05-20T01:01:37.338557",
+  "updated_at": "2025-05-21T01:00:59.842663",
   "stats": {
     "movie": {
       "count": 132,
-      "time": 11.3
+      "time": 12.62
     },
     "tv": {
       "count": 110,
-      "time": 8.02
+      "time": 8.92
     },
     "book": {
       "count": 30,
-      "time": 1.9
+      "time": 2.19
     },
     "music": {
       "count": 4,
-      "time": 0.18
+      "time": 0.23
     },
     "podcast": {
       "count": 0,
-      "time": 0.12
+      "time": 0.17
     },
     "game": {
       "count": 1,
-      "time": 0.13
+      "time": 0.18
     },
     "performance": {
       "count": 2,
-      "time": 0.16
+      "time": 0.27
     }
   },
-  "total_time": 21.8
+  "total_time": 24.59
 }

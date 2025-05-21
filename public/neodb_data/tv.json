@@ -1266,6 +1266,14 @@
           {
             "lang": "zh-cn",
             "text": "改编自乔治·R·R·马丁所著的奇幻小说《冰与火之歌》第一部，故事发生在虚构的维斯特洛大陆上。由国王劳勃·拜拉席恩前往北地拜访他的好友、临冬城主暨北境统领艾德·史塔克开始，逐渐展示了这片奇幻大陆的全貌。单纯的国王，耿直的首相，各怀鬼胎的大臣，拥兵自重的四方诸侯，和平的表象即将打破，国家面临无尽的战乱。而更让人惊悚的是，北境长城之外，神秘的异鬼隐隐现身。"
+          },
+          {
+            "lang": "ja",
+            "text": ""
+          },
+          {
+            "lang": "zh-hk",
+            "text": ""
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13f0f1086d-2dd2-4f8b-a1a8-fff29ef19e35.jpg",
@@ -1316,6 +1324,9 @@
           },
           {
             "url": "https://www.themoviedb.org/tv/1399/season/1"
+          },
+          {
+            "url": "https://neodb.kevga.de/tv/season/6bnEop1iQEUn92Y7pkkEip"
           },
           {
             "url": "https://bgm.tv/subject/15877"
@@ -5488,7 +5499,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/03/14/e0cc80de-58b3-4a0c-ba0b-cb1ed25f326a.webp",
         "rating": 8.8,
-        "rating_count": 499,
+        "rating_count": 500,
         "rating_distribution": [
           0,
           0,
@@ -10279,5 +10290,5 @@
   ],
   "count": 110,
   "category": "tv",
-  "updated_at": "2025-05-20T01:01:34.844484"
+  "updated_at": "2025-05-21T01:00:56.783028"
 }
