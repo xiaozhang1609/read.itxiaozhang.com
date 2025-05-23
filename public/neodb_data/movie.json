@@ -724,7 +724,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/02/02/d801edae-d1f3-499d-8a73-123ce9669780.jpg",
         "rating": 6.8,
-        "rating_count": 380,
+        "rating_count": 381,
         "rating_distribution": [
           4,
           9,
@@ -963,7 +963,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/05/8722487d-911a-4260-8589-4ea0626eb134.jpg",
         "rating": 5.7,
-        "rating_count": 275,
+        "rating_count": 276,
         "rating_distribution": [
           9,
           18,
@@ -2944,10 +2944,10 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16a9b1481d-33ff-447c-a17f-c81613bc4c9d.jpg",
         "rating": 6.7,
-        "rating_count": 163,
+        "rating_count": 164,
         "rating_distribution": [
           1,
-          11,
+          10,
           43,
           39,
           4
@@ -4934,7 +4934,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/07/01/f929217a-3c36-4a6e-8885-64fc07476424.webp",
         "rating": 6.1,
-        "rating_count": 301,
+        "rating_count": 302,
         "rating_distribution": [
           7,
           10,
@@ -7184,6 +7184,10 @@
           {
             "lang": "da",
             "text": "The Bourne Identity"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "神鬼認證"
           }
         ],
         "localized_description": [
@@ -7222,6 +7226,10 @@
           {
             "lang": "da",
             "text": "Jason Bourne, der er blevet reddet med to kugler i ryggen, har fået totalt hukkommelsestab. Det går snart op for ham, at han bliver nødt til at finde ud af, hvem han er for at overleve. Han jages af mordere i et kapløb med tiden, samtidig opdager Bourne hurtigt, at han også har et udpræget dræberinstinkt."
+          },
+          {
+            "lang": "zh-cn",
+            "text": "故事发生在欧洲大陆，一艘意大利渔船在海上捞起一个奄奄一息的男人。他身中数枪，还有刀痕。更奇怪的是他身上还有微缩胶卷和一个瑞士银行户头的密码。在好心的船员精心照顾下，他很快康复了。但是他却完全想不起自己是谁。至于怎么会被人射伤，怎么流落到海上，身上的东西又是怎么回事，更是头绪全无。\r\n\r\n渔船把他放在了巴塞罗纳，他准备前往苏黎世，依靠身上唯一的线索——瑞士银行密码，来寻找自己的身份。在苏黎世他找到了那个对得上他密码的保险箱，打开以后发现里面有一把枪、大量现金，还有六个国家的护照，上面都有同一个名字：杰生伯恩。更妙的是他发现自己身手极佳，可以几乎不费力地以各种方式打倒或杀死对手，而且他一张口竟然会说好几种外语。\r\n\r\n与此同时欧洲大陆上开始出现了几班人马，到处搜寻这个身份不明的人，目的只有一个：终结他。CIA也毫不令人吃惊地掺和进来。潜伏的危险和不知身份的迷惑下这个没有名字的人渐渐接近了真相。"
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/02/09/521f8674-8810-46f3-9a78-a22145369684.webp",
@@ -7272,6 +7280,9 @@
           },
           {
             "url": "https://minreol.dk/movie/2jqu4WKUjcsVTV3CxAYwtk"
+          },
+          {
+            "url": "https://bgm.tv/subject/35957"
           }
         ]
       },
@@ -8459,7 +8470,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/01/e4b2048e-6b85-4488-9859-7c519e74dc60.jpg",
         "rating": 9.2,
-        "rating_count": 1987,
+        "rating_count": 1989,
         "rating_distribution": [
           0,
           0,
@@ -9777,7 +9788,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/07/be012b58-ed0a-4750-b71d-03b0f59276a6.jpg",
         "rating": 7.7,
-        "rating_count": 1017,
+        "rating_count": 1018,
         "rating_distribution": [
           2,
           2,
@@ -15521,7 +15532,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16cdd68220-3080-488d-a01a-056c9d87c395.jpg",
         "rating": 6.5,
-        "rating_count": 953,
+        "rating_count": 954,
         "rating_distribution": [
           2,
           14,
@@ -17568,5 +17579,5 @@
   ],
   "count": 132,
   "category": "movie",
-  "updated_at": "2025-05-22T01:00:24.585942"
+  "updated_at": "2025-05-23T01:00:05.114256"
 }
