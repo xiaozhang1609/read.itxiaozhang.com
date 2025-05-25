@@ -2096,12 +2096,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/01/01/68e22bdb-a83e-4c24-971c-60ccff6b60d6.webp",
         "rating": 5.7,
-        "rating_count": 110,
+        "rating_count": 109,
         "rating_distribution": [
           7,
           16,
-          53,
-          19,
+          54,
+          18,
           3
         ],
         "tags": [
@@ -2898,10 +2898,10 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/05/8722487d-911a-4260-8589-4ea0626eb134.jpg",
         "rating": 5.7,
-        "rating_count": 276,
+        "rating_count": 277,
         "rating_distribution": [
           9,
-          18,
+          19,
           43,
           22,
           5
@@ -4448,7 +4448,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1547b89f8e-94c0-435e-8c7f-6b4513db2842.jpg",
         "rating": 7.1,
-        "rating_count": 1178,
+        "rating_count": 1179,
         "rating_distribution": [
           0,
           5,
@@ -6743,7 +6743,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/05/14/c6b6a72c-2a26-487c-9c3f-54c23cf4ca9e.webp",
         "rating": 8.8,
-        "rating_count": 2416,
+        "rating_count": 2415,
         "rating_distribution": [
           0,
           1,
@@ -7787,7 +7787,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/05/05/ff4458fb-b949-416c-833f-def4a33e1a74.webp",
         "rating": 8.0,
-        "rating_count": 445,
+        "rating_count": 446,
         "rating_distribution": [
           0,
           0,
@@ -8891,7 +8891,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15a2f45055-f7fd-4e4c-ba2b-c9438595671d.jpg",
         "rating": 8.0,
-        "rating_count": 780,
+        "rating_count": 781,
         "rating_distribution": [
           0,
           1,
@@ -9777,11 +9777,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/08/29/43e193de-dc85-411d-8021-7d18962b38e7.jpg",
         "rating": 7.2,
-        "rating_count": 82,
+        "rating_count": 81,
         "rating_distribution": [
           0,
           4,
-          30,
+          29,
           50,
           14
         ],
@@ -10333,7 +10333,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/159f8910db-b66d-47a4-bfe2-681b9b942ab5.jpg",
         "rating": 7.6,
-        "rating_count": 1077,
+        "rating_count": 1078,
         "rating_distribution": [
           0,
           4,
@@ -10479,7 +10479,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/141ac4ecd0-60a1-4b48-9c43-a1fb3a42f224.jpg",
         "rating": 8.3,
-        "rating_count": 1600,
+        "rating_count": 1601,
         "rating_distribution": [
           0,
           1,
@@ -13120,7 +13120,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155f176840-2af9-4da9-b94b-9ff31d1f45b3.jpg",
         "rating": 8.5,
-        "rating_count": 767,
+        "rating_count": 768,
         "rating_distribution": [
           0,
           0,
@@ -13329,12 +13329,32 @@
           {
             "lang": "ja",
             "text": "呪術廻戦 懐玉・玉折"
+          },
+          {
+            "lang": "en",
+            "text": "Season 2"
+          },
+          {
+            "lang": "de",
+            "text": "Staffel 2"
+          },
+          {
+            "lang": "ja",
+            "text": "呪術廻戦"
           }
         ],
         "localized_description": [
           {
             "lang": "zh-cn",
             "text": "最强2人，回不去的青春。2017年12月，乙骨忧太解除了祈本里香的诅咒。追溯到2006年（春天），高专时代的五条悟与夏油杰。作为咒术师活跃着，所向披靡的2人，接受来自咒术界拥有不死术式的要·天元的委托。委托有两个，天元的的适合者——被选中成为“星浆体”的天内理子，对那个少女的“护卫”和“抹去”两人为了维持咒术界而进行护卫任务，在那里自称伏黑的“术师杀手”以暗杀“星浆体”为目标介入。在之后被称为最强的咒术师和最恶的咒术师，五条与夏油，两人的过去被揭开…"
+          },
+          {
+            "lang": "de",
+            "text": "geht in die zweite Runde und nimmt uns direkt mit in die Vergangenheit von Satoru Gojo und Suguru Geto, als die beiden selbst noch Schüler waren. Während Utahime und Mei Mei die Mission erhalten, dem merkwürdigen Verschwinden von zahlreichen Menschen in einem verlassenen Haus auf den Grund zu gehen, erhalten Gojo und Geto eine besondere Mission: Master Tengen, der selbst zwar unsterblich ist, jedoch sein Körper nicht, braucht eine neue Hülle und die beiden werden mit dem Schutz ebendieser beauftragt. Doch auch zwei feindliche Organisationen haben es auf die Hülle, ein Mädchen namens Riko, abgesehen und wollen ihren Tod. Ein Kampf auf Leben und Tod beginnt, der auch für unsere besten Freunde Gojo und Geto schwere Folgen haben wird........"
+          },
+          {
+            "lang": "en",
+            "text": "enters its second round and takes us directly into the past of Satoru Gojo and Suguru Geto to when the two were still students. While Utahime and Mei Mei are on a mission to get to the bottom of the strange disappearances of numerous people in an abandoned house, Gojo and Geto obtain a special task: Master Tengen, who himself is immortal but his body is not, needs a new vessel and the two are assigned to protect it. However, two hostile organisations are also after the vessel, a girl named Riko, and want her dead. A fight to the death begins, which will also have severe consequences for our best friends Gojo and Geto … "
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/22/a170513d-27d1-4a66-b415-83bcc178b78b.webp",
@@ -13379,10 +13399,13 @@
         "display_title": "咒术回战 第二季",
         "external_resources": [
           {
-            "url": "https://bgm.tv/subject/369304"
+            "url": "https://neodb.kevga.de/tv/season/6wS0Ix0AVs8mW1mt4T6ASk"
           },
           {
             "url": "https://movie.douban.com/subject/35765350/"
+          },
+          {
+            "url": "https://bgm.tv/subject/369304"
           }
         ]
       },
@@ -13698,7 +13721,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/156963fe1b-b7c5-48eb-bd54-03d23c3d8c01.jpg",
         "rating": 8.7,
-        "rating_count": 1889,
+        "rating_count": 1890,
         "rating_distribution": [
           0,
           0,
@@ -14127,7 +14150,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/01/e4b2048e-6b85-4488-9859-7c519e74dc60.jpg",
         "rating": 9.2,
-        "rating_count": 1989,
+        "rating_count": 1990,
         "rating_distribution": [
           0,
           0,
@@ -14425,17 +14448,41 @@
           {
             "lang": "et",
             "text": "Jujutsu Kaisen"
+          },
+          {
+            "lang": "en",
+            "text": "Season 1"
+          },
+          {
+            "lang": "de",
+            "text": "Staffel 1"
+          },
+          {
+            "lang": "ja",
+            "text": "呪術廻戦"
           }
         ],
         "localized_description": [
           {
             "lang": "zh-cn",
             "text": "辛酸、后悔、耻辱——人类诞生的负面感情化作诅咒潜伏于日常当中。诅咒是蔓延于世间的灾祸根源，最坏的情况下会导致人死亡。而诅咒，只能通过诅咒来祓除。\n拥有惊人身体能力的少年·虎杖悠仁，原本过着普通的高中生活，但某天他为了救下遭到“诅咒”袭击的同伴而吞下了特级咒物“两面宿傩的手指”，自己的魂魄也寄宿了诅咒。自此与身为诅咒的“两面宿傩”共有肉体的虎杖，在最强咒术师五条悟的介绍下编入了对诅咒专门机关「东京都立咒术高等专门学校」……为了祓除诅咒，化身为诅咒的少年无法回头的壮绝物语开始启动——"
+          },
+          {
+            "lang": "de",
+            "text": "Mühsal, Reue, Schmach: Die negativen Gefühle, die den Herzen der Menschen entspringen, werden zu Flüchen, die sich in unser aller Leben einnisten. Und das Einzige, was einen Fluch austreiben kann, ist ein anderer Fluch. Yūji verbringt seine Tage wie jeder andere Schüler. Doch eines Tages wird sein Freund von Flüchen angegriffen und um ihn zu retten, isst er den Finger des Zwiegesichts Sukuna. Fortan teilt er sich seinen Körper mit ihm und tritt der Jujutsu-Akademie bei, um gegen Flüche zu kämpfen. So beginnt die Geschichte des Jungen, der zum Fluch wurde, um einen Fluch auszutreiben."
+          },
+          {
+            "lang": "en",
+            "text": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back."
+          },
+          {
+            "lang": "ja",
+            "text": "驚異的な身体能力を持つ、少年・虎杖悠仁はごく普通の高校生活を送っていたが、ある日“呪い”に襲われた仲間を救うため、特級呪物“両面宿儺の指”を喰らい、己の魂に呪いを宿してしまう。\n呪いである“両面宿儺”と肉体を共有することとなった虎杖は、最強の呪術師である五条 悟の案内で、対呪い専門機関である「東京都立呪術高等専門学校」へと。編入することになり……"
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157c78ce20-44be-4128-85cd-0cfdc73ebb0a.jpg",
         "rating": 8.0,
-        "rating_count": 665,
+        "rating_count": 666,
         "rating_distribution": [
           1,
           2,
@@ -14474,13 +14521,16 @@
         "display_title": "咒术回战",
         "external_resources": [
           {
-            "url": "https://bgm.tv/subject/294993"
+            "url": "https://neodb.kevga.de/tv/season/0lSgoLnI9aK2ewcvqzry99"
           },
           {
             "url": "https://movie.douban.com/subject/34895145/"
           },
           {
             "url": "https://www.themoviedb.org/tv/95479/season/1"
+          },
+          {
+            "url": "https://bgm.tv/subject/294993"
           }
         ]
       },
@@ -15480,7 +15530,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/13/d643b437-3391-4e50-8c8e-22f26228aa04.jpg",
         "rating": 8.1,
-        "rating_count": 233,
+        "rating_count": 234,
         "rating_distribution": [
           0,
           1,
@@ -16046,7 +16096,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/9c60c854-c003-4fde-8112-218faee891da.jpg",
         "rating": 8.8,
-        "rating_count": 1048,
+        "rating_count": 1050,
         "rating_distribution": [
           0,
           0,
@@ -16464,7 +16514,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1342c2c8f4-6447-4008-9f51-2fcd641c4799.jpg",
         "rating": 7.8,
-        "rating_count": 1705,
+        "rating_count": 1706,
         "rating_distribution": [
           0,
           2,
@@ -16738,7 +16788,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/07/5c08ca37-111a-4d69-847a-6590365d31e7.jpg",
         "rating": 6.3,
-        "rating_count": 730,
+        "rating_count": 731,
         "rating_distribution": [
           5,
           14,
@@ -17190,11 +17240,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16d55ba3c5-3088-4dd0-a0b8-13546996ebb8.jpg",
         "rating": 7.7,
-        "rating_count": 605,
+        "rating_count": 606,
         "rating_distribution": [
           1,
           2,
-          26,
+          27,
           49,
           20
         ],
@@ -17562,7 +17612,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/c50f391f-f017-4478-ae8c-ff4cd460e2c2.jpg",
         "rating": 8.0,
-        "rating_count": 1058,
+        "rating_count": 1060,
         "rating_distribution": [
           0,
           2,
@@ -17919,7 +17969,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/7a48ff6e-aae2-458e-9b35-523ece2badfb.jpg",
         "rating": 8.3,
-        "rating_count": 850,
+        "rating_count": 851,
         "rating_distribution": [
           0,
           1,
@@ -19315,7 +19365,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/imdb/2023/09/24/81ccb741-f4e2-4ab3-a957-5f99e5e605f5.jpg",
         "rating": 8.9,
-        "rating_count": 492,
+        "rating_count": 493,
         "rating_distribution": [
           0,
           0,
@@ -21170,7 +21220,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13a47e43fe-9ea3-43ca-a9e2-808483a6598b.jpg",
         "rating": 7.9,
-        "rating_count": 1513,
+        "rating_count": 1512,
         "rating_distribution": [
           0,
           2,
@@ -22588,7 +22638,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/153c3015b5-9fa5-4673-a6d0-49abd1664fa9.jpg",
         "rating": 7.4,
-        "rating_count": 1463,
+        "rating_count": 1462,
         "rating_distribution": [
           0,
           4,
@@ -23193,7 +23243,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14d28366c5-e2a3-43eb-b6f5-51d60fca3330.jpg",
         "rating": 7.1,
-        "rating_count": 1716,
+        "rating_count": 1717,
         "rating_distribution": [
           0,
           6,
@@ -23598,7 +23648,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/159008bab2-fd56-48b7-b553-f0a4d76eef0a.jpg",
         "rating": 8.1,
-        "rating_count": 1575,
+        "rating_count": 1574,
         "rating_distribution": [
           0,
           1,
@@ -23750,7 +23800,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1342d14337-0e7e-42e2-b3f5-d92f0903d33f.jpg",
         "rating": 8.5,
-        "rating_count": 1712,
+        "rating_count": 1711,
         "rating_distribution": [
           0,
           0,
@@ -23894,7 +23944,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15d0883f9f-f849-4054-9b49-e021f380f73b.jpg",
         "rating": 6.4,
-        "rating_count": 1341,
+        "rating_count": 1342,
         "rating_distribution": [
           6,
           15,
@@ -24043,7 +24093,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15f3e99e45-6b26-4747-a8f2-09f292b8f332.jpg",
         "rating": 8.3,
-        "rating_count": 1707,
+        "rating_count": 1706,
         "rating_distribution": [
           0,
           1,
@@ -24789,7 +24839,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/152bbd9498-8051-4931-afbf-4eddc7f9150c.jpg",
         "rating": 8.7,
-        "rating_count": 2130,
+        "rating_count": 2129,
         "rating_distribution": [
           0,
           0,
@@ -25178,7 +25228,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/135717365f-c912-4679-9f01-b05fcca43095.jpg",
         "rating": 8.4,
-        "rating_count": 1672,
+        "rating_count": 1673,
         "rating_distribution": [
           0,
           1,
@@ -26417,7 +26467,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/133ed46be4-3fc4-4a59-9639-21a4c9b06bf1.jpg",
         "rating": 7.5,
-        "rating_count": 1242,
+        "rating_count": 1243,
         "rating_distribution": [
           0,
           5,
@@ -26761,9 +26811,9 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158bab1067-4d98-4fa8-bb4c-06415a35b9ec.jpg",
         "rating": 7.2,
-        "rating_count": 416,
+        "rating_count": 417,
         "rating_distribution": [
-          2,
+          3,
           6,
           32,
           41,
@@ -26941,7 +26991,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1544ebc29e-ef48-41ed-8188-4355a1d66c34.jpg",
         "rating": 7.0,
-        "rating_count": 755,
+        "rating_count": 756,
         "rating_distribution": [
           1,
           6,
@@ -27437,13 +27487,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14e5043627-8e2d-43c0-a6cc-a8e05d8115d3.jpg",
         "rating": 9.4,
-        "rating_count": 2643,
+        "rating_count": 2644,
         "rating_distribution": [
           0,
           0,
           3,
           21,
-          74
+          73
         ],
         "tags": [
           "1990s",
@@ -27592,13 +27642,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13d1567d07-417b-4b7b-8356-5d0b87f43128.jpg",
         "rating": 9.1,
-        "rating_count": 2353,
+        "rating_count": 2354,
         "rating_distribution": [
           0,
           0,
           6,
           28,
-          64
+          63
         ],
         "tags": [
           "1990s",
@@ -29724,7 +29774,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15d7ec50c1-e799-446f-88ff-c9933b7bed8a.jpg",
         "rating": 7.6,
-        "rating_count": 353,
+        "rating_count": 354,
         "rating_distribution": [
           0,
           2,
@@ -29806,7 +29856,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155c5cd599-d9ed-4144-b6dd-f450ec1edd27.jpg",
         "rating": 9.4,
-        "rating_count": 577,
+        "rating_count": 578,
         "rating_distribution": [
           0,
           0,
@@ -30207,27 +30257,27 @@
     "game",
     "performance"
   ],
-  "updated_at": "2025-05-24T00:58:00.727720",
+  "updated_at": "2025-05-25T01:06:02.656413",
   "stats": {
     "movie": {
       "count": 132,
-      "time": 11.25
+      "time": 11.8
     },
     "tv": {
       "count": 110,
-      "time": 7.93
+      "time": 8.18
     },
     "book": {
       "count": 30,
-      "time": 1.79
+      "time": 1.95
     },
     "music": {
       "count": 4,
-      "time": 0.16
+      "time": 0.15
     },
     "podcast": {
       "count": 0,
-      "time": 0.1
+      "time": 0.13
     },
     "game": {
       "count": 1,
@@ -30235,8 +30285,8 @@
     },
     "performance": {
       "count": 2,
-      "time": 0.17
+      "time": 0.13
     }
   },
-  "total_time": 21.52
+  "total_time": 22.45
 }
