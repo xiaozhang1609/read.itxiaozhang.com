@@ -11454,11 +11454,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/05/09/93138ddf-92a7-4fda-9d04-92f9b197d65c.webp",
         "rating": 7.6,
-        "rating_count": 465,
+        "rating_count": 466,
         "rating_distribution": [
           0,
           2,
-          20,
+          21,
           59,
           16
         ],
@@ -17579,5 +17579,5 @@
   ],
   "count": 132,
   "category": "movie",
-  "updated_at": "2025-05-26T01:02:10.415800"
+  "updated_at": "2025-05-27T00:59:29.948748"
 }
