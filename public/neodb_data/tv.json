@@ -1918,7 +1918,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158cac42e4-74fb-472f-afd5-78984be19315.jpg",
         "rating": 8.2,
-        "rating_count": 752,
+        "rating_count": 753,
         "rating_distribution": [
           1,
           2,
@@ -2326,7 +2326,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14138f068a-33d6-4cb0-a556-1112c79ede52.jpg",
         "rating": 9.3,
-        "rating_count": 1603,
+        "rating_count": 1604,
         "rating_distribution": [
           0,
           0,
@@ -4070,12 +4070,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/08/69d304f8-1a0f-4f06-9a4a-b1d870f43864.webp",
         "rating": 7.9,
-        "rating_count": 182,
+        "rating_count": 183,
         "rating_distribution": [
           1,
           1,
           17,
-          46,
+          45,
           33
         ],
         "tags": [
@@ -4179,7 +4179,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157c78ce20-44be-4128-85cd-0cfdc73ebb0a.jpg",
         "rating": 8.0,
-        "rating_count": 668,
+        "rating_count": 669,
         "rating_distribution": [
           1,
           2,
@@ -4549,8 +4549,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/05/08/b1302e71-dc78-444c-b77c-7c9963751aef.jpg",
-        "rating": 8.1,
-        "rating_count": 245,
+        "rating": 8.0,
+        "rating_count": 246,
         "rating_distribution": [
           0,
           0,
@@ -4560,23 +4560,23 @@
         ],
         "tags": [
           "2023",
+          "2023观影",
+          "drama",
+          "taiwan",
           "人性",
           "剧情",
           "剧集",
           "华语",
           "台剧",
+          "台劇",
           "台湾",
+          "台灣",
           "喜剧",
+          "地区 台湾",
           "奇幻",
           "悬疑",
-          "懸疑",
-          "成长",
-          "曾敬骅",
-          "漂在加拿大",
           "爱奇艺",
-          "犯罪",
           "电视剧",
-          "社会",
           "鬼怪",
           "魔幻"
         ],
@@ -5104,12 +5104,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/16/f28d5972-1708-4dd1-a655-d75431e32c33.webp",
         "rating": 9.0,
-        "rating_count": 736,
+        "rating_count": 737,
         "rating_distribution": [
           0,
           0,
           5,
-          33,
+          34,
           59
         ],
         "tags": [
@@ -5200,7 +5200,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/24/a9688316-76fe-4704-add5-ab62c18e523f.webp",
         "rating": 9.3,
-        "rating_count": 659,
+        "rating_count": 660,
         "rating_distribution": [
           0,
           0,
@@ -5285,7 +5285,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/01/0601fef99c-a667-460e-bebd-99e45fb92e8a.webp",
         "rating": 9.7,
-        "rating_count": 589,
+        "rating_count": 590,
         "rating_distribution": [
           0,
           0,
@@ -5457,7 +5457,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/21/156627ec-4352-454a-a41e-6a1a5ae83070.jpg",
         "rating": 9.2,
-        "rating_count": 555,
+        "rating_count": 556,
         "rating_distribution": [
           0,
           0,
@@ -5561,7 +5561,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/03/14/e0cc80de-58b3-4a0c-ba0b-cb1ed25f326a.webp",
         "rating": 8.8,
-        "rating_count": 503,
+        "rating_count": 504,
         "rating_distribution": [
           0,
           0,
@@ -5655,7 +5655,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/2775557ce8-06f5-4882-a7e4-a3293ba16d3a.jpg",
         "rating": 8.9,
-        "rating_count": 1034,
+        "rating_count": 1035,
         "rating_distribution": [
           0,
           1,
@@ -5861,7 +5861,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/24/7b6ac0a9-1096-4531-a7b5-3dbb05ca776e.webp",
         "rating": 9.1,
-        "rating_count": 311,
+        "rating_count": 312,
         "rating_distribution": [
           0,
           0,
@@ -7854,13 +7854,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157ccd8230-6bd3-45c5-9555-7e341474256f.jpg",
         "rating": 9.2,
-        "rating_count": 28,
+        "rating_count": 29,
         "rating_distribution": [
           0,
           0,
           3,
-          32,
-          64
+          31,
+          65
         ],
         "tags": [
           "2006",
@@ -9959,7 +9959,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155c5cd599-d9ed-4144-b6dd-f450ec1edd27.jpg",
         "rating": 9.4,
-        "rating_count": 582,
+        "rating_count": 583,
         "rating_distribution": [
           0,
           0,
@@ -10352,5 +10352,5 @@
   ],
   "count": 110,
   "category": "tv",
-  "updated_at": "2025-06-06T01:01:12.726326"
+  "updated_at": "2025-06-07T01:00:41.545844"
 }
