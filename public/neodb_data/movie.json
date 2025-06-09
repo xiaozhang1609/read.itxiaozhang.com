@@ -1049,13 +1049,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/05/8722487d-911a-4260-8589-4ea0626eb134.jpg",
         "rating": 5.7,
-        "rating_count": 279,
+        "rating_count": 280,
         "rating_distribution": [
           8,
           18,
-          43,
+          42,
           23,
-          5
+          6
         ],
         "tags": [
           "2020s",
@@ -3865,6 +3865,14 @@
           {
             "lang": "da",
             "text": "Abernes planet: Opgøret"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "猿人爭霸戰：猩凶巨戰"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "猩球崛起：終極決戰"
           }
         ],
         "localized_description": [
@@ -3903,6 +3911,10 @@
           {
             "lang": "nb",
             "text": ""
+          },
+          {
+            "lang": "en",
+            "text": "After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind."
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16813dc7bf-5580-4d43-8f61-197bf9df97db.jpg",
@@ -3954,6 +3966,9 @@
           },
           {
             "url": "https://www.themoviedb.org/movie/281338"
+          },
+          {
+            "url": "https://bgm.tv/subject/234344"
           }
         ]
       },
@@ -4103,6 +4118,9 @@
           },
           {
             "url": "https://minreol.dk/movie/31kcLbzKgUsxs1aUMyX4nm"
+          },
+          {
+            "url": "https://bgm.tv/subject/533984"
           }
         ]
       },
@@ -4175,6 +4193,10 @@
           {
             "lang": "da",
             "text": "Abernes planet: Oprindelsen"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "猿人爭霸戰：猩凶革命（港）"
           }
         ],
         "localized_description": [
@@ -4205,6 +4227,18 @@
           {
             "lang": "da",
             "text": "Forskeren Will Rodman arbejder på en banebrydende kur mod Alzheimers sygdom, en farlig sygdom, hans far også lider under. Hans forsøgsdyr er chimpansen Caesar, der reagerer på behandlingen ved at blive ekstremt intelligent. Caesar ser, hvordan hans artsfæller bliver behandlet af menneskene, og det bryder han sig absolut ikke om. Han bryder nu ud af sit bur – og starter et oprør. Nu bliver det en kamp for overlevelse – aber mod mennesker!"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "       《猩球崛起》以深入浅出的故事探讨人类文明与科技进化之间的冲突。\r\n    故事的背景设在现代的旧金山，基因科学家威尔-罗德曼（詹姆斯·弗兰克饰）为了治疗人类神经萎缩类疾病而研发了一种药品，该药可以治疗老年痴呆一类的病症，新药在黑猩猩身上做实验时，人们发现可以大幅度提高其智力，症状眼睛变为绿色，智力达到人类水平，这只试验成功的黑猩猩生下小猩猩后，为了保护其子母性爆发，袭击了工作人员而被射杀。其后研究所被迫对剩下所有黑猩猩进行了安乐死，研究项目被迫停止。为了救新生的小猩猩，威尔收养了他并起名凯撒（安迪·瑟金斯饰），在喂养凯撒过程中，因治疗猩猩的伤，威尔-罗德曼遇上了动物学家凯洛琳（芙蕾达·平托饰）并相恋。\r\n    凯撒因为遗传其母的基因，从小就有很高的智慧，同威尔一家人一直幸福的生活着。威尔看到凯撒的实验效果后，给老年痴呆症的父亲注射了同样的药品，奇迹般的恢复了大脑功能，但是数年后威尔发现人体对这种病毒药品产生了抗体，威尔的父亲病情恶化。威尔向上司展示药品成果，要求使用更猛烈的病毒进行实验，并在猩猩实验中取得成功，威尔将药品带回了家。在一次误伤人类之后，凯撒被迫与威尔分离，并被送进了看护所。在那里他受到了无情的对待，继而开始对人类产生敌意。有着高智慧的凯撒顺利逃离了看护所，回到威尔的家后偷走了药品，带回看守所给其他黑猩猩使用，并开始领导他们，最终带领其他猩猩逃出了看守所。而此时已经证明这个药品对人类是一种致命的病毒，但是对猩猩无害而且能大幅提高其智慧，病毒已经开始传播，形势在逆转，一场不得不与人类对立的战争即将开始。"
+          },
+          {
+            "lang": "nn",
+            "text": ""
+          },
+          {
+            "lang": "nb",
+            "text": ""
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/137d43a199-d8ef-492d-afce-13268e85133a.jpg",
@@ -4253,6 +4287,9 @@
           },
           {
             "url": "https://movie.douban.com/subject/3274505/"
+          },
+          {
+            "url": "https://bgm.tv/subject/227645"
           },
           {
             "url": "https://minreol.dk/movie/14ILfLrVvJPLUBINsz23eT"
@@ -7328,7 +7365,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/02/09/521f8674-8810-46f3-9a78-a22145369684.webp",
         "rating": 8.1,
-        "rating_count": 1032,
+        "rating_count": 1033,
         "rating_distribution": [
           0,
           0,
@@ -8564,7 +8601,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/01/e4b2048e-6b85-4488-9859-7c519e74dc60.jpg",
         "rating": 9.2,
-        "rating_count": 1996,
+        "rating_count": 1995,
         "rating_distribution": [
           0,
           0,
@@ -8970,7 +9007,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/9c60c854-c003-4fde-8112-218faee891da.jpg",
         "rating": 8.8,
-        "rating_count": 1054,
+        "rating_count": 1055,
         "rating_distribution": [
           0,
           0,
@@ -10041,7 +10078,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/c50f391f-f017-4478-ae8c-ff4cd460e2c2.jpg",
         "rating": 8.0,
-        "rating_count": 1072,
+        "rating_count": 1073,
         "rating_distribution": [
           0,
           2,
@@ -12534,7 +12571,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13d7852063-6303-4f45-9781-d2549c492b5c.jpg",
         "rating": 8.1,
-        "rating_count": 1258,
+        "rating_count": 1259,
         "rating_distribution": [
           0,
           1,
@@ -17669,5 +17706,5 @@
   ],
   "count": 133,
   "category": "movie",
-  "updated_at": "2025-06-08T01:07:15.246616"
+  "updated_at": "2025-06-09T01:04:52.145695"
 }
