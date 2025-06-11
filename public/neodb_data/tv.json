@@ -1552,7 +1552,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/12eb1ffdd9-8769-429d-9b4a-a2a3a7bd3764.jpg",
         "rating": 8.9,
-        "rating_count": 385,
+        "rating_count": 386,
         "rating_distribution": [
           0,
           0,
@@ -2047,11 +2047,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2024/04/20/7448d3b5-249e-40c0-b76d-daed7a64157f.webp",
         "rating": 7.4,
-        "rating_count": 126,
+        "rating_count": 127,
         "rating_distribution": [
           0,
           3,
-          26,
+          25,
           52,
           16
         ],
@@ -2691,7 +2691,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/11/30/9ba014ae-5023-41ba-8414-b725d6bd2d67.jpg",
         "rating": 8.5,
-        "rating_count": 184,
+        "rating_count": 185,
         "rating_distribution": [
           0,
           0,
@@ -2890,7 +2890,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/04/15b785f2f1-4e5a-4ab8-8344-90049e5ac6fb.jpg",
         "rating": 8.3,
-        "rating_count": 330,
+        "rating_count": 331,
         "rating_distribution": [
           0,
           0,
@@ -3764,11 +3764,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/12/09/e349737a-1ad1-4118-ab72-3f8fd067cf4d.webp",
         "rating": 8.7,
-        "rating_count": 288,
+        "rating_count": 289,
         "rating_distribution": [
           0,
           0,
-          9,
+          10,
           32,
           56
         ],
@@ -5567,7 +5567,7 @@
           0,
           7,
           34,
-          57
+          58
         ],
         "tags": [
           "2020s",
@@ -7448,11 +7448,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1654673dfe-17d7-4871-9f25-eed5867ad0e5.jpg",
         "rating": 8.6,
-        "rating_count": 200,
+        "rating_count": 201,
         "rating_distribution": [
-          1,
           0,
-          10,
+          0,
+          9,
           43,
           45
         ],
@@ -10352,5 +10352,5 @@
   ],
   "count": 110,
   "category": "tv",
-  "updated_at": "2025-06-10T01:02:29.653083"
+  "updated_at": "2025-06-11T01:02:08.919660"
 }

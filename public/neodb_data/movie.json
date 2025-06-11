@@ -810,7 +810,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/02/02/d801edae-d1f3-499d-8a73-123ce9669780.jpg",
         "rating": 6.9,
-        "rating_count": 393,
+        "rating_count": 394,
         "rating_distribution": [
           4,
           9,
@@ -4516,7 +4516,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/05/05/ff4458fb-b949-416c-833f-def4a33e1a74.webp",
         "rating": 8.0,
-        "rating_count": 456,
+        "rating_count": 457,
         "rating_distribution": [
           0,
           0,
@@ -6404,7 +6404,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/141ac4ecd0-60a1-4b48-9c43-a1fb3a42f224.jpg",
         "rating": 8.3,
-        "rating_count": 1606,
+        "rating_count": 1607,
         "rating_distribution": [
           0,
           1,
@@ -7544,7 +7544,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/133604f9b2-b434-4aa8-92c0-e8f88336e4db.jpg",
         "rating": 9.3,
-        "rating_count": 2515,
+        "rating_count": 2516,
         "rating_distribution": [
           0,
           0,
@@ -11577,6 +11577,18 @@
           {
             "lang": "zh-cn",
             "text": "艾德金（克里斯·派恩 Chris Pine 饰）是一名吟游诗人，在一次盗宝行动中，他的贪婪导致了妻子的死亡。之后，野蛮人霍尔盖（米歇尔·罗德里格兹 Michelle Rodriguez 饰）出现在了颓废的艾德金身边，和他共同抚养女儿琪拉（克洛伊·科尔曼 Chloe Coleman 饰）。琪拉长大之后，艾德金、霍尔盖带着琪拉和她的舅舅福奇（休·格兰特 Hugh Grant 饰）等人组成了一支盗宝团队，哪知道在一次行动之中失手了，最终，艾德金和霍尔盖锒铛入狱。一晃眼多年过去，艾德金和霍尔盖联手越狱，并且决定夺回他们当年未得手的宝物，为了达成目的，他们还吸纳了菜鸟术士西蒙（贾斯蒂斯·史密斯 Justice Smith 饰）和德鲁伊女孩多立克（索菲娅·莉莉丝 Sophia Lillis 饰）。就在艾德金一行人离宝物越来越近之际，当年带着琪拉逃跑的福奇，他的真面目也渐渐的展露了出来。"
+          },
+          {
+            "lang": "nn",
+            "text": ""
+          },
+          {
+            "lang": "nb",
+            "text": ""
+          },
+          {
+            "lang": "no",
+            "text": ""
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/05/09/93138ddf-92a7-4fda-9d04-92f9b197d65c.webp",
@@ -13612,7 +13624,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1324f7bdb2-898a-450b-95ca-73c4d1b92011.jpg",
         "rating": 9.2,
-        "rating_count": 1689,
+        "rating_count": 1690,
         "rating_distribution": [
           0,
           0,
@@ -17020,7 +17032,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13d1567d07-417b-4b7b-8356-5d0b87f43128.jpg",
         "rating": 9.1,
-        "rating_count": 2367,
+        "rating_count": 2368,
         "rating_distribution": [
           0,
           0,
@@ -17706,5 +17718,5 @@
   ],
   "count": 133,
   "category": "movie",
-  "updated_at": "2025-06-10T01:02:21.529152"
+  "updated_at": "2025-06-11T01:02:00.749779"
 }
