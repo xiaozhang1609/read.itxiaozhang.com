@@ -3763,8 +3763,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/12/09/e349737a-1ad1-4118-ab72-3f8fd067cf4d.webp",
-        "rating": 8.7,
-        "rating_count": 289,
+        "rating": 8.6,
+        "rating_count": 290,
         "rating_distribution": [
           0,
           0,
@@ -10352,5 +10352,5 @@
   ],
   "count": 110,
   "category": "tv",
-  "updated_at": "2025-06-11T01:02:08.919660"
+  "updated_at": "2025-06-12T01:01:20.923243"
 }
