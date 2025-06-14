@@ -5057,13 +5057,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/07/01/f929217a-3c36-4a6e-8885-64fc07476424.webp",
         "rating": 6.2,
-        "rating_count": 309,
+        "rating_count": 310,
         "rating_distribution": [
           7,
           11,
           39,
           34,
-          6
+          7
         ],
         "tags": [
           "2020s",
@@ -6551,14 +6551,14 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/08/09/d546187f-bf96-4341-a492-99bc987de142.jpg",
-        "rating": 7.6,
-        "rating_count": 191,
+        "rating": 7.7,
+        "rating_count": 193,
         "rating_distribution": [
           1,
           2,
           20,
           45,
-          29
+          30
         ],
         "tags": [
           "2020s",
@@ -9581,11 +9581,15 @@
           {
             "lang": "zh-cn",
             "text": "天地灵气孕育出一颗能量巨大的混元珠，元始天尊将混元珠提炼成灵珠和魔丸，灵珠投胎为人，助周伐纣时可堪大用；而魔丸则会诞出魔王，为祸人间。元始天尊启动了天劫咒语，3年后天雷将会降临，摧毁魔丸。太乙受命将灵珠托生于陈塘关李靖家的儿子哪吒身上。然而阴差阳错，灵珠和魔丸竟然被掉包。本应是灵珠英雄的哪吒却成了混世大魔王。调皮捣蛋顽劣不堪的哪吒却徒有一颗做英雄的心。然而面对众人对魔丸的误解和即将来临的天雷的降临，哪吒是否命中注定会立地成魔？他将何去何从？"
+          },
+          {
+            "lang": "en",
+            "text": "A young boy is born as the reincarnation of a demonic power, into a society that hates and fears him. Destined by prophecy to bring destruction to the world, Nezha must choose between good and evil to see if he can change his fate."
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15f440c10b-6210-43ff-860d-907297628e18.jpg",
         "rating": 7.4,
-        "rating_count": 2268,
+        "rating_count": 2269,
         "rating_distribution": [
           1,
           6,
@@ -9626,6 +9630,9 @@
         "external_resources": [
           {
             "url": "https://bgm.tv/subject/231261"
+          },
+          {
+            "url": "https://www.imdb.com/title/tt10627720/"
           },
           {
             "url": "https://fun.oois.xyz/movie/27d4pgYyNpQTbyBX3ZrKWc"
@@ -11234,6 +11241,14 @@
           {
             "lang": "zh-tw",
             "text": "怪獸與葛林戴華德的罪行"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "怪獸與葛林戴華德之罪（港）"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "怪獸與葛林戴華德的罪行（台）"
           }
         ],
         "localized_description": [
@@ -11397,6 +11412,14 @@
           {
             "lang": "da",
             "text": "Troldmanden Newt Scamander ankommer til New York i 1926 med en kuffert fuld af usædvanlige, magiske væsener, han har fundet på en nylig rejse. Ved et uheld slipper væsenerne ud af Newts kuffert, og nu må han og nogle nye bekendtskaber gøre, hvad de kan for at indfange dem igen."
+          },
+          {
+            "lang": "nn",
+            "text": ""
+          },
+          {
+            "lang": "nb",
+            "text": ""
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ce3e35c1-f475-46ab-9a12-f1cc8cd55c19.jpg",
@@ -12762,7 +12785,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1527c82052-2bfc-4d1b-984b-66be09e4a19f.jpg",
         "rating": 8.9,
-        "rating_count": 289,
+        "rating_count": 290,
         "rating_distribution": [
           0,
           0,
@@ -17718,5 +17741,5 @@
   ],
   "count": 133,
   "category": "movie",
-  "updated_at": "2025-06-13T01:02:11.172303"
+  "updated_at": "2025-06-14T00:59:34.494330"
 }

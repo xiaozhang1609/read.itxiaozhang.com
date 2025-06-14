@@ -8825,13 +8825,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/07/01/f929217a-3c36-4a6e-8885-64fc07476424.webp",
         "rating": 6.2,
-        "rating_count": 309,
+        "rating_count": 310,
         "rating_distribution": [
           7,
           11,
           39,
           34,
-          6
+          7
         ],
         "tags": [
           "2020s",
@@ -10821,14 +10821,14 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/08/09/d546187f-bf96-4341-a492-99bc987de142.jpg",
-        "rating": 7.6,
-        "rating_count": 191,
+        "rating": 7.7,
+        "rating_count": 193,
         "rating_distribution": [
           1,
           2,
           20,
           45,
-          29
+          30
         ],
         "tags": [
           "2020s",
@@ -15563,7 +15563,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2022/10/2573823f61-b01b-40a3-926a-f2563cbd989a.jpg",
         "rating": 7.9,
-        "rating_count": 243,
+        "rating_count": 244,
         "rating_distribution": [
           0,
           0,
@@ -16415,12 +16415,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/16/f28d5972-1708-4dd1-a655-d75431e32c33.webp",
         "rating": 9.0,
-        "rating_count": 740,
+        "rating_count": 742,
         "rating_distribution": [
           0,
           0,
           5,
-          34,
+          33,
           59
         ],
         "tags": [
@@ -16741,7 +16741,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/24/a9688316-76fe-4704-add5-ab62c18e523f.webp",
         "rating": 9.3,
-        "rating_count": 664,
+        "rating_count": 665,
         "rating_distribution": [
           0,
           0,
@@ -17085,11 +17085,15 @@
           {
             "lang": "zh-cn",
             "text": "天地灵气孕育出一颗能量巨大的混元珠，元始天尊将混元珠提炼成灵珠和魔丸，灵珠投胎为人，助周伐纣时可堪大用；而魔丸则会诞出魔王，为祸人间。元始天尊启动了天劫咒语，3年后天雷将会降临，摧毁魔丸。太乙受命将灵珠托生于陈塘关李靖家的儿子哪吒身上。然而阴差阳错，灵珠和魔丸竟然被掉包。本应是灵珠英雄的哪吒却成了混世大魔王。调皮捣蛋顽劣不堪的哪吒却徒有一颗做英雄的心。然而面对众人对魔丸的误解和即将来临的天雷的降临，哪吒是否命中注定会立地成魔？他将何去何从？"
+          },
+          {
+            "lang": "en",
+            "text": "A young boy is born as the reincarnation of a demonic power, into a society that hates and fears him. Destined by prophecy to bring destruction to the world, Nezha must choose between good and evil to see if he can change his fate."
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15f440c10b-6210-43ff-860d-907297628e18.jpg",
         "rating": 7.4,
-        "rating_count": 2268,
+        "rating_count": 2269,
         "rating_distribution": [
           1,
           6,
@@ -17130,6 +17134,9 @@
         "external_resources": [
           {
             "url": "https://bgm.tv/subject/231261"
+          },
+          {
+            "url": "https://www.imdb.com/title/tt10627720/"
           },
           {
             "url": "https://fun.oois.xyz/movie/27d4pgYyNpQTbyBX3ZrKWc"
@@ -17180,7 +17187,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/01/0601fef99c-a667-460e-bebd-99e45fb92e8a.webp",
         "rating": 9.7,
-        "rating_count": 594,
+        "rating_count": 595,
         "rating_distribution": [
           0,
           0,
@@ -17592,12 +17599,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/19/368cf45a-631c-4500-9ec0-c814f93efe6f.jpg",
         "rating": 7.8,
-        "rating_count": 295,
+        "rating_count": 296,
         "rating_distribution": [
           0,
           5,
           22,
-          40,
+          39,
           31
         ],
         "tags": [
@@ -18205,7 +18212,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/21/156627ec-4352-454a-a41e-6a1a5ae83070.jpg",
         "rating": 9.2,
-        "rating_count": 560,
+        "rating_count": 561,
         "rating_distribution": [
           0,
           0,
@@ -18403,7 +18410,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/2775557ce8-06f5-4882-a7e4-a3293ba16d3a.jpg",
         "rating": 8.9,
-        "rating_count": 1039,
+        "rating_count": 1041,
         "rating_distribution": [
           0,
           1,
@@ -18609,13 +18616,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/24/7b6ac0a9-1096-4531-a7b5-3dbb05ca776e.webp",
         "rating": 9.1,
-        "rating_count": 315,
+        "rating_count": 316,
         "rating_distribution": [
           0,
           0,
           6,
           24,
-          67
+          68
         ],
         "tags": [
           "2020s",
@@ -20463,6 +20470,14 @@
           {
             "lang": "zh-tw",
             "text": "怪獸與葛林戴華德的罪行"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "怪獸與葛林戴華德之罪（港）"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "怪獸與葛林戴華德的罪行（台）"
           }
         ],
         "localized_description": [
@@ -20626,6 +20641,14 @@
           {
             "lang": "da",
             "text": "Troldmanden Newt Scamander ankommer til New York i 1926 med en kuffert fuld af usædvanlige, magiske væsener, han har fundet på en nylig rejse. Ved et uheld slipper væsenerne ud af Newts kuffert, og nu må han og nogle nye bekendtskaber gøre, hvad de kan for at indfange dem igen."
+          },
+          {
+            "lang": "nn",
+            "text": ""
+          },
+          {
+            "lang": "nb",
+            "text": ""
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ce3e35c1-f475-46ab-9a12-f1cc8cd55c19.jpg",
@@ -22147,7 +22170,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1527c82052-2bfc-4d1b-984b-66be09e4a19f.jpg",
         "rating": 8.9,
-        "rating_count": 289,
+        "rating_count": 290,
         "rating_distribution": [
           0,
           0,
@@ -25903,13 +25926,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157ccd8230-6bd3-45c5-9555-7e341474256f.jpg",
         "rating": 9.2,
-        "rating_count": 29,
+        "rating_count": 30,
         "rating_distribution": [
           0,
           0,
           3,
-          31,
-          65
+          30,
+          66
         ],
         "tags": [
           "2006",
@@ -30395,15 +30418,15 @@
     "game",
     "performance"
   ],
-  "updated_at": "2025-06-13T01:02:22.985046",
+  "updated_at": "2025-06-14T00:59:46.208572",
   "stats": {
     "movie": {
       "count": 133,
-      "time": 12.25
+      "time": 13.03
     },
     "tv": {
       "count": 110,
-      "time": 8.85
+      "time": 8.82
     },
     "book": {
       "count": 30,
@@ -30411,20 +30434,20 @@
     },
     "music": {
       "count": 4,
-      "time": 0.19
+      "time": 0.2
     },
     "podcast": {
       "count": 0,
-      "time": 0.21
+      "time": 0.15
     },
     "game": {
       "count": 1,
-      "time": 0.26
+      "time": 0.15
     },
     "performance": {
       "count": 2,
-      "time": 0.17
+      "time": 0.26
     }
   },
-  "total_time": 24.04
+  "total_time": 24.72
 }
