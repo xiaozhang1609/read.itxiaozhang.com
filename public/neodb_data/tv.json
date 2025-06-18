@@ -2890,7 +2890,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/04/15b785f2f1-4e5a-4ab8-8344-90049e5ac6fb.jpg",
         "rating": 8.3,
-        "rating_count": 332,
+        "rating_count": 333,
         "rating_distribution": [
           0,
           0,
@@ -10352,5 +10352,5 @@
   ],
   "count": 110,
   "category": "tv",
-  "updated_at": "2025-06-17T01:02:03.431529"
+  "updated_at": "2025-06-18T01:01:58.319205"
 }
