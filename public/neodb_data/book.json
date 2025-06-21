@@ -328,7 +328,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/16573efe00-fcb2-44d8-803a-538702f09986.jpg",
         "rating": 8.9,
-        "rating_count": 380,
+        "rating_count": 379,
         "rating_distribution": [
           0,
           0,
@@ -1721,13 +1721,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2022/10/2573823f61-b01b-40a3-926a-f2563cbd989a.jpg",
         "rating": 7.9,
-        "rating_count": 245,
+        "rating_count": 246,
         "rating_distribution": [
           0,
           0,
           19,
-          57,
-          22
+          58,
+          21
         ],
         "tags": [
           "f 小说",
@@ -1929,5 +1929,5 @@
   ],
   "count": 30,
   "category": "book",
-  "updated_at": "2025-06-20T01:01:48.289680"
+  "updated_at": "2025-06-21T01:00:57.572380"
 }
