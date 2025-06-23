@@ -110,11 +110,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15aadf9d17-0834-429a-b430-905f68d1ecef.jpg",
         "rating": 5.1,
-        "rating_count": 822,
+        "rating_count": 823,
         "rating_distribution": [
           22,
           27,
-          31,
+          30,
           12,
           6
         ],
@@ -274,7 +274,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15f11cb17e-28ef-4bfa-aeff-392988e0b7e4.jpg",
         "rating": 8.3,
-        "rating_count": 800,
+        "rating_count": 801,
         "rating_distribution": [
           0,
           2,
@@ -438,7 +438,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158a56cee8-99aa-4219-ba9f-a5063c79d6fe.jpg",
         "rating": 8.9,
-        "rating_count": 789,
+        "rating_count": 790,
         "rating_distribution": [
           0,
           0,
@@ -602,12 +602,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15b584a17b-254f-4e46-8023-e1eee5f27544.jpg",
         "rating": 8.7,
-        "rating_count": 789,
+        "rating_count": 790,
         "rating_distribution": [
           1,
           2,
           10,
-          28,
+          27,
           57
         ],
         "tags": [
@@ -766,7 +766,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15c334a558-9307-41cf-a344-9f8fb889cd27.jpg",
         "rating": 9.4,
-        "rating_count": 854,
+        "rating_count": 855,
         "rating_distribution": [
           0,
           0,
@@ -930,11 +930,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15d0e7610b-a4e2-4ee5-a4d9-14c3732300b5.jpg",
         "rating": 9.3,
-        "rating_count": 875,
+        "rating_count": 876,
         "rating_distribution": [
           0,
           0,
-          4,
+          3,
           25,
           70
         ],
@@ -1090,7 +1090,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15230a44b5-d9e7-4ed0-9dca-f56d188b2e65.jpg",
         "rating": 9.3,
-        "rating_count": 973,
+        "rating_count": 974,
         "rating_distribution": [
           0,
           0,
@@ -1278,7 +1278,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13f0f1086d-2dd2-4f8b-a1a8-fff29ef19e35.jpg",
         "rating": 9.3,
-        "rating_count": 1259,
+        "rating_count": 1260,
         "rating_distribution": [
           0,
           0,
@@ -1460,12 +1460,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/02/16/1c296bee-5d49-4208-b11b-f7f0f949bc64.jpg",
         "rating": 8.4,
-        "rating_count": 249,
+        "rating_count": 251,
         "rating_distribution": [
           1,
           1,
           7,
-          48,
+          49,
           40
         ],
         "tags": [
@@ -1733,7 +1733,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/9b8c9c00-d17c-4de2-9dc4-d7d8eba26a3c.jpg",
         "rating": 8.2,
-        "rating_count": 341,
+        "rating_count": 342,
         "rating_distribution": [
           0,
           3,
@@ -1918,7 +1918,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158cac42e4-74fb-472f-afd5-78984be19315.jpg",
         "rating": 8.2,
-        "rating_count": 756,
+        "rating_count": 757,
         "rating_distribution": [
           1,
           2,
@@ -2242,7 +2242,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/131b46667b-3905-4bdb-a7ec-441f1126be6d.jpg",
         "rating": 9.0,
-        "rating_count": 1158,
+        "rating_count": 1159,
         "rating_distribution": [
           0,
           0,
@@ -2326,12 +2326,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14138f068a-33d6-4cb0-a556-1112c79ede52.jpg",
         "rating": 9.3,
-        "rating_count": 1608,
+        "rating_count": 1609,
         "rating_distribution": [
           0,
           0,
           4,
-          24,
+          23,
           70
         ],
         "tags": [
@@ -3326,7 +3326,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13de2367b3-cbe1-4669-996e-e3ef1f5ae43b.jpg",
         "rating": 8.9,
-        "rating_count": 306,
+        "rating_count": 307,
         "rating_distribution": [
           0,
           2,
@@ -3343,7 +3343,6 @@
           "不死",
           "动漫",
           "动画",
-          "喜剧",
           "大森贵弘",
           "奇幻",
           "子安武人",
@@ -3352,7 +3351,8 @@
           "成田良悟",
           "日本",
           "日本动画",
-          "永生之酒"
+          "永生之酒",
+          "禁酒令"
         ],
         "brief": "中世纪，炼金术士们以巨大的代价从恶魔的手中得到了传说中的永生之酒，凡是喝下永生之酒的人们，正如它的名字那样，将会得到永远不会死亡的肉体。永生之酒带来了希望，却也引发了空前绝后的灾难，因为私欲和利益，与此酒相关的人士一个接着一个失去了踪迹。随着禁酒令的颁布，永生之酒的下落逐渐成为了谜题，然而数年过后，有关它重出江湖的消息再次被传得沸沸扬扬，在纽约的黑道中激起了涟漪。\n身怀绝技的少年洛菲（吉野裕行 配音）、不老不死的炼金术士阿洛瓦（宫本充 配音）、个性莽撞大大咧咧的夫妻艾萨克（小野坂昌也 配音）和哈文特（青木静香 配音），这些身份从无交集的人们，也为了追寻永生之酒的下落而走到了一起。",
         "id": "https://neodb.social/tv/season/1LuLW33r7HqejwiD5IlXtQ",
@@ -4070,10 +4070,10 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/08/69d304f8-1a0f-4f06-9a4a-b1d870f43864.webp",
         "rating": 7.9,
-        "rating_count": 184,
+        "rating_count": 186,
         "rating_distribution": [
           1,
-          1,
+          2,
           17,
           45,
           34
@@ -4550,11 +4550,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/05/08/b1302e71-dc78-444c-b77c-7c9963751aef.jpg",
         "rating": 8.0,
-        "rating_count": 247,
+        "rating_count": 248,
         "rating_distribution": [
           0,
           0,
-          14,
+          15,
           51,
           31
         ],
@@ -4829,13 +4829,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/13/d643b437-3391-4e50-8c8e-22f26228aa04.jpg",
         "rating": 8.1,
-        "rating_count": 237,
+        "rating_count": 238,
         "rating_distribution": [
           0,
           2,
           14,
           48,
-          35
+          34
         ],
         "tags": [
           "2023",
@@ -4915,25 +4915,24 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/10/22/061fa0ce-5b93-4b37-a162-d488e100d05d.jpg",
         "rating": 8.2,
-        "rating_count": 156,
+        "rating_count": 157,
         "rating_distribution": [
           1,
           2,
           15,
           35,
-          44
+          45
         ],
         "tags": [
           "2020s",
           "2023",
-          "2024",
-          "2025",
           "剧情",
           "剧集",
           "动作",
           "动漫",
           "动画",
           "动画剧",
+          "家庭",
           "小说改编",
           "幻想",
           "欧美动画",
@@ -4943,6 +4942,7 @@
           "美国动画",
           "艾伦 艾克哈特",
           "虚构",
+          "过程神学",
           "高科技"
         ],
         "brief": "在全球互联网关闭之后，麦蒂加入了凯斯宾的比赛，以选择上传的情报，谁可以保护人类免受机器中其他幽灵的侵害。新的盟友、敌人和生命形式将永远改变我们的世界。",
@@ -4996,20 +4996,18 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/09/04cbcb6fd5-268a-485b-ac86-17ebb9e1ecd8.jpg",
         "rating": 8.2,
-        "rating_count": 404,
+        "rating_count": 405,
         "rating_distribution": [
           0,
           0,
           17,
-          45,
+          44,
           36
         ],
         "tags": [
           "2020s",
           "2022",
           "amc",
-          "caroline chiou",
-          "chris diamantopoulos",
           "craig silverstein",
           "cs",
           "人工智能",
@@ -5019,6 +5017,8 @@
           "动漫",
           "动画",
           "动画剧集",
+          "奇幻",
+          "意识上传",
           "电视剧",
           "科幻",
           "美剧",
@@ -5561,13 +5561,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/03/14/e0cc80de-58b3-4a0c-ba0b-cb1ed25f326a.webp",
         "rating": 8.8,
-        "rating_count": 507,
+        "rating_count": 508,
         "rating_distribution": [
           0,
           0,
           7,
           34,
-          57
+          58
         ],
         "tags": [
           "2020s",
@@ -5948,12 +5948,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2024/02/16/ebc8a989-7250-4d9a-bc87-f0015d90a64b.jpg",
         "rating": 8.7,
-        "rating_count": 99,
+        "rating_count": 100,
         "rating_distribution": [
           1,
           2,
           15,
-          21,
+          22,
           60
         ],
         "tags": [
@@ -6101,16 +6101,21 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/09/11fd3c7e7d-4e00-4a70-9c44-f8cf1a418e56.jpg",
-        "rating": 6.9,
-        "rating_count": 9,
+        "rating": 7.2,
+        "rating_count": 10,
         "rating_distribution": [
-          11,
-          11,
-          11,
-          44,
-          22
+          10,
+          10,
+          10,
+          40,
+          30
         ],
-        "tags": [],
+        "tags": [
+          "中国动画",
+          "悬疑",
+          "灵魂",
+          "科幻"
+        ],
         "brief": "2058年，人们安居乐业，科技高度发展，脑机系统（人脑与计算机互联）早已走入人们的生活。在白洋市一家叫做“绿洲”的脑机系统科技公司，在不断深入研究人脑世界（脑宇宙）时，发现了一种奇怪的症状，他们称之为“蜂群症”。为了遏制“蜂群症”的蔓延，众多平凡英雄前仆后继，一段波澜壮阔的故事就此拉开帷幕。",
         "id": "https://neodb.social/tv/season/23FG6neljZnz7wAQ7OnXOU",
         "uuid": "23FG6neljZnz7wAQ7OnXOU",
@@ -6167,14 +6172,14 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/3162443ce4-c901-4bcc-b518-2ded04071051.jpg",
-        "rating": 8.6,
-        "rating_count": 109,
+        "rating": 8.5,
+        "rating_count": 110,
         "rating_distribution": [
           0,
           0,
           21,
           26,
-          51
+          50
         ],
         "tags": [
           "2020",
@@ -6251,14 +6256,14 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/275e2658ad-2aae-4ba2-9d91-73860d948fa3.webp",
-        "rating": 8.7,
-        "rating_count": 114,
+        "rating": 8.6,
+        "rating_count": 115,
         "rating_distribution": [
           0,
           0,
-          14,
-          35,
-          50
+          15,
+          34,
+          49
         ],
         "tags": [
           "2019",
@@ -6346,11 +6351,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2024/04/17/7d1bda2d-db00-4136-a4cb-6ef3f39ef985.jpg",
         "rating": 7.2,
-        "rating_count": 95,
+        "rating_count": 96,
         "rating_distribution": [
           0,
           2,
-          32,
+          33,
           55,
           9
         ],
@@ -6499,12 +6504,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13fad64691-a76f-489b-a7d7-ea2a222066c6.jpg",
         "rating": 8.3,
-        "rating_count": 136,
+        "rating_count": 137,
         "rating_distribution": [
           0,
           2,
           19,
-          33,
+          32,
           44
         ],
         "tags": [
@@ -6780,7 +6785,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1373cde94d-7ce8-4f88-9d1e-adcf85e9d479.jpg",
         "rating": 8.1,
-        "rating_count": 213,
+        "rating_count": 214,
         "rating_distribution": [
           0,
           3,
@@ -10352,5 +10357,5 @@
   ],
   "count": 110,
   "category": "tv",
-  "updated_at": "2025-06-22T01:08:00.898481"
+  "updated_at": "2025-06-23T01:06:03.516538"
 }
