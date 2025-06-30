@@ -1918,7 +1918,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158cac42e4-74fb-472f-afd5-78984be19315.jpg",
         "rating": 8.2,
-        "rating_count": 757,
+        "rating_count": 758,
         "rating_distribution": [
           1,
           2,
@@ -2780,13 +2780,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/09/59f49696-e8a1-40b8-a956-07cc5e7e6891.jpg",
         "rating": 8.5,
-        "rating_count": 232,
+        "rating_count": 233,
         "rating_distribution": [
           0,
           0,
           4,
           51,
-          43
+          42
         ],
         "tags": [
           "2020s",
@@ -2890,7 +2890,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/04/15b785f2f1-4e5a-4ab8-8344-90049e5ac6fb.jpg",
         "rating": 8.3,
-        "rating_count": 333,
+        "rating_count": 334,
         "rating_distribution": [
           0,
           0,
@@ -10427,5 +10427,5 @@
   ],
   "count": 111,
   "category": "tv",
-  "updated_at": "2025-06-29T01:09:28.550297"
+  "updated_at": "2025-06-30T01:06:41.568245"
 }

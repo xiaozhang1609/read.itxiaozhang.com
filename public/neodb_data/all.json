@@ -3332,7 +3332,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158cac42e4-74fb-472f-afd5-78984be19315.jpg",
         "rating": 8.2,
-        "rating_count": 757,
+        "rating_count": 758,
         "rating_distribution": [
           1,
           2,
@@ -8254,13 +8254,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/09/59f49696-e8a1-40b8-a956-07cc5e7e6891.jpg",
         "rating": 8.5,
-        "rating_count": 232,
+        "rating_count": 233,
         "rating_distribution": [
           0,
           0,
           4,
           51,
-          43
+          42
         ],
         "tags": [
           "2020s",
@@ -8492,7 +8492,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/04/15b785f2f1-4e5a-4ab8-8344-90049e5ac6fb.jpg",
         "rating": 8.3,
-        "rating_count": 333,
+        "rating_count": 334,
         "rating_distribution": [
           0,
           0,
@@ -15822,7 +15822,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2022/10/2573823f61-b01b-40a3-926a-f2563cbd989a.jpg",
         "rating": 7.9,
-        "rating_count": 248,
+        "rating_count": 249,
         "rating_distribution": [
           0,
           0,
@@ -15997,7 +15997,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/16e346809f-05cd-4c06-8541-8926fc4d8348.jpg",
         "rating": 8.8,
-        "rating_count": 223,
+        "rating_count": 224,
         "rating_distribution": [
           0,
           0,
@@ -19482,7 +19482,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/12/01ee3e9dc1-74b7-4420-ad90-84759f7092e4.webp",
         "rating": 5.8,
-        "rating_count": 446,
+        "rating_count": 447,
         "rating_distribution": [
           7,
           19,
@@ -30752,36 +30752,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2025-06-29T01:09:30.850845",
+  "updated_at": "2025-06-30T01:06:43.654010",
   "stats": {
     "movie": {
       "count": 135,
-      "time": 11.03
+      "time": 10.38
     },
     "tv": {
       "count": 111,
-      "time": 7.86
+      "time": 7.81
     },
     "book": {
       "count": 30,
-      "time": 1.78
+      "time": 1.59
     },
     "music": {
       "count": 4,
-      "time": 0.15
+      "time": 0.17
     },
     "podcast": {
       "count": 0,
-      "time": 0.1
+      "time": 0.08
     },
     "game": {
       "count": 1,
-      "time": 0.12
+      "time": 0.09
     },
     "performance": {
       "count": 2,
       "time": 0.14
     }
   },
-  "total_time": 21.18
+  "total_time": 20.27
 }
