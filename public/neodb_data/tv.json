@@ -1821,22 +1821,22 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/91aef100-a4ff-4866-8e5e-a6b1af1bc754.jpg",
         "rating": 8.6,
-        "rating_count": 233,
+        "rating_count": 234,
         "rating_distribution": [
           0,
           0,
           11,
-          40,
+          41,
           47
         ],
         "tags": [
           "2021",
           "anime",
-          "t 2021",
+          "netflix",
+          "ufotable",
           "xin",
           "アニメ",
           "不喜欢",
-          "冒险",
           "动作",
           "动漫",
           "动画",
@@ -10427,5 +10427,5 @@
   ],
   "count": 111,
   "category": "tv",
-  "updated_at": "2025-07-01T01:09:47.012474"
+  "updated_at": "2025-07-02T01:02:46.122729"
 }
