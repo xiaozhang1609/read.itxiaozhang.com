@@ -328,11 +328,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/16573efe00-fcb2-44d8-803a-538702f09986.jpg",
         "rating": 8.9,
-        "rating_count": 380,
+        "rating_count": 381,
         "rating_distribution": [
           0,
           0,
-          6,
+          7,
           40,
           52
         ],
@@ -598,13 +598,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanbook/2023/05/29/cc933957-9ec9-4c69-a74d-23f7e3a52ef0.jpg",
         "rating": 8.3,
-        "rating_count": 154,
+        "rating_count": 155,
         "rating_distribution": [
           0,
           1,
           9,
           51,
-          37
+          36
         ],
         "tags": [
           "2023留下的书页",
@@ -1059,7 +1059,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/15e852899b-0b52-41b1-b8e5-772c8e13f739.jpg",
         "rating": 9.2,
-        "rating_count": 435,
+        "rating_count": 436,
         "rating_distribution": [
           0,
           0,
@@ -1723,11 +1723,11 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/book/2022/10/2573823f61-b01b-40a3-926a-f2563cbd989a.jpg",
-        "rating": 7.9,
-        "rating_count": 249,
+        "rating": 7.8,
+        "rating_count": 250,
         "rating_distribution": [
           0,
-          0,
+          1,
           18,
           58,
           22
@@ -1932,5 +1932,5 @@
   ],
   "count": 30,
   "category": "book",
-  "updated_at": "2025-07-02T01:02:47.863249"
+  "updated_at": "2025-07-03T01:02:31.158116"
 }
