@@ -1733,7 +1733,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/9b8c9c00-d17c-4de2-9dc4-d7d8eba26a3c.jpg",
         "rating": 8.2,
-        "rating_count": 342,
+        "rating_count": 343,
         "rating_distribution": [
           0,
           3,
@@ -1742,6 +1742,7 @@
           37
         ],
         "tags": [
+          "2020s",
           "2021",
           "2022",
           "anime",
@@ -1753,7 +1754,6 @@
           "动漫",
           "动画",
           "奇幻",
-          "悠木碧",
           "日本",
           "日本动漫",
           "日本动画",
@@ -10114,12 +10114,12 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/271548cb4b-40e2-4503-bda9-7dff00fd8e32.jpg",
-        "rating": 7.6,
-        "rating_count": 72,
+        "rating": 7.7,
+        "rating_count": 71,
         "rating_distribution": [
           0,
-          6,
-          27,
+          7,
+          26,
           40,
           25
         ],
@@ -10427,5 +10427,5 @@
   ],
   "count": 111,
   "category": "tv",
-  "updated_at": "2025-07-03T01:02:29.411991"
+  "updated_at": "2025-07-04T01:02:06.318830"
 }

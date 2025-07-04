@@ -1155,11 +1155,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/10/03/db405751-1d78-4d27-83f9-c4cffd81229d.jpg",
         "rating": 4.9,
-        "rating_count": 194,
+        "rating_count": 195,
         "rating_distribution": [
-          18,
+          17,
           26,
-          43,
+          44,
           10,
           1
         ],
@@ -10340,7 +10340,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/c50f391f-f017-4478-ae8c-ff4cd460e2c2.jpg",
         "rating": 8.0,
-        "rating_count": 1089,
+        "rating_count": 1090,
         "rating_distribution": [
           0,
           2,
@@ -17996,5 +17996,5 @@
   ],
   "count": 135,
   "category": "movie",
-  "updated_at": "2025-07-03T01:02:21.494507"
+  "updated_at": "2025-07-04T01:01:58.414404"
 }
