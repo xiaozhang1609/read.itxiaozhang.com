@@ -4070,7 +4070,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/08/69d304f8-1a0f-4f06-9a4a-b1d870f43864.webp",
         "rating": 7.9,
-        "rating_count": 187,
+        "rating_count": 188,
         "rating_distribution": [
           1,
           2,
@@ -4081,19 +4081,18 @@
         "tags": [
           "2024",
           "amazon",
+          "annabel o hagan",
+          "primevideo",
+          "乔纳森 诺兰",
+          "人类快死光了",
+          "冒险",
           "剧情",
           "剧集",
           "动作",
-          "实验",
-          "尸鬼",
           "幻想",
           "悬疑",
           "战争",
-          "未来",
-          "末世",
           "末日",
-          "权力",
-          "核战",
           "游戏改编",
           "科幻",
           "美剧",
@@ -4274,7 +4273,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/06/1012f10cab-8842-442a-bd65-75dc2723a36b.jpg",
         "rating": 7.9,
-        "rating_count": 560,
+        "rating_count": 559,
         "rating_distribution": [
           1,
           5,
@@ -5655,13 +5654,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/2775557ce8-06f5-4882-a7e4-a3293ba16d3a.jpg",
         "rating": 8.9,
-        "rating_count": 1044,
+        "rating_count": 1043,
         "rating_distribution": [
           0,
           1,
           6,
           33,
-          57
+          58
         ],
         "tags": [
           "2010s",
@@ -6862,7 +6861,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1543e536b3-fcc3-44d0-a4da-96eacc5607bf.jpg",
         "rating": 9.6,
-        "rating_count": 469,
+        "rating_count": 470,
         "rating_distribution": [
           0,
           0,
@@ -10427,5 +10426,5 @@
   ],
   "count": 111,
   "category": "tv",
-  "updated_at": "2025-07-07T01:06:54.678429"
+  "updated_at": "2025-07-08T01:03:04.123575"
 }
