@@ -4178,7 +4178,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157c78ce20-44be-4128-85cd-0cfdc73ebb0a.jpg",
         "rating": 8.0,
-        "rating_count": 676,
+        "rating_count": 675,
         "rating_distribution": [
           1,
           2,
@@ -4273,7 +4273,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/06/1012f10cab-8842-442a-bd65-75dc2723a36b.jpg",
         "rating": 7.9,
-        "rating_count": 566,
+        "rating_count": 567,
         "rating_distribution": [
           1,
           5,
@@ -4995,7 +4995,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/09/04cbcb6fd5-268a-485b-ac86-17ebb9e1ecd8.jpg",
         "rating": 8.2,
-        "rating_count": 407,
+        "rating_count": 406,
         "rating_distribution": [
           0,
           0,
@@ -5103,7 +5103,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/16/f28d5972-1708-4dd1-a655-d75431e32c33.webp",
         "rating": 9.0,
-        "rating_count": 748,
+        "rating_count": 749,
         "rating_distribution": [
           0,
           0,
@@ -5199,13 +5199,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/24/a9688316-76fe-4704-add5-ab62c18e523f.webp",
         "rating": 9.3,
-        "rating_count": 671,
+        "rating_count": 672,
         "rating_distribution": [
           0,
           0,
           2,
           24,
-          71
+          72
         ],
         "tags": [
           "2010s",
@@ -5654,7 +5654,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/2775557ce8-06f5-4882-a7e4-a3293ba16d3a.jpg",
         "rating": 8.9,
-        "rating_count": 1049,
+        "rating_count": 1050,
         "rating_distribution": [
           0,
           1,
@@ -6172,12 +6172,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/3162443ce4-c901-4bcc-b518-2ded04071051.jpg",
         "rating": 8.5,
-        "rating_count": 110,
+        "rating_count": 111,
         "rating_distribution": [
           0,
           0,
           21,
-          26,
+          27,
           50
         ],
         "tags": [
@@ -10426,5 +10426,5 @@
   ],
   "count": 111,
   "category": "tv",
-  "updated_at": "2025-07-14T01:07:39.464768"
+  "updated_at": "2025-07-15T01:06:57.939348"
 }
