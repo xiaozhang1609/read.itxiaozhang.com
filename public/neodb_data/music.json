@@ -176,14 +176,14 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/11/287904f388-1121-443f-9dd6-85e81dfa0d14.jpg",
-        "rating": 9.4,
-        "rating_count": 11,
+        "rating": 9.2,
+        "rating_count": 12,
         "rating_distribution": [
           0,
           0,
-          9,
-          9,
-          81
+          8,
+          16,
+          75
         ],
         "tags": [
           "1980",
@@ -216,5 +216,5 @@
   ],
   "count": 4,
   "category": "music",
-  "updated_at": "2025-07-18T01:05:30.894505"
+  "updated_at": "2025-07-19T01:03:50.870649"
 }

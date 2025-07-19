@@ -720,7 +720,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/1659fe98c3-c730-4c99-8cf1-bf17727e61e6.jpg",
         "rating": 8.1,
-        "rating_count": 87,
+        "rating_count": 88,
         "rating_distribution": [
           0,
           0,
@@ -1059,7 +1059,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/15e852899b-0b52-41b1-b8e5-772c8e13f739.jpg",
         "rating": 9.2,
-        "rating_count": 438,
+        "rating_count": 439,
         "rating_distribution": [
           0,
           0,
@@ -1263,7 +1263,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/130a836090-38a7-4ff8-ba17-e28898c892f6.jpg",
         "rating": 9.0,
-        "rating_count": 263,
+        "rating_count": 264,
         "rating_distribution": [
           0,
           0,
@@ -1586,13 +1586,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/17eb107691-d00a-4e2d-9e8d-a39bf664a431.jpg",
         "rating": 7.9,
-        "rating_count": 14,
+        "rating_count": 15,
         "rating_distribution": [
           0,
           0,
-          21,
-          57,
-          21
+          20,
+          60,
+          20
         ],
         "tags": [
           "e b white",
@@ -1932,5 +1932,5 @@
   ],
   "count": 30,
   "category": "book",
-  "updated_at": "2025-07-18T01:05:30.666073"
+  "updated_at": "2025-07-19T01:03:50.720945"
 }
