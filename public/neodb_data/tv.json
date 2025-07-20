@@ -4673,7 +4673,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/bangumi/2024/02/24/721c8a8b-f563-4994-b35f-940327755105.jpg",
         "rating": 8.4,
-        "rating_count": 152,
+        "rating_count": 153,
         "rating_distribution": [
           0,
           1,
@@ -5368,13 +5368,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/19/368cf45a-631c-4500-9ec0-c814f93efe6f.jpg",
         "rating": 7.8,
-        "rating_count": 301,
+        "rating_count": 302,
         "rating_distribution": [
           0,
           6,
           22,
           39,
-          30
+          31
         ],
         "tags": [
           "2020s",
@@ -5566,12 +5566,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/03/14/e0cc80de-58b3-4a0c-ba0b-cb1ed25f326a.webp",
         "rating": 8.8,
-        "rating_count": 514,
+        "rating_count": 515,
         "rating_distribution": [
           0,
           0,
-          7,
-          34,
+          6,
+          33,
           58
         ],
         "tags": [
@@ -5953,13 +5953,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2024/02/16/ebc8a989-7250-4d9a-bc87-f0015d90a64b.jpg",
         "rating": 8.7,
-        "rating_count": 100,
+        "rating_count": 101,
         "rating_distribution": [
+          0,
           1,
-          2,
-          15,
+          14,
           22,
-          60
+          59
         ],
         "tags": [
           "2021",
@@ -10432,5 +10432,5 @@
   ],
   "count": 111,
   "category": "tv",
-  "updated_at": "2025-07-19T01:03:48.960424"
+  "updated_at": "2025-07-20T01:12:15.793688"
 }
