@@ -3492,13 +3492,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/05/01/126d2c3a-9c25-47b1-9e71-9680c338c0b8.webp",
         "rating": 6.8,
-        "rating_count": 61,
+        "rating_count": 62,
         "rating_distribution": [
           1,
           9,
-          31,
-          44,
-          13
+          32,
+          43,
+          12
         ],
         "tags": [
           "2024",
@@ -4076,7 +4076,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/08/69d304f8-1a0f-4f06-9a4a-b1d870f43864.webp",
         "rating": 7.9,
-        "rating_count": 189,
+        "rating_count": 190,
         "rating_distribution": [
           1,
           2,
@@ -7437,7 +7437,7 @@
       "post_id": 29457603628142304,
       "item": {
         "type": "TVSeason",
-        "title": "罗小黑战记",
+        "title": "罗小黑战记 罗小黑战记",
         "description": "雨夜，一只流落街头的小黑猫，被少女罗小白（山新 配音）带回家，起名罗小黑。罗小黑不是一只普通的猫咪，它极通人性，会上厕所，不吃猫粮，长长的尾巴甚至会分裂成一个个名为“嘿咻”的不明生物体。另一方面，名为“谛听”（皇贞季 配音）的神秘人物，发动手下三匹会幻化成鸟的狼，搜寻着罗小黑的下落。不久，罗小白带着小黑到乡下探望堂哥阿根和爷爷，由此发生了种种离奇玄幻事件。\n《罗小黑战记》是中国大陆独立动画制作人MTJJ及其工作室于2011年03月出品的一部动画片。",
         "localized_title": [
           {
@@ -7493,8 +7493,8 @@
         "url": "/tv/season/6IUiZ4vdsprrN2lSeZMT9n",
         "api_url": "/api/tv/season/6IUiZ4vdsprrN2lSeZMT9n",
         "category": "tv",
-        "parent_uuid": null,
-        "display_title": "罗小黑战记",
+        "parent_uuid": "2FsC0uxGt5OUxG5uqeaBZk",
+        "display_title": "罗小黑战记 罗小黑战记",
         "external_resources": [
           {
             "url": "https://movie.douban.com/subject/10477598/"
@@ -10432,5 +10432,5 @@
   ],
   "count": 111,
   "category": "tv",
-  "updated_at": "2025-07-20T01:12:15.793688"
+  "updated_at": "2025-07-21T01:09:38.516624"
 }
