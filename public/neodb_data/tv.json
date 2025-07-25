@@ -110,11 +110,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15aadf9d17-0834-429a-b430-905f68d1ecef.jpg",
         "rating": 5.1,
-        "rating_count": 826,
+        "rating_count": 827,
         "rating_distribution": [
           22,
           27,
-          30,
+          31,
           12,
           6
         ],
@@ -274,12 +274,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15f11cb17e-28ef-4bfa-aeff-392988e0b7e4.jpg",
         "rating": 8.3,
-        "rating_count": 805,
+        "rating_count": 806,
         "rating_distribution": [
           0,
           2,
           19,
-          34,
+          33,
           43
         ],
         "tags": [
@@ -438,7 +438,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158a56cee8-99aa-4219-ba9f-a5063c79d6fe.jpg",
         "rating": 8.9,
-        "rating_count": 794,
+        "rating_count": 795,
         "rating_distribution": [
           0,
           0,
@@ -601,8 +601,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15b584a17b-254f-4e46-8023-e1eee5f27544.jpg",
-        "rating": 8.8,
-        "rating_count": 794,
+        "rating": 8.7,
+        "rating_count": 795,
         "rating_distribution": [
           1,
           2,
@@ -766,7 +766,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15c334a558-9307-41cf-a344-9f8fb889cd27.jpg",
         "rating": 9.4,
-        "rating_count": 859,
+        "rating_count": 860,
         "rating_distribution": [
           0,
           0,
@@ -930,7 +930,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15d0e7610b-a4e2-4ee5-a4d9-14c3732300b5.jpg",
         "rating": 9.3,
-        "rating_count": 880,
+        "rating_count": 881,
         "rating_distribution": [
           0,
           0,
@@ -1090,7 +1090,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15230a44b5-d9e7-4ed0-9dca-f56d188b2e65.jpg",
         "rating": 9.3,
-        "rating_count": 980,
+        "rating_count": 981,
         "rating_distribution": [
           0,
           0,
@@ -1278,7 +1278,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13f0f1086d-2dd2-4f8b-a1a8-fff29ef19e35.jpg",
         "rating": 9.3,
-        "rating_count": 1269,
+        "rating_count": 1270,
         "rating_distribution": [
           0,
           0,
@@ -1552,24 +1552,24 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/12eb1ffdd9-8769-429d-9b4a-a2a3a7bd3764.jpg",
         "rating": 9.0,
-        "rating_count": 389,
+        "rating_count": 390,
         "rating_distribution": [
           0,
           0,
           6,
           32,
-          60
+          61
         ],
         "tags": [
           "2000s",
           "2006",
+          "2017",
           "anime",
           "deathnote",
           "madhouse",
           "tv",
           "动漫",
           "动画",
-          "宫野真守",
           "宮野真守",
           "悬疑",
           "推理",
@@ -2242,7 +2242,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/131b46667b-3905-4bdb-a7ec-441f1126be6d.jpg",
         "rating": 9.0,
-        "rating_count": 1167,
+        "rating_count": 1168,
         "rating_distribution": [
           0,
           0,
@@ -2326,7 +2326,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14138f068a-33d6-4cb0-a556-1112c79ede52.jpg",
         "rating": 9.3,
-        "rating_count": 1618,
+        "rating_count": 1619,
         "rating_distribution": [
           0,
           0,
@@ -5953,7 +5953,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2024/02/16/ebc8a989-7250-4d9a-bc87-f0015d90a64b.jpg",
         "rating": 8.7,
-        "rating_count": 101,
+        "rating_count": 102,
         "rating_distribution": [
           0,
           1,
@@ -6034,13 +6034,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/270dc3b5ec-1067-46cf-906a-902223291896.jpg",
         "rating": 8.5,
-        "rating_count": 61,
+        "rating_count": 62,
         "rating_distribution": [
           0,
           3,
           14,
-          34,
-          47
+          33,
+          48
         ],
         "tags": [
           "2013",
@@ -6178,12 +6178,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/3162443ce4-c901-4bcc-b518-2ded04071051.jpg",
         "rating": 8.5,
-        "rating_count": 111,
+        "rating_count": 112,
         "rating_distribution": [
           0,
           0,
           21,
-          27,
+          26,
           50
         ],
         "tags": [
@@ -6262,7 +6262,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/275e2658ad-2aae-4ba2-9d91-73860d948fa3.webp",
         "rating": 8.6,
-        "rating_count": 116,
+        "rating_count": 117,
         "rating_distribution": [
           0,
           0,
@@ -6509,7 +6509,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13fad64691-a76f-489b-a7d7-ea2a222066c6.jpg",
         "rating": 8.3,
-        "rating_count": 138,
+        "rating_count": 139,
         "rating_distribution": [
           0,
           2,
@@ -6790,7 +6790,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1373cde94d-7ce8-4f88-9d1e-adcf85e9d479.jpg",
         "rating": 8.1,
-        "rating_count": 216,
+        "rating_count": 217,
         "rating_distribution": [
           0,
           3,
@@ -7021,13 +7021,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/173a6861f9-395d-4813-b674-98bc8dc8f139.jpg",
         "rating": 8.1,
-        "rating_count": 73,
+        "rating_count": 74,
         "rating_distribution": [
           1,
           5,
-          15,
+          14,
           43,
-          34
+          35
         ],
         "tags": [
           "2012",
@@ -7457,7 +7457,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ddb8977a-6e04-4d3f-bb55-a73b948034e7.jpg",
         "rating": 9.3,
-        "rating_count": 349,
+        "rating_count": 350,
         "rating_distribution": [
           0,
           1,
@@ -7472,6 +7472,7 @@
           "中国",
           "中国动画",
           "中国动画短片",
+          "剧集",
           "动作",
           "动漫",
           "动画",
@@ -7481,7 +7482,6 @@
           "国产动画",
           "国漫",
           "大陆",
-          "奇幻",
           "小黑好可爱",
           "治癒系",
           "短片",
@@ -7610,14 +7610,14 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2023/05/31/c3376f14-de62-4882-a7b5-c26e62c006ed.jpg",
-        "rating": 8.0,
-        "rating_count": 60,
+        "rating": 8.1,
+        "rating_count": 61,
         "rating_distribution": [
           0,
-          5,
+          4,
           21,
           36,
-          36
+          37
         ],
         "tags": [
           "2010",
@@ -9678,23 +9678,22 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/150ef62a14-2640-4819-8fd2-4d573fca17df.jpg",
         "rating": 8.0,
-        "rating_count": 109,
+        "rating_count": 110,
         "rating_distribution": [
           1,
           1,
           12,
-          58,
+          59,
           24
         ],
         "tags": [
           "2010s",
           "2016",
+          "2018",
           "中国",
           "二次元",
           "动作",
           "动画",
-          "国产",
-          "国产动漫动画",
           "国产动画",
           "国产精品",
           "国内动画",
@@ -9874,12 +9873,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/139d724fe4-c423-4a7b-8d56-6d81dff61afc.jpg",
         "rating": 9.5,
-        "rating_count": 648,
+        "rating_count": 649,
         "rating_distribution": [
           0,
           0,
           2,
-          18,
+          19,
           77
         ],
         "tags": [
@@ -10432,5 +10431,5 @@
   ],
   "count": 111,
   "category": "tv",
-  "updated_at": "2025-07-24T01:06:18.382390"
+  "updated_at": "2025-07-25T01:05:48.867328"
 }
