@@ -1918,11 +1918,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158cac42e4-74fb-472f-afd5-78984be19315.jpg",
         "rating": 8.2,
-        "rating_count": 766,
+        "rating_count": 767,
         "rating_distribution": [
           1,
           2,
-          15,
+          14,
           45,
           36
         ],
@@ -4278,8 +4278,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/06/1012f10cab-8842-442a-bd65-75dc2723a36b.jpg",
-        "rating": 7.9,
-        "rating_count": 568,
+        "rating": 7.8,
+        "rating_count": 569,
         "rating_distribution": [
           1,
           5,
@@ -5109,7 +5109,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/16/f28d5972-1708-4dd1-a655-d75431e32c33.webp",
         "rating": 9.0,
-        "rating_count": 750,
+        "rating_count": 751,
         "rating_distribution": [
           0,
           0,
@@ -5205,7 +5205,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/24/a9688316-76fe-4704-add5-ab62c18e523f.webp",
         "rating": 9.3,
-        "rating_count": 674,
+        "rating_count": 675,
         "rating_distribution": [
           0,
           0,
@@ -5290,7 +5290,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/01/0601fef99c-a667-460e-bebd-99e45fb92e8a.webp",
         "rating": 9.7,
-        "rating_count": 603,
+        "rating_count": 604,
         "rating_distribution": [
           0,
           0,
@@ -5660,7 +5660,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/2775557ce8-06f5-4882-a7e4-a3293ba16d3a.jpg",
         "rating": 8.9,
-        "rating_count": 1052,
+        "rating_count": 1053,
         "rating_distribution": [
           0,
           1,
@@ -7457,7 +7457,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ddb8977a-6e04-4d3f-bb55-a73b948034e7.jpg",
         "rating": 9.3,
-        "rating_count": 350,
+        "rating_count": 352,
         "rating_distribution": [
           0,
           1,
@@ -8162,6 +8162,10 @@
           {
             "lang": "zh-cn",
             "text": "　　东汉末年，山河动荡，刘汉王朝气数将尽。内有十常侍颠倒黑白，祸乱朝纲。外有张氏兄弟高呼“苍天已死，黄巾当立”的口号，掀起浩大的农民起义。一时间狼烟四起，刘家朝廷宛如大厦将倾，岌岌可危。\n\n　　正所谓乱世出英雄，曹操（鲍国安 饰）、公孙瓒、袁术、袁绍、吕布（张光北 饰）、刘备、孙策、关羽、张飞、诸葛亮（唐国强 饰）等各路豪杰不断涌现，从群雄逐鹿到赤壁之战，从魏蜀吴三国鼎立到三分归一统，波澜壮阔的三国时代的大幕缓缓拉开……"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "　　东汉末年，山河动荡，刘汉王朝气数将尽。内有十常侍颠倒黑白，祸乱朝纲。外有张氏兄弟高呼“苍天已死，黄巾当立”的口号，掀起浩大的农民起义。一时间狼烟四起，刘家朝廷宛如大厦将倾，岌岌可危。\r\n　　正所谓乱世出英雄，曹操（鲍国安 饰）、公孙瓒（杨凡 饰）、袁术（陈友旺 饰）、袁绍（洪宇宙、李庆祥 饰）、吕布（张光北 饰）、刘备（孙彦军 饰）、孙策（濮存昕 饰）、关羽（陆树铭 饰）、张飞（李靖飞 饰）、诸葛亮（唐国强 饰）等各路豪杰不断涌现，从群雄逐鹿到赤壁之战，从魏蜀吴三国鼎立到三分归一统，波澜壮阔的三国时代的大幕缓缓拉开……\r\n　　本片根据中国古典名著《三国演义》改编。"
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/21/58486641-69b1-46ad-b902-66a09b705e9d.jpg",
@@ -8210,6 +8214,9 @@
           },
           {
             "url": "https://www.themoviedb.org/tv/72645/season/1"
+          },
+          {
+            "url": "https://bgm.tv/subject/123218"
           }
         ]
       },
@@ -8807,13 +8814,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27fe09ead9-76a1-44f6-b1cf-98e7701606e9.webp",
         "rating": 9.3,
-        "rating_count": 30,
+        "rating_count": 31,
         "rating_distribution": [
           3,
           0,
           3,
           16,
-          76
+          77
         ],
         "tags": [
           "2011",
@@ -9171,13 +9178,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27d51851ac-c5ef-436b-b7c6-723fc0c07620.jpg",
         "rating": 9.3,
-        "rating_count": 34,
+        "rating_count": 35,
         "rating_distribution": [
           0,
           2,
           5,
           11,
-          79
+          80
         ],
         "tags": [
           "2011",
@@ -10119,13 +10126,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/271548cb4b-40e2-4503-bda9-7dff00fd8e32.jpg",
         "rating": 7.7,
-        "rating_count": 71,
+        "rating_count": 72,
         "rating_distribution": [
           0,
-          7,
+          6,
           26,
           40,
-          25
+          26
         ],
         "tags": [
           "2010",
@@ -10198,11 +10205,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16301fc784-d92c-4c87-a7a0-bad93d1c52a6.jpg",
         "rating": 8.6,
-        "rating_count": 88,
+        "rating_count": 89,
         "rating_distribution": [
           3,
           2,
-          9,
+          8,
           32,
           52
         ],
@@ -10431,5 +10438,5 @@
   ],
   "count": 111,
   "category": "tv",
-  "updated_at": "2025-07-25T01:05:48.867328"
+  "updated_at": "2025-07-26T01:04:16.663087"
 }
