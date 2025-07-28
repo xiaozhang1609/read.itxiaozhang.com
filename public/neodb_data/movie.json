@@ -2318,13 +2318,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15000b3b6b-44f3-49bc-8f4b-161e365621f5.jpg",
         "rating": 7.4,
-        "rating_count": 200,
+        "rating_count": 201,
         "rating_distribution": [
           0,
-          2,
+          1,
           38,
           45,
-          14
+          13
         ],
         "tags": [
           "1990s",
@@ -3779,11 +3779,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14e13c0daf-a37b-44be-90ba-9c071890a000.jpg",
         "rating": 8.0,
-        "rating_count": 450,
+        "rating_count": 451,
         "rating_distribution": [
           0,
           2,
-          18,
+          19,
           51,
           26
         ],
@@ -5972,12 +5972,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16bb1ed25a-5722-42bb-be24-ddd0ba0b863c.jpg",
         "rating": 7.7,
-        "rating_count": 754,
+        "rating_count": 755,
         "rating_distribution": [
           0,
           2,
           29,
-          48,
+          49,
           18
         ],
         "tags": [
@@ -9860,7 +9860,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15f440c10b-6210-43ff-860d-907297628e18.jpg",
         "rating": 7.4,
-        "rating_count": 2292,
+        "rating_count": 2294,
         "rating_distribution": [
           1,
           6,
@@ -11239,13 +11239,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/imdb/2023/09/24/81ccb741-f4e2-4ab3-a957-5f99e5e605f5.jpg",
         "rating": 8.9,
-        "rating_count": 507,
+        "rating_count": 508,
         "rating_distribution": [
           0,
           0,
           6,
           37,
-          55
+          54
         ],
         "tags": [
           "1950s",
@@ -11534,7 +11534,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/152e6e9667-35c2-499e-b909-50b6c5601160.jpg",
         "rating": 6.8,
-        "rating_count": 1454,
+        "rating_count": 1455,
         "rating_distribution": [
           1,
           10,
@@ -11695,7 +11695,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ce3e35c1-f475-46ab-9a12-f1cc8cd55c19.jpg",
         "rating": 7.6,
-        "rating_count": 1781,
+        "rating_count": 1782,
         "rating_distribution": [
           0,
           3,
@@ -12355,7 +12355,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13a47e43fe-9ea3-43ca-a9e2-808483a6598b.jpg",
         "rating": 7.9,
-        "rating_count": 1535,
+        "rating_count": 1536,
         "rating_distribution": [
           0,
           2,
@@ -12511,7 +12511,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15dcceff27-b10e-4149-9673-022b83f75410.jpg",
         "rating": 8.6,
-        "rating_count": 1766,
+        "rating_count": 1767,
         "rating_distribution": [
           0,
           1,
@@ -12662,7 +12662,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15b71e1380-9ed2-4ac2-bf49-d2e2b3c92156.jpg",
         "rating": 7.7,
-        "rating_count": 1523,
+        "rating_count": 1524,
         "rating_distribution": [
           0,
           3,
@@ -12895,8 +12895,8 @@
           "剧情",
           "励志",
           "印度",
+          "喜剧",
           "奥斯卡",
-          "感人",
           "成长",
           "爱情",
           "电影",
@@ -13784,11 +13784,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/18a22d4c52-7107-4300-a38c-5bd94a63cfc3.jpg",
         "rating": 7.8,
-        "rating_count": 117,
+        "rating_count": 118,
         "rating_distribution": [
           0,
           5,
-          23,
+          22,
           47,
           23
         ],
@@ -14257,7 +14257,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1540ca6a04-7e73-4d51-bf03-5e75bb63a8de.jpg",
         "rating": 8.0,
-        "rating_count": 1031,
+        "rating_count": 1034,
         "rating_distribution": [
           0,
           3,
@@ -14409,7 +14409,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/159008bab2-fd56-48b7-b553-f0a4d76eef0a.jpg",
         "rating": 8.1,
-        "rating_count": 1600,
+        "rating_count": 1601,
         "rating_distribution": [
           0,
           1,
@@ -14561,7 +14561,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1342d14337-0e7e-42e2-b3f5-d92f0903d33f.jpg",
         "rating": 8.5,
-        "rating_count": 1737,
+        "rating_count": 1738,
         "rating_distribution": [
           0,
           0,
@@ -14705,7 +14705,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15d0883f9f-f849-4054-9b49-e021f380f73b.jpg",
         "rating": 6.4,
-        "rating_count": 1363,
+        "rating_count": 1364,
         "rating_distribution": [
           6,
           15,
@@ -14854,7 +14854,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15f3e99e45-6b26-4747-a8f2-09f292b8f332.jpg",
         "rating": 8.3,
-        "rating_count": 1736,
+        "rating_count": 1737,
         "rating_distribution": [
           0,
           1,
@@ -15362,7 +15362,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/152bbd9498-8051-4931-afbf-4eddc7f9150c.jpg",
         "rating": 8.7,
-        "rating_count": 2166,
+        "rating_count": 2167,
         "rating_distribution": [
           0,
           0,
@@ -16151,11 +16151,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/17e8bf52f7-862d-4a51-b16d-df4e80467986.jpg",
         "rating": 7.2,
-        "rating_count": 137,
+        "rating_count": 138,
         "rating_distribution": [
           0,
           7,
-          33,
+          34,
           46,
           11
         ],
@@ -18032,5 +18032,5 @@
   ],
   "count": 135,
   "category": "movie",
-  "updated_at": "2025-07-27T01:12:14.367540"
+  "updated_at": "2025-07-28T01:10:35.257456"
 }

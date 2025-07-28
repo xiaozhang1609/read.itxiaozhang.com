@@ -1551,25 +1551,25 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/12eb1ffdd9-8769-429d-9b4a-a2a3a7bd3764.jpg",
-        "rating": 9.0,
-        "rating_count": 391,
+        "rating": 8.9,
+        "rating_count": 393,
         "rating_distribution": [
           0,
           0,
           6,
-          31,
-          61
+          32,
+          60
         ],
         "tags": [
           "2000s",
           "2006",
-          "2017",
           "anime",
           "deathnote",
           "madhouse",
           "tv",
           "动漫",
           "动画",
+          "宫野真守",
           "宮野真守",
           "悬疑",
           "推理",
@@ -3601,7 +3601,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/22/a170513d-27d1-4a66-b415-83bcc178b78b.webp",
         "rating": 7.5,
-        "rating_count": 128,
+        "rating_count": 129,
         "rating_distribution": [
           3,
           5,
@@ -4184,7 +4184,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157c78ce20-44be-4128-85cd-0cfdc73ebb0a.jpg",
         "rating": 8.0,
-        "rating_count": 676,
+        "rating_count": 677,
         "rating_distribution": [
           1,
           2,
@@ -7457,7 +7457,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ddb8977a-6e04-4d3f-bb55-a73b948034e7.jpg",
         "rating": 9.3,
-        "rating_count": 352,
+        "rating_count": 353,
         "rating_distribution": [
           0,
           1,
@@ -7472,7 +7472,6 @@
           "中国",
           "中国动画",
           "中国动画短片",
-          "剧集",
           "动作",
           "动漫",
           "动画",
@@ -7482,6 +7481,7 @@
           "国产动画",
           "国漫",
           "大陆",
+          "奇幻",
           "小黑好可爱",
           "治癒系",
           "短片",
@@ -9696,11 +9696,12 @@
         "tags": [
           "2010s",
           "2016",
-          "2018",
           "中国",
           "二次元",
           "动作",
           "动画",
+          "国产",
+          "国产动漫动画",
           "国产动画",
           "国产精品",
           "国内动画",
@@ -10438,5 +10439,5 @@
   ],
   "count": 111,
   "category": "tv",
-  "updated_at": "2025-07-27T01:12:22.481272"
+  "updated_at": "2025-07-28T01:10:44.029235"
 }
