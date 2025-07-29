@@ -2047,13 +2047,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2024/04/20/7448d3b5-249e-40c0-b76d-daed7a64157f.webp",
         "rating": 7.4,
-        "rating_count": 131,
+        "rating_count": 133,
         "rating_distribution": [
           0,
           3,
-          25,
+          24,
           54,
-          16
+          15
         ],
         "tags": [
           "2024",
@@ -7456,13 +7456,13 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ddb8977a-6e04-4d3f-bb55-a73b948034e7.jpg",
-        "rating": 9.3,
-        "rating_count": 353,
+        "rating": 9.2,
+        "rating_count": 354,
         "rating_distribution": [
           0,
           1,
           4,
-          23,
+          24,
           70
         ],
         "tags": [
@@ -10439,5 +10439,5 @@
   ],
   "count": 111,
   "category": "tv",
-  "updated_at": "2025-07-28T01:10:44.029235"
+  "updated_at": "2025-07-29T01:13:30.380146"
 }
