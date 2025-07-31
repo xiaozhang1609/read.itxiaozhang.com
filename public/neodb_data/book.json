@@ -1805,13 +1805,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/16e346809f-05cd-4c06-8541-8926fc4d8348.jpg",
         "rating": 8.8,
-        "rating_count": 226,
+        "rating_count": 227,
         "rating_distribution": [
           0,
           0,
           11,
           36,
-          52
+          51
         ],
         "tags": [
           "一句顶一万句",
@@ -1932,5 +1932,5 @@
   ],
   "count": 30,
   "category": "book",
-  "updated_at": "2025-07-30T01:07:12.413638"
+  "updated_at": "2025-07-31T01:07:14.537618"
 }
