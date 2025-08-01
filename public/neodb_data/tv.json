@@ -438,7 +438,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158a56cee8-99aa-4219-ba9f-a5063c79d6fe.jpg",
         "rating": 8.9,
-        "rating_count": 797,
+        "rating_count": 798,
         "rating_distribution": [
           0,
           0,
@@ -1090,7 +1090,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15230a44b5-d9e7-4ed0-9dca-f56d188b2e65.jpg",
         "rating": 9.3,
-        "rating_count": 983,
+        "rating_count": 984,
         "rating_distribution": [
           0,
           0,
@@ -1278,7 +1278,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13f0f1086d-2dd2-4f8b-a1a8-fff29ef19e35.jpg",
         "rating": 9.3,
-        "rating_count": 1272,
+        "rating_count": 1274,
         "rating_distribution": [
           0,
           0,
@@ -3327,13 +3327,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13de2367b3-cbe1-4669-996e-e3ef1f5ae43b.jpg",
         "rating": 8.9,
-        "rating_count": 308,
+        "rating_count": 309,
         "rating_distribution": [
           0,
           2,
           5,
           31,
-          60
+          59
         ],
         "tags": [
           "2007",
@@ -3612,6 +3612,7 @@
         ],
         "tags": [
           "2023",
+          "剧集",
           "动作",
           "动漫",
           "动画",
@@ -3629,8 +3630,7 @@
           "日本",
           "日本动画",
           "日漫",
-          "日语",
-          "漫画改编"
+          "日语"
         ],
         "brief": "最强2人，回不去的青春。2017年12月，乙骨忧太解除了祈本里香的诅咒。追溯到2006年（春天），高专时代的五条悟与夏油杰。作为咒术师活跃着，所向披靡的2人，接受来自咒术界拥有不死术式的要·天元的委托。委托有两个，天元的的适合者——被选中成为“星浆体”的天内理子，对那个少女的“护卫”和“抹去”两人为了维持咒术界而进行护卫任务，在那里自称伏黑的“术师杀手”以暗杀“星浆体”为目标介入。在之后被称为最强的咒术师和最恶的咒术师，五条与夏油，两人的过去被揭开…",
         "id": "https://neodb.social/tv/season/3lnrTxp2pGchm4KpABRE9J",
@@ -4185,7 +4185,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157c78ce20-44be-4128-85cd-0cfdc73ebb0a.jpg",
         "rating": 8.0,
-        "rating_count": 677,
+        "rating_count": 678,
         "rating_distribution": [
           1,
           2,
@@ -4684,7 +4684,7 @@
         ],
         "tags": [
           "2023",
-          "23春",
+          "anime",
           "disney",
           "アニメ",
           "人性",
@@ -5567,7 +5567,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/03/14/e0cc80de-58b3-4a0c-ba0b-cb1ed25f326a.webp",
         "rating": 8.8,
-        "rating_count": 516,
+        "rating_count": 517,
         "rating_distribution": [
           0,
           0,
@@ -5661,7 +5661,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/2775557ce8-06f5-4882-a7e4-a3293ba16d3a.jpg",
         "rating": 8.9,
-        "rating_count": 1053,
+        "rating_count": 1054,
         "rating_distribution": [
           0,
           1,
@@ -5882,7 +5882,6 @@
           "anime",
           "アニメ",
           "人性",
-          "冒险",
           "剧情",
           "动作",
           "动漫",
@@ -10440,5 +10439,5 @@
   ],
   "count": 111,
   "category": "tv",
-  "updated_at": "2025-07-31T01:07:12.841944"
+  "updated_at": "2025-08-01T01:14:41.777998"
 }
