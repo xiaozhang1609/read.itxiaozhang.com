@@ -2242,7 +2242,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/131b46667b-3905-4bdb-a7ec-441f1126be6d.jpg",
         "rating": 9.0,
-        "rating_count": 1169,
+        "rating_count": 1171,
         "rating_distribution": [
           0,
           0,
@@ -2326,7 +2326,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14138f068a-33d6-4cb0-a556-1112c79ede52.jpg",
         "rating": 9.3,
-        "rating_count": 1620,
+        "rating_count": 1622,
         "rating_distribution": [
           0,
           0,
@@ -4280,7 +4280,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/06/1012f10cab-8842-442a-bd65-75dc2723a36b.jpg",
         "rating": 7.8,
-        "rating_count": 569,
+        "rating_count": 570,
         "rating_distribution": [
           1,
           5,
@@ -4556,7 +4556,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/05/08/b1302e71-dc78-444c-b77c-7c9963751aef.jpg",
         "rating": 8.0,
-        "rating_count": 254,
+        "rating_count": 255,
         "rating_distribution": [
           0,
           0,
@@ -5369,13 +5369,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/19/368cf45a-631c-4500-9ec0-c814f93efe6f.jpg",
         "rating": 7.8,
-        "rating_count": 306,
+        "rating_count": 308,
         "rating_distribution": [
           0,
           6,
           23,
-          38,
-          31
+          39,
+          30
         ],
         "tags": [
           "2020s",
@@ -7456,8 +7456,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ddb8977a-6e04-4d3f-bb55-a73b948034e7.jpg",
-        "rating": 9.3,
-        "rating_count": 354,
+        "rating": 9.2,
+        "rating_count": 356,
         "rating_distribution": [
           0,
           1,
@@ -10439,5 +10439,5 @@
   ],
   "count": 111,
   "category": "tv",
-  "updated_at": "2025-08-01T01:14:41.777998"
+  "updated_at": "2025-08-02T01:04:11.485517"
 }
