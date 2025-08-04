@@ -2242,7 +2242,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/131b46667b-3905-4bdb-a7ec-441f1126be6d.jpg",
         "rating": 9.0,
-        "rating_count": 1171,
+        "rating_count": 1172,
         "rating_distribution": [
           0,
           0,
@@ -2326,7 +2326,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14138f068a-33d6-4cb0-a556-1112c79ede52.jpg",
         "rating": 9.3,
-        "rating_count": 1622,
+        "rating_count": 1623,
         "rating_distribution": [
           0,
           0,
@@ -3765,25 +3765,25 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/12/09/e349737a-1ad1-4118-ab72-3f8fd067cf4d.webp",
         "rating": 8.7,
-        "rating_count": 299,
+        "rating_count": 300,
         "rating_distribution": [
           0,
           0,
           10,
           32,
-          56
+          57
         ],
         "tags": [
           "2020s",
           "2023",
           "2024",
           "hbo",
-          "hbomax",
           "冒险",
           "剧情",
           "剧集",
           "动画",
           "動畫",
+          "欧美动画",
           "电视剧",
           "科幻",
           "科技",
@@ -4077,19 +4077,20 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/08/69d304f8-1a0f-4f06-9a4a-b1d870f43864.webp",
         "rating": 7.9,
-        "rating_count": 191,
+        "rating_count": 192,
         "rating_distribution": [
           1,
           2,
           16,
           46,
-          34
+          33
         ],
         "tags": [
           "2024",
           "amazon",
           "annabel o hagan",
           "primevideo",
+          "wd",
           "乔纳森 诺兰",
           "人类快死光了",
           "冒险",
@@ -4098,7 +4099,6 @@
           "动作",
           "幻想",
           "悬疑",
-          "战争",
           "末日",
           "游戏改编",
           "科幻",
@@ -4556,7 +4556,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/05/08/b1302e71-dc78-444c-b77c-7c9963751aef.jpg",
         "rating": 8.0,
-        "rating_count": 255,
+        "rating_count": 256,
         "rating_distribution": [
           0,
           0,
@@ -7611,12 +7611,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2023/05/31/c3376f14-de62-4882-a7b5-c26e62c006ed.jpg",
         "rating": 8.1,
-        "rating_count": 61,
+        "rating_count": 62,
         "rating_distribution": [
           0,
           4,
-          21,
-          36,
+          20,
+          37,
           37
         ],
         "tags": [
@@ -9966,13 +9966,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/03de6714d4-4709-40a4-83d0-7f91ee238ba5.jpg",
         "rating": 8.1,
-        "rating_count": 128,
+        "rating_count": 129,
         "rating_distribution": [
           1,
           2,
           18,
           41,
-          35
+          36
         ],
         "tags": [
           "2000s",
@@ -10439,5 +10439,5 @@
   ],
   "count": 111,
   "category": "tv",
-  "updated_at": "2025-08-03T01:13:56.404421"
+  "updated_at": "2025-08-04T01:12:35.888758"
 }
