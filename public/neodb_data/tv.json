@@ -5782,13 +5782,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/10/25/9d58efc5-69fd-4a00-b651-942c37a2ed0f.jpg",
         "rating": 8.8,
-        "rating_count": 363,
+        "rating_count": 364,
         "rating_distribution": [
           0,
           0,
           7,
           36,
-          53
+          54
         ],
         "tags": [
           "2000s",
@@ -10439,5 +10439,5 @@
   ],
   "count": 111,
   "category": "tv",
-  "updated_at": "2025-08-06T01:07:38.720845"
+  "updated_at": "2025-08-07T01:08:04.498423"
 }
