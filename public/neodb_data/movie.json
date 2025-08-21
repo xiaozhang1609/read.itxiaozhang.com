@@ -769,12 +769,56 @@
           {
             "lang": "en",
             "text": "The Island"
+          },
+          {
+            "lang": "zh",
+            "text": "一出好戏"
+          },
+          {
+            "lang": "es",
+            "text": "The Island"
+          },
+          {
+            "lang": "fr",
+            "text": "The Island"
+          },
+          {
+            "lang": "de",
+            "text": "Yi chu hao xi"
+          },
+          {
+            "lang": "ja",
+            "text": "アイランド 一出好戯"
+          },
+          {
+            "lang": "ko",
+            "text": "아일랜드"
           }
         ],
         "localized_description": [
           {
             "lang": "zh-cn",
             "text": "马进欠下债务，与远房表弟小兴在底层社会摸爬滚打，习惯性的买彩票，企图一夜暴富，并迎娶自己的同事姗姗。一日，公司全体员工出海团建，途中，马进收到了彩票中头奖的信息，六千万！就在马进狂喜自己翻身的日子终于到来之际，一场突如其来的滔天巨浪打破了一切。苏醒过来的众人发现身处荒岛 ，丧失了一切与外界的联系……"
+          },
+          {
+            "lang": "zh",
+            "text": "黄渤执导的喜剧电影"
+          },
+          {
+            "lang": "en",
+            "text": "2018 Chinese film directed by Huang Bo"
+          },
+          {
+            "lang": "es",
+            "text": "pelicula china de 2018"
+          },
+          {
+            "lang": "fr",
+            "text": "film chinois"
+          },
+          {
+            "lang": "de",
+            "text": "Film von Huang Bo"
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1663bcc4de-a15c-4d50-a3ab-13f9736bd689.jpg",
@@ -823,6 +867,9 @@
           },
           {
             "url": "https://www.themoviedb.org/movie/535170"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q55164138"
           },
           {
             "url": "https://movie.douban.com/subject/26985127/"
@@ -1061,7 +1108,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/02/02/d801edae-d1f3-499d-8a73-123ce9669780.jpg",
         "rating": 6.8,
-        "rating_count": 465,
+        "rating_count": 466,
         "rating_distribution": [
           5,
           9,
@@ -1114,9 +1161,6 @@
           },
           {
             "url": "https://www.themoviedb.org/movie/980477"
-          },
-          {
-            "url": "https://movie.douban.com/subject/34780991/"
           }
         ]
       },
@@ -1453,13 +1497,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/153f250f04-06a2-4a3d-88b0-f28cca4e9b3b.jpg",
         "rating": 8.8,
-        "rating_count": 468,
+        "rating_count": 469,
         "rating_distribution": [
           0,
           0,
           6,
           44,
-          48
+          47
         ],
         "tags": [
           "11",
@@ -1979,6 +2023,58 @@
           {
             "lang": "da",
             "text": "Enemy at the Gates"
+          },
+          {
+            "lang": "zh",
+            "text": "大敵當前"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "大敵當前"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "敵對邊緣"
+          },
+          {
+            "lang": "zh-hans",
+            "text": "兵临城下"
+          },
+          {
+            "lang": "zh-hant",
+            "text": "大敵當前"
+          },
+          {
+            "lang": "zh-sg",
+            "text": "大敌当前"
+          },
+          {
+            "lang": "es",
+            "text": "Enemy at the Gates"
+          },
+          {
+            "lang": "de",
+            "text": "Duell – Enemy at the Gates"
+          },
+          {
+            "lang": "pt",
+            "text": "Enemy at the Gates"
+          },
+          {
+            "lang": "ja",
+            "text": "スターリングラード"
+          },
+          {
+            "lang": "ko",
+            "text": "에너미 앳 더 게이트"
+          },
+          {
+            "lang": "pt",
+            "text": "Inimigo às Portas"
+          },
+          {
+            "lang": "es",
+            "text": "Enemigo a las puertas"
           }
         ],
         "localized_description": [
@@ -2017,6 +2113,58 @@
           {
             "lang": "da",
             "text": "Vi skriver 1942 og nazisterne gør et dødeligt indhug gennem Rusland. Under ledelse af Kruschevs gør indbyggerne i Stalingrad modigt modstand ansporet af deres lokale helt Vassili Zaitsevs meritter. Vassilis bedrifter som fremragende snigskytte er blevet legendariske - takket være propagandaen der spredes af vassilis bedste ven, en politisk officer ved navn Danilov. For at sætte en stopper for Vassili sender tyskerne deres bedste snigskytte, major Konig til Stalingrad. Da Vassili og Danilov begge forelsker sig i en smuk soldat lader Danilov sin ven i stikken da han overlader det til Vassili at møde sit tyske modstykke alene. Mens byen brænder indleder Vassili og Konig en listig leg om katten med musen og fører en helt privat krig om mod, ære og fædreland."
+          },
+          {
+            "lang": "zh",
+            "text": "電影"
+          },
+          {
+            "lang": "en",
+            "text": "2001 film directed by Jean-Jacques Annaud"
+          },
+          {
+            "lang": "es",
+            "text": "película de 2001 dirigida por Jean-Jacques Annaud"
+          },
+          {
+            "lang": "fr",
+            "text": "film multinational de Jean-Jacques Annaud, sorti en 2001"
+          },
+          {
+            "lang": "de",
+            "text": "Film von Jean-Jacques Annaud (2001)"
+          },
+          {
+            "lang": "pt",
+            "text": "filme de 2001 dirigido por Jean-Jacques Annaud"
+          },
+          {
+            "lang": "ko",
+            "text": "2차 세계대전 당시 독일과 소련이 대치했던 스탈린그라드 전장. 독일군의 강력한 공격으로 소련군이 궁지에 몰린 상황에서 폐허가 된 전쟁터를 헤매던 소련 선전장교 다닐로프(조셉 파인즈)는 우연히 명사수 바실리(주드 로)의 뛰어난 저격솜씨를 목격한다.  저하된 소련군의 사기를 되살리기 위해 영웅이 필요하다고 판단한 다닐로프는 바실리를 전문적인 저격수로 만들고 전장에 뿌려지는 전단을 통해 전설적인 영웅으로 부상시킨다. 바실리의 뛰어난 솜씨로 나치 장교들이 하나하나 죽어가자 독일군은 역시 저격수인 코니그 소령(에드 해리스)을 내세워 바실리를 없애려 한다.  바실리는 코니그와의 숨막히는 전쟁에 빠져드는 동시에 타냐(레이첼 와이즈)라는 소련 여군 병사를 사이에 두고 다닐로프와 묘한 연적관계에 놓이는데..."
+          },
+          {
+            "lang": "ja",
+            "text": "1942年9月。ナチス・ドイツの猛攻にさらされ陥落寸前のスターリングラード。そこへ送り込まれた新兵ヴァシリ。敵の銃弾が降り注ぐ中、死体に紛れて反撃の機をうかがっている時、同じように身を潜めていた青年政治将校ダニロフと出会う。ダニロフのライフルを借りたヴァシリは驚くべき正確さで敵兵を次々と仕留めていった。"
+          },
+          {
+            "lang": "pt",
+            "text": "Em plena II Guerra Mundial, no ano de 1942, os nazis invadem a União Soviética e tentam conquistar Estalinegrado. Os russos tentam a todo custo resistir, mas a vitória nazi está iminente. É nessa altura que surge um novo herói, um franco-atirador russo, Vassili Zaitsev, que semeia o pânico ao abater dezenas de oficiais nazis com a sua extraordinária pontaria..."
+          },
+          {
+            "lang": "es",
+            "text": "Mientras los ejércitos de Alemania y la Unión Soviética luchan encarnizadamente y el mundo espera con ansiedad el desenlace de la batalla de Stalingrado, un francotirador ruso, Vassili Zaitsev, persevera en la empresa de eliminar a sus enemigos uno por uno. Modesto y reservado, Vassili es un hombre corriente que simplemente cumple con su deber con una destreza extraordinaria. Danilov -el oficial encargado de la propaganda soviética- se da cuenta del enorme valor de este antiguo campesino, y convierte al sencillo pastor de los Urales en un héroe nacional"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "1942年，納粹德軍正準備揮兵夷平蘇聯，史太林格勒的市民在赫魯曉夫的領導下，加上華斯里這個擅於狙擊的人民英雄配合，頑抗德軍的進襲，而華斯里能夠成為英雄，全憑他的好友丹尼洛夫在傳媒上替他吹噓所致。  德軍為了殲滅華斯里，決定派遣狙擊手高寧少校前往史市，正當兩軍陷於苦戰之際，華和丹兩人竟然同時戀上一位貌美如花的女兵，而丹更重色輕友，留下華一人孤軍作戰，史市即將淪陷，華斯里為了國家及個人聲譽，必須奮力抗敵，跟高寧少校展開一場貓捉老鼠鬥智遊戲！"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "二次大戰中的史達林格勒戰役，德、蘇兩軍對峙，成千上萬的士兵互相廝殺、屍橫遍野，傳奇性的俄國狙擊手瓦西里柴瑟夫憑著他神準的槍法，殲滅無數敵軍，他的響亮名號甚至傳到敵軍陣營，於是德軍派出最頂尖的神槍手康尼少校和他一決高下，他們就在槍林彈雨中，展開一場個人的生死之戰。"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "斯大林格勒战役中，瓦西里（裘德•洛 Jude Law 饰）是一个威震部队的神枪手。他的好枪法百发百中，令敌人闻风丧胆。\r 为了激励士气，树立榜样，瓦西里的战友——苏军文宣部军官丹尼洛夫（约瑟夫•费因斯 Joseph Fiennes 饰）在报纸上大量刊登瓦西里的英雄事迹，令瓦西里的形象更为高大。然而，坦妮娅（雷切尔•薇姿 Rachel Weisz 饰）的出现，让瓦西里和丹尼洛夫都同时迷恋上了这个飒爽女兵。但塔妮娅喜欢的是瓦西里，这让丹尼洛夫大为妒忌。\r 另一方面，德军派出了他们的狙击手康尼（艾德•哈里斯 Ed Harris 饰），让同是神枪手的他抗衡瓦西里。在硝烟弥漫的战场上，瓦西里和康尼开始了斗智斗勇的决斗。"
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157db3a5a2-27ff-4d77-a079-7ed0bca9e5fa.jpg",
@@ -2063,10 +2211,16 @@
             "url": "https://www.themoviedb.org/movie/853"
           },
           {
+            "url": "https://www.imdb.com/title/tt0215750/"
+          },
+          {
             "url": "https://movie.douban.com/subject/1301726/"
           },
           {
             "url": "https://minreol.dk/movie/2Flv8uambwTZ5qBU5rR5Vc"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q271006"
           }
         ]
       },
@@ -2586,6 +2740,38 @@
           {
             "lang": "da",
             "text": "Snowpiercer"
+          },
+          {
+            "lang": "zh",
+            "text": "雪國列車"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "末日列車"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "末世列車"
+          },
+          {
+            "lang": "zh-my",
+            "text": "末日列车"
+          },
+          {
+            "lang": "es",
+            "text": "Snowpiercer"
+          },
+          {
+            "lang": "fr",
+            "text": "Snowpiercer, le Transperceneige"
+          },
+          {
+            "lang": "pt",
+            "text": "O Expresso do Amanhã"
+          },
+          {
+            "lang": "ja",
+            "text": "スノーピアサー"
           }
         ],
         "localized_description": [
@@ -2624,6 +2810,34 @@
           {
             "lang": "no",
             "text": ""
+          },
+          {
+            "lang": "zh",
+            "text": "2013年韓國電影"
+          },
+          {
+            "lang": "en",
+            "text": "2013 film directed by Bong Joon-ho"
+          },
+          {
+            "lang": "es",
+            "text": "película de 2013 dirigida por Bong Joon-ho"
+          },
+          {
+            "lang": "fr",
+            "text": "film sorti en 2013"
+          },
+          {
+            "lang": "de",
+            "text": "Film von Bong Joon-ho (2013)"
+          },
+          {
+            "lang": "pt",
+            "text": "filme de 2013 dirigido por Bong Joon-ho"
+          },
+          {
+            "lang": "ja",
+            "text": "韓国、アメリカ、フランスの映画作品"
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1547b89f8e-94c0-435e-8c7f-6b4513db2842.jpg",
@@ -2681,6 +2895,9 @@
           },
           {
             "url": "https://www.imdb.com/title/tt1706620/"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q492908"
           }
         ]
       },
@@ -3058,13 +3275,13 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/baef0c81-b856-4abc-b925-257083bb160b.jpg",
-        "rating": 7.7,
-        "rating_count": 393,
+        "rating": 7.8,
+        "rating_count": 394,
         "rating_distribution": [
           0,
           3,
           24,
-          49,
+          48,
           22
         ],
         "tags": [
@@ -3931,7 +4148,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/05/14/c6b6a72c-2a26-487c-9c3f-54c23cf4ca9e.webp",
         "rating": 8.8,
-        "rating_count": 2471,
+        "rating_count": 2472,
         "rating_distribution": [
           0,
           1,
@@ -4777,12 +4994,88 @@
           {
             "lang": "en",
             "text": "12.12: The Day"
+          },
+          {
+            "lang": "zh",
+            "text": "首爾之春"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "12.12：首爾之春"
+          },
+          {
+            "lang": "zh-hans",
+            "text": "首尔之春"
+          },
+          {
+            "lang": "zh-hant",
+            "text": "首爾之春"
+          },
+          {
+            "lang": "zh-my",
+            "text": "12.12：首尔之春"
+          },
+          {
+            "lang": "es",
+            "text": "12.12: The Day"
+          },
+          {
+            "lang": "fr",
+            "text": "12.12: The Day"
+          },
+          {
+            "lang": "pt",
+            "text": "Seour-ui Bom"
+          },
+          {
+            "lang": "ja",
+            "text": "ソウルの春"
           }
         ],
         "localized_description": [
           {
             "lang": "zh-cn",
             "text": "1979年10月26日，时任韩国总统的朴正熙被自己的亲信射杀，局势顿时波谲云诡。为调查此事，陆军保安司令官全斗光（黄政民 饰）被任命为联合调查总部部长，而这个天生反骨的男人趁机扩大自己的势力，拉帮结伙，培植亲信，狼子野心昭然若揭。为了牵制全斗光，参谋总长任命将军李泰信（郑雨盛 饰）担任首都警备司令官，以防肘腋之变。与此同时，全斗光感受到来自总长的威胁，于是纠集亲信密谋逮捕总长，试图先下手为强。谁曾想全的人马急于求成，在未能逼迫代总统签署逮捕令之前便展开行动。成王败寇，一旦失败就会成为韩国的叛国者。一不做二不休的全斗光索性揭竿而起。\n而孤军奋战的李泰信，将秉承最朴素的信念与叛军展开对抗……"
+          },
+          {
+            "lang": "zh",
+            "text": "2023年韓國電影"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "2023年韩国电影"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "2023年南韓電影"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "2023年南韓電影"
+          },
+          {
+            "lang": "zh-hans",
+            "text": "2023年韩国电影"
+          },
+          {
+            "lang": "zh-hant",
+            "text": "2023年韓國電影"
+          },
+          {
+            "lang": "en",
+            "text": "2023 South Korean film"
+          },
+          {
+            "lang": "es",
+            "text": "película surcoreana de 2023"
+          },
+          {
+            "lang": "de",
+            "text": "Filmdrama von Kim Sung-su (2022)"
+          },
+          {
+            "lang": "ko",
+            "text": "2023년 영화"
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/05/05/ff4458fb-b949-416c-833f-def4a33e1a74.webp",
@@ -4834,6 +5127,9 @@
           },
           {
             "url": "https://movie.douban.com/subject/35712804/"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q115858816"
           }
         ]
       },
@@ -4868,7 +5164,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15a5cb7008-acae-4a3b-8d5d-581355037dcf.jpg",
         "rating": 7.4,
-        "rating_count": 1480,
+        "rating_count": 1481,
         "rating_distribution": [
           0,
           5,
@@ -4972,6 +5268,54 @@
           {
             "lang": "da",
             "text": "Source Code"
+          },
+          {
+            "lang": "zh",
+            "text": "啟動原始碼"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "啟動原始碼"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "危機解密"
+          },
+          {
+            "lang": "zh-hant",
+            "text": "啟動原始碼"
+          },
+          {
+            "lang": "zh-sg",
+            "text": "启动原始码"
+          },
+          {
+            "lang": "es",
+            "text": "Source Code"
+          },
+          {
+            "lang": "pt",
+            "text": "Source Code"
+          },
+          {
+            "lang": "ja",
+            "text": "ミッション: 8ミニッツ"
+          },
+          {
+            "lang": "ko",
+            "text": "소스 코드"
+          },
+          {
+            "lang": "ja",
+            "text": "ミッション：8ミニッツ"
+          },
+          {
+            "lang": "pt",
+            "text": "O Código Base"
+          },
+          {
+            "lang": "es",
+            "text": "Código fuente"
           }
         ],
         "localized_description": [
@@ -4998,11 +5342,63 @@
           {
             "lang": "da",
             "text": "Da officeren Colter Stevens vågner fra sin lur på toget mod Chicago, ser han til sin udelte forvirring en anden mands ansigt i spejlet. Otte minutter senere sprænger en bombemand toget i smadder, og vupti vender Stevens tilbage til sin egen krop i en kold betoncelle. Langsomt går det op for ham, at han er på en eksperimental mission, hvor han oplever de samme minutter om og om igen i jagten på bombemanden."
+          },
+          {
+            "lang": "zh",
+            "text": "2011年上映的一部英语电影"
+          },
+          {
+            "lang": "en",
+            "text": "2011 film by Duncan Jones"
+          },
+          {
+            "lang": "es",
+            "text": "(pelicula 2011)"
+          },
+          {
+            "lang": "fr",
+            "text": "film sorti en 2011"
+          },
+          {
+            "lang": "de",
+            "text": "Film von Duncan Jones (2011)"
+          },
+          {
+            "lang": "pt",
+            "text": "Filme de 2011"
+          },
+          {
+            "lang": "ko",
+            "text": "도시를 위협하는 열차 폭탄 테러 사건 해결을 위해 호출된 콜터 대위. 콜터 대위는 시공간 이동 기밀 시스템인 소스 코드로 과거에 접속해 통근열차 테러로 사망한 남자의 마지막 8분으로 돌아가 폭탄을 찾고 범인을 잡아야 하는 임무를 부여받는다. 이 임무가 성공해야만 6시간 뒤로 예고된 시카고를 날려버릴 대형 폭탄 테러를 막아 미래를 구할 수 있다. 콜터 대위는 스크린에 비치는 굿윈의 명령을 따라야 하지만 소스 코드가 뭔지도 제대로 이해 못하는 상태. 군부는 상황 설명을 요구하는 그를 강제적으로 기차 테러의 마지막 8분 속에 반복해서 보내고, 그는 모든 직감을 이용해 사건의 단서와 용의자를 찾아야 하는데..."
+          },
+          {
+            "lang": "ja",
+            "text": "シカゴ行きの列車で目覚めた陸軍兵コルターは、見知らぬ女性から親しげに話しかけられて当惑するが直後、列車では大爆発が。意識を取り戻したコルターは軍の研究室に。彼は時間をさかのぼり、乗客全員が死亡した列車爆破事件の発生直前8分間、ある犠牲者の意識内にいた。ある乗客の意識を通じて犯人を見つけて事前に防ぐというミッションの一環のため、コルターはその8分間を何度も繰り返して体験し、事件の全容に近づいていく。"
+          },
+          {
+            "lang": "pt",
+            "text": "Quando o condecorado Soldado - Capitão Colter Stevens acorda no corpo de um homem desconhecido, descobre que está envolvido numa missão para encontrar o bombista do comboio de Chicago. Numa missão que para ele era totalmente desconhecida, apercebe-se de que faz parte de um programa experimental do governo, chamado \"O Código Base\", um programa que lhe vai permitir viver a identidade de outro homem, nos últimos 8 minutos da sua vida. Com um segundo alvo, que ameaça matar milhões de pessoas na Baixa de Chicago, Colter têm de reviver o incidente vezes sem conta, até recolher todas as pistas, para poder resolver o mistério de quem está por detrás destes atentados e para que possa evitar o próximo ataque."
+          },
+          {
+            "lang": "es",
+            "text": "El capitán Colter Stevens (Jake Gyllenhaal) se despierta de un sobresalto en el interior de un tren de cercanías de Chicago. Aunque todos los demás pasajeros parecen conocerlo él no tiene absolutamente ninguna idea de dónde está o, incluso, de quién es. Lo último que recuerda es estar volando en helicóptero durante una misión en Irak, pero aquí parece ser alguien que va a trabajar por la mañana como un día cualquiera. Pero antes de que puede hacer cualquier cosa un tren se acerca por la vía contraria y explota una bomba que aparentemente mata a Colter y a todos los demás pasajeros."
+          },
+          {
+            "lang": "zh-hk",
+            "text": "軍隊上校哥達(積克格寧賀 飾)在一列前往芝加哥的火車上被惡夢驚醒，醒來後被面前的美麗女子姬絲汀娜(米雪蒙娜漢 飾)誤認是另一個人。驚恐間哥達往鏡子一照，赫然發現自己的樣子變了另一個人，而銀包裡的身份證亦不屬於自己！哥達還沒來得及弄清楚情況，他們身處的火車忽然發生爆炸，車毀人亡。哥達眼前一黑，醒來時已置身政府秘密研究所，原來他是軍方秘密實驗計劃「Source Code」的行動執行者，這個程式會將他的意識「植入」另一名男子的身體，利用這個人的身份，哥達可以在火車爆炸前的八分鐘追查此兇案的幕後主腦，以阻止該名炸彈狂徒在六小時後再次大開殺戒。哥達一次又一次重返案發現場追尋線索，直至他發現爆炸案背後不為人知的秘密…..他能否在事情尚未失控之前，成功完成任務？而他企圖扭轉不應被逆轉的命運，將已被炸死的姬絲汀娜救活，又會引發甚麼後果？"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "奉命調查一宗芝加哥火車炸彈恐怖攻擊事件的特種部隊柯特史蒂文斯上尉（傑克葛倫霍 飾），為了追查炸彈客真兇，透過政府的「腦波原始碼」實驗計畫，將自己的腦波植入其中一位目擊遇難者的腦海，重返整個恐怖攻擊事件爆炸前八分鐘的時空現場，來讓景象還原。柯特必須一次又一次進入這位中學教師史恩的身體裡，把握短短的八分鐘來尋找任何可疑人物與蛛絲馬跡……"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "在阿富汗执行任务的美国空军飞行员柯尔特·斯蒂文斯上尉（杰克·吉伦哈尔 Jake Gyllenhaal 饰）突然惊醒，发现自己在一辆高速行驶的列车上，而他的身边坐着一个素不相识的名叫克里斯蒂娜（米歇尔·莫娜汉 Michelle Monaghan 饰）的女子正在与自己讲话。柯尔特不知自己为什么会在这辆列车上，而且他发现自己居然是以另一个人的身份存在，正当他迷惑不解的时候，列车上忽然发生爆炸……柯尔特又一次惊醒，发现自己身处一个密闭的空间里，有一位女军官古德温（维拉·法米加 Vera Farmiga 饰）正在通过视频和自己对话，并要求自己报告列车上发生的事情。一头雾水的柯尔特还没搞明白是怎么回事时，他又一次被送上那辆列车……"
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/138d1723f9-e106-4e8e-b490-3cd2ed271cae.jpg",
         "rating": 8.2,
-        "rating_count": 1721,
+        "rating_count": 1722,
         "rating_distribution": [
           0,
           0,
@@ -5051,7 +5447,13 @@
             "url": "https://movie.douban.com/subject/3075287/"
           },
           {
+            "url": "https://www.imdb.com/title/tt0945513/"
+          },
+          {
             "url": "https://minreol.dk/movie/311JAbJQA3yZOgexC0MWkM"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q266209"
           }
         ]
       },
@@ -6195,12 +6597,68 @@
           {
             "lang": "en",
             "text": "The Forbidden Legend Sex & Chopsticks"
+          },
+          {
+            "lang": "zh",
+            "text": "金瓶梅"
+          },
+          {
+            "lang": "de",
+            "text": "Forbidden Legend of Sex and Chopsticks"
+          },
+          {
+            "lang": "ja",
+            "text": "金瓶梅"
+          },
+          {
+            "lang": "ko",
+            "text": "금병매"
+          },
+          {
+            "lang": "pt",
+            "text": "The Forbidden Legend: Sex & Chopsticks"
+          },
+          {
+            "lang": "fr",
+            "text": "The Forbidden Legend: Sex & Chopsticks"
+          },
+          {
+            "lang": "en",
+            "text": "The Forbidden Legend: Sex & Chopsticks"
+          },
+          {
+            "lang": "cn",
+            "text": "金瓶梅"
           }
         ],
         "localized_description": [
           {
             "lang": "zh-cn",
             "text": "西门庆（林伟建 饰）是个长相俊美，家境殷实的公子哥。少年时期就跟随父亲（徐少强 饰）修习房中术，得父亲真传精通男女情爱之事。就在其学有所成之际，其父更是聘来了一名长相媚惑的女子紫烟（上原カエラ Kaera Uehara 饰）来让西门庆实践自己所学的房中术。就这样，在父亲的指导下，西门庆渐渐成了一个沉迷风月不问情事的男子。一次出门游历结识了尼姑明月（若菜光 Hikaru Wakana 饰），一夜云雨令明月春心大动，遂还俗与他结发为妻。西门庆不仅熟于男女之事，更是对人情世故得心应手。善于钻营，巴结权贵，贵族名人知县知府都和他往来。父亲死后，继承了满贯家财的西门庆生活的更是风生水起，过的纵欲放荡不受世俗牵绊。偶然的机会，他看上了长相俏丽的小媳妇潘金莲（早川濑里奈 Serina Hayakawa 饰），然而偷情的生活已然不能让他满足，于是他打起了毒害其夫武大郎的主意…"
+          },
+          {
+            "lang": "en",
+            "text": "2008 film"
+          },
+          {
+            "lang": "fr",
+            "text": "film sorti en 2008"
+          },
+          {
+            "lang": "ja",
+            "text": "2008年の映画"
+          },
+          {
+            "lang": "ko",
+            "text": "어린 시절 서문경은 호색한이자 엄청난 정력의 소유자인 아버지와 미모의 어머니 사이에서 부유한 집안의 자식으로 자란다. 어머니가 돌아가시던 날부터 당대 최고의 성(性)연구가인 아버지에게 ‘대물철권’ , ‘풍차돌리기’, ‘벽타기’ 등의 최고의 성교의 기술과 강철 같은 성기를 단련하며 자란 문경은 자신의 남근을 붓(?)대용으로 사용할 정도로 장성하게 되고, 나날이 늘어만 가는 자신의 성욕을 주체하지 못하여 힘든 나날을 보내는데…"
+          },
+          {
+            "lang": "pt",
+            "text": "Baseado no clássico romance chinês \"Jin Ping Mei\", escrito durante a dinastia Ming. O romance em si é o primeiro trabalho ficcional chinês completo, a representar a sexualidade de maneira explícita. O filme (e também o romance) acontece durante o período de 1111 a 1127 e gira em torno de Ximen Quing, um oportunista corrupto e um comerciante lascivo, que é rico o suficiente para se casar com um grupo de esposas e concubinas."
+          },
+          {
+            "lang": "en",
+            "text": "Simon is a scion of a wealthy family who struggles to have a stable relationship because of his womanizing ways. When he finds a wife, Moon, he spots another woman and conspires to marry her."
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/12/10782d8b03-2b0f-4060-9db2-3052133ef3fe.jpg",
@@ -6249,6 +6707,12 @@
           },
           {
             "url": "https://movie.douban.com/subject/4091908/"
+          },
+          {
+            "url": "https://www.imdb.com/title/tt1354553/"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q11647648"
           }
         ]
       },
@@ -6351,7 +6815,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13676fe4c9-0bb8-4ba4-88d9-109f12d316f1.jpg",
         "rating": 9.5,
-        "rating_count": 1408,
+        "rating_count": 1409,
         "rating_distribution": [
           0,
           0,
@@ -6433,17 +6897,145 @@
           {
             "lang": "zh-cn",
             "text": "罗马假期(台)"
+          },
+          {
+            "lang": "zh",
+            "text": "羅馬假期"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "羅馬假期"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "金枝玉葉"
+          },
+          {
+            "lang": "zh-hans",
+            "text": "罗马假日"
+          },
+          {
+            "lang": "zh-hant",
+            "text": "羅馬假期"
+          },
+          {
+            "lang": "zh-sg",
+            "text": "罗马假期"
+          },
+          {
+            "lang": "zh-my",
+            "text": "罗马假期"
+          },
+          {
+            "lang": "en",
+            "text": "Roman Holiday"
+          },
+          {
+            "lang": "es",
+            "text": "Vacaciones en Roma"
+          },
+          {
+            "lang": "fr",
+            "text": "Vacances romaines"
+          },
+          {
+            "lang": "de",
+            "text": "Ein Herz und eine Krone"
+          },
+          {
+            "lang": "pt",
+            "text": "Roman Holiday"
+          },
+          {
+            "lang": "ja",
+            "text": "ローマの休日"
+          },
+          {
+            "lang": "ko",
+            "text": "로마의 휴일"
+          },
+          {
+            "lang": "pt",
+            "text": "Férias em Roma"
           }
         ],
         "localized_description": [
           {
             "lang": "zh-cn",
             "text": "欧洲某国的安妮公主（奥黛丽·赫本 Audrey Hepburn 饰）到访罗马，国务烦身，但她又厌倦繁文缛节。一天晚上，身心俱疲的她偷偷来到民间欣赏夜景，巧遇报社记者乔（格里高利·派克 Gregory Peck 饰）。二人把手同游，相当快乐。公主更是到乔的家中作客并在那过夜。\n不料乔无意中发现了公主的真实身份，他决定炮制一个独家新闻，于是乔和朋友、摄影师欧文（埃迪·艾伯特 Eddie Albert 饰）一起带公主同游罗马，并且偷拍了公主的很多生活照。然而，在接下来与公主的相处中，乔不知不觉恋上了公主。为了保护公主的形象，乔只能忍痛抛弃功成名就的良机，将照片送予了公主。\n安妮公主在经历了罗马一日假期后，反而体验了自己对国家的责任，毅然返回了大使馆，为了本身的责任而果断抛弃了爱情。"
+          },
+          {
+            "lang": "zh",
+            "text": "1953年美国电影"
+          },
+          {
+            "lang": "en",
+            "text": "1953 film directed by William Wyler"
+          },
+          {
+            "lang": "es",
+            "text": "película de 1953 dirigida por William Wyler"
+          },
+          {
+            "lang": "fr",
+            "text": "film de William Wyler, sorti en 1953"
+          },
+          {
+            "lang": "de",
+            "text": "Film von William Wyler (1953)"
+          },
+          {
+            "lang": "ja",
+            "text": "アメリカの映画作品"
+          },
+          {
+            "lang": "ko",
+            "text": "1953년 영화"
+          },
+          {
+            "lang": "ko",
+            "text": "유럽 순방 중 로마를 방문한 공주 ‘앤’. 끝없는 일정에 지쳐버린 그녀는 한밤중 몰래 침실을 빠져나와 처음으로 자유롭게 로마의 거리를 거닌다. 로마에서 생활 중인 미국인 기자 ‘조 브래들리’. 공주와의 인터뷰를 맡게 된 그는 집으로 돌아가는 길에 술에 취해 잠든 한 여성을 발견하고 하룻밤 재워주게 된다. 다음 날, 신문사에 출근한 ‘조’는 공주와의 인터뷰가 돌연 취소됐다는 소식을 듣게 되고, 신문 1면에서 낯익은 얼굴을 마주하게 되는데…"
+          },
+          {
+            "lang": "ja",
+            "text": "ローマを訪問した某国の王女は儀礼的な行事にうんざり。大使館を飛び出し、一人でローマの街をうろうろしていた彼女は、アメリカ人の新聞記者に出会う。特ダネを狙っていた彼は、彼女が王女だと知りながらも知らない振りをするが、その計画は失敗に終わってしまう。二人が恋に落ちてしまったからだ……。"
+          },
+          {
+            "lang": "pt",
+            "text": "A Princesa Anne embarca numa turnê por diversas capitais europeias e que é altamente explorada pela imprensa. Quando ela e a sua comitiva real chegam em Roma, ela começa a se rebelar contra o seu horário extremamente regrado. Uma noite Anne dá uma escapulida do seu quarto, pula na traseira de um camião de entregas e escapa do seu luxuoso confinamento. No entanto, um sedativo que ela foi forçada a tomar mais cedo começa a fazer efeito, e logo a princesa está prestes a dormir num banco público. Ela é encontrada por Joe Bradley, um repórter de um jornal americano correspondente em Roma. Ele leva-a até o seu apartamento. Na manhã seguinte, Joe corre para cobrir a conferência de imprensa da princesa Anne, sem saber que ela está a dormir no seu sofá. Na hora em que ele percebe a sua boa sorte, Joe promete ao seu editor uma entrevista exclusiva com a princesa."
+          },
+          {
+            "lang": "de",
+            "text": "Auf Staatsbesuch in Rom hat die junge Prinzessin Ann die dauernde Pflicht zum würdevollen Repräsentieren satt. Heimlich schleicht sie sich davon, um die »Ewige Stadt« und das wahre Leben kennen zu lernen. Am Abend schläft sie völlig erschöpft inmitten antiker Ruinen ein. Dort gabelt sie der attraktive Journalist Joe Bradley auf, der jedoch noch keine Ahnung hat, wer da vor ihm liegt, und sie kurzerhand zur Ausnüchterung mit in seine Wohnung schleppt. Als er am nächsten Morgen aufwacht und die Pressekonferenz der Prinzessin abgesagt wird, dämmert ihm, welchen Vogel er da gefangen hat …"
+          },
+          {
+            "lang": "fr",
+            "text": "Les tendres amours, le temps d'une journée, d'une princesse fugueuse et d'un séduisant journaliste américain, dans la Ville éternelle, Rome."
+          },
+          {
+            "lang": "es",
+            "text": "Durante una visita a Roma, Ana, la joven princesa de un pequeño país centroeuropeo que detesta sus obligaciones y desea pasar inadvertida, se escapa de palacio para visitar la ciudad de incógnito. Así conoce a Joe, un periodista americano que busca una exclusiva y finge desconocer su verdadera identidad. La pareja vivirá entonces unas jornadas inolvidables."
+          },
+          {
+            "lang": "en",
+            "text": "Overwhelmed by her suffocating schedule, touring European princess Ann takes off for a night while in Rome. When a sedative she took from her doctor kicks in, however, she falls asleep on a park bench and is found by an American reporter, Joe Bradley, who takes her back to his apartment for safety. At work the next morning, Joe finds out Ann's regal identity and bets his editor he can get exclusive interview with her, but romance soon gets in the way."
+          },
+          {
+            "lang": "zh-hk",
+            "text": "柯德莉夏萍飾演一個嚮往平凡生活的公主，微服私自出官，暢遊羅馬，邂逅了一名記者(格力哥利伯飾)；記者得知她的真正身份後覺得機不可失，欲拿她作獨家新聞，卻不知不覺愛上公主......"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "皇室公主在歐洲各國進行親善訪問，嚮往平凡生活的她趁機偷溜出大使館，想要體驗浪漫的羅馬風情，沒想到意外邂逅美國記者喬伊；喬伊為了獨家新聞，決定帶著公主展開羅馬大冒險，短短一天騎著偉士牌暢遊特萊維噴泉、西班牙廣場、真理之口等風景名勝。這段意外萌發的跨階級戀情，到底會如何收場？  歷經六十年不朽的浪漫經典《羅馬假期》，其實劇本最初是為了好萊塢女星伊莉莎白泰勒所寫，沒想到攝影師在試鏡時忘了關攝影機，奧黛麗赫本與導演威廉惠勒率直互動讓她意外贏得角色，許多試拍片段還成為本片劇情內容；為了配合奧黛麗赫本，不僅男主角從卡萊葛倫換成較年輕的葛雷哥萊畢克，當時當紅的葛雷哥萊畢克甚至還主動建議兩人雙掛頭牌。70 年代好萊塢曾邀兩人拍攝續集，但此企劃並未實現。"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "英国的安妮公主到罗马去访问，国务烦身，但她又厌倦繁文缛节。一天晚上，身心俱疲的她偷偷来到民间欣赏夜景，巧遇报社记者乔。二人把手同游，相当快乐。公主更是到乔的家中作客并在那过夜。不料乔无意中发现了公主的真实身份，他决定炮制一个独家新闻，于是乔偷拍了公主的很多生活照，看到了成名的曙光。然而，在接下来与公主的相处中，乔不知不觉恋上了公主。为了保护公主的形象，乔只能忍痛抛弃功成名就的良机，将照片送予了公主。安妮公主在经历了罗马一日假期后，反而体验了自己对国家的责任，毅然返回了大使馆，为了本身的责任而果断抛弃了爱情。"
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ce6a4ea1-e930-4890-857f-95f944cf49c8.jpg",
         "rating": 8.8,
-        "rating_count": 1532,
+        "rating_count": 1533,
         "rating_distribution": [
           0,
           0,
@@ -6487,6 +7079,12 @@
           },
           {
             "url": "https://movie.douban.com/subject/1293839/"
+          },
+          {
+            "url": "https://www.imdb.com/title/tt0046250/"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q201293"
           }
         ]
       },
@@ -6675,7 +7273,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/141ac4ecd0-60a1-4b48-9c43-a1fb3a42f224.jpg",
         "rating": 8.3,
-        "rating_count": 1624,
+        "rating_count": 1625,
         "rating_distribution": [
           0,
           1,
@@ -7312,7 +7910,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/02/09/ff5b5d50-1e64-423a-b992-6880be257d62.webp",
         "rating": 8.7,
-        "rating_count": 884,
+        "rating_count": 885,
         "rating_distribution": [
           0,
           0,
@@ -7464,7 +8062,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/02/09/4b06c21f-3439-4a71-a88d-3a62ee8d8f3e.webp",
         "rating": 8.3,
-        "rating_count": 822,
+        "rating_count": 823,
         "rating_distribution": [
           0,
           0,
@@ -7636,7 +8234,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/02/09/521f8674-8810-46f3-9a78-a22145369684.webp",
         "rating": 8.1,
-        "rating_count": 1051,
+        "rating_count": 1052,
         "rating_distribution": [
           0,
           0,
@@ -7815,7 +8413,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/133604f9b2-b434-4aa8-92c0-e8f88336e4db.jpg",
         "rating": 9.3,
-        "rating_count": 2561,
+        "rating_count": 2562,
         "rating_distribution": [
           0,
           0,
@@ -8054,7 +8652,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/151cae5e9d-01ae-4f83-a66e-da7e4a2e4923.jpg",
         "rating": 8.2,
-        "rating_count": 283,
+        "rating_count": 284,
         "rating_distribution": [
           0,
           1,
@@ -8469,7 +9067,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155f176840-2af9-4da9-b94b-9ff31d1f45b3.jpg",
         "rating": 8.5,
-        "rating_count": 782,
+        "rating_count": 783,
         "rating_distribution": [
           0,
           0,
@@ -8670,7 +9268,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/156963fe1b-b7c5-48eb-bd54-03d23c3d8c01.jpg",
         "rating": 8.7,
-        "rating_count": 1935,
+        "rating_count": 1936,
         "rating_distribution": [
           0,
           0,
@@ -8879,7 +9477,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/01/e4b2048e-6b85-4488-9859-7c519e74dc60.jpg",
         "rating": 9.2,
-        "rating_count": 2027,
+        "rating_count": 2028,
         "rating_distribution": [
           0,
           0,
@@ -9867,7 +10465,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15f440c10b-6210-43ff-860d-907297628e18.jpg",
         "rating": 7.4,
-        "rating_count": 2302,
+        "rating_count": 2303,
         "rating_distribution": [
           1,
           6,
@@ -11199,6 +11797,30 @@
           {
             "lang": "da",
             "text": "Ved vejs ende"
+          },
+          {
+            "lang": "zh",
+            "text": "野草莓"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "野草莓"
+          },
+          {
+            "lang": "zh-hans",
+            "text": "野草莓"
+          },
+          {
+            "lang": "zh-hant",
+            "text": "野草莓"
+          },
+          {
+            "lang": "zh-sg",
+            "text": "野草莓"
+          },
+          {
+            "lang": "es",
+            "text": "Smultronstället"
           }
         ],
         "localized_description": [
@@ -11245,6 +11867,26 @@
           {
             "lang": "da",
             "text": "Den gamle professor, Isak Borg, er i sin bil på vej til Lund for at blive udnævnt til æresdoktor. Undervejs drømmer han sig tilbage til fortiden og genoplever både de mange jordbærsteder og de store skuffelser, han har mødt gennem sit lange liv. Han erkender, at hans liv på det menneskelige plan har været en fiasko. - I en af Bergmans bedste film ses Victor Sjöström, kendt instruktør fra stumfilmens guldalder, i en uforglemmelig rolle som den angrende professor."
+          },
+          {
+            "lang": "en",
+            "text": "1957 film by Ingmar Bergman"
+          },
+          {
+            "lang": "es",
+            "text": "película de 1957 dirigida por Ingmar Bergman"
+          },
+          {
+            "lang": "fr",
+            "text": "film d’Ingmar Bergman, sorti en 1957"
+          },
+          {
+            "lang": "de",
+            "text": "Film von Ingmar Bergman (1957)"
+          },
+          {
+            "lang": "pt",
+            "text": "filme de 1957 dirigido por Ingmar Bergman"
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/imdb/2023/09/24/81ccb741-f4e2-4ab3-a957-5f99e5e605f5.jpg",
@@ -11298,6 +11940,9 @@
           },
           {
             "url": "https://eggplant.place/movie/5eTTDqtIK4JJw8QIvqp1Gt"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q239756"
           }
         ]
       },
@@ -11705,7 +12350,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ce3e35c1-f475-46ab-9a12-f1cc8cd55c19.jpg",
         "rating": 7.6,
-        "rating_count": 1785,
+        "rating_count": 1786,
         "rating_distribution": [
           0,
           3,
@@ -12041,6 +12686,34 @@
           {
             "lang": "zh-tw",
             "text": "幸福綠皮書"
+          },
+          {
+            "lang": "zh",
+            "text": "幸福綠皮書"
+          },
+          {
+            "lang": "zh-hans",
+            "text": "绿皮书"
+          },
+          {
+            "lang": "zh-sg",
+            "text": "幸福绿皮书"
+          },
+          {
+            "lang": "zh-my",
+            "text": "幸福绿皮书"
+          },
+          {
+            "lang": "de",
+            "text": "Green Book – Eine besondere Freundschaft"
+          },
+          {
+            "lang": "pt",
+            "text": "Green Book"
+          },
+          {
+            "lang": "ja",
+            "text": "グリーン・ブック"
           }
         ],
         "localized_description": [
@@ -12107,11 +12780,43 @@
           {
             "lang": "no",
             "text": ""
+          },
+          {
+            "lang": "zh",
+            "text": "2018年由彼得·法雷利執導的電影"
+          },
+          {
+            "lang": "en",
+            "text": "2018 film by Peter Farrelly"
+          },
+          {
+            "lang": "es",
+            "text": "película de 2018 dirigida por Peter Farrelly"
+          },
+          {
+            "lang": "fr",
+            "text": "film de Peter Farrelly sorti en 2018"
+          },
+          {
+            "lang": "de",
+            "text": "Filmdrama von Peter Farrelly"
+          },
+          {
+            "lang": "pt",
+            "text": "filme de 2018 dirigido por Peter Farrelly"
+          },
+          {
+            "lang": "ja",
+            "text": "2018年のピーター・ファレリー監督によるアメリカ映画"
+          },
+          {
+            "lang": "ko",
+            "text": "2018년 영화"
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/fedi/2025/01/20/9af3d23c-62c9-4794-a514-bd3f69ed9f76.jpg",
         "rating": 8.5,
-        "rating_count": 2476,
+        "rating_count": 2477,
         "rating_distribution": [
           0,
           1,
@@ -12161,6 +12866,9 @@
           },
           {
             "url": "https://eggplant.place/movie/5WQoaBdJ73tQMXiVoHc9QY"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q48673898"
           }
         ]
       },
@@ -12630,6 +13338,46 @@
           {
             "lang": "da",
             "text": "Harry Potter og Fønixordenen"
+          },
+          {
+            "lang": "zh",
+            "text": "哈利波特：鳳凰會的密令"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "哈利波特—鳳凰會的密令"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "哈利波特—鳳凰會的密令"
+          },
+          {
+            "lang": "zh-hans",
+            "text": "哈利·波特与凤凰社"
+          },
+          {
+            "lang": "zh-hant",
+            "text": "哈利波特—鳳凰會的密令"
+          },
+          {
+            "lang": "zh-sg",
+            "text": "哈利波特凤凰会的密令"
+          },
+          {
+            "lang": "es",
+            "text": "Harry Potter y la Orden del Fénix"
+          },
+          {
+            "lang": "pt",
+            "text": "Harry Potter and the Order of the Phoenix"
+          },
+          {
+            "lang": "ja",
+            "text": "ハリー・ポッターと不死鳥の騎士団"
+          },
+          {
+            "lang": "ko",
+            "text": "해리 포터와 불사조 기사단"
           }
         ],
         "localized_description": [
@@ -12668,6 +13416,38 @@
           {
             "lang": "nn",
             "text": ""
+          },
+          {
+            "lang": "zh-hant",
+            "text": "哈利波特系列電影"
+          },
+          {
+            "lang": "en",
+            "text": "2007 film directed by David Yates"
+          },
+          {
+            "lang": "es",
+            "text": "película de 2007 dirigida por David Yates"
+          },
+          {
+            "lang": "fr",
+            "text": "film réalisé par David Yates et sorti en 2007"
+          },
+          {
+            "lang": "de",
+            "text": "Film von David Yates (2007)"
+          },
+          {
+            "lang": "pt",
+            "text": "filme britano-americano de 2007"
+          },
+          {
+            "lang": "ja",
+            "text": "デヴィッド・イェーツ監督の2007年のファンタジー映画"
+          },
+          {
+            "lang": "ko",
+            "text": "2007년 영화"
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15b71e1380-9ed2-4ac2-bf49-d2e2b3c92156.jpg",
@@ -12711,9 +13491,6 @@
         "display_title": "哈利·波特与凤凰社",
         "external_resources": [
           {
-            "url": "https://www.themoviedb.org/movie/675"
-          },
-          {
             "url": "https://movie.douban.com/subject/1457217/"
           },
           {
@@ -12721,6 +13498,12 @@
           },
           {
             "url": "https://minreol.dk/movie/6J0Qoba3ZHckLdWRh9Xj1Z"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q102235"
+          },
+          {
+            "url": "https://www.themoviedb.org/movie/675"
           }
         ]
       },
@@ -12887,12 +13670,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13d7852063-6303-4f45-9781-d2549c492b5c.jpg",
         "rating": 8.1,
-        "rating_count": 1279,
+        "rating_count": 1280,
         "rating_distribution": [
           0,
           1,
           20,
-          49,
+          50,
           27
         ],
         "tags": [
@@ -13024,6 +13807,38 @@
           {
             "lang": "sv",
             "text": "Victor och Josefine"
+          },
+          {
+            "lang": "zh",
+            "text": "熊熊遇見小小鼠"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "花都友奇緣"
+          },
+          {
+            "lang": "es",
+            "text": "Ernest et Célestine"
+          },
+          {
+            "lang": "de",
+            "text": "Ernest & Célestine"
+          },
+          {
+            "lang": "pt",
+            "text": "Ernest & Celestine"
+          },
+          {
+            "lang": "ja",
+            "text": "くまのアーネストおじさんとセレスティーヌ"
+          },
+          {
+            "lang": "ko",
+            "text": "어네스트와 셀레스틴"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "奧尼熊與莎琳鼠"
           }
         ],
         "localized_description": [
@@ -13062,6 +13877,46 @@
           {
             "lang": "sv",
             "text": "I kloakerna, under en värld av stora björnar, lever den lilla musen Josefine i musvärlden. Där är björnhat, tanddyrkan och insamling av bebisbjörnars mjölktänder det viktigaste som finns. Men Josefine vägrar tro att björnarna är hennes fiender. När hon möter vrålhungriga björnen Victor är hon nära att slukas, men efter en örfil och godismutor uppstår en osannolik vänskap."
+          },
+          {
+            "lang": "zh",
+            "text": "2012年動畫電影"
+          },
+          {
+            "lang": "en",
+            "text": "2012 animated movie"
+          },
+          {
+            "lang": "es",
+            "text": "película animada de 2012"
+          },
+          {
+            "lang": "fr",
+            "text": "film sorti en 2012"
+          },
+          {
+            "lang": "de",
+            "text": "Film von Stéphane Aubier (2012)"
+          },
+          {
+            "lang": "ko",
+            "text": "가난하지만 멋진 목소리, 수준급 바이올린 연주가 자랑인 거리의 음악가 '어네스트'(곰)는 오늘도 거리에 나와 연주하지만 매번 외면을 당한다. 한편, 지하세계에 사는 꼬마 '셀레스틴'(생쥐)은 치과의사가 되라는 주변의 압박에 곰의 이빨을 구하러 지상의 세계로 나온다. 절체절명의 순간, 어네스트는 위기에 처한 셀레스틴을 도와주게 되고, 세상에 둘도 없는 절친이 된다. 하지만 서로 다른 세계에 산다는 이유로 곰과 쥐의 우정을 방해하는 세상의 편견에 결국 쫓기는 신세가 되는데…"
+          },
+          {
+            "lang": "ja",
+            "text": "ベルギーの絵本作家ガブリエル・バンサンの代表作で、世界中で親しまれている「くまのアーネストおじさん」シリーズをアニメ映画化。無愛想で大きなくまの音楽家アーネストおじさんと、小さなネズミの女の子セレスティーヌの出会いと冒険、そして種の違いを超えて育まれる関係を描く。優しいタッチでつづられる心温まるストーリーは、第86回アカデミー賞長編アニメ映画賞にノミネートされた  大きなくまの音楽家アーネストおじさんは空腹でゴミ箱をあさっていたとき、小さなねずみの女の子セレスティーヌを見つけて食べようとする。その後セレスティーヌは、アーネストに菓子屋の倉庫に潜り込む方法を教え、難を逃れた。やがて両者の間には、種の違いを超えた友情が芽生えるが……。"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "熊族居於地上，鼠族居於地下，兩種不同動物，習性不同，互相敵視。鼠族中更有一個傳言，說大熊最愛生吞小老鼠，並把熊族稱為“壞蛋大灰熊”。不過，世事無絕對！小鼠妹小莉，天生反叛；不顧父母希望她當牙醫的願望，不去蒐集牙齒，卻愛到處遊玩寫畫。她就不相信所有熊都是壞蛋！直至某一天，她在垃圾桶巧遇大熊安尼，兩人互相幫助並結為朋友，更令她相信並非所有熊族都視小老鼠為食物。然而，熊、鼠兩族的關係，會否因為小莉與安尼的純真友誼而改變？"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "在熊和老鼠的世界，兩者是不可能做朋友的，但奧尼和莎琳卻違反了這個規定。棕熊奧尼靠街頭賣藝維生，在飢腸轆轆的冬日受到老鼠莎琳的幫助得以大快朵頤。兩人各有理想但都有志難伸，莎琳喜歡畫畫卻被迫當牙醫，奧尼喜歡音樂和表演，長輩卻希望他當律師，同病相憐的兩人因此成了好朋友，但也因為竊盜而遭警方緝捕，只好攜手合演「我倆沒有明天」的逃亡戲碼，這份真心最後是否能換來美好的明天？"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "一份跨越种族的深厚感情，一次直触心底的神奇旅程。 从小生活在孤儿院的小老鼠赛娜几经波折，终于从地下鼠国逃出。可是当她跌跌撞撞地来到熊的王国时，却一路受尽鄙夷和白眼。疲惫的小赛娜沉沉地睡在垃圾桶里，一觉惊醒后发现一只体型硕大的大熊正要把她当作晚餐。然而经过此次的风波后，两人很快成为了朋友。原来这只名叫艾特的熊先生是名街头音乐家兼马戏团演员，多才多艺的艾特还从事过很多职业。热情的艾特带着赛娜到家里住，他们彼此扶持理解，相互鼓励帮助。一份看似不可能发生的友谊，正在挑战着现有的秩序和规则，也正慢慢变得越来越深厚坚实。 《艾特熊和赛娜鼠》以温馨的水彩手绘画风和治愈系的内容剧情，荣获2013年第38届凯撒奖最佳动画片，入围2013年第3届北京国际电影节国外展映单元及2012年多伦多电影节“儿童片”展映单元。《艾特熊和赛娜鼠》系列绘本由比利时女作家嘉贝丽·文生创作，多种版本在世界各地畅销200多万册，深受孩子们甚至是成年人的喜爱。"
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1527c82052-2bfc-4d1b-984b-66be09e4a19f.jpg",
@@ -13116,6 +13971,12 @@
           },
           {
             "url": "https://eggplant.place/movie/6MHwlTXYSgnE6GpiKX4O25"
+          },
+          {
+            "url": "https://www.imdb.com/title/tt1816518/"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q3057240"
           }
         ]
       },
@@ -13196,6 +14057,46 @@
           {
             "lang": "zh-tw",
             "text": "教父III"
+          },
+          {
+            "lang": "zh",
+            "text": "教父3"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "教父3"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "教父3"
+          },
+          {
+            "lang": "zh-hans",
+            "text": "教父3"
+          },
+          {
+            "lang": "zh-hant",
+            "text": "教父3"
+          },
+          {
+            "lang": "zh-sg",
+            "text": "教父3"
+          },
+          {
+            "lang": "es",
+            "text": "The Godfather Part III"
+          },
+          {
+            "lang": "fr",
+            "text": "Le Parrain 3"
+          },
+          {
+            "lang": "de",
+            "text": "Der Pate III"
+          },
+          {
+            "lang": "pt",
+            "text": "O Padrinho III"
           }
         ],
         "localized_description": [
@@ -13250,6 +14151,34 @@
           {
             "lang": "zh-cn",
             "text": "转眼间已经是 1979 年，第二代教父麦克·柯里昂到了垂暮之年，为了灵魂的救赎，麦克慢慢结束家族的黑道事业，转投正当生意。麦克的儿子托尼酷爱艺术，无意接手家族事业，迈克尔决定让大哥逊尼的私生子，火爆好色的文森继承家业，当第三代教父。麦克的爱女玛丽和文森相恋，遭到父亲的反对，父女渐渐疏远。为了使家族资产合法化，麦克通过在梵蒂冈教廷的关系网，准备投资“屹立”集团，却遭到敌人的暗中阻挠，教皇的去世也让事情更加扑朔迷离。麦克无奈之下，只能重新选择用暴力解决问题，他的亲人也被卷入了这场血雨腥风。"
+          },
+          {
+            "lang": "zh",
+            "text": "1990年电影"
+          },
+          {
+            "lang": "en",
+            "text": "1990 film by Francis Ford Coppola"
+          },
+          {
+            "lang": "es",
+            "text": "película de 1990 dirigida por Francis Ford Coppola"
+          },
+          {
+            "lang": "fr",
+            "text": "film de Francis Ford Coppola, sorti en 1990"
+          },
+          {
+            "lang": "de",
+            "text": "Film von Francis Ford Coppola (1990)"
+          },
+          {
+            "lang": "pt",
+            "text": "filme de 1990 realizado por Francis Ford Coppola"
+          },
+          {
+            "lang": "ja",
+            "text": "アメリカの映画作品、『ゴッドファーザーシリーズ』の第3作目"
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14eb778691-3d16-4e96-a3f0-97f7660a8adb.jpg",
@@ -13304,6 +14233,9 @@
           },
           {
             "url": "https://www.imdb.com/title/tt0099674/"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q202326"
           }
         ]
       },
@@ -13633,6 +14565,30 @@
           {
             "lang": "zh-tw",
             "text": "大亨小傳"
+          },
+          {
+            "lang": "zh",
+            "text": "了不起的盖茨比"
+          },
+          {
+            "lang": "zh-hans",
+            "text": "了不起的盖茨比"
+          },
+          {
+            "lang": "zh-hant",
+            "text": "大亨小傳"
+          },
+          {
+            "lang": "zh-sg",
+            "text": "大亨小传"
+          },
+          {
+            "lang": "es",
+            "text": "The Great Gatsby"
+          },
+          {
+            "lang": "pt",
+            "text": "The Great Gatsby"
           }
         ],
         "localized_description": [
@@ -13691,11 +14647,43 @@
           {
             "lang": "zh-cn",
             "text": "1922年的春天，作家尼克(托比•马奎尔 Tobey Maguire 饰)满怀希望离开家乡，随淘金热潮来到纽约这个新兴的城市，虽然这里爵士乐流行，股票飞涨，但是贫富两极分化，人们沉沦在纸醉金迷中。尼克为了追寻美国梦，放弃写作而进入证券市场，并搬入纽约附近的海湾居住，成为了神秘富豪盖茨比（莱昂纳多•迪卡普里奥 Leonardo DiCaprio 饰）的邻居。而海湾的对岸住着尼克的表妹黛西（凯瑞•穆里根 Carey Mulligan 饰）和她的贵族丈夫汤姆（乔尔•埃哲顿 Joel Edgerton 饰），尼克不仅被邀请去赴宴，之后汤姆还带着他去找情妇寻欢，尼克渐渐迷失在这个充满魅力，以及富豪编制的假象、爱与谎言的世界中。  但是只有盖茨比最特别，他是唯一让尼克感到在这个迷失城市里充满希望的人。尼克被邀请参加了盖茨比豪宅中的盛宴，还发现盖茨比心中的秘密，原来他一直深爱着黛西，即使她没等到他战后归来，转而嫁给富豪汤姆，盖茨比一直深信他们的爱情矢志不渝。尼克作为盖茨比与黛西爱情的见证者，终于在盖茨比被谋杀之后，看清了这个上流社会的虚情寡义，决心远离喧嚣、冷漠、虚假的大都市，黯然回到故乡……"
+          },
+          {
+            "lang": "zh",
+            "text": "2013年由巴茲·雷曼執導的澳大利亞美國電影"
+          },
+          {
+            "lang": "en",
+            "text": "2013 film directed by Baz Luhrmann"
+          },
+          {
+            "lang": "es",
+            "text": "película de 2013 dirigida por Baz Luhrmann"
+          },
+          {
+            "lang": "fr",
+            "text": "film 2013 par Baz Luhrmann"
+          },
+          {
+            "lang": "de",
+            "text": "Film von Baz Luhrmann (2013)"
+          },
+          {
+            "lang": "pt",
+            "text": "filme de 2013 dirigido por Baz Luhrmann"
+          },
+          {
+            "lang": "ja",
+            "text": "2013年制作のアメリカ、オーストラリアの映画作品"
+          },
+          {
+            "lang": "ko",
+            "text": "2013년 미국 영화"
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/153c3015b5-9fa5-4673-a6d0-49abd1664fa9.jpg",
         "rating": 7.4,
-        "rating_count": 1487,
+        "rating_count": 1488,
         "rating_distribution": [
           0,
           4,
@@ -13748,6 +14736,9 @@
           },
           {
             "url": "https://www.imdb.com/title/tt1343092/"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q892735"
           }
         ]
       },
@@ -14084,12 +15075,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1324f7bdb2-898a-450b-95ca-73c4d1b92011.jpg",
         "rating": 9.2,
-        "rating_count": 1719,
+        "rating_count": 1720,
         "rating_distribution": [
           0,
           0,
           5,
-          26,
+          25,
           67
         ],
         "tags": [
@@ -14267,7 +15258,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1540ca6a04-7e73-4d51-bf03-5e75bb63a8de.jpg",
         "rating": 8.0,
-        "rating_count": 1058,
+        "rating_count": 1059,
         "rating_distribution": [
           0,
           3,
@@ -14377,6 +15368,54 @@
           {
             "lang": "da",
             "text": "Harry Potter og flammernes pokal"
+          },
+          {
+            "lang": "zh",
+            "text": "哈利波特：火盃的考驗"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "哈利波特－火盃的考驗"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "哈利波特－火盃的考驗"
+          },
+          {
+            "lang": "zh-hans",
+            "text": "哈利·波特与火焰杯"
+          },
+          {
+            "lang": "zh-hant",
+            "text": "哈利波特－火盃的考驗"
+          },
+          {
+            "lang": "zh-sg",
+            "text": "哈利波特：火杯的考验"
+          },
+          {
+            "lang": "es",
+            "text": "Harry Potter y el cáliz de fuego"
+          },
+          {
+            "lang": "pt",
+            "text": "Harry Potter e o Cálice de Fogo"
+          },
+          {
+            "lang": "ja",
+            "text": "ハリー・ポッターと炎のゴブレット"
+          },
+          {
+            "lang": "ko",
+            "text": "해리 포터와 불의 잔"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "哈利波特：火盃的考驗"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "哈利波特：火盃的考驗"
           }
         ],
         "localized_description": [
@@ -14415,6 +15454,70 @@
           {
             "lang": "nn",
             "text": ""
+          },
+          {
+            "lang": "zh",
+            "text": "哈利波特系列电影的第四集"
+          },
+          {
+            "lang": "zh-hant",
+            "text": "哈利波特系列電影"
+          },
+          {
+            "lang": "en",
+            "text": "2005 film directed by Mike Newell"
+          },
+          {
+            "lang": "es",
+            "text": "película de 2005 dirigida por Mike Newell"
+          },
+          {
+            "lang": "fr",
+            "text": "film réalisé par Mike Newell et sorti en 2005"
+          },
+          {
+            "lang": "de",
+            "text": "Film von Mike Newell (2005)"
+          },
+          {
+            "lang": "pt",
+            "text": "filme de 2005 dirigido por Mike Newell"
+          },
+          {
+            "lang": "ja",
+            "text": "マイク・ニューウェル監督の2005年のファンタジー映画"
+          },
+          {
+            "lang": "ko",
+            "text": "2005년 마이크 뉴얼 감독의 영국-미국 판타지 영화"
+          },
+          {
+            "lang": "ko",
+            "text": "요즘 들어 매일 꾸는 악몽 때문에 이마의 상처에 더욱 통증을 느끼는 해리는 친구 론과 헤르미온느와 함께 퀴디치 월드컵에 참가해 악몽에서 벗어날 수 있게 돼 마냥 기쁘다. 그러나 퀴디치 캠프장 근방 하늘에 불길한 기운이 나타난다. 바로 마왕 볼드모트의 상징인 어둠의 표식이 나타난 것. 볼드모트가 13년 전에 자취를 감춘 뒤, 감히 모습을 드러내지 못했던 그의 추종자 데스 이터들이 그 표식을 불러낸 것이다. 두려움으로 가득 찬 해리는 안전한 호그와트 마법학교로 돌아가고 싶어한다. 덤블도어 교장이라면 자신을 지켜줄 수 있을 것이기에. 그러나 올해는 예년과 상황이 좀 다른데..."
+          },
+          {
+            "lang": "ja",
+            "text": "ホグワーツ魔法魔術学校の4年生になったハリー・ポッター。今年ホグワーツで伝説の“三大魔法学校対抗試合”が行われることになり、他校の生徒たちが大挙してやってきた。"
+          },
+          {
+            "lang": "pt",
+            "text": "O nome de Harry Potter é extraído do Cálice de Fogo, tornando-se assim num dos concorrentes de Hogwarts que irão disputar a glória e o prestígio no Torneio dos Três Feiticeiros realizado entre as três grandes escolas de feiticeiros e onde terá de enfrentar os alunos mais experientes numa série de desafios. Mas quem inscreveu o nome de Harry, visto que não foi ele? Entretanto, os aliados de Lord Voldermort espalham o pânico durante o Campeonato do Mundo de Quidditch, sinalizando o retorno do malvado bruxo com a Marca Negra. Agora Harry terá de enfrentar um mortífero dragão, lidar com ferozes demónios aquáticos, conquistar um labirinto encantado, e, ainda convidar uma rapariga para o Baile de Inverno, antes de acabar nas garras de Aquele Cujo Nome Não Deve Ser Pronunciado..."
+          },
+          {
+            "lang": "es",
+            "text": "En el cuarto año en Hogwarts, Harry se enfrenta al mayor de los desafíos y peligros de la saga. Cuando es elegido bajo misteriosas circunstancias como el competidor que representará a Hogwarts en el Torneo Triwizard, Harry deberá competir contra los mejores jóvenes magos de toda Europa. Pero mientras se prepara, aparecen pruebas que manifiestan que Lord Voldemort ha regresado. Antes de darse cuenta, Harry no solo estará luchando por el campeonato sino también por su vida"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "當哈利波特的名字從「火盃」中出現，表示他被選中成為＜三巫鬥法大賽＞的其中一位挑戰者。此比賽在魔法界享負盛名，有三間最有名望的魔法學校參與，以極其艱險見稱。可是，哈利從未將自己的名字放進「火盃」裡，究竟是誰幹的呢？現在哈利要與噴火巨龍飛天搏鬥，在深不可測的湖裡與水魔拼命，進入神秘莫測的迷宮的同時，終於免不了要與邪惡的佛地魔正面交鋒。改編自J.K.羅琳原著哈利波特系列第四集，隨著哈利、榮恩與妙麗步入青春期，周遭的變化愈來愈大，所面對的挑戰亦令他們始料不及。"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "霍格華茲魔法學校即將舉行停辦多年的「三巫鬥法大賽」，全校師生為此興奮不已，不過當火盃選出哈利波特作為第四位鬥士時，卻引起全校師生不諒解，憑什麼才14歲的哈利波特能跨越17歲的年齡限制，將自己的名字投入火盃當中？ 百口莫辯的哈利只能承受所有人的猜疑，努力挑戰鬥法大賽三項艱難任務，還得分心應付麗塔史譏不斷出現在預言家日報的不實報導，但是佛地魔的僕人們早就已經盯上哈利波特，隨時準備獵取「仇人之血」，究竟這「三巫鬥法大賽」隱藏了什麼樣驚人的詭計，哈利能否經得起火盃的考驗？！"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "这是一个不同寻常的学期，魔法学校的盛事：三强争霸赛将在霍格沃茨举行。学生们争先报名，希翼获得永恒无上的荣誉。火焰杯在选出三所学校的三名勇士后，竟将未足年龄的哈利也挑选出来。哈利的当选引起其他学生的嫉妒连连，就连铁哥们罗恩也首次和他闹起了别扭，哈利感到孤立无援，还好有教父小天狼星和赫敏一直支持他。可总有些好事者如记者丽塔等着看他的好戏。天知道这场比赛是何等艰辛危险，在龙的眼皮下偷蛋，潜入湖底救人，在迷宫中探险……一不小心，甚至可能付出生命的代价。黑魔王伏地魔的威胁渐渐显现，每一天都险象环生，动人心弦。"
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/159008bab2-fd56-48b7-b553-f0a4d76eef0a.jpg",
@@ -14465,6 +15568,12 @@
           },
           {
             "url": "https://minreol.dk/movie/3feVxmRItkCri9J54cagln"
+          },
+          {
+            "url": "https://www.imdb.com/title/tt0330373/"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q102225"
           }
         ]
       },
@@ -14715,7 +15824,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15d0883f9f-f849-4054-9b49-e021f380f73b.jpg",
         "rating": 6.4,
-        "rating_count": 1367,
+        "rating_count": 1368,
         "rating_distribution": [
           6,
           15,
@@ -14822,6 +15931,58 @@
           {
             "lang": "da",
             "text": "Harry Potter og hemmelighedernes kammer"
+          },
+          {
+            "lang": "zh",
+            "text": "哈利波特：消失的密室"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "哈利波特─消失的密室"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "哈利波特─消失的密室"
+          },
+          {
+            "lang": "zh-hans",
+            "text": "哈利·波特与密室"
+          },
+          {
+            "lang": "zh-hant",
+            "text": "哈利波特─消失的密室"
+          },
+          {
+            "lang": "zh-sg",
+            "text": "哈利波特：消失的密室"
+          },
+          {
+            "lang": "es",
+            "text": "Harry Potter y la cámara secreta"
+          },
+          {
+            "lang": "pt",
+            "text": "Harry Potter and the Chamber of Secrets"
+          },
+          {
+            "lang": "ja",
+            "text": "ハリー・ポッターと秘密の部屋"
+          },
+          {
+            "lang": "ko",
+            "text": "해리 포터와 비밀의 방"
+          },
+          {
+            "lang": "pt",
+            "text": "Harry Potter e a Câmara dos Segredos"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "哈利波特：消失的密室"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "哈利波特：消失的密室"
           }
         ],
         "localized_description": [
@@ -14860,6 +16021,62 @@
           {
             "lang": "nn",
             "text": ""
+          },
+          {
+            "lang": "en",
+            "text": "2002 film directed by Chris Columbus"
+          },
+          {
+            "lang": "es",
+            "text": "película de 2002 dirigida por Chris Columbus"
+          },
+          {
+            "lang": "fr",
+            "text": "film réalisé par Chris Columbus et sorti en 2002"
+          },
+          {
+            "lang": "de",
+            "text": "Film von Chris Columbus (2002)"
+          },
+          {
+            "lang": "pt",
+            "text": "filme de 2002 dirigido por Chris Columbus"
+          },
+          {
+            "lang": "ja",
+            "text": "クリス・コロンバス監督の2002年のファンタジー映画"
+          },
+          {
+            "lang": "ko",
+            "text": "2002년 크리스 콜럼버스 감독의 영미 판타지 영화"
+          },
+          {
+            "lang": "ko",
+            "text": "해리 포터에겐 이번 여름방학이 별로 즐겁질 못했다. 마법이라면 질색을 하는 페투니아 이모와 버논 이모부의 구박도 그렇지만, 무엇보다 속상한 건 단짝이었던 론 위즐리와 헤르미온느 그레인저가 그 사이 자신을 까맣게 잊었는지 자신의 편지에 답장 한 통 없다는 것.  그러던 어느날 꼬마 집요정 도비가 해리의 침실에 나타나 뜻밖의 얘기를 한다. 호그와트 마법학교로 돌아가면 무서운 일을 당할 거라는 것. 도비는 해리를 학교에 못 가게 하려고 자신이 여태까지 론과 헤르미온느의 답장을 가로채 왔음을 고백한다. 그러나 도비와 더즐리 가족의 방해에도 불구, 해리는 론과 그의 형제들이 타고 온 하늘을 나는 자동차를 타고 이모집을 탈출, 따뜻한 가족애가 넘치는 론의 집으로 가는데..."
+          },
+          {
+            "lang": "ja",
+            "text": "ハリーは学校での最初の１年を終え、夏休みをダーズリー一家のもとで過ごしていた。ハリーが相変わらず意地悪な一家に嫌気がさしていたある日、突然ドビーという“屋敷しもべ妖精”が現れる。ドビーはホグワーツへ戻らないよう警告するが、ハリーはそれを聞かずに、助けに来てくれたロンと共にダーズリー家を抜け出した。そして新学期。晴れて２年生となったハリーとロンは、もうひとりの親友ハーマイオニーとも再会し、いつもの充実した学校生活を送っていたが、やがて校内で不気味な出来事が次々と起こり始める…。"
+          },
+          {
+            "lang": "pt",
+            "text": "Harry Potter frequenta o segundo ano da «Hogwarts School», uma escola de bruxarias e feitiços. Ele é visitado por um duende doméstico chamado Dobby que o aconselha a não regressar à escola. Harry ignora este aviso e regressa. Ele continua famoso, mas detestado pelos Slytherins, e ainda mais por Snape e Malfoy. De repente, coisas estranhas começam a acontecer: as pessoas começam a ficar petrificadas e ninguém conhece a causa disso. Entretanto Harry continua a ouvir uma voz... uma voz que parece vir das paredes... lembra-se da história da Câmara dos Segredos - diz-se que só o verdadeiro descendente de Salazar Slytherin será capaz de abri-la..."
+          },
+          {
+            "lang": "es",
+            "text": "Harry regresa a su segundo año a Hogwarts, pero descubre que cosas malas ocurren debido a que un sitio llamado la Cámara de los Secretos ha sido abierto por el heredero de Slytherin y hará que los hijos de muggles, los impuros, aparezcan petrificados misteriosamente por un animal monstruoso."
+          },
+          {
+            "lang": "zh-hk",
+            "text": "新的學年，哈利波特(丹尼爾韋基夫飾)在霍格華茲魔法校園內遇到重重危機; 多比精靈雖然多次阻止哈利返回學校，但哈利與榮恩最後仍能駕駛飛車趕返校園。  在校內接二連三發生意外，學生相繼被石化，牆上亦被塗抹著幾行字跡「密室已經打開。傳人的仇敵們，當心了。」而哈利因為能夠講蛇語更被同學懷疑是那個傳人…哈利今次所面對的黑暗邪惡勢力，表現出他不只是一個出色的魔法師，他還是一位英雄!"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "哈利波特的暑假一點也不好過，不僅要忍受蠻橫的佩妮姨媽（費歐娜蕭）和維農德思禮姨丈（李查葛瑞夫斯），還有德思禮一家人對他魔法的恐懼，他的好友榮恩衛斯理和妙麗格蘭傑也似乎忘了他，連一封信也沒有回給他。接著，家庭精靈多比又突然間神秘地出現在哈利的臥房裡，警告哈利波特如果回到了霍格華茲，他就會有立即的生命危險。 多比急著想阻止這位葛來分多的學生回到魔法與巫術學院，甚至攔截了榮恩和妙麗寫給哈利的所有信件，但是僅管有這個精靈來攪局，榮恩和他的幾個哥哥還是把意志堅定的哈利，從德思禮家人的魔掌中救了出來，開著一輛會飛的車子，接到衛斯理有點破舊卻充滿溫暖的家中。 到了開學當天，哈利和榮恩竟然進不了九又四分之三月台，無法搭上霍格華茲特快車的哈利與榮恩，只好偷開榮恩爸爸的飛天魔法車火速趕往學園，以免趕不上新學期的開學典禮，結果卻撞壞了珍貴的渾拼柳，讓石內卜教授大發雷霆，差點將他們趕出校園。 哈利擊退佛地魔王的英勇事蹟，讓他成了全校師生矚目的焦點，就連榮恩的妹妹金妮（邦妮萊特飾）也對他崇拜有加，但是新來的黑魔法防禦術教授吉德羅洛哈（肯尼斯布萊納飾）也不是省油的燈。他可是連續榮獲「女巫周刊最迷人笑容獎」五週冠軍得主，他的出現搶盡了哈利的風采。 今年的魁地奇球賽也出現葛來分多與史萊哲林的兩大世仇對決的精采比賽，史萊哲林全面更新裝備，新掃帚「光輪2001」的優越性能完全打敗哈利波特去年風光一時的「光輪2000」，史萊哲林站了完全的上風，葛來分多面臨兵敗如山倒的危機，哈利能不能夠扭轉逆勢，為葛來分多爭光？"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "哈利·波特结束了假期，即将回到霍格沃兹继续学习魔法。然而一个叫多比的家养小精灵出现警告哈利不要回到霍格沃兹，否则会陷入极大的危险。哈利没有听从多比的劝告，回到了霍格沃兹。很快，霍格沃兹发生了一连窜怪事：接二连三出现学生被石化，一直找不出原因。而哈利总能听到一种奇怪的声音，从墙壁里传出来。传说，霍格沃兹有一个密室，里面记录着伏地魔年轻时的秘密，只有斯莱特林的继承人才能打开密室。哈利偶然发现自己能听懂蛇说话，一时传闻是哈利打开了密室。难道多比所指的危险就隐藏在密室？"
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15f3e99e45-6b26-4747-a8f2-09f292b8f332.jpg",
@@ -14909,7 +16126,13 @@
             "url": "https://minreol.dk/movie/0RP10OPiauOzJVFlkTKqQQ"
           },
           {
+            "url": "https://www.imdb.com/title/tt0295297/"
+          },
+          {
             "url": "https://movie.douban.com/subject/1296996/"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q102244"
           }
         ]
       },
@@ -15213,13 +16436,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/fedi/2024/10/23/a22a5764-cfb6-4e2f-bbd6-254d0a241f3d.jpg",
         "rating": 8.3,
-        "rating_count": 2597,
+        "rating_count": 2598,
         "rating_distribution": [
           0,
           2,
           18,
-          40,
-          39
+          39,
+          38
         ],
         "tags": [
           "2010s",
@@ -15333,6 +16556,46 @@
           {
             "lang": "da",
             "text": "Harry Potter og de vises sten"
+          },
+          {
+            "lang": "zh",
+            "text": "哈利波特：神秘的魔法石"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "哈利波特─神秘的魔法石"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "哈利波特─神秘的魔法石"
+          },
+          {
+            "lang": "zh-hans",
+            "text": "哈利·波特与魔法石"
+          },
+          {
+            "lang": "zh-hant",
+            "text": "哈利波特─神秘的魔法石"
+          },
+          {
+            "lang": "zh-sg",
+            "text": "哈利波特：神秘的魔法石"
+          },
+          {
+            "lang": "es",
+            "text": "Harry Potter y la piedra filosofal"
+          },
+          {
+            "lang": "pt",
+            "text": "Harry Potter e a Pedra Filosofal"
+          },
+          {
+            "lang": "ja",
+            "text": "ハリー・ポッターと賢者の石"
+          },
+          {
+            "lang": "ko",
+            "text": "해리 포터와 마법사의 돌"
           }
         ],
         "localized_description": [
@@ -15371,6 +16634,34 @@
           {
             "lang": "nn",
             "text": ""
+          },
+          {
+            "lang": "en",
+            "text": "2001 film directed by Chris Columbus"
+          },
+          {
+            "lang": "es",
+            "text": "película de 2001 dirigida por Chris Columbus"
+          },
+          {
+            "lang": "fr",
+            "text": "film réalisé par Chris Columbus et sorti en 2001"
+          },
+          {
+            "lang": "de",
+            "text": "Film von Chris Columbus (2001)"
+          },
+          {
+            "lang": "pt",
+            "text": "filme de 2001"
+          },
+          {
+            "lang": "ja",
+            "text": "クリス・コロンバス監督の2001年のファンタジー映画"
+          },
+          {
+            "lang": "ko",
+            "text": "2001년 크리스 콜럼버스 감독의 영국-미국 판타지 영화"
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/152bbd9498-8051-4931-afbf-4eddc7f9150c.jpg",
@@ -15424,6 +16715,9 @@
           },
           {
             "url": "https://minreol.dk/movie/33ph1kIBRPOxNVmS9tbyZR"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q102438"
           }
         ]
       },
@@ -15670,7 +16964,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/135717365f-c912-4679-9f01-b05fcca43095.jpg",
         "rating": 8.4,
-        "rating_count": 1710,
+        "rating_count": 1711,
         "rating_distribution": [
           0,
           1,
@@ -17014,7 +18308,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15c4f70789-2434-4625-b9ea-fe2a2ff6e621.jpg",
         "rating": 8.3,
-        "rating_count": 1174,
+        "rating_count": 1175,
         "rating_distribution": [
           0,
           2,
@@ -17142,6 +18436,46 @@
           {
             "lang": "es",
             "text": "Cadena perpetua"
+          },
+          {
+            "lang": "zh",
+            "text": "肖申克的救赎"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "月黑高飛"
+          },
+          {
+            "lang": "zh-hans",
+            "text": "肖申克的救赎"
+          },
+          {
+            "lang": "zh-hant",
+            "text": "刺激1995"
+          },
+          {
+            "lang": "zh-sg",
+            "text": "逃狱天才"
+          },
+          {
+            "lang": "zh-my",
+            "text": "逃狱天才"
+          },
+          {
+            "lang": "es",
+            "text": "The Shawshank Redemption"
+          },
+          {
+            "lang": "pt",
+            "text": "The Shawshank Redemption"
+          },
+          {
+            "lang": "ja",
+            "text": "ショーシャンクの空に"
+          },
+          {
+            "lang": "ko",
+            "text": "쇼생크 탈출"
           }
         ],
         "localized_description": [
@@ -17188,17 +18522,77 @@
           {
             "lang": "es",
             "text": "Acusado del asesinato de su mujer, Andrew Dufresne, tras ser condenado a cadena perpetua, es enviado a la prisión de Shawshank. Con el paso de los años conseguirá ganarse la confianza del director del centro y el respeto de sus compañeros presidiarios, especialmente de Red, el jefe de la mafia de los sobornos."
+          },
+          {
+            "lang": "zh",
+            "text": "1994年美國電影"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "1994年美国电影"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "1994年美國電影"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "1994年美國電影"
+          },
+          {
+            "lang": "zh-hans",
+            "text": "1994年美国电影"
+          },
+          {
+            "lang": "zh-hant",
+            "text": "1994年美國電影"
+          },
+          {
+            "lang": "zh-sg",
+            "text": "1994年美国电影"
+          },
+          {
+            "lang": "zh-my",
+            "text": "1994年美国电影"
+          },
+          {
+            "lang": "en",
+            "text": "1994 American drama film directed by Frank Darabont"
+          },
+          {
+            "lang": "es",
+            "text": "película de 1994 dirigida por Frank Darabont"
+          },
+          {
+            "lang": "fr",
+            "text": "film sorti en 1994"
+          },
+          {
+            "lang": "de",
+            "text": "Film von Frank Darabont (1994)"
+          },
+          {
+            "lang": "pt",
+            "text": "filme de 1994 dirigido por Frank Darabont"
+          },
+          {
+            "lang": "ja",
+            "text": "アメリカの映画作品、日本の演劇作品"
+          },
+          {
+            "lang": "ko",
+            "text": "1994년 개봉한 미국의 극영화"
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14e5043627-8e2d-43c0-a6cc-a8e05d8115d3.jpg",
         "rating": 9.4,
-        "rating_count": 2703,
+        "rating_count": 2704,
         "rating_distribution": [
           0,
           0,
           4,
           21,
-          73
+          74
         ],
         "tags": [
           "1990s",
@@ -17245,6 +18639,9 @@
           },
           {
             "url": "https://eggplant.place/movie/2chZtMWVGLJVgf9xg9sVYE"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q172241"
           }
         ]
       },
@@ -17301,6 +18698,54 @@
           {
             "lang": "da",
             "text": "Forrest Gump"
+          },
+          {
+            "lang": "zh",
+            "text": "阿甘正传"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "阿甘正傳"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "阿甘正傳"
+          },
+          {
+            "lang": "zh-hans",
+            "text": "阿甘正传"
+          },
+          {
+            "lang": "zh-hant",
+            "text": "阿甘正傳"
+          },
+          {
+            "lang": "zh-sg",
+            "text": "阿甘正传"
+          },
+          {
+            "lang": "zh-mo",
+            "text": "阿甘正傳"
+          },
+          {
+            "lang": "zh-my",
+            "text": "阿甘正传"
+          },
+          {
+            "lang": "es",
+            "text": "Forrest Gump"
+          },
+          {
+            "lang": "pt",
+            "text": "Forrest Gump"
+          },
+          {
+            "lang": "ja",
+            "text": "フォレスト・ガンプ/一期一会"
+          },
+          {
+            "lang": "ko",
+            "text": "포레스트 검프"
           }
         ],
         "localized_description": [
@@ -17343,11 +18788,43 @@
           {
             "lang": "nb",
             "text": ""
+          },
+          {
+            "lang": "zh",
+            "text": "根据同名小说改编的1994年美国电影"
+          },
+          {
+            "lang": "en",
+            "text": "1994 film directed by Robert Zemeckis"
+          },
+          {
+            "lang": "es",
+            "text": "película de 1994 dirigida por Robert Zemeckis"
+          },
+          {
+            "lang": "fr",
+            "text": "film de Robert Zemeckis, sorti en 1994"
+          },
+          {
+            "lang": "de",
+            "text": "Film von Robert Zemeckis (1994)"
+          },
+          {
+            "lang": "pt",
+            "text": "filme norte-americano de 1994 realizado por Robert Zemeckis"
+          },
+          {
+            "lang": "ja",
+            "text": "アメリカの映画作品"
+          },
+          {
+            "lang": "ko",
+            "text": "1994년 영화"
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13d1567d07-417b-4b7b-8356-5d0b87f43128.jpg",
         "rating": 9.1,
-        "rating_count": 2404,
+        "rating_count": 2406,
         "rating_distribution": [
           0,
           0,
@@ -17400,6 +18877,9 @@
           },
           {
             "url": "https://minreol.dk/movie/1jVYExO0MuLq3Ja8xKrsMD"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q134773"
           }
         ]
       },
@@ -17670,7 +19150,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157eee4ad4-84de-4e92-8fc4-aa4ff42da48f.jpg",
         "rating": 7.9,
-        "rating_count": 1553,
+        "rating_count": 1554,
         "rating_distribution": [
           1,
           3,
@@ -18120,5 +19600,5 @@
   ],
   "count": 135,
   "category": "movie",
-  "updated_at": "2025-08-20T00:58:46.095702"
+  "updated_at": "2025-08-21T00:57:52.209318"
 }

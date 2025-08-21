@@ -1090,7 +1090,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15230a44b5-d9e7-4ed0-9dca-f56d188b2e65.jpg",
         "rating": 9.3,
-        "rating_count": 988,
+        "rating_count": 989,
         "rating_distribution": [
           0,
           0,
@@ -1278,7 +1278,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13f0f1086d-2dd2-4f8b-a1a8-fff29ef19e35.jpg",
         "rating": 9.3,
-        "rating_count": 1278,
+        "rating_count": 1279,
         "rating_distribution": [
           0,
           0,
@@ -2242,7 +2242,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/131b46667b-3905-4bdb-a7ec-441f1126be6d.jpg",
         "rating": 9.0,
-        "rating_count": 1173,
+        "rating_count": 1174,
         "rating_distribution": [
           0,
           0,
@@ -2326,7 +2326,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14138f068a-33d6-4cb0-a556-1112c79ede52.jpg",
         "rating": 9.3,
-        "rating_count": 1624,
+        "rating_count": 1625,
         "rating_distribution": [
           0,
           0,
@@ -2594,12 +2594,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15e12434a1-6ca2-45d1-8a09-9d9291ad77e5.jpg",
         "rating": 8.2,
-        "rating_count": 247,
+        "rating_count": 248,
         "rating_distribution": [
           0,
           2,
           14,
-          51,
+          50,
           31
         ],
         "tags": [
@@ -3327,7 +3327,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13de2367b3-cbe1-4669-996e-e3ef1f5ae43b.jpg",
         "rating": 8.9,
-        "rating_count": 310,
+        "rating_count": 311,
         "rating_distribution": [
           0,
           2,
@@ -4674,7 +4674,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/bangumi/2024/02/24/721c8a8b-f563-4994-b35f-940327755105.jpg",
         "rating": 8.4,
-        "rating_count": 153,
+        "rating_count": 154,
         "rating_distribution": [
           0,
           1,
@@ -4685,7 +4685,7 @@
         "tags": [
           "2023",
           "anime",
-          "disney",
+          "tv",
           "アニメ",
           "人性",
           "冒险",
@@ -4697,7 +4697,6 @@
           "動畫",
           "哲学",
           "好想看",
-          "怪物",
           "悬疑",
           "日本",
           "日本动画",
@@ -5110,12 +5109,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/16/f28d5972-1708-4dd1-a655-d75431e32c33.webp",
         "rating": 9.0,
-        "rating_count": 754,
+        "rating_count": 755,
         "rating_distribution": [
           0,
           0,
           5,
-          33,
+          34,
           59
         ],
         "tags": [
@@ -5206,7 +5205,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/24/a9688316-76fe-4704-add5-ab62c18e523f.webp",
         "rating": 9.3,
-        "rating_count": 678,
+        "rating_count": 679,
         "rating_distribution": [
           0,
           0,
@@ -5661,7 +5660,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/2775557ce8-06f5-4882-a7e4-a3293ba16d3a.jpg",
         "rating": 8.9,
-        "rating_count": 1057,
+        "rating_count": 1058,
         "rating_distribution": [
           0,
           1,
@@ -6867,7 +6866,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1543e536b3-fcc3-44d0-a4da-96eacc5607bf.jpg",
         "rating": 9.6,
-        "rating_count": 475,
+        "rating_count": 476,
         "rating_distribution": [
           0,
           0,
@@ -8865,12 +8864,68 @@
           {
             "lang": "zh-cn",
             "text": "一人之下"
+          },
+          {
+            "lang": "zh",
+            "text": "一人之下"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "一人之下"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "一人之下"
+          },
+          {
+            "lang": "zh-hans",
+            "text": "一人之下"
+          },
+          {
+            "lang": "zh-hant",
+            "text": "一人之下"
+          },
+          {
+            "lang": "en",
+            "text": "Under One Person"
+          },
+          {
+            "lang": "es",
+            "text": "Hitori no Shita: The Outcast"
+          },
+          {
+            "lang": "ja",
+            "text": "一人之下"
+          },
+          {
+            "lang": "ko",
+            "text": "일인지하"
           }
         ],
         "localized_description": [
           {
             "lang": "zh-cn",
             "text": "主人公·张楚岚，某天在墓地遭遇僵尸的袭击。在万分危急的时刻，一个少女出现在了他的面前手里拿着的菜刀将敌人击倒对着放心了得楚岚说道“现在这里有些困境，你就自己面对吧”留下了有着深意的话，离开了。过了几天，在大学上学的张楚岚的面前，又出现了少女的身影。自从那个瞬间，张楚岚激荡的命运便开始向前推进了。"
+          },
+          {
+            "lang": "zh",
+            "text": "日本電視動畫系列"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "中國大陸畫家米二著作的網路漫畫"
+          },
+          {
+            "lang": "zh-hans",
+            "text": "中国大陆网络漫画"
+          },
+          {
+            "lang": "zh-hant",
+            "text": "中國大陸網絡漫畫"
+          },
+          {
+            "lang": "en",
+            "text": "Chinese webcomic/animated series created by writer Dong Man Tang and illustrator Mi Er"
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2023/01/033be87cb9-20e8-43a6-831e-f59c540d018a.jpg",
@@ -8895,6 +8950,9 @@
         "external_resources": [
           {
             "url": "https://www.themoviedb.org/tv/67063"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q25338402"
           }
         ]
       },
@@ -10045,7 +10103,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155c5cd599-d9ed-4144-b6dd-f450ec1edd27.jpg",
         "rating": 9.4,
-        "rating_count": 594,
+        "rating_count": 595,
         "rating_distribution": [
           0,
           0,
@@ -10438,5 +10496,5 @@
   ],
   "count": 111,
   "category": "tv",
-  "updated_at": "2025-08-20T00:58:55.090202"
+  "updated_at": "2025-08-21T00:58:01.713850"
 }
