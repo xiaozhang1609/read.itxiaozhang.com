@@ -1599,13 +1599,7 @@
             "url": "https://eggplant.place/tv/season/7i08GJBQQfau3AlhkFOIex"
           },
           {
-            "url": "https://www.imdb.com/title/tt0877057/"
-          },
-          {
             "url": "https://www.themoviedb.org/tv/13916/season/1"
-          },
-          {
-            "url": "https://www.themoviedb.org/tv/13916"
           }
         ]
       },
@@ -2651,7 +2645,7 @@
       "post_id": 369245289590696536,
       "item": {
         "type": "TVSeason",
-        "title": "Slow Horses (流人 第三季)",
+        "title": "流人 第三季",
         "description": "Apple TV+续订《流人》第三、四季，第三季改编原著系列中的第三本《Real Tigers》。\r\n当Jackson Lamb手下的一员被绑架后，这群废柴间谍合作阻止一名擅自行动的流氓特工。",
         "localized_title": [
           {
@@ -2728,7 +2722,7 @@
         "api_url": "/api/tv/season/3nfveBbMneBefgMBcWhZ3M",
         "category": "tv",
         "parent_uuid": "3pLFQSS1AXXC9vfK4C0AZd",
-        "display_title": "Slow Horses (流人 第三季)",
+        "display_title": "流人 第三季",
         "external_resources": [
           {
             "url": "https://movie.douban.com/subject/35918976/"
@@ -2752,7 +2746,7 @@
       "post_id": 368647580225636168,
       "item": {
         "type": "TVSeason",
-        "title": "Slow Horses (流人 第二季)",
+        "title": "流人 第二季",
         "description": "该剧根据Mick Herron的同名系列小说改编，故事围绕着军情五处内一个不正常的特务组，以及他们讨人厌的老板：臭名满天下的杰克逊·兰姆（加里·奥德曼 饰）。他们在真假难辨的间谍世界中努力着，以保卫英国免受邪恶势力的侵害。",
         "localized_title": [
           {
@@ -2817,7 +2811,7 @@
         "api_url": "/api/tv/season/2Eqn7nsOKfduXHmcvFFLQP",
         "category": "tv",
         "parent_uuid": "3pLFQSS1AXXC9vfK4C0AZd",
-        "display_title": "Slow Horses (流人 第二季)",
+        "display_title": "流人 第二季",
         "external_resources": [
           {
             "url": "https://movie.douban.com/subject/35356697/"
@@ -2838,7 +2832,7 @@
       "post_id": 366664462736868904,
       "item": {
         "type": "TVSeason",
-        "title": "Slow Horses (流人)",
+        "title": "流人 第一季",
         "description": "该剧根据Mick Herron的同名系列小说改编，讲述一队英国情报人员在军情五处的一个垃圾倾倒场Slough House工作。奥德曼饰演才华横溢但脾气暴躁的间谍首领杰克森，因犯错导致职业生涯结束而被关进了这里。",
         "localized_title": [
           {
@@ -2926,7 +2920,7 @@
         "api_url": "/api/tv/season/4ZML2fMKimevs00ZNNZdUL",
         "category": "tv",
         "parent_uuid": "3pLFQSS1AXXC9vfK4C0AZd",
-        "display_title": "Slow Horses (流人)",
+        "display_title": "流人 第一季",
         "external_resources": [
           {
             "url": "https://movie.douban.com/subject/34890017/"
@@ -3122,7 +3116,7 @@
       "post_id": 355213214095120752,
       "item": {
         "type": "TVSeason",
-        "title": "Pachinko (弹子球游戏)",
+        "title": "柏青哥 (弹子球游戏)",
         "description": "苹果正式预订《弹子球游戏》(Pachinko)剧集整季。去年8月苹果拿下了李明锦所著同名小说的版权，计划拍剧，如今正式要拍。Soo Hugh(《天外来客》《穹顶之下》)担任编剧、运作人、执行制作人。\n小说记录了一个美国的韩国移民家庭四代人的希望和梦想，以一段禁忌的爱情故事开始发展，成为一部横跨韩国、日本和美国的长篇传奇。该书被《纽约时报》评为2017年十大最佳书籍之一，并入围美国国家图书奖。",
         "localized_title": [
           {
@@ -3202,7 +3196,7 @@
         "api_url": "/api/tv/season/6lNKNyCtvD4Z5m9rE72U7J",
         "category": "tv",
         "parent_uuid": "0pixoPdgdtGQGTzBB4UyLu",
-        "display_title": "Pachinko (弹子球游戏)",
+        "display_title": "柏青哥 (弹子球游戏)",
         "external_resources": [
           {
             "url": "https://movie.douban.com/subject/30489824/"
@@ -4874,9 +4868,6 @@
         "display_title": "超异能族",
         "external_resources": [
           {
-            "url": "https://movie.douban.com/subject/35206436/"
-          },
-          {
             "url": "https://www.themoviedb.org/tv/126485/season/1"
           }
         ]
@@ -5368,7 +5359,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/19/368cf45a-631c-4500-9ec0-c814f93efe6f.jpg",
         "rating": 7.8,
-        "rating_count": 310,
+        "rating_count": 311,
         "rating_distribution": [
           0,
           6,
@@ -5566,7 +5557,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/03/14/e0cc80de-58b3-4a0c-ba0b-cb1ed25f326a.webp",
         "rating": 8.8,
-        "rating_count": 518,
+        "rating_count": 519,
         "rating_distribution": [
           0,
           0,
@@ -10496,5 +10487,5 @@
   ],
   "count": 111,
   "category": "tv",
-  "updated_at": "2025-08-21T00:58:01.713850"
+  "updated_at": "2025-08-22T00:59:01.000443"
 }
