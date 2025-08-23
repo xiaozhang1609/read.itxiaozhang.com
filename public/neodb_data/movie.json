@@ -138,12 +138,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/190749b4eb-8b3f-4d82-9187-11980f97beb7.jpg",
         "rating": 6.9,
-        "rating_count": 129,
+        "rating_count": 130,
         "rating_distribution": [
           0,
           6,
           49,
-          34,
+          35,
           9
         ],
         "tags": [
@@ -349,7 +349,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16f9e88964-fa39-4855-aef1-96d19143ddd3.jpg",
         "rating": 5.8,
-        "rating_count": 116,
+        "rating_count": 117,
         "rating_distribution": [
           3,
           20,
@@ -438,7 +438,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16ed2dc86f-32ae-4f7b-98be-8bd0982aa66c.jpg",
         "rating": 7.1,
-        "rating_count": 230,
+        "rating_count": 231,
         "rating_distribution": [
           0,
           4,
@@ -793,13 +793,13 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/01/05dd26f370-a0c3-440b-8d66-13035c210125.jpg",
-        "rating": 5.3,
-        "rating_count": 7,
+        "rating": 5.4,
+        "rating_count": 8,
         "rating_distribution": [
           0,
-          42,
-          42,
-          14,
+          37,
+          50,
+          12,
           0
         ],
         "tags": [
@@ -960,7 +960,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2024/01/19/6cd01f5b-102a-4b63-96db-4f38cd0f89a1.webp",
         "rating": 8.9,
-        "rating_count": 353,
+        "rating_count": 354,
         "rating_distribution": [
           0,
           0,
@@ -1166,10 +1166,10 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1663bcc4de-a15c-4d50-a3ab-13f9736bd689.jpg",
         "rating": 6.8,
-        "rating_count": 1139,
+        "rating_count": 1141,
         "rating_distribution": [
           1,
-          10,
+          9,
           41,
           39,
           6
@@ -1290,7 +1290,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/01/01/68e22bdb-a83e-4c24-971c-60ccff6b60d6.webp",
         "rating": 5.7,
-        "rating_count": 117,
+        "rating_count": 118,
         "rating_distribution": [
           6,
           16,
@@ -1303,9 +1303,9 @@
           "2023",
           "中国",
           "刘德华",
-          "剧情",
           "劇情",
           "劉德華",
+          "大陆",
           "庄文强",
           "待定",
           "待定档",
@@ -1494,13 +1494,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/02/02/d801edae-d1f3-499d-8a73-123ce9669780.jpg",
         "rating": 6.8,
-        "rating_count": 467,
+        "rating_count": 472,
         "rating_distribution": [
           5,
           9,
           27,
           38,
-          19
+          18
         ],
         "tags": [
           "2020s",
@@ -1534,10 +1534,25 @@
         "display_title": "哪吒之魔童闹海",
         "external_resources": [
           {
+            "url": "https://www.imdb.com/title/tt34956443/"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q131937861"
+          },
+          {
+            "url": "https://bgm.tv/subject/383308"
+          },
+          {
             "url": "https://fun.oois.xyz/movie/4yLheCvCK9cDrnjQUGv4f3"
           },
           {
             "url": "https://eggplant.place/movie/5WLn14S9cIZ82kbbEtlVSj"
+          },
+          {
+            "url": "https://www.themoviedb.org/movie/980477"
+          },
+          {
+            "url": "https://movie.douban.com/subject/34780991/"
           }
         ]
       },
@@ -1576,7 +1591,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/10/03/db405751-1d78-4d27-83f9-c4cffd81229d.jpg",
         "rating": 4.9,
-        "rating_count": 201,
+        "rating_count": 202,
         "rating_distribution": [
           17,
           26,
@@ -1598,8 +1613,8 @@
           "动作",
           "华语",
           "周冬雨",
+          "和谐国电影",
           "国产",
-          "国产电影",
           "大陆",
           "张艺谋",
           "政治",
@@ -1753,7 +1768,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/05/8722487d-911a-4260-8589-4ea0626eb134.jpg",
         "rating": 5.7,
-        "rating_count": 299,
+        "rating_count": 301,
         "rating_distribution": [
           9,
           19,
@@ -2259,7 +2274,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/163d5bf73e-1783-481b-8aea-b388a9599d4f.jpg",
         "rating": 5.8,
-        "rating_count": 312,
+        "rating_count": 313,
         "rating_distribution": [
           4,
           25,
@@ -2471,11 +2486,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/159aaa290e-3e36-4e6d-b463-ae522aacb61c.jpg",
         "rating": 6.3,
-        "rating_count": 680,
+        "rating_count": 682,
         "rating_distribution": [
           2,
           15,
-          48,
+          49,
           29,
           3
         ],
@@ -2949,7 +2964,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157db3a5a2-27ff-4d77-a079-7ed0bca9e5fa.jpg",
         "rating": 7.8,
-        "rating_count": 414,
+        "rating_count": 416,
         "rating_distribution": [
           0,
           2,
@@ -3063,13 +3078,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16f2e44866-8c28-4b34-bc92-ead641a169db.jpg",
         "rating": 6.6,
-        "rating_count": 140,
+        "rating_count": 141,
         "rating_distribution": [
           1,
-          10,
-          50,
+          9,
+          51,
           32,
-          5
+          4
         ],
         "tags": [
           "1990s",
@@ -3820,7 +3835,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1547b89f8e-94c0-435e-8c7f-6b4513db2842.jpg",
         "rating": 7.1,
-        "rating_count": 1200,
+        "rating_count": 1202,
         "rating_distribution": [
           0,
           5,
@@ -4090,7 +4105,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15a47c8284-e2de-42cb-8e53-3066c6a3f0f1.jpg",
         "rating": 7.2,
-        "rating_count": 877,
+        "rating_count": 879,
         "rating_distribution": [
           1,
           4,
@@ -4179,13 +4194,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2023/01/04283a5ecf-ec09-4faf-ac97-ed75bcec81f2.jpg",
         "rating": 7.3,
-        "rating_count": 30,
+        "rating_count": 31,
         "rating_distribution": [
           0,
           6,
-          30,
-          43,
-          20
+          29,
+          45,
+          19
         ],
         "tags": [
           "2022",
@@ -4349,7 +4364,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/baef0c81-b856-4abc-b925-257083bb160b.jpg",
         "rating": 7.8,
-        "rating_count": 394,
+        "rating_count": 395,
         "rating_distribution": [
           0,
           3,
@@ -4740,7 +4755,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16a9b1481d-33ff-447c-a17f-c81613bc4c9d.jpg",
         "rating": 6.7,
-        "rating_count": 164,
+        "rating_count": 165,
         "rating_distribution": [
           1,
           10,
@@ -4956,7 +4971,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/162e094de9-a053-42fe-93d8-a2916a0bc1d5.jpg",
         "rating": 7.7,
-        "rating_count": 340,
+        "rating_count": 341,
         "rating_distribution": [
           0,
           2,
@@ -5131,19 +5146,20 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2024/09/29/b217c2bf-2048-4dab-abd2-1c85ce1ec30d.webp",
-        "rating": 6.4,
-        "rating_count": 15,
+        "rating": 6.2,
+        "rating_count": 16,
         "rating_distribution": [
           0,
-          13,
-          40,
-          46,
+          18,
+          37,
+          43,
           0
         ],
         "tags": [
           "2020s",
           "2024",
           "政治",
+          "泡菜电影",
           "韩国"
         ],
         "brief": "《幸福的国家》（韩语：행복의 나라，英语：The Land of Happiness）是一部即将上映的韩国剧情片，由《光海，成为王的男人》导演秋昌民执导，曹政奭、李善均、刘宰明主演。该片讲述一位律师为拯救卷入动摇现代史事件中的一个人物而全力以赴的故事，计划2023年在韩国上映。",
@@ -5256,12 +5272,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15b1a129f9-80cf-44a4-b61d-574ad0aa49b5.jpg",
         "rating": 8.0,
-        "rating_count": 187,
+        "rating_count": 188,
         "rating_distribution": [
           0,
           2,
-          17,
-          56,
+          18,
+          55,
           23
         ],
         "tags": [
@@ -5472,13 +5488,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/05/13/83ddf8d2-1a66-4ead-b4f5-7aa67044170b.webp",
         "rating": 7.6,
-        "rating_count": 334,
+        "rating_count": 335,
         "rating_distribution": [
           0,
           0,
           29,
           56,
-          12
+          13
         ],
         "tags": [
           "1990s",
@@ -5672,7 +5688,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14e13c0daf-a37b-44be-90ba-9c071890a000.jpg",
         "rating": 8.0,
-        "rating_count": 453,
+        "rating_count": 454,
         "rating_distribution": [
           0,
           2,
@@ -5890,7 +5906,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/05/14/c6b6a72c-2a26-487c-9c3f-54c23cf4ca9e.webp",
         "rating": 8.8,
-        "rating_count": 2472,
+        "rating_count": 2474,
         "rating_distribution": [
           0,
           1,
@@ -6362,7 +6378,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16813dc7bf-5580-4d43-8f61-197bf9df97db.jpg",
         "rating": 6.7,
-        "rating_count": 527,
+        "rating_count": 528,
         "rating_distribution": [
           2,
           8,
@@ -6648,7 +6664,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16576eaa1d-477c-4067-8214-d0a4169e7018.jpg",
         "rating": 7.2,
-        "rating_count": 677,
+        "rating_count": 679,
         "rating_distribution": [
           0,
           2,
@@ -6942,7 +6958,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/137d43a199-d8ef-492d-afce-13268e85133a.jpg",
         "rating": 7.8,
-        "rating_count": 898,
+        "rating_count": 900,
         "rating_distribution": [
           0,
           1,
@@ -7155,7 +7171,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ef885c05-3eb7-48f9-8a51-ffc98674447b.jpg",
         "rating": 8.1,
-        "rating_count": 737,
+        "rating_count": 738,
         "rating_distribution": [
           0,
           2,
@@ -7279,12 +7295,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/12/11f9d3bf28-48c9-40a7-944b-6a3083c3d41b.jpg",
         "rating": 7.5,
-        "rating_count": 39,
+        "rating_count": 40,
         "rating_distribution": [
           0,
           2,
           35,
-          43,
+          45,
           17
         ],
         "tags": [
@@ -7295,6 +7311,7 @@
           "关之琳",
           "动作",
           "历史",
+          "和谐国电影",
           "武侠",
           "洪金宝",
           "狄龙",
@@ -7442,7 +7459,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/05/05/ff4458fb-b949-416c-833f-def4a33e1a74.webp",
         "rating": 8.0,
-        "rating_count": 476,
+        "rating_count": 477,
         "rating_distribution": [
           0,
           0,
@@ -7646,7 +7663,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15a5cb7008-acae-4a3b-8d5d-581355037dcf.jpg",
         "rating": 7.4,
-        "rating_count": 1481,
+        "rating_count": 1482,
         "rating_distribution": [
           0,
           5,
@@ -7886,7 +7903,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/138d1723f9-e106-4e8e-b490-3cd2ed271cae.jpg",
         "rating": 8.2,
-        "rating_count": 1722,
+        "rating_count": 1724,
         "rating_distribution": [
           0,
           0,
@@ -8092,7 +8109,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15e76bca99-667d-4bc2-a4ba-140d9ac4572d.jpg",
         "rating": 7.2,
-        "rating_count": 683,
+        "rating_count": 684,
         "rating_distribution": [
           0,
           4,
@@ -8331,7 +8348,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/156bbc2ea2-fc09-440a-bb29-83dd0339574a.jpg",
         "rating": 6.7,
-        "rating_count": 1347,
+        "rating_count": 1349,
         "rating_distribution": [
           2,
           10,
@@ -8450,12 +8467,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/07/01/f929217a-3c36-4a6e-8885-64fc07476424.webp",
         "rating": 6.1,
-        "rating_count": 329,
+        "rating_count": 330,
         "rating_distribution": [
           7,
           12,
           38,
-          34,
+          33,
           6
         ],
         "tags": [
@@ -8469,12 +8486,12 @@
           "人生",
           "剧情",
           "华语",
+          "和谐国电影",
           "喜剧",
           "国内电影",
           "大陆",
           "家庭",
           "开心麻花",
-          "彭大魔",
           "搞笑",
           "电影",
           "闫非",
@@ -8618,7 +8635,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15a2f45055-f7fd-4e4c-ba2b-c9438595671d.jpg",
         "rating": 8.0,
-        "rating_count": 800,
+        "rating_count": 801,
         "rating_distribution": [
           0,
           1,
@@ -8789,13 +8806,13 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16e3ccb10b-b6d0-495a-b83d-7361ed7c0d95.jpg",
-        "rating": 6.9,
-        "rating_count": 44,
+        "rating": 7.0,
+        "rating_count": 45,
         "rating_distribution": [
           0,
           6,
-          43,
-          45,
+          42,
+          46,
           4
         ],
         "tags": [
@@ -9144,13 +9161,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/06/13/1459633f-7dd6-4a23-8086-178f4f771342.webp",
         "rating": 7.0,
-        "rating_count": 31,
+        "rating_count": 32,
         "rating_distribution": [
           0,
           3,
-          45,
-          35,
-          16
+          46,
+          34,
+          15
         ],
         "tags": [
           "2020s",
@@ -9161,6 +9178,7 @@
           "人性",
           "剧情",
           "医患",
+          "和谐国电影",
           "喜剧",
           "家庭",
           "温情",
@@ -9365,7 +9383,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16bb1ed25a-5722-42bb-be24-ddd0ba0b863c.jpg",
         "rating": 7.7,
-        "rating_count": 757,
+        "rating_count": 758,
         "rating_distribution": [
           0,
           2,
@@ -9600,7 +9618,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1545970c8e-eab8-44ee-bed4-95852c1226c8.jpg",
         "rating": 7.0,
-        "rating_count": 759,
+        "rating_count": 760,
         "rating_distribution": [
           0,
           5,
@@ -10015,7 +10033,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13676fe4c9-0bb8-4ba4-88d9-109f12d316f1.jpg",
         "rating": 9.5,
-        "rating_count": 1409,
+        "rating_count": 1411,
         "rating_distribution": [
           0,
           0,
@@ -10238,7 +10256,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ce6a4ea1-e930-4890-857f-95f944cf49c8.jpg",
         "rating": 8.8,
-        "rating_count": 1533,
+        "rating_count": 1535,
         "rating_distribution": [
           0,
           0,
@@ -10398,7 +10416,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/159f8910db-b66d-47a4-bfe2-681b9b942ab5.jpg",
         "rating": 7.6,
-        "rating_count": 1101,
+        "rating_count": 1102,
         "rating_distribution": [
           0,
           4,
@@ -10789,13 +10807,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/08/09/d546187f-bf96-4341-a492-99bc987de142.jpg",
         "rating": 7.6,
-        "rating_count": 211,
+        "rating_count": 213,
         "rating_distribution": [
           2,
           3,
           20,
           44,
-          28
+          29
         ],
         "tags": [
           "2020s",
@@ -10989,7 +11007,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1616db63d8-fedf-4ed2-9af3-f433bd8aedff.jpg",
         "rating": 7.9,
-        "rating_count": 470,
+        "rating_count": 471,
         "rating_distribution": [
           0,
           1,
@@ -11181,7 +11199,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/02/09/99387773-4bce-49ab-97a8-142495cdbcb7.webp",
         "rating": 7.1,
-        "rating_count": 613,
+        "rating_count": 615,
         "rating_distribution": [
           0,
           4,
@@ -11401,10 +11419,10 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/02/09/a0bfb9c4-f0fd-4101-830d-0c1b988c93b7.webp",
         "rating": 6.4,
-        "rating_count": 439,
+        "rating_count": 441,
         "rating_distribution": [
           2,
-          11,
+          12,
           53,
           28,
           4
@@ -11664,7 +11682,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/02/09/ff5b5d50-1e64-423a-b992-6880be257d62.webp",
         "rating": 8.7,
-        "rating_count": 885,
+        "rating_count": 887,
         "rating_distribution": [
           0,
           0,
@@ -11934,7 +11952,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/02/09/4b06c21f-3439-4a71-a88d-3a62ee8d8f3e.webp",
         "rating": 8.3,
-        "rating_count": 823,
+        "rating_count": 825,
         "rating_distribution": [
           0,
           0,
@@ -12208,7 +12226,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/02/09/521f8674-8810-46f3-9a78-a22145369684.webp",
         "rating": 8.1,
-        "rating_count": 1052,
+        "rating_count": 1054,
         "rating_distribution": [
           0,
           0,
@@ -12465,7 +12483,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/133604f9b2-b434-4aa8-92c0-e8f88336e4db.jpg",
         "rating": 9.3,
-        "rating_count": 2562,
+        "rating_count": 2564,
         "rating_distribution": [
           0,
           0,
@@ -12714,7 +12732,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14151af899-4ee7-4466-87a9-4f9f993aa929.jpg",
         "rating": 7.0,
-        "rating_count": 236,
+        "rating_count": 237,
         "rating_distribution": [
           0,
           9,
@@ -13028,12 +13046,12 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/05/27/9a7c62bf-714d-4f6c-a97b-2404adef3642.webp",
-        "rating": 7.7,
-        "rating_count": 153,
+        "rating": 7.6,
+        "rating_count": 154,
         "rating_distribution": [
           0,
-          0,
-          26,
+          1,
+          25,
           50,
           22
         ],
@@ -13048,11 +13066,11 @@
           "儿童",
           "内地",
           "剧情",
+          "和谐国电影",
           "喜剧",
           "喜劇",
           "国产电影",
           "国内电影",
-          "大陆",
           "奇幻",
           "成长",
           "王子川",
@@ -13218,7 +13236,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/154c5a960d-1ca7-4edb-a221-7e4e0d5af43f.jpg",
         "rating": 8.6,
-        "rating_count": 879,
+        "rating_count": 880,
         "rating_distribution": [
           0,
           0,
@@ -13450,16 +13468,17 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16bb45fc78-01bd-4c6d-88f2-4b6b4135eeec.jpg",
         "rating": 7.0,
-        "rating_count": 78,
+        "rating_count": 79,
         "rating_distribution": [
           0,
           3,
-          44,
+          45,
           43,
           7
         ],
         "tags": [
           "2020",
+          "2020s",
           "7",
           "aa",
           "amyadams",
@@ -13468,7 +13487,6 @@
           "传记",
           "剧情",
           "四星",
-          "地区 美国",
           "家庭",
           "年代 2020s",
           "改编",
@@ -13590,7 +13608,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155f176840-2af9-4da9-b94b-9ff31d1f45b3.jpg",
         "rating": 8.5,
-        "rating_count": 783,
+        "rating_count": 784,
         "rating_distribution": [
           0,
           0,
@@ -13862,7 +13880,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/156963fe1b-b7c5-48eb-bd54-03d23c3d8c01.jpg",
         "rating": 8.7,
-        "rating_count": 1936,
+        "rating_count": 1938,
         "rating_distribution": [
           0,
           0,
@@ -14146,7 +14164,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/01/e4b2048e-6b85-4488-9859-7c519e74dc60.jpg",
         "rating": 9.2,
-        "rating_count": 2028,
+        "rating_count": 2030,
         "rating_distribution": [
           0,
           0,
@@ -14453,10 +14471,10 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/10/20/1da820fd-8dfc-40c4-95b4-84aaa71ee443.webp",
         "rating": 6.6,
-        "rating_count": 387,
+        "rating_count": 388,
         "rating_distribution": [
           3,
-          9,
+          10,
           38,
           39,
           8
@@ -14669,7 +14687,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/9c60c854-c003-4fde-8112-218faee891da.jpg",
         "rating": 8.8,
-        "rating_count": 1072,
+        "rating_count": 1074,
         "rating_distribution": [
           0,
           0,
@@ -14829,7 +14847,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/02/11/279d76f8-a2a0-4bca-8893-0e040c0f673e.jpg",
         "rating": 6.8,
-        "rating_count": 165,
+        "rating_count": 166,
         "rating_distribution": [
           1,
           7,
@@ -14849,7 +14867,7 @@
           "人性",
           "刑侦",
           "剧情",
-          "华影",
+          "国产",
           "国内电影",
           "大陆",
           "戴墨",
@@ -15057,7 +15075,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1342c2c8f4-6447-4008-9f51-2fcd641c4799.jpg",
         "rating": 7.8,
-        "rating_count": 1737,
+        "rating_count": 1738,
         "rating_distribution": [
           0,
           2,
@@ -15292,7 +15310,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/07/5c08ca37-111a-4d69-847a-6590365d31e7.jpg",
         "rating": 6.3,
-        "rating_count": 764,
+        "rating_count": 765,
         "rating_distribution": [
           5,
           14,
@@ -15518,7 +15536,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15f440c10b-6210-43ff-860d-907297628e18.jpg",
         "rating": 7.4,
-        "rating_count": 2305,
+        "rating_count": 2307,
         "rating_distribution": [
           1,
           6,
@@ -15679,7 +15697,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/07/be012b58-ed0a-4750-b71d-03b0f59276a6.jpg",
         "rating": 7.7,
-        "rating_count": 1067,
+        "rating_count": 1068,
         "rating_distribution": [
           2,
           2,
@@ -16151,7 +16169,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/c50f391f-f017-4478-ae8c-ff4cd460e2c2.jpg",
         "rating": 8.0,
-        "rating_count": 1114,
+        "rating_count": 1115,
         "rating_distribution": [
           0,
           2,
@@ -16326,7 +16344,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/12/0838bda30b-4624-44fc-a506-fe2dec0f453c.jpg",
         "rating": 8.1,
-        "rating_count": 1050,
+        "rating_count": 1051,
         "rating_distribution": [
           1,
           2,
@@ -16617,7 +16635,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/7a48ff6e-aae2-458e-9b35-523ece2badfb.jpg",
         "rating": 8.3,
-        "rating_count": 883,
+        "rating_count": 884,
         "rating_distribution": [
           0,
           1,
@@ -16765,7 +16783,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/02/0877652c-19db-4f9b-8be5-e8645b18db8b.jpg",
         "rating": 7.0,
-        "rating_count": 344,
+        "rating_count": 345,
         "rating_distribution": [
           4,
           11,
@@ -16893,11 +16911,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/05/13c80ca032-f642-4ed2-86c0-94704a240cf0.jpg",
         "rating": 7.0,
-        "rating_count": 275,
+        "rating_count": 276,
         "rating_distribution": [
           1,
           6,
-          37,
+          38,
           45,
           8
         ],
@@ -17021,11 +17039,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/12/01ee3e9dc1-74b7-4420-ad90-84759f7092e4.webp",
         "rating": 5.8,
-        "rating_count": 456,
+        "rating_count": 457,
         "rating_distribution": [
           7,
           19,
-          46,
+          45,
           23,
           3
         ],
@@ -17585,7 +17603,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/131f51610c-f166-4ba3-a734-bf089151525e.jpg",
         "rating": 9.2,
-        "rating_count": 501,
+        "rating_count": 502,
         "rating_distribution": [
           0,
           0,
@@ -18077,7 +18095,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/152e6e9667-35c2-499e-b909-50b6c5601160.jpg",
         "rating": 6.8,
-        "rating_count": 1459,
+        "rating_count": 1461,
         "rating_distribution": [
           1,
           10,
@@ -18344,10 +18362,10 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ce3e35c1-f475-46ab-9a12-f1cc8cd55c19.jpg",
         "rating": 7.6,
-        "rating_count": 1786,
+        "rating_count": 1787,
         "rating_distribution": [
           0,
-          3,
+          4,
           30,
           48,
           17
@@ -18618,7 +18636,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/05/09/93138ddf-92a7-4fda-9d04-92f9b197d65c.webp",
         "rating": 7.6,
-        "rating_count": 484,
+        "rating_count": 486,
         "rating_distribution": [
           0,
           2,
@@ -18895,12 +18913,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/fedi/2025/01/20/9af3d23c-62c9-4794-a514-bd3f69ed9f76.jpg",
         "rating": 8.5,
-        "rating_count": 2477,
+        "rating_count": 2479,
         "rating_distribution": [
           0,
           1,
           12,
-          46,
+          45,
           40
         ],
         "tags": [
@@ -19106,7 +19124,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15affe23a3-1204-4716-aa76-c044574b08f8.jpg",
         "rating": 6.8,
-        "rating_count": 302,
+        "rating_count": 303,
         "rating_distribution": [
           1,
           11,
@@ -19406,7 +19424,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13a47e43fe-9ea3-43ca-a9e2-808483a6598b.jpg",
         "rating": 7.9,
-        "rating_count": 1542,
+        "rating_count": 1544,
         "rating_distribution": [
           0,
           2,
@@ -19660,7 +19678,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15dcceff27-b10e-4149-9673-022b83f75410.jpg",
         "rating": 8.6,
-        "rating_count": 1774,
+        "rating_count": 1776,
         "rating_distribution": [
           0,
           1,
@@ -19886,7 +19904,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15b71e1380-9ed2-4ac2-bf49-d2e2b3c92156.jpg",
         "rating": 7.7,
-        "rating_count": 1531,
+        "rating_count": 1533,
         "rating_distribution": [
           0,
           3,
@@ -20164,13 +20182,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13d7852063-6303-4f45-9781-d2549c492b5c.jpg",
         "rating": 8.1,
-        "rating_count": 1280,
+        "rating_count": 1282,
         "rating_distribution": [
           0,
           1,
           20,
-          50,
-          27
+          49,
+          28
         ],
         "tags": [
           "2000s",
@@ -20680,7 +20698,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14eb778691-3d16-4e96-a3f0-97f7660a8adb.jpg",
         "rating": 8.8,
-        "rating_count": 811,
+        "rating_count": 812,
         "rating_distribution": [
           0,
           0,
@@ -20883,7 +20901,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/145f861699-f73a-4881-8146-9f775950635b.jpg",
         "rating": 9.0,
-        "rating_count": 1310,
+        "rating_count": 1312,
         "rating_distribution": [
           0,
           0,
@@ -21119,7 +21137,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14f252245f-7496-4c2e-80d3-be5538201552.jpg",
         "rating": 9.1,
-        "rating_count": 1076,
+        "rating_count": 1077,
         "rating_distribution": [
           0,
           0,
@@ -21373,7 +21391,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/153c3015b5-9fa5-4673-a6d0-49abd1664fa9.jpg",
         "rating": 7.4,
-        "rating_count": 1488,
+        "rating_count": 1490,
         "rating_distribution": [
           0,
           4,
@@ -21705,7 +21723,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14d28366c5-e2a3-43eb-b6f5-51d60fca3330.jpg",
         "rating": 7.1,
-        "rating_count": 1748,
+        "rating_count": 1750,
         "rating_distribution": [
           0,
           6,
@@ -21920,7 +21938,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1324f7bdb2-898a-450b-95ca-73c4d1b92011.jpg",
         "rating": 9.2,
-        "rating_count": 1720,
+        "rating_count": 1721,
         "rating_distribution": [
           0,
           0,
@@ -22138,7 +22156,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1540ca6a04-7e73-4d51-bf03-5e75bb63a8de.jpg",
         "rating": 8.0,
-        "rating_count": 1060,
+        "rating_count": 1061,
         "rating_distribution": [
           0,
           3,
@@ -22405,7 +22423,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/159008bab2-fd56-48b7-b553-f0a4d76eef0a.jpg",
         "rating": 8.1,
-        "rating_count": 1608,
+        "rating_count": 1610,
         "rating_distribution": [
           0,
           1,
@@ -22635,7 +22653,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1342d14337-0e7e-42e2-b3f5-d92f0903d33f.jpg",
         "rating": 8.5,
-        "rating_count": 1745,
+        "rating_count": 1747,
         "rating_distribution": [
           0,
           0,
@@ -22818,7 +22836,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15d0883f9f-f849-4054-9b49-e021f380f73b.jpg",
         "rating": 6.4,
-        "rating_count": 1368,
+        "rating_count": 1370,
         "rating_distribution": [
           6,
           15,
@@ -23078,7 +23096,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15f3e99e45-6b26-4747-a8f2-09f292b8f332.jpg",
         "rating": 8.3,
-        "rating_count": 1744,
+        "rating_count": 1746,
         "rating_distribution": [
           0,
           1,
@@ -23312,7 +23330,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/154d17b8a4-2b9e-4a69-8f43-7eb6894ffbc5.jpg",
         "rating": 7.5,
-        "rating_count": 766,
+        "rating_count": 767,
         "rating_distribution": [
           0,
           3,
@@ -23587,13 +23605,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/fedi/2024/10/23/a22a5764-cfb6-4e2f-bbd6-254d0a241f3d.jpg",
         "rating": 8.3,
-        "rating_count": 2598,
+        "rating_count": 2600,
         "rating_distribution": [
           0,
           2,
           18,
           39,
-          38
+          39
         ],
         "tags": [
           "2010s",
@@ -23820,7 +23838,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/152bbd9498-8051-4931-afbf-4eddc7f9150c.jpg",
         "rating": 8.7,
-        "rating_count": 2177,
+        "rating_count": 2180,
         "rating_distribution": [
           0,
           0,
@@ -24164,26 +24182,6 @@
             "text": "功夫"
           },
           {
-            "lang": "zh-hans",
-            "text": "功夫"
-          },
-          {
-            "lang": "zh-hant",
-            "text": "功夫"
-          },
-          {
-            "lang": "zh-sg",
-            "text": "功夫"
-          },
-          {
-            "lang": "zh-mo",
-            "text": "功夫"
-          },
-          {
-            "lang": "zh-my",
-            "text": "功夫"
-          },
-          {
             "lang": "en",
             "text": "Kung Fu Hustle"
           },
@@ -24214,76 +24212,12 @@
           {
             "lang": "fr",
             "text": "Crazy Kung‐Fu"
-          },
-          {
-            "lang": "cn",
-            "text": "功夫"
           }
         ],
         "localized_description": [
           {
             "lang": "zh-cn",
             "text": "1940年代的上海，自小受尽欺辱的街头混混阿星（周星驰）为了能出人头地，可谓窥见机会的缝隙就往里钻，今次他盯上行动日益猖獗的黑道势力“斧头帮”，想借之大名成就大业。\n阿星假冒“斧头帮”成员试图在一个叫“猪笼城寨”的地方对居民敲诈，不想引来真的“斧头帮”与“猪笼城寨”居民的恩怨。“猪笼城寨”原是藏龙卧虎之处，居民中有许多身怀绝技者（元华、梁小龙等），他们隐藏于此本是为远离江湖恩怨，不想麻烦自动上身，躲都躲不及。而在观战正邪两派的斗争中，阿星逐渐领悟功夫的真谛。"
-          },
-          {
-            "lang": "zh",
-            "text": "2004年香港電影"
-          },
-          {
-            "lang": "zh-cn",
-            "text": "2004年周星驰电影"
-          },
-          {
-            "lang": "zh-tw",
-            "text": "2004年香港電影"
-          },
-          {
-            "lang": "zh-hk",
-            "text": "2004年香港電影"
-          },
-          {
-            "lang": "zh-hans",
-            "text": "2004年周星驰电影"
-          },
-          {
-            "lang": "zh-hant",
-            "text": "2004年香港電影"
-          },
-          {
-            "lang": "zh-sg",
-            "text": "2004年周星驰电影"
-          },
-          {
-            "lang": "zh-mo",
-            "text": "2004年香港電影"
-          },
-          {
-            "lang": "zh-my",
-            "text": "2004年周星驰电影"
-          },
-          {
-            "lang": "en",
-            "text": "2004 Hong Kong film directed by Stephen Chow"
-          },
-          {
-            "lang": "es",
-            "text": "película de 2004 dirigida por Stephen Chow"
-          },
-          {
-            "lang": "fr",
-            "text": "film sorti en 2004"
-          },
-          {
-            "lang": "de",
-            "text": "Film von Stephen Chow (2004)"
-          },
-          {
-            "lang": "pt",
-            "text": "Filme chinês"
-          },
-          {
-            "lang": "ko",
-            "text": "2004년 홍콩 영화"
           },
           {
             "lang": "ko",
@@ -24316,7 +24250,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/135717365f-c912-4679-9f01-b05fcca43095.jpg",
         "rating": 8.4,
-        "rating_count": 1711,
+        "rating_count": 1713,
         "rating_distribution": [
           0,
           1,
@@ -24403,7 +24337,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16fc9ee12a-ef5f-460d-ae93-831dd06c61ce.jpg",
         "rating": 7.6,
-        "rating_count": 392,
+        "rating_count": 393,
         "rating_distribution": [
           1,
           1,
@@ -24537,7 +24471,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/01/23/79ffd6de-30f3-40ca-a2d5-0c03eaf97e37.webp",
         "rating": 8.8,
-        "rating_count": 413,
+        "rating_count": 414,
         "rating_distribution": [
           0,
           0,
@@ -24753,7 +24687,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16cdd68220-3080-488d-a01a-056c9d87c395.jpg",
         "rating": 6.5,
-        "rating_count": 980,
+        "rating_count": 981,
         "rating_distribution": [
           2,
           14,
@@ -24960,13 +24894,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15d98dd5bd-46e9-45de-91c8-57ae7cb4a7da.jpg",
         "rating": 8.2,
-        "rating_count": 519,
+        "rating_count": 520,
         "rating_distribution": [
           0,
           0,
           17,
           48,
-          31
+          32
         ],
         "tags": [
           "1990s",
@@ -25289,7 +25223,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/133ed46be4-3fc4-4a59-9639-21a4c9b06bf1.jpg",
         "rating": 7.5,
-        "rating_count": 1271,
+        "rating_count": 1273,
         "rating_distribution": [
           0,
           5,
@@ -25738,12 +25672,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158bab1067-4d98-4fa8-bb4c-06415a35b9ec.jpg",
         "rating": 7.2,
-        "rating_count": 423,
+        "rating_count": 425,
         "rating_distribution": [
           3,
           6,
           32,
-          41,
+          42,
           16
         ],
         "tags": [
@@ -25984,7 +25918,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1544ebc29e-ef48-41ed-8188-4355a1d66c34.jpg",
         "rating": 7.0,
-        "rating_count": 764,
+        "rating_count": 765,
         "rating_distribution": [
           1,
           6,
@@ -26183,7 +26117,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1502c1ffd2-6210-4a80-b843-27465766fc86.jpg",
         "rating": 8.6,
-        "rating_count": 1906,
+        "rating_count": 1907,
         "rating_distribution": [
           0,
           0,
@@ -26402,7 +26336,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15c4f70789-2434-4625-b9ea-fe2a2ff6e621.jpg",
         "rating": 8.3,
-        "rating_count": 1175,
+        "rating_count": 1176,
         "rating_distribution": [
           0,
           2,
@@ -26686,7 +26620,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14e5043627-8e2d-43c0-a6cc-a8e05d8115d3.jpg",
         "rating": 9.4,
-        "rating_count": 2704,
+        "rating_count": 2706,
         "rating_distribution": [
           0,
           0,
@@ -26924,7 +26858,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13d1567d07-417b-4b7b-8356-5d0b87f43128.jpg",
         "rating": 9.1,
-        "rating_count": 2406,
+        "rating_count": 2408,
         "rating_distribution": [
           0,
           0,
@@ -27408,7 +27342,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157eee4ad4-84de-4e92-8fc4-aa4ff42da48f.jpg",
         "rating": 7.9,
-        "rating_count": 1554,
+        "rating_count": 1556,
         "rating_distribution": [
           1,
           3,
@@ -27854,12 +27788,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15d7ec50c1-e799-446f-88ff-c9933b7bed8a.jpg",
         "rating": 7.6,
-        "rating_count": 360,
+        "rating_count": 362,
         "rating_distribution": [
           0,
           2,
           29,
-          49,
+          48,
           18
         ],
         "tags": [
@@ -27912,5 +27846,5 @@
   ],
   "count": 135,
   "category": "movie",
-  "updated_at": "2025-08-22T00:58:49.110795"
+  "updated_at": "2025-08-23T00:56:37.366560"
 }
