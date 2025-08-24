@@ -43,7 +43,7 @@
         "url": "/book/2CsuEW1krmNyK53H7ps8dk",
         "api_url": "/api/book/2CsuEW1krmNyK53H7ps8dk",
         "category": "book",
-        "parent_uuid": null,
+        "parent_uuid": "5NvWZzBOCXSsI2MiC2OrfL",
         "display_title": "呼兰河传",
         "external_resources": [
           {
@@ -116,7 +116,7 @@
         "url": "/book/20dzSehQwWnrewATZkBI0B",
         "api_url": "/api/book/20dzSehQwWnrewATZkBI0B",
         "category": "book",
-        "parent_uuid": null,
+        "parent_uuid": "0SlbWtOJEnjCMJC7v2oPxy",
         "display_title": "性心理学",
         "external_resources": [
           {
@@ -179,7 +179,7 @@
         "url": "/book/4ikOws277Xi9URH6uKHANr",
         "api_url": "/api/book/4ikOws277Xi9URH6uKHANr",
         "category": "book",
-        "parent_uuid": null,
+        "parent_uuid": "7duxzEqkTZPHPdsl3SeJ5p",
         "display_title": "温暖和百感交集的旅程",
         "external_resources": [
           {
@@ -290,7 +290,7 @@
         "url": "/book/6pHavml6y9AF6Xc6wyuWkU",
         "api_url": "/api/book/6pHavml6y9AF6Xc6wyuWkU",
         "category": "book",
-        "parent_uuid": null,
+        "parent_uuid": "6v7j3dVcXjSqb8z9sn8tyc",
         "display_title": "村上广播",
         "external_resources": [
           {
@@ -361,7 +361,7 @@
         "url": "/book/4tvMgmCZtnRo56WGqFkWY2",
         "api_url": "/api/book/4tvMgmCZtnRo56WGqFkWY2",
         "category": "book",
-        "parent_uuid": null,
+        "parent_uuid": "7FQcxGZHubNMylO1hwv35e",
         "display_title": "许三观卖血记",
         "external_resources": [
           {
@@ -411,7 +411,7 @@
         "url": "/book/5HJSnOCq14VLKgtHTtcWp7",
         "api_url": "/api/book/5HJSnOCq14VLKgtHTtcWp7",
         "category": "book",
-        "parent_uuid": null,
+        "parent_uuid": "0mn9ZJzKffW44H6oq627ER",
         "display_title": "《蛙》中国第一位诺贝尔文学奖作家莫言作品精装收藏版",
         "external_resources": [
           {
@@ -454,12 +454,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/167be00460-91ad-4b3a-8504-fda76ff0b4d9.jpg",
         "rating": 8.3,
-        "rating_count": 96,
+        "rating_count": 97,
         "rating_distribution": [
           0,
           0,
           15,
-          48,
+          49,
           35
         ],
         "tags": [
@@ -489,7 +489,7 @@
         "url": "/book/2Pml397wFoidSs1bknHVtA",
         "api_url": "/api/book/2Pml397wFoidSs1bknHVtA",
         "category": "book",
-        "parent_uuid": null,
+        "parent_uuid": "3ICGTlc6ftVy21NBTtHn44",
         "display_title": "檀香刑",
         "external_resources": [
           {
@@ -560,7 +560,7 @@
         "url": "/book/3yRGnQYC0xnJMMZz7bPLT6",
         "api_url": "/api/book/3yRGnQYC0xnJMMZz7bPLT6",
         "category": "book",
-        "parent_uuid": null,
+        "parent_uuid": "3uAXb4NZtLdXGqzg8J2Z7p",
         "display_title": "红高粱家族",
         "external_resources": [
           {
@@ -632,7 +632,7 @@
         "url": "/book/5TJTVlzTEWh0ppN8EC2uPc",
         "api_url": "/api/book/5TJTVlzTEWh0ppN8EC2uPc",
         "category": "book",
-        "parent_uuid": null,
+        "parent_uuid": "6inLqJV9BKCDxCxM2VIaHg",
         "display_title": "太白金星有点烦",
         "external_resources": [
           {
@@ -685,7 +685,7 @@
         "url": "/book/3GvdcrS6MTYU1xln24DC6Y",
         "api_url": "/api/book/3GvdcrS6MTYU1xln24DC6Y",
         "category": "book",
-        "parent_uuid": null,
+        "parent_uuid": "3RkDwUJNdYuYjZfgDmTcEj",
         "display_title": "丰子恺插图鲁迅小说全集（上.下）",
         "external_resources": [
           {
@@ -756,7 +756,7 @@
         "url": "/book/2d1BQdJ5WJPu6YiCvd8rKa",
         "api_url": "/api/book/2d1BQdJ5WJPu6YiCvd8rKa",
         "category": "book",
-        "parent_uuid": null,
+        "parent_uuid": "0bjKWasYalfYdScTFUAGsy",
         "display_title": "生死疲劳",
         "external_resources": [
           {
@@ -811,7 +811,7 @@
         "url": "/book/2EGIQ2WFCiNSz8RNTc0Ous",
         "api_url": "/api/book/2EGIQ2WFCiNSz8RNTc0Ous",
         "category": "book",
-        "parent_uuid": null,
+        "parent_uuid": "6TnxOn2QTWw57RSo8lltYp",
         "display_title": "动物庄园",
         "external_resources": [
           {
@@ -860,7 +860,7 @@
         "url": "/book/4DTaTn81eDtVwGJwBEidkD",
         "api_url": "/api/book/4DTaTn81eDtVwGJwBEidkD",
         "category": "book",
-        "parent_uuid": null,
+        "parent_uuid": "6AXOyDDPhsvnEKqPKLp1eG",
         "display_title": "十二金钱镖",
         "external_resources": [
           {
@@ -914,7 +914,7 @@
         "url": "/book/1KIOW33REvgjR33VkPulJb",
         "api_url": "/api/book/1KIOW33REvgjR33VkPulJb",
         "category": "book",
-        "parent_uuid": null,
+        "parent_uuid": "6SV88H2oCNJeduTnAs2b0u",
         "display_title": "书剑恩仇录",
         "external_resources": [
           {
@@ -1059,7 +1059,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/15e852899b-0b52-41b1-b8e5-772c8e13f739.jpg",
         "rating": 9.2,
-        "rating_count": 442,
+        "rating_count": 443,
         "rating_distribution": [
           0,
           0,
@@ -1095,7 +1095,7 @@
         "url": "/book/7Kq0ufmFgg64w4ST5b9EAS",
         "api_url": "/api/book/7Kq0ufmFgg64w4ST5b9EAS",
         "category": "book",
-        "parent_uuid": null,
+        "parent_uuid": "3CG7Ox7KIiBD7W1rVn7bxj",
         "display_title": "沉默的大多数",
         "external_resources": [
           {
@@ -1156,7 +1156,7 @@
         "url": "/book/1XXjqbiEcOCxTZt8zOOSn1",
         "api_url": "/api/book/1XXjqbiEcOCxTZt8zOOSn1",
         "category": "book",
-        "parent_uuid": null,
+        "parent_uuid": "1iSEQhqpKsIEA2nsdHwhtd",
         "display_title": "笑傲江湖",
         "external_resources": [
           {
@@ -1225,7 +1225,7 @@
         "url": "/book/5oq3WAlsp0d5reBSMmGQEy",
         "api_url": "/api/book/5oq3WAlsp0d5reBSMmGQEy",
         "category": "book",
-        "parent_uuid": null,
+        "parent_uuid": "2K3xnzI7438c9BFlJOk4h7",
         "display_title": "白马啸西风",
         "external_resources": [
           {
@@ -1263,7 +1263,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/130a836090-38a7-4ff8-ba17-e28898c892f6.jpg",
         "rating": 9.0,
-        "rating_count": 268,
+        "rating_count": 269,
         "rating_distribution": [
           0,
           0,
@@ -1299,7 +1299,7 @@
         "url": "/book/5w5QhmMpQNE1eGMqLL5ACG",
         "api_url": "/api/book/5w5QhmMpQNE1eGMqLL5ACG",
         "category": "book",
-        "parent_uuid": null,
+        "parent_uuid": "2VL6GXDX0khYtU9NQU0FCe",
         "display_title": "杀死一只知更鸟",
         "external_resources": [
           {
@@ -1425,7 +1425,7 @@
         "url": "/book/2KscBqeaXrZU8bvesTB0pU",
         "api_url": "/api/book/2KscBqeaXrZU8bvesTB0pU",
         "category": "book",
-        "parent_uuid": null,
+        "parent_uuid": "6l6UFMcsvzS4dIevFBvesT",
         "display_title": "精灵鼠小弟",
         "external_resources": [
           {
@@ -1495,7 +1495,7 @@
         "url": "/book/5kcTCWpdtGoD4WtdO5YuDc",
         "api_url": "/api/book/5kcTCWpdtGoD4WtdO5YuDc",
         "category": "book",
-        "parent_uuid": null,
+        "parent_uuid": "4T81EsA2OBtCBFWxNiUag1",
         "display_title": "显微镜下的大明",
         "external_resources": [
           {
@@ -1551,7 +1551,7 @@
         "url": "/book/3PHslwczAjXDSftl8OIMT8",
         "api_url": "/api/book/3PHslwczAjXDSftl8OIMT8",
         "category": "book",
-        "parent_uuid": null,
+        "parent_uuid": "4SKPbGa5xBj8XlgH1jyZCu",
         "display_title": "夏洛的网",
         "external_resources": [
           {
@@ -1615,7 +1615,7 @@
         "url": "/book/5X65oulcStPbkCQfvDP25q",
         "api_url": "/api/book/5X65oulcStPbkCQfvDP25q",
         "category": "book",
-        "parent_uuid": null,
+        "parent_uuid": "1h9Od5myhXZRHXXN2yqPqq",
         "display_title": "吹小号的天鹅",
         "external_resources": [
           {
@@ -1686,7 +1686,7 @@
         "url": "/book/09ptOap3jdga56GrqyUJvk",
         "api_url": "/api/book/09ptOap3jdga56GrqyUJvk",
         "category": "book",
-        "parent_uuid": null,
+        "parent_uuid": "2KIaZvK093WZhyJntQp1RE",
         "display_title": "世上为什么要有图书馆",
         "external_resources": [
           {
@@ -1724,13 +1724,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2022/10/2573823f61-b01b-40a3-926a-f2563cbd989a.jpg",
         "rating": 7.8,
-        "rating_count": 267,
+        "rating_count": 268,
         "rating_distribution": [
           0,
           1,
           20,
           57,
-          20
+          21
         ],
         "tags": [
           "f 小说",
@@ -1760,7 +1760,7 @@
         "url": "/book/44L5oz7o3AkDfmKt8CVaEp",
         "api_url": "/api/book/44L5oz7o3AkDfmKt8CVaEp",
         "category": "book",
-        "parent_uuid": null,
+        "parent_uuid": "73Jpi57P3wC13OYyH7ST4h",
         "display_title": "长安的荔枝",
         "external_resources": [
           {
@@ -1839,7 +1839,7 @@
         "url": "/book/1iP1N9H8W5JoZ961n6bPXa",
         "api_url": "/api/book/1iP1N9H8W5JoZ961n6bPXa",
         "category": "book",
-        "parent_uuid": null,
+        "parent_uuid": "4tgpLEbriLU2BoSgqXVuJy",
         "display_title": "一句顶一万句",
         "external_resources": [
           {
@@ -1916,7 +1916,7 @@
         "url": "/book/7BCdLofHixaH719SRWjmps",
         "api_url": "/api/book/7BCdLofHixaH719SRWjmps",
         "category": "book",
-        "parent_uuid": null,
+        "parent_uuid": "3EdpSHuIosk0RkBytDI6lH",
         "display_title": "推拿",
         "external_resources": [
           {
@@ -1932,5 +1932,5 @@
   ],
   "count": 30,
   "category": "book",
-  "updated_at": "2025-08-23T00:56:48.744943"
+  "updated_at": "2025-08-24T01:05:32.031366"
 }
