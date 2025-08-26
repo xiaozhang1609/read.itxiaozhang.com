@@ -3067,7 +3067,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/02/02/d801edae-d1f3-499d-8a73-123ce9669780.jpg",
         "rating": 6.8,
-        "rating_count": 474,
+        "rating_count": 476,
         "rating_distribution": [
           5,
           9,
@@ -4235,10 +4235,10 @@
             "url": "https://minreol.dk/movie/0U7Embie01c6SJ5OPcP1tA"
           },
           {
-            "url": "https://www.imdb.com/title/tt0072890/"
+            "url": "https://www.wikidata.org/wiki/Q458656"
           },
           {
-            "url": "https://www.wikidata.org/wiki/Q458656"
+            "url": "https://www.imdb.com/title/tt0072890/"
           }
         ]
       },
@@ -7906,7 +7906,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14138f068a-33d6-4cb0-a556-1112c79ede52.jpg",
         "rating": 9.3,
-        "rating_count": 1628,
+        "rating_count": 1629,
         "rating_distribution": [
           0,
           0,
@@ -9072,7 +9072,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/05/14/c6b6a72c-2a26-487c-9c3f-54c23cf4ca9e.webp",
         "rating": 8.8,
-        "rating_count": 2475,
+        "rating_count": 2476,
         "rating_distribution": [
           0,
           1,
@@ -9115,10 +9115,10 @@
             "url": "https://movie.douban.com/subject/3742360/"
           },
           {
-            "url": "https://www.wikidata.org/wiki/Q2633399"
+            "url": "https://www.themoviedb.org/movie/51533"
           },
           {
-            "url": "https://www.themoviedb.org/movie/51533"
+            "url": "https://www.wikidata.org/wiki/Q2633399"
           },
           {
             "url": "https://www.imdb.com/title/tt1533117/"
@@ -10337,7 +10337,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ef885c05-3eb7-48f9-8a51-ffc98674447b.jpg",
         "rating": 8.1,
-        "rating_count": 739,
+        "rating_count": 741,
         "rating_distribution": [
           0,
           2,
@@ -10377,9 +10377,6 @@
         "display_title": "春风沉醉的夜晚",
         "external_resources": [
           {
-            "url": "https://www.wikidata.org/wiki/Q3028103"
-          },
-          {
             "url": "https://www.imdb.com/title/tt1422119/"
           },
           {
@@ -10387,6 +10384,9 @@
           },
           {
             "url": "https://www.themoviedb.org/movie/117646"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q3028103"
           }
         ]
       },
@@ -10485,7 +10485,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanbook/2023/05/29/cc933957-9ec9-4c69-a74d-23f7e3a52ef0.jpg",
         "rating": 8.3,
-        "rating_count": 158,
+        "rating_count": 159,
         "rating_distribution": [
           0,
           1,
@@ -12524,7 +12524,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15a2f45055-f7fd-4e4c-ba2b-c9438595671d.jpg",
         "rating": 8.0,
-        "rating_count": 801,
+        "rating_count": 802,
         "rating_distribution": [
           0,
           1,
@@ -12564,9 +12564,6 @@
         "display_title": "推拿",
         "external_resources": [
           {
-            "url": "https://www.wikidata.org/wiki/Q18228411"
-          },
-          {
             "url": "https://www.imdb.com/title/tt3469964/"
           },
           {
@@ -12574,6 +12571,9 @@
           },
           {
             "url": "https://www.themoviedb.org/movie/256106"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q18228411"
           }
         ]
       },
@@ -14089,7 +14089,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13676fe4c9-0bb8-4ba4-88d9-109f12d316f1.jpg",
         "rating": 9.5,
-        "rating_count": 1413,
+        "rating_count": 1415,
         "rating_distribution": [
           0,
           0,
@@ -14135,13 +14135,13 @@
             "url": "https://www.wikidata.org/wiki/Q2345"
           },
           {
-            "url": "https://www.imdb.com/title/tt0050083/"
-          },
-          {
             "url": "https://movie.douban.com/subject/1293182/"
           },
           {
             "url": "https://www.themoviedb.org/movie/389"
+          },
+          {
+            "url": "https://www.imdb.com/title/tt0050083/"
           }
         ]
       },
@@ -17131,7 +17131,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/133604f9b2-b434-4aa8-92c0-e8f88336e4db.jpg",
         "rating": 9.3,
-        "rating_count": 2565,
+        "rating_count": 2567,
         "rating_distribution": [
           0,
           0,
@@ -18535,12 +18535,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16bb45fc78-01bd-4c6d-88f2-4b6b4135eeec.jpg",
         "rating": 7.0,
-        "rating_count": 79,
+        "rating_count": 80,
         "rating_distribution": [
           0,
           3,
-          45,
-          43,
+          46,
+          42,
           7
         ],
         "tags": [
@@ -19933,7 +19933,7 @@
       "post_id": 334950574328725632,
       "item": {
         "type": "TVSeason",
-        "title": "辐射",
+        "title": "辐射 第一季",
         "description": "Based on one of the greatest video game series of all time, Fallout is the story of haves and have-nots in a world in which there’s almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird and highly violent universe waiting for them.",
         "localized_title": [
           {
@@ -19989,7 +19989,7 @@
         "api_url": "/api/tv/season/5FyXt7D9AV5ieWNoDj7OPV",
         "category": "tv",
         "parent_uuid": "1zJb6OaX2npaQHB0mMVEzd",
-        "display_title": "辐射",
+        "display_title": "辐射 第一季",
         "external_resources": [
           {
             "url": "https://www.themoviedb.org/tv/106379/season/1"
@@ -20293,11 +20293,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/06/1012f10cab-8842-442a-bd65-75dc2723a36b.jpg",
         "rating": 7.8,
-        "rating_count": 574,
+        "rating_count": 575,
         "rating_distribution": [
           1,
           5,
-          19,
+          20,
           38,
           34
         ],
@@ -21980,9 +21980,6 @@
         "display_title": "罗生门",
         "external_resources": [
           {
-            "url": "https://www.wikidata.org/wiki/Q135465"
-          },
-          {
             "url": "https://www.imdb.com/title/tt0042876/"
           },
           {
@@ -21990,6 +21987,9 @@
           },
           {
             "url": "https://movie.douban.com/subject/1291879/"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q135465"
           }
         ]
       },
@@ -22516,7 +22516,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1342c2c8f4-6447-4008-9f51-2fcd641c4799.jpg",
         "rating": 7.8,
-        "rating_count": 1741,
+        "rating_count": 1742,
         "rating_distribution": [
           0,
           2,
@@ -22619,7 +22619,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/24/a9688316-76fe-4704-add5-ab62c18e523f.webp",
         "rating": 9.3,
-        "rating_count": 681,
+        "rating_count": 682,
         "rating_distribution": [
           0,
           0,
@@ -23317,7 +23317,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/07/be012b58-ed0a-4750-b71d-03b0f59276a6.jpg",
         "rating": 7.7,
-        "rating_count": 1069,
+        "rating_count": 1070,
         "rating_distribution": [
           2,
           2,
@@ -24042,7 +24042,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/12/0838bda30b-4624-44fc-a506-fe2dec0f453c.jpg",
         "rating": 8.1,
-        "rating_count": 1052,
+        "rating_count": 1053,
         "rating_distribution": [
           1,
           2,
@@ -24849,7 +24849,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/24/7b6ac0a9-1096-4531-a7b5-3dbb05ca776e.webp",
         "rating": 9.1,
-        "rating_count": 326,
+        "rating_count": 327,
         "rating_distribution": [
           0,
           0,
@@ -26361,8 +26361,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/131f51610c-f166-4ba3-a734-bf089151525e.jpg",
-        "rating": 9.2,
-        "rating_count": 503,
+        "rating": 9.1,
+        "rating_count": 504,
         "rating_distribution": [
           0,
           0,
@@ -26402,9 +26402,6 @@
         "display_title": "芙蓉镇",
         "external_resources": [
           {
-            "url": "https://www.wikidata.org/wiki/Q5231252"
-          },
-          {
             "url": "https://www.imdb.com/title/tt0087301/"
           },
           {
@@ -26412,6 +26409,9 @@
           },
           {
             "url": "https://www.themoviedb.org/movie/122973"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q5231252"
           }
         ]
       },
@@ -26889,13 +26889,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/17/18d1616a-20a3-4c95-9694-b8b225b56ffa.jpg",
         "rating": 8.5,
-        "rating_count": 336,
+        "rating_count": 337,
         "rating_distribution": [
           0,
           1,
-          14,
+          15,
           38,
-          44
+          43
         ],
         "tags": [
           "2020",
@@ -27035,12 +27035,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1373cde94d-7ce8-4f88-9d1e-adcf85e9d479.jpg",
         "rating": 8.2,
-        "rating_count": 219,
+        "rating_count": 220,
         "rating_distribution": [
           0,
           3,
           20,
-          36,
+          35,
           39
         ],
         "tags": [
@@ -30433,13 +30433,13 @@
         "display_title": "活着",
         "external_resources": [
           {
-            "url": "https://www.wikidata.org/wiki/Q151784"
-          },
-          {
             "url": "https://www.imdb.com/title/tt0110081/"
           },
           {
             "url": "https://www.themoviedb.org/movie/31439"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q151784"
           },
           {
             "url": "https://movie.douban.com/subject/1292365/"
@@ -30883,7 +30883,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/153c3015b5-9fa5-4673-a6d0-49abd1664fa9.jpg",
         "rating": 7.4,
-        "rating_count": 1491,
+        "rating_count": 1492,
         "rating_distribution": [
           0,
           4,
@@ -31643,12 +31643,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1324f7bdb2-898a-450b-95ca-73c4d1b92011.jpg",
         "rating": 9.2,
-        "rating_count": 1722,
+        "rating_count": 1723,
         "rating_distribution": [
           0,
           0,
           5,
-          25,
+          26,
           67
         ],
         "tags": [
@@ -31689,9 +31689,6 @@
             "url": "https://www.imdb.com/title/tt0068646/"
           },
           {
-            "url": "https://www.wikidata.org/wiki/Q47703"
-          },
-          {
             "url": "https://movie.douban.com/subject/1291841/"
           },
           {
@@ -31699,6 +31696,9 @@
           },
           {
             "url": "https://minreol.dk/movie/4RHYiF2teQpStqE9oteObS"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q47703"
           }
         ]
       },
@@ -32960,7 +32960,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ddb8977a-6e04-4d3f-bb55-a73b948034e7.jpg",
         "rating": 9.2,
-        "rating_count": 361,
+        "rating_count": 362,
         "rating_distribution": [
           0,
           1,
@@ -33463,7 +33463,7 @@
           0,
           2,
           18,
-          40,
+          39,
           39
         ],
         "tags": [
@@ -33854,7 +33854,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/152bbd9498-8051-4931-afbf-4eddc7f9150c.jpg",
         "rating": 8.7,
-        "rating_count": 2180,
+        "rating_count": 2181,
         "rating_distribution": [
           0,
           0,
@@ -37308,7 +37308,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15c4f70789-2434-4625-b9ea-fe2a2ff6e621.jpg",
         "rating": 8.3,
-        "rating_count": 1177,
+        "rating_count": 1178,
         "rating_distribution": [
           0,
           2,
@@ -37348,13 +37348,13 @@
         "display_title": "这个男人来自地球",
         "external_resources": [
           {
-            "url": "https://www.wikidata.org/wiki/Q93701"
-          },
-          {
             "url": "https://www.imdb.com/title/tt0756683/"
           },
           {
             "url": "https://movie.douban.com/subject/2300586/"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q93701"
           },
           {
             "url": "https://www.themoviedb.org/movie/13363"
@@ -37592,7 +37592,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14e5043627-8e2d-43c0-a6cc-a8e05d8115d3.jpg",
         "rating": 9.4,
-        "rating_count": 2707,
+        "rating_count": 2708,
         "rating_distribution": [
           0,
           0,
@@ -37632,9 +37632,6 @@
         "display_title": "肖申克的救赎",
         "external_resources": [
           {
-            "url": "https://www.themoviedb.org/movie/278"
-          },
-          {
             "url": "https://www.imdb.com/title/tt0111161/"
           },
           {
@@ -37645,6 +37642,9 @@
           },
           {
             "url": "https://eggplant.place/movie/2chZtMWVGLJVgf9xg9sVYE"
+          },
+          {
+            "url": "https://www.themoviedb.org/movie/278"
           },
           {
             "url": "https://www.wikidata.org/wiki/Q172241"
@@ -40872,36 +40872,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2025-08-25T01:01:08.309867",
+  "updated_at": "2025-08-26T01:00:03.420161",
   "stats": {
     "movie": {
       "count": 135,
-      "time": 11.87
+      "time": 16.5
     },
     "tv": {
       "count": 111,
-      "time": 8.3
+      "time": 12.05
     },
     "book": {
       "count": 30,
-      "time": 2.04
+      "time": 2.84
     },
     "music": {
       "count": 4,
-      "time": 0.19
+      "time": 0.7
     },
     "podcast": {
       "count": 0,
-      "time": 0.12
+      "time": 0.72
     },
     "game": {
       "count": 1,
-      "time": 0.2
+      "time": 0.62
     },
     "performance": {
       "count": 2,
-      "time": 0.2
+      "time": 0.63
     }
   },
-  "total_time": 22.93
+  "total_time": 34.06
 }
