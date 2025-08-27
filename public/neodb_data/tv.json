@@ -1586,7 +1586,7 @@
         "url": "/tv/season/1sAq3U4u7zOiPFp5AocOyv",
         "api_url": "/api/tv/season/1sAq3U4u7zOiPFp5AocOyv",
         "category": "tv",
-        "parent_uuid": null,
+        "parent_uuid": "4ru10KdLgd3D8QUC12bwdf",
         "display_title": "死亡笔记",
         "external_resources": [
           {
@@ -2236,7 +2236,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/131b46667b-3905-4bdb-a7ec-441f1126be6d.jpg",
         "rating": 9.0,
-        "rating_count": 1176,
+        "rating_count": 1177,
         "rating_distribution": [
           0,
           0,
@@ -2320,7 +2320,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14138f068a-33d6-4cb0-a556-1112c79ede52.jpg",
         "rating": 9.3,
-        "rating_count": 1629,
+        "rating_count": 1630,
         "rating_distribution": [
           0,
           0,
@@ -2685,7 +2685,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/11/30/9ba014ae-5023-41ba-8414-b725d6bd2d67.jpg",
         "rating": 8.5,
-        "rating_count": 193,
+        "rating_count": 194,
         "rating_distribution": [
           0,
           1,
@@ -2774,7 +2774,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/09/59f49696-e8a1-40b8-a956-07cc5e7e6891.jpg",
         "rating": 8.5,
-        "rating_count": 238,
+        "rating_count": 239,
         "rating_distribution": [
           0,
           0,
@@ -2884,7 +2884,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/04/15b785f2f1-4e5a-4ab8-8344-90049e5ac6fb.jpg",
         "rating": 8.2,
-        "rating_count": 341,
+        "rating_count": 342,
         "rating_distribution": [
           0,
           0,
@@ -4460,7 +4460,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
         "rating": 8.9,
-        "rating_count": 592,
+        "rating_count": 594,
         "rating_distribution": [
           0,
           1,
@@ -4499,16 +4499,16 @@
         "display_title": "英雄联盟：双城之战 第一季",
         "external_resources": [
           {
-            "url": "https://movie.douban.com/subject/34867871/"
+            "url": "https://eggplant.place/tv/season/4ZMYmInlM6DLSVrgm31g1Q"
           },
           {
-            "url": "https://eggplant.place/tv/season/4ZMYmInlM6DLSVrgm31g1Q"
+            "url": "https://bgm.tv/subject/335036"
           },
           {
             "url": "https://www.themoviedb.org/tv/94605/season/1"
           },
           {
-            "url": "https://bgm.tv/subject/335036"
+            "url": "https://movie.douban.com/subject/34867871/"
           },
           {
             "url": "https://neodb.kevga.de/tv/season/0KPTShyznUCf0ZltOY4RsE"
@@ -10487,5 +10487,5 @@
   ],
   "count": 111,
   "category": "tv",
-  "updated_at": "2025-08-26T00:59:57.897818"
+  "updated_at": "2025-08-27T00:58:02.027251"
 }
