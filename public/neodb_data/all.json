@@ -2863,13 +2863,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/01/01/68e22bdb-a83e-4c24-971c-60ccff6b60d6.webp",
         "rating": 5.7,
-        "rating_count": 118,
+        "rating_count": 119,
         "rating_distribution": [
           6,
           16,
-          54,
+          53,
           18,
-          3
+          4
         ],
         "tags": [
           "2020s",
@@ -11588,7 +11588,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/138d1723f9-e106-4e8e-b490-3cd2ed271cae.jpg",
         "rating": 8.2,
-        "rating_count": 1725,
+        "rating_count": 1726,
         "rating_distribution": [
           0,
           0,
@@ -14427,7 +14427,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ce6a4ea1-e930-4890-857f-95f944cf49c8.jpg",
         "rating": 8.8,
-        "rating_count": 1536,
+        "rating_count": 1537,
         "rating_distribution": [
           0,
           0,
@@ -21899,7 +21899,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/9c60c854-c003-4fde-8112-218faee891da.jpg",
         "rating": 8.8,
-        "rating_count": 1075,
+        "rating_count": 1076,
         "rating_distribution": [
           0,
           0,
@@ -23276,7 +23276,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/07/be012b58-ed0a-4750-b71d-03b0f59276a6.jpg",
         "rating": 7.7,
-        "rating_count": 1070,
+        "rating_count": 1071,
         "rating_distribution": [
           2,
           2,
@@ -29884,6 +29884,81 @@
     {
       "shelf_type": "complete",
       "visibility": 0,
+      "post_id": 483427450416296240,
+      "item": {
+        "type": "TVSeason",
+        "title": "武林外传",
+        "description": "关中一个普通的小镇——七俠镇，这里有一家同福客栈。就是这间不起眼的客栈，因缘巧合之下汇聚了一群性格各异又活泼搞怪的年轻人：武功高强但初入江湖的郭芙蓉（姚晨 饰）、老板娘佟湘玉（闫妮 饰）、金盘洗手的神偷白展堂（沙溢 饰）、满腹经纶怀才不遇的吕秀才（喻恩泰 饰）、厨师李大嘴（姜超 饰）等等。这群年轻人在同一屋檐下演绎了一幕幕经典的搞笑场面，在欢笑与眼泪中陪伴观众们一起渐渐成长。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "武林外传"
+          },
+          {
+            "lang": "en",
+            "text": "My Own Swordsman"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-tw",
+            "text": "关中一个普通的小镇——七俠镇，这里有一家同福客栈。就是这间不起眼的客栈，因缘巧合之下汇聚了一群性格各异又活泼搞怪的年轻人：武功高强但初入江湖的郭芙蓉（姚晨 饰）、老板娘佟湘玉（闫妮 饰）、金盘洗手的神偷白展堂（沙溢 饰）、满腹经纶怀才不遇的吕秀才（喻恩泰 饰）、厨师李大嘴（姜超 饰）等等。这群年轻人在同一屋檐下演绎了一幕幕经典的搞笑场面，在欢笑与眼泪中陪伴观众们一起渐渐成长。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/movie/2021/09/158b2b635b-d04a-41b9-a36b-c5af7dfc3f2a.jpg",
+        "rating": 9.4,
+        "rating_count": 1028,
+        "rating_distribution": [
+          0,
+          0,
+          3,
+          21,
+          74
+        ],
+        "tags": [
+          "2000s",
+          "2006",
+          "中国",
+          "中国大陆",
+          "剧集",
+          "古装",
+          "喜剧",
+          "国产剧",
+          "国产电视剧",
+          "大陆",
+          "宁财神",
+          "尚敬",
+          "情景剧",
+          "情景喜剧",
+          "搞笑",
+          "武侠",
+          "武林外传",
+          "电视剧",
+          "经典",
+          "连续剧"
+        ],
+        "brief": "关中一个普通的小镇——七俠镇，这里有一家同福客栈。就是这间不起眼的客栈，因缘巧合之下汇聚了一群性格各异又活泼搞怪的年轻人：武功高强但初入江湖的郭芙蓉（姚晨 饰）、老板娘佟湘玉（闫妮 饰）、金盘洗手的神偷白展堂（沙溢 饰）、满腹经纶怀才不遇的吕秀才（喻恩泰 饰）、厨师李大嘴（姜超 饰）等等。这群年轻人在同一屋檐下演绎了一幕幕经典的搞笑场面，在欢笑与眼泪中陪伴观众们一起渐渐成长。",
+        "id": "https://neodb.social/tv/season/02L9vtL6lr2it3Kf80Lg1c",
+        "uuid": "02L9vtL6lr2it3Kf80Lg1c",
+        "url": "/tv/season/02L9vtL6lr2it3Kf80Lg1c",
+        "api_url": "/api/tv/season/02L9vtL6lr2it3Kf80Lg1c",
+        "category": "tv",
+        "parent_uuid": "0s4jhzPoEExGELDV9fcOfi",
+        "display_title": "武林外传",
+        "external_resources": [
+          {
+            "url": "https://movie.douban.com/subject/3882715/"
+          }
+        ]
+      },
+      "created_time": "2022-11-27T13:54:00Z",
+      "comment_text": null,
+      "rating_grade": 10,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
       "post_id": 108458158326701576,
       "item": {
         "type": "Movie",
@@ -30079,7 +30154,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14eb778691-3d16-4e96-a3f0-97f7660a8adb.jpg",
         "rating": 8.8,
-        "rating_count": 814,
+        "rating_count": 815,
         "rating_distribution": [
           0,
           0,
@@ -30588,7 +30663,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14f252245f-7496-4c2e-80d3-be5538201552.jpg",
         "rating": 9.1,
-        "rating_count": 1079,
+        "rating_count": 1080,
         "rating_distribution": [
           0,
           0,
@@ -31820,7 +31895,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1540ca6a04-7e73-4d51-bf03-5e75bb63a8de.jpg",
         "rating": 8.0,
-        "rating_count": 1063,
+        "rating_count": 1064,
         "rating_distribution": [
           0,
           3,
@@ -34799,7 +34874,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/01/23/79ffd6de-30f3-40ca-a2d5-0c03eaf97e37.webp",
         "rating": 8.8,
-        "rating_count": 415,
+        "rating_count": 416,
         "rating_distribution": [
           0,
           0,
@@ -37551,7 +37626,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14e5043627-8e2d-43c0-a6cc-a8e05d8115d3.jpg",
         "rating": 9.4,
-        "rating_count": 2709,
+        "rating_count": 2710,
         "rating_distribution": [
           0,
           0,
@@ -40821,7 +40896,7 @@
       "tags": []
     }
   ],
-  "count": 283,
+  "count": 284,
   "categories": [
     "movie",
     "tv",
@@ -40831,36 +40906,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2025-08-27T00:58:04.943105",
+  "updated_at": "2025-08-28T00:57:35.965902",
   "stats": {
     "movie": {
       "count": 135,
-      "time": 12.14
+      "time": 13.88
     },
     "tv": {
-      "count": 111,
-      "time": 8.38
+      "count": 112,
+      "time": 9.25
     },
     "book": {
       "count": 30,
-      "time": 2.26
+      "time": 2.6
     },
     "music": {
       "count": 4,
-      "time": 0.18
+      "time": 0.24
     },
     "podcast": {
       "count": 0,
-      "time": 0.13
+      "time": 0.17
     },
     "game": {
       "count": 1,
-      "time": 0.16
+      "time": 0.27
     },
     "performance": {
       "count": 2,
-      "time": 0.17
+      "time": 0.21
     }
   },
-  "total_time": 23.42
+  "total_time": 26.62
 }

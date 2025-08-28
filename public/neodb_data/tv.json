@@ -7067,6 +7067,81 @@
     {
       "shelf_type": "complete",
       "visibility": 0,
+      "post_id": 483427450416296240,
+      "item": {
+        "type": "TVSeason",
+        "title": "武林外传",
+        "description": "关中一个普通的小镇——七俠镇，这里有一家同福客栈。就是这间不起眼的客栈，因缘巧合之下汇聚了一群性格各异又活泼搞怪的年轻人：武功高强但初入江湖的郭芙蓉（姚晨 饰）、老板娘佟湘玉（闫妮 饰）、金盘洗手的神偷白展堂（沙溢 饰）、满腹经纶怀才不遇的吕秀才（喻恩泰 饰）、厨师李大嘴（姜超 饰）等等。这群年轻人在同一屋檐下演绎了一幕幕经典的搞笑场面，在欢笑与眼泪中陪伴观众们一起渐渐成长。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "武林外传"
+          },
+          {
+            "lang": "en",
+            "text": "My Own Swordsman"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-tw",
+            "text": "关中一个普通的小镇——七俠镇，这里有一家同福客栈。就是这间不起眼的客栈，因缘巧合之下汇聚了一群性格各异又活泼搞怪的年轻人：武功高强但初入江湖的郭芙蓉（姚晨 饰）、老板娘佟湘玉（闫妮 饰）、金盘洗手的神偷白展堂（沙溢 饰）、满腹经纶怀才不遇的吕秀才（喻恩泰 饰）、厨师李大嘴（姜超 饰）等等。这群年轻人在同一屋檐下演绎了一幕幕经典的搞笑场面，在欢笑与眼泪中陪伴观众们一起渐渐成长。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/movie/2021/09/158b2b635b-d04a-41b9-a36b-c5af7dfc3f2a.jpg",
+        "rating": 9.4,
+        "rating_count": 1028,
+        "rating_distribution": [
+          0,
+          0,
+          3,
+          21,
+          74
+        ],
+        "tags": [
+          "2000s",
+          "2006",
+          "中国",
+          "中国大陆",
+          "剧集",
+          "古装",
+          "喜剧",
+          "国产剧",
+          "国产电视剧",
+          "大陆",
+          "宁财神",
+          "尚敬",
+          "情景剧",
+          "情景喜剧",
+          "搞笑",
+          "武侠",
+          "武林外传",
+          "电视剧",
+          "经典",
+          "连续剧"
+        ],
+        "brief": "关中一个普通的小镇——七俠镇，这里有一家同福客栈。就是这间不起眼的客栈，因缘巧合之下汇聚了一群性格各异又活泼搞怪的年轻人：武功高强但初入江湖的郭芙蓉（姚晨 饰）、老板娘佟湘玉（闫妮 饰）、金盘洗手的神偷白展堂（沙溢 饰）、满腹经纶怀才不遇的吕秀才（喻恩泰 饰）、厨师李大嘴（姜超 饰）等等。这群年轻人在同一屋檐下演绎了一幕幕经典的搞笑场面，在欢笑与眼泪中陪伴观众们一起渐渐成长。",
+        "id": "https://neodb.social/tv/season/02L9vtL6lr2it3Kf80Lg1c",
+        "uuid": "02L9vtL6lr2it3Kf80Lg1c",
+        "url": "/tv/season/02L9vtL6lr2it3Kf80Lg1c",
+        "api_url": "/api/tv/season/02L9vtL6lr2it3Kf80Lg1c",
+        "category": "tv",
+        "parent_uuid": "0s4jhzPoEExGELDV9fcOfi",
+        "display_title": "武林外传",
+        "external_resources": [
+          {
+            "url": "https://movie.douban.com/subject/3882715/"
+          }
+        ]
+      },
+      "created_time": "2022-11-27T13:54:00Z",
+      "comment_text": null,
+      "rating_grade": 10,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
       "post_id": 106283831134863200,
       "item": {
         "type": "TVSeason",
@@ -10485,7 +10560,7 @@
       "tags": []
     }
   ],
-  "count": 111,
+  "count": 112,
   "category": "tv",
-  "updated_at": "2025-08-27T00:58:02.027251"
+  "updated_at": "2025-08-28T00:57:32.464431"
 }
