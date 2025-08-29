@@ -16776,10 +16776,10 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/02/0877652c-19db-4f9b-8be5-e8645b18db8b.jpg",
         "rating": 7.0,
-        "rating_count": 345,
+        "rating_count": 346,
         "rating_distribution": [
           4,
-          11,
+          12,
           28,
           33,
           21
@@ -28015,5 +28015,5 @@
   ],
   "count": 135,
   "category": "movie",
-  "updated_at": "2025-08-28T00:57:23.189509"
+  "updated_at": "2025-08-29T00:57:13.723519"
 }

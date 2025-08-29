@@ -25104,10 +25104,10 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/02/0877652c-19db-4f9b-8be5-e8645b18db8b.jpg",
         "rating": 7.0,
-        "rating_count": 345,
+        "rating_count": 346,
         "rating_distribution": [
           4,
-          11,
+          12,
           28,
           33,
           21
@@ -40505,7 +40505,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155c5cd599-d9ed-4144-b6dd-f450ec1edd27.jpg",
         "rating": 9.4,
-        "rating_count": 595,
+        "rating_count": 596,
         "rating_distribution": [
           0,
           0,
@@ -40549,6 +40549,9 @@
           },
           {
             "url": "https://bgm.tv/subject/93739"
+          },
+          {
+            "url": "https://eggplant.place/tv/season/3LGoHFYdFT0mHXPMtxRSfI"
           },
           {
             "url": "https://www.themoviedb.org/tv/60811/season/1"
@@ -40906,36 +40909,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2025-08-28T00:57:35.965902",
+  "updated_at": "2025-08-29T00:57:24.245518",
   "stats": {
     "movie": {
       "count": 135,
-      "time": 13.88
+      "time": 11.0
     },
     "tv": {
       "count": 112,
-      "time": 9.25
+      "time": 7.83
     },
     "book": {
       "count": 30,
-      "time": 2.6
+      "time": 2.02
     },
     "music": {
       "count": 4,
-      "time": 0.24
+      "time": 0.19
     },
     "podcast": {
       "count": 0,
-      "time": 0.17
+      "time": 0.14
     },
     "game": {
       "count": 1,
-      "time": 0.27
+      "time": 0.16
     },
     "performance": {
       "count": 2,
-      "time": 0.21
+      "time": 0.14
     }
   },
-  "total_time": 26.62
+  "total_time": 21.48
 }
