@@ -1326,10 +1326,10 @@
             "url": "https://www.themoviedb.org/tv/1399/season/1"
           },
           {
-            "url": "https://neodb.kevga.de/tv/season/6bnEop1iQEUn92Y7pkkEip"
+            "url": "https://bgm.tv/subject/15877"
           },
           {
-            "url": "https://bgm.tv/subject/15877"
+            "url": "https://neodb.kevga.de/tv/season/6bnEop1iQEUn92Y7pkkEip"
           }
         ]
       },
@@ -1460,7 +1460,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/02/16/1c296bee-5d49-4208-b11b-f7f0f949bc64.jpg",
         "rating": 8.4,
-        "rating_count": 253,
+        "rating_count": 254,
         "rating_distribution": [
           1,
           1,
@@ -1851,7 +1851,7 @@
         "url": "/tv/season/4fvcgLiQQhhUlA64nAUMEG",
         "api_url": "/api/tv/season/4fvcgLiQQhhUlA64nAUMEG",
         "category": "tv",
-        "parent_uuid": null,
+        "parent_uuid": "1p8GW1mCSiANDR6FwLAhE4",
         "display_title": "鬼灭之刃 无限列车篇",
         "external_resources": [
           {
@@ -2320,7 +2320,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14138f068a-33d6-4cb0-a556-1112c79ede52.jpg",
         "rating": 9.3,
-        "rating_count": 1630,
+        "rating_count": 1631,
         "rating_distribution": [
           0,
           0,
@@ -4460,7 +4460,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
         "rating": 8.9,
-        "rating_count": 594,
+        "rating_count": 595,
         "rating_distribution": [
           0,
           1,
@@ -4668,7 +4668,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/bangumi/2024/02/24/721c8a8b-f563-4994-b35f-940327755105.jpg",
         "rating": 8.4,
-        "rating_count": 154,
+        "rating_count": 155,
         "rating_distribution": [
           0,
           1,
@@ -7090,7 +7090,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158b2b635b-d04a-41b9-a36b-c5af7dfc3f2a.jpg",
         "rating": 9.4,
-        "rating_count": 1028,
+        "rating_count": 1029,
         "rating_distribution": [
           0,
           0,
@@ -10565,5 +10565,5 @@
   ],
   "count": 112,
   "category": "tv",
-  "updated_at": "2025-08-29T00:57:21.579334"
+  "updated_at": "2025-08-30T00:54:28.905607"
 }
