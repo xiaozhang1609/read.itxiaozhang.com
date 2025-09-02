@@ -328,7 +328,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/16573efe00-fcb2-44d8-803a-538702f09986.jpg",
         "rating": 8.9,
-        "rating_count": 385,
+        "rating_count": 386,
         "rating_distribution": [
           0,
           0,
@@ -598,7 +598,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanbook/2023/05/29/cc933957-9ec9-4c69-a74d-23f7e3a52ef0.jpg",
         "rating": 8.3,
-        "rating_count": 159,
+        "rating_count": 160,
         "rating_distribution": [
           0,
           1,
@@ -1724,7 +1724,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2022/10/2573823f61-b01b-40a3-926a-f2563cbd989a.jpg",
         "rating": 7.8,
-        "rating_count": 269,
+        "rating_count": 271,
         "rating_distribution": [
           0,
           1,
@@ -1932,5 +1932,5 @@
   ],
   "count": 30,
   "category": "book",
-  "updated_at": "2025-09-01T01:07:53.872364"
+  "updated_at": "2025-09-02T00:58:18.539887"
 }
