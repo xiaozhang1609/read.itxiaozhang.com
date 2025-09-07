@@ -4667,12 +4667,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/bangumi/2024/02/24/721c8a8b-f563-4994-b35f-940327755105.jpg",
         "rating": 8.4,
-        "rating_count": 156,
+        "rating_count": 157,
         "rating_distribution": [
           0,
           1,
           10,
-          41,
+          40,
           46
         ],
         "tags": [
@@ -10618,5 +10618,5 @@
   ],
   "count": 112,
   "category": "tv",
-  "updated_at": "2025-09-06T00:54:47.608331"
+  "updated_at": "2025-09-07T01:00:54.510301"
 }

@@ -11050,7 +11050,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/141ac4ecd0-60a1-4b48-9c43-a1fb3a42f224.jpg",
         "rating": 8.3,
-        "rating_count": 1626,
+        "rating_count": 1627,
         "rating_distribution": [
           0,
           1,
@@ -15166,10 +15166,10 @@
             "url": "https://www.themoviedb.org/movie/548"
           },
           {
-            "url": "https://movie.douban.com/subject/1291879/"
+            "url": "https://www.wikidata.org/wiki/Q135465"
           },
           {
-            "url": "https://www.wikidata.org/wiki/Q135465"
+            "url": "https://movie.douban.com/subject/1291879/"
           }
         ]
       },
@@ -24271,7 +24271,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/152bbd9498-8051-4931-afbf-4eddc7f9150c.jpg",
         "rating": 8.7,
-        "rating_count": 2186,
+        "rating_count": 2187,
         "rating_distribution": [
           0,
           0,
@@ -28455,5 +28455,5 @@
   ],
   "count": 137,
   "category": "movie",
-  "updated_at": "2025-09-06T00:54:38.557175"
+  "updated_at": "2025-09-07T01:00:46.310055"
 }

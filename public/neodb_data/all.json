@@ -15242,7 +15242,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/141ac4ecd0-60a1-4b48-9c43-a1fb3a42f224.jpg",
         "rating": 8.3,
-        "rating_count": 1626,
+        "rating_count": 1627,
         "rating_distribution": [
           0,
           1,
@@ -21271,12 +21271,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/bangumi/2024/02/24/721c8a8b-f563-4994-b35f-940327755105.jpg",
         "rating": 8.4,
-        "rating_count": 156,
+        "rating_count": 157,
         "rating_distribution": [
           0,
           1,
           10,
-          41,
+          40,
           46
         ],
         "tags": [
@@ -22384,10 +22384,10 @@
             "url": "https://www.themoviedb.org/movie/548"
           },
           {
-            "url": "https://movie.douban.com/subject/1291879/"
+            "url": "https://www.wikidata.org/wiki/Q135465"
           },
           {
-            "url": "https://www.wikidata.org/wiki/Q135465"
+            "url": "https://movie.douban.com/subject/1291879/"
           }
         ]
       },
@@ -34327,7 +34327,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/152bbd9498-8051-4931-afbf-4eddc7f9150c.jpg",
         "rating": 8.7,
-        "rating_count": 2186,
+        "rating_count": 2187,
         "rating_distribution": [
           0,
           0,
@@ -41402,36 +41402,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2025-09-06T00:54:50.844499",
+  "updated_at": "2025-09-07T01:00:57.230009",
   "stats": {
     "movie": {
       "count": 137,
-      "time": 12.98
+      "time": 14.1
     },
     "tv": {
       "count": 112,
-      "time": 9.03
+      "time": 8.18
     },
     "book": {
       "count": 30,
-      "time": 2.35
+      "time": 2.1
     },
     "music": {
       "count": 4,
-      "time": 0.24
+      "time": 0.18
     },
     "podcast": {
       "count": 0,
-      "time": 0.17
+      "time": 0.13
     },
     "game": {
       "count": 1,
-      "time": 0.19
+      "time": 0.15
     },
     "performance": {
       "count": 2,
-      "time": 0.28
+      "time": 0.16
     }
   },
-  "total_time": 25.23
+  "total_time": 24.98
 }
