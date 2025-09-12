@@ -2874,12 +2874,44 @@
           {
             "lang": "en",
             "text": "Slow Horses Season 4"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "流人 第一季"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "翻盘特工队 第一季"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "外放特务组 第一季"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "驽马 第一季"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "下等马 第一季"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "慢马 第一季"
+          },
+          {
+            "lang": "en",
+            "text": "Slow Horses Season 1"
           }
         ],
         "localized_description": [
           {
             "lang": "zh-cn",
             "text": "该剧根据Mick Herron的同名系列小说改编，讲述一队英国情报人员在军情五处的一个垃圾倾倒场Slough House工作。奥德曼饰演才华横溢但脾气暴躁的间谍首领杰克森，因犯错导致职业生涯结束而被关进了这里。"
+          },
+          {
+            "lang": "en",
+            "text": "This quick-witted spy drama follows a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world’s smoke and mirrors to defend England from sinister forces."
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/04/15b785f2f1-4e5a-4ab8-8344-90049e5ac6fb.jpg",
@@ -2930,6 +2962,9 @@
           },
           {
             "url": "https://bgm.tv/subject/409613"
+          },
+          {
+            "url": "https://bgm.tv/subject/377641"
           }
         ]
       },
@@ -5099,7 +5134,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/16/f28d5972-1708-4dd1-a655-d75431e32c33.webp",
         "rating": 9.0,
-        "rating_count": 758,
+        "rating_count": 759,
         "rating_distribution": [
           0,
           0,
@@ -5452,7 +5487,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/21/156627ec-4352-454a-a41e-6a1a5ae83070.jpg",
         "rating": 9.2,
-        "rating_count": 575,
+        "rating_count": 576,
         "rating_distribution": [
           0,
           0,
@@ -10621,5 +10656,5 @@
   ],
   "count": 112,
   "category": "tv",
-  "updated_at": "2025-09-11T00:56:39.643163"
+  "updated_at": "2025-09-12T00:54:34.702916"
 }
