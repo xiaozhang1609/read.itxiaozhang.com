@@ -1815,7 +1815,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/91aef100-a4ff-4866-8e5e-a6b1af1bc754.jpg",
         "rating": 8.6,
-        "rating_count": 247,
+        "rating_count": 248,
         "rating_distribution": [
           0,
           0,
@@ -3195,12 +3195,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/02/24bdbed50e-f9d6-4444-aadb-20c719aa716f.jpg",
         "rating": 7.8,
-        "rating_count": 134,
+        "rating_count": 135,
         "rating_distribution": [
           0,
           7,
           14,
-          50,
+          51,
           27
         ],
         "tags": [
@@ -4028,13 +4028,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1532a54bd6-77fe-4203-b8f2-bd290c3b6dc0.jpg",
         "rating": 8.4,
-        "rating_count": 282,
+        "rating_count": 283,
         "rating_distribution": [
           0,
           3,
           11,
-          42,
-          41
+          43,
+          40
         ],
         "tags": [
           "11",
@@ -4044,9 +4044,9 @@
           "tv",
           "uk",
           "传记",
-          "剧 美剧 英剧 各种剧",
           "剧情",
           "剧集",
+          "历史",
           "家庭",
           "暴力",
           "爱情",
@@ -4105,7 +4105,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/08/69d304f8-1a0f-4f06-9a4a-b1d870f43864.webp",
         "rating": 7.9,
-        "rating_count": 197,
+        "rating_count": 198,
         "rating_distribution": [
           1,
           2,
@@ -4120,13 +4120,13 @@
           "primevideo",
           "wd",
           "乔纳森 诺兰",
+          "人性",
           "人类快死光了",
           "冒险",
           "剧情",
           "剧集",
           "动作",
           "幻想",
-          "悬疑",
           "末日",
           "游戏改编",
           "科幻",
@@ -10656,5 +10656,5 @@
   ],
   "count": 112,
   "category": "tv",
-  "updated_at": "2025-09-18T00:54:54.518573"
+  "updated_at": "2025-09-19T00:57:22.942689"
 }
