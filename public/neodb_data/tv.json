@@ -2102,7 +2102,7 @@
       "post_id": 388789005314969400,
       "item": {
         "type": "TVSeason",
-        "title": "黑色五叶草",
+        "title": "黑色四叶草 (黑色五叶草)",
         "description": "曾经险些遭到魔神毁灭的世界，拯救它的是一位被后世称为“魔法帝”的魔导士……两位被遗弃在教堂的少年，一位是有卓越魔力跟魔法才能的四叶草魔导书的尤诺，另一位魔法值为零但却意外获得黑色五叶草的魔法书的亚斯塔……这是关于一位没魔法能力的少年却想要成为魔法帝的故事。",
         "localized_title": [
           {
@@ -2120,12 +2120,64 @@
           {
             "lang": "en",
             "text": "Black Clover"
+          },
+          {
+            "lang": "ko",
+            "text": "시즌 1"
+          },
+          {
+            "lang": "ja",
+            "text": "シーズン1"
+          },
+          {
+            "lang": "pt",
+            "text": "Temporada 1"
+          },
+          {
+            "lang": "de",
+            "text": "Staffel 1"
+          },
+          {
+            "lang": "fr",
+            "text": "Saison 1"
+          },
+          {
+            "lang": "es",
+            "text": "Temporada 1"
+          },
+          {
+            "lang": "en",
+            "text": "Season 1"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "黑色五葉草"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "第 1 季"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "第 1 季"
           }
         ],
         "localized_description": [
           {
             "lang": "zh-cn",
             "text": "曾经险些遭到魔神毁灭的世界，拯救它的是一位被后世称为“魔法帝”的魔导士……两位被遗弃在教堂的少年，一位是有卓越魔力跟魔法才能的四叶草魔导书的尤诺，另一位魔法值为零但却意外获得黑色五叶草的魔法书的亚斯塔……这是关于一位没魔法能力的少年却想要成为魔法帝的故事。"
+          },
+          {
+            "lang": "ko",
+            "text": "어린 시절 부모에게 버림을 받고 빈민 지역 교회에서 자란 아스타와 라이벌 유노. 두 사람은 마법 세계의 정점인 마법제가 되겠다는 목표를 가지고 있다. 그러나 아스타는 전혀 마력을 가지고 있지 않아 마법 기술을 쓰지 못하는 반면, 유노는 어린 나이에도 불구하고 엄청난 마법의 소유자로 촉망 받는다. 시간이 흘러 두 사람은 15세가 되고, 마력을 가진 15세 아이들에게 마법기사단에 들어갈 수 있는 기회가 찾아온다."
+          },
+          {
+            "lang": "zh-hk",
+            "text": "兩名孤兒一起被撫養長大，卻在爭奪「魔法帝」頭銜時成為對手；此頭銜乃是該地最高的魔法等級。"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "曾经险些遭到魔神毁灭的世界，拯救它的是一位被后世称为“魔法帝”的魔导士。时间流转，有两位被遗弃在教堂的少年，一位是有着极高魔法才能和被四叶草魔导书选中的由诺，另一位是魔力为零但却意外获得黑色五叶草魔导书的阿斯塔。决心以魔法帝为目标的阿斯塔，加入了被称为最差劲的魔法骑士团“黑色的暴牛”，由诺则加入了最强的魔法骑士团“金色的黎明”。"
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/12/10fea341ed-f3b8-4aaf-9d8e-c46a47286edc.webp",
@@ -2153,11 +2205,14 @@
         "url": "/tv/season/1XhihxetIvnwzWzVGOiRz2",
         "api_url": "/api/tv/season/1XhihxetIvnwzWzVGOiRz2",
         "category": "tv",
-        "parent_uuid": null,
-        "display_title": "黑色五叶草",
+        "parent_uuid": "4DeMTRafTDuh8QAZdOPGya",
+        "display_title": "黑色四叶草 (黑色五叶草)",
         "external_resources": [
           {
             "url": "https://movie.douban.com/subject/27063402/"
+          },
+          {
+            "url": "https://www.themoviedb.org/tv/73223/season/1"
           }
         ]
       },
@@ -2320,7 +2375,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14138f068a-33d6-4cb0-a556-1112c79ede52.jpg",
         "rating": 9.3,
-        "rating_count": 1636,
+        "rating_count": 1637,
         "rating_distribution": [
           0,
           0,
@@ -3355,7 +3410,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13de2367b3-cbe1-4669-996e-e3ef1f5ae43b.jpg",
         "rating": 8.9,
-        "rating_count": 312,
+        "rating_count": 313,
         "rating_distribution": [
           0,
           2,
@@ -3521,12 +3576,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/05/01/126d2c3a-9c25-47b1-9e71-9680c338c0b8.webp",
         "rating": 6.8,
-        "rating_count": 64,
+        "rating_count": 65,
         "rating_distribution": [
           1,
           10,
-          31,
-          43,
+          30,
+          44,
           12
         ],
         "tags": [
@@ -4213,7 +4268,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157c78ce20-44be-4128-85cd-0cfdc73ebb0a.jpg",
         "rating": 8.0,
-        "rating_count": 684,
+        "rating_count": 685,
         "rating_distribution": [
           1,
           2,
@@ -4308,9 +4363,9 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/06/1012f10cab-8842-442a-bd65-75dc2723a36b.jpg",
         "rating": 7.8,
-        "rating_count": 585,
+        "rating_count": 586,
         "rating_distribution": [
-          1,
+          2,
           5,
           19,
           38,
@@ -5685,7 +5740,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/2775557ce8-06f5-4882-a7e4-a3293ba16d3a.jpg",
         "rating": 8.9,
-        "rating_count": 1067,
+        "rating_count": 1068,
         "rating_distribution": [
           0,
           1,
@@ -9173,12 +9228,12 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ff05449c-d8e8-4a87-a939-e48f28f1d8d3.jpg",
-        "rating": 7.5,
-        "rating_count": 309,
+        "rating": 7.4,
+        "rating_count": 310,
         "rating_distribution": [
-          0,
+          1,
           6,
-          33,
+          32,
           37,
           22
         ],
@@ -10180,13 +10235,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/03de6714d4-4709-40a4-83d0-7f91ee238ba5.jpg",
         "rating": 8.1,
-        "rating_count": 130,
+        "rating_count": 131,
         "rating_distribution": [
-          1,
+          2,
           2,
           18,
           41,
-          36
+          35
         ],
         "tags": [
           "2000s",
@@ -10656,5 +10711,5 @@
   ],
   "count": 112,
   "category": "tv",
-  "updated_at": "2025-09-21T01:01:30.507258"
+  "updated_at": "2025-09-22T01:00:58.623729"
 }
