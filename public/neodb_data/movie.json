@@ -9547,7 +9547,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/07/01/f929217a-3c36-4a6e-8885-64fc07476424.webp",
         "rating": 6.1,
-        "rating_count": 341,
+        "rating_count": 342,
         "rating_distribution": [
           7,
           12,
@@ -23033,13 +23033,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1324f7bdb2-898a-450b-95ca-73c4d1b92011.jpg",
         "rating": 9.2,
-        "rating_count": 1737,
+        "rating_count": 1738,
         "rating_distribution": [
           0,
           0,
           5,
           26,
-          67
+          66
         ],
         "tags": [
           "1970s",
@@ -27268,6 +27268,22 @@
           {
             "lang": "ko",
             "text": "당갈"
+          },
+          {
+            "lang": "nn",
+            "text": "दंगल"
+          },
+          {
+            "lang": "nb",
+            "text": "दंगल"
+          },
+          {
+            "lang": "no",
+            "text": "दंगल"
+          },
+          {
+            "lang": "sv",
+            "text": "दंगल"
           }
         ],
         "localized_description": [
@@ -27375,6 +27391,9 @@
           },
           {
             "url": "https://www.wikidata.org/wiki/Q20762668"
+          },
+          {
+            "url": "https://minreol.dk/movie/1WWDpHtcc6zJyYugT0VaXe"
           }
         ]
       },
@@ -29117,5 +29136,5 @@
   ],
   "count": 141,
   "category": "movie",
-  "updated_at": "2025-09-25T00:56:33.238585"
+  "updated_at": "2025-09-26T00:55:57.178296"
 }
