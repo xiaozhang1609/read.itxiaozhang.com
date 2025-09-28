@@ -1552,7 +1552,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/12eb1ffdd9-8769-429d-9b4a-a2a3a7bd3764.jpg",
         "rating": 8.9,
-        "rating_count": 401,
+        "rating_count": 402,
         "rating_distribution": [
           0,
           0,
@@ -1638,12 +1638,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/26a4fa45-6953-49f9-b8cf-35f7ca58275b.jpg",
         "rating": 7.6,
-        "rating_count": 185,
+        "rating_count": 186,
         "rating_distribution": [
           0,
           5,
           22,
-          47,
+          46,
           24
         ],
         "tags": [
@@ -4363,7 +4363,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/06/1012f10cab-8842-442a-bd65-75dc2723a36b.jpg",
         "rating": 7.8,
-        "rating_count": 586,
+        "rating_count": 587,
         "rating_distribution": [
           2,
           5,
@@ -10235,13 +10235,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/03de6714d4-4709-40a4-83d0-7f91ee238ba5.jpg",
         "rating": 8.1,
-        "rating_count": 131,
+        "rating_count": 132,
         "rating_distribution": [
           2,
           2,
           18,
-          41,
-          35
+          40,
+          36
         ],
         "tags": [
           "2000s",
@@ -10711,5 +10711,5 @@
   ],
   "count": 112,
   "category": "tv",
-  "updated_at": "2025-09-27T00:54:13.045742"
+  "updated_at": "2025-09-28T01:02:15.952554"
 }
