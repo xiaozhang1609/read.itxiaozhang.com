@@ -23669,7 +23669,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1342c2c8f4-6447-4008-9f51-2fcd641c4799.jpg",
         "rating": 7.8,
-        "rating_count": 1759,
+        "rating_count": 1760,
         "rating_distribution": [
           0,
           2,
@@ -42179,19 +42179,19 @@
     "game",
     "performance"
   ],
-  "updated_at": "2025-09-29T00:58:15.659516",
+  "updated_at": "2025-09-30T00:57:04.422179",
   "stats": {
     "movie": {
       "count": 141,
-      "time": 12.8
+      "time": 12.48
     },
     "tv": {
       "count": 112,
-      "time": 7.83
+      "time": 7.86
     },
     "book": {
       "count": 30,
-      "time": 2.08
+      "time": 1.88
     },
     "music": {
       "count": 4,
@@ -42199,16 +42199,16 @@
     },
     "podcast": {
       "count": 0,
-      "time": 0.11
+      "time": 0.12
     },
     "game": {
       "count": 1,
-      "time": 0.14
+      "time": 0.16
     },
     "performance": {
       "count": 2,
       "time": 0.15
     }
   },
-  "total_time": 23.27
+  "total_time": 22.8
 }
