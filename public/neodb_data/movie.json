@@ -8580,7 +8580,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/05/05/ff4458fb-b949-416c-833f-def4a33e1a74.webp",
         "rating": 8.0,
-        "rating_count": 489,
+        "rating_count": 490,
         "rating_distribution": [
           0,
           0,
@@ -29139,5 +29139,5 @@
   ],
   "count": 141,
   "category": "movie",
-  "updated_at": "2025-10-01T01:02:56.900112"
+  "updated_at": "2025-10-02T00:55:19.338104"
 }
