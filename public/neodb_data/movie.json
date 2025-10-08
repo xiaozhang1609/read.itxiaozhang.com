@@ -11339,13 +11339,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ce6a4ea1-e930-4890-857f-95f944cf49c8.jpg",
         "rating": 8.8,
-        "rating_count": 1549,
+        "rating_count": 1550,
         "rating_distribution": [
           0,
           0,
           9,
           36,
-          53
+          52
         ],
         "tags": [
           "1950s",
@@ -16795,11 +16795,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/07/be012b58-ed0a-4750-b71d-03b0f59276a6.jpg",
         "rating": 7.7,
-        "rating_count": 1089,
+        "rating_count": 1090,
         "rating_distribution": [
           2,
           2,
-          19,
+          18,
           45,
           29
         ],
@@ -17267,7 +17267,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/c50f391f-f017-4478-ae8c-ff4cd460e2c2.jpg",
         "rating": 8.0,
-        "rating_count": 1137,
+        "rating_count": 1138,
         "rating_distribution": [
           0,
           2,
@@ -17733,7 +17733,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/7a48ff6e-aae2-458e-9b35-523ece2badfb.jpg",
         "rating": 8.3,
-        "rating_count": 898,
+        "rating_count": 899,
         "rating_distribution": [
           0,
           1,
@@ -21280,7 +21280,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13d7852063-6303-4f45-9781-d2549c492b5c.jpg",
         "rating": 8.1,
-        "rating_count": 1293,
+        "rating_count": 1294,
         "rating_distribution": [
           0,
           1,
@@ -25186,7 +25186,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16bbdb118c-e312-47b1-b758-fac8583dd257.jpg",
         "rating": 7.8,
-        "rating_count": 414,
+        "rating_count": 415,
         "rating_distribution": [
           0,
           2,
@@ -29139,5 +29139,5 @@
   ],
   "count": 141,
   "category": "movie",
-  "updated_at": "2025-10-07T00:56:00.788122"
+  "updated_at": "2025-10-08T00:55:38.932241"
 }

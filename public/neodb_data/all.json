@@ -15621,13 +15621,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ce6a4ea1-e930-4890-857f-95f944cf49c8.jpg",
         "rating": 8.8,
-        "rating_count": 1549,
+        "rating_count": 1550,
         "rating_distribution": [
           0,
           0,
           9,
           36,
-          53
+          52
         ],
         "tags": [
           "1950s",
@@ -20233,12 +20233,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/12/09/e349737a-1ad1-4118-ab72-3f8fd067cf4d.webp",
         "rating": 8.7,
-        "rating_count": 303,
+        "rating_count": 304,
         "rating_distribution": [
           0,
           0,
           9,
-          32,
+          31,
           57
         ],
         "tags": [
@@ -24470,11 +24470,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/07/be012b58-ed0a-4750-b71d-03b0f59276a6.jpg",
         "rating": 7.7,
-        "rating_count": 1089,
+        "rating_count": 1090,
         "rating_distribution": [
           2,
           2,
-          19,
+          18,
           45,
           29
         ],
@@ -25020,7 +25020,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/c50f391f-f017-4478-ae8c-ff4cd460e2c2.jpg",
         "rating": 8.0,
-        "rating_count": 1137,
+        "rating_count": 1138,
         "rating_distribution": [
           0,
           2,
@@ -25486,7 +25486,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/7a48ff6e-aae2-458e-9b35-523ece2badfb.jpg",
         "rating": 8.3,
-        "rating_count": 898,
+        "rating_count": 899,
         "rating_distribution": [
           0,
           1,
@@ -30760,7 +30760,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13d7852063-6303-4f45-9781-d2549c492b5c.jpg",
         "rating": 8.1,
-        "rating_count": 1293,
+        "rating_count": 1294,
         "rating_distribution": [
           0,
           1,
@@ -35335,7 +35335,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16bbdb118c-e312-47b1-b758-fac8583dd257.jpg",
         "rating": 7.8,
-        "rating_count": 414,
+        "rating_count": 415,
         "rating_distribution": [
           0,
           2,
@@ -42179,36 +42179,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2025-10-07T00:56:11.209333",
+  "updated_at": "2025-10-08T00:55:49.172570",
   "stats": {
     "movie": {
       "count": 141,
-      "time": 12.44
+      "time": 12.04
     },
     "tv": {
       "count": 112,
-      "time": 7.85
+      "time": 7.82
     },
     "book": {
       "count": 30,
-      "time": 1.89
+      "time": 1.8
     },
     "music": {
       "count": 4,
-      "time": 0.17
+      "time": 0.16
     },
     "podcast": {
       "count": 0,
-      "time": 0.12
+      "time": 0.11
     },
     "game": {
       "count": 1,
-      "time": 0.15
+      "time": 0.16
     },
     "performance": {
       "count": 2,
-      "time": 0.2
+      "time": 0.16
     }
   },
-  "total_time": 22.82
+  "total_time": 22.24
 }
