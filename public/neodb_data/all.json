@@ -8004,16 +8004,16 @@
         "display_title": "误杀瞒天记",
         "external_resources": [
           {
-            "url": "https://www.wikidata.org/wiki/Q19824636"
-          },
-          {
-            "url": "https://www.imdb.com/title/tt4430212/"
-          },
-          {
             "url": "https://movie.douban.com/subject/26419637/"
           },
           {
             "url": "https://www.themoviedb.org/movie/352173"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q19824636"
+          },
+          {
+            "url": "https://www.imdb.com/title/tt4430212/"
           }
         ]
       },
@@ -12520,9 +12520,6 @@
         "display_title": "你好，李焕英",
         "external_resources": [
           {
-            "url": "https://www.wikidata.org/wiki/Q105221616"
-          },
-          {
             "url": "https://www.imdb.com/title/tt13364790/"
           },
           {
@@ -12530,6 +12527,9 @@
           },
           {
             "url": "https://www.themoviedb.org/movie/758891"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q105221616"
           }
         ]
       },
@@ -22520,12 +22520,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2022/10/2573823f61-b01b-40a3-926a-f2563cbd989a.jpg",
         "rating": 7.8,
-        "rating_count": 282,
+        "rating_count": 284,
         "rating_distribution": [
           0,
           1,
           20,
-          56,
+          55,
           21
         ],
         "tags": [
@@ -25814,12 +25814,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/21/156627ec-4352-454a-a41e-6a1a5ae83070.jpg",
         "rating": 9.2,
-        "rating_count": 581,
+        "rating_count": 582,
         "rating_distribution": [
           0,
           0,
           5,
-          24,
+          25,
           68
         ],
         "tags": [
@@ -30179,10 +30179,10 @@
             "url": "https://minreol.dk/movie/2sRWX0H6tXtLDyVq91fSYP"
           },
           {
-            "url": "https://www.imdb.com/title/tt0926084/"
+            "url": "https://www.wikidata.org/wiki/Q161678"
           },
           {
-            "url": "https://www.wikidata.org/wiki/Q161678"
+            "url": "https://www.imdb.com/title/tt0926084/"
           }
         ]
       },
@@ -33348,10 +33348,10 @@
         "display_title": "罗小黑战记",
         "external_resources": [
           {
-            "url": "https://www.wikidata.org/wiki/Q67124023"
+            "url": "https://movie.douban.com/subject/26709258/"
           },
           {
-            "url": "https://movie.douban.com/subject/26709258/"
+            "url": "https://www.wikidata.org/wiki/Q67124023"
           },
           {
             "url": "https://www.imdb.com/title/tt10734928/"
@@ -38542,9 +38542,6 @@
         "display_title": "摔跤吧！爸爸",
         "external_resources": [
           {
-            "url": "https://www.imdb.com/title/tt5074352/"
-          },
-          {
             "url": "https://eggplant.place/movie/6IApLgC7PB98SQE3aNdTHM"
           },
           {
@@ -38554,10 +38551,13 @@
             "url": "https://www.themoviedb.org/movie/360814"
           },
           {
+            "url": "https://minreol.dk/movie/1WWDpHtcc6zJyYugT0VaXe"
+          },
+          {
             "url": "https://www.wikidata.org/wiki/Q20762668"
           },
           {
-            "url": "https://minreol.dk/movie/1WWDpHtcc6zJyYugT0VaXe"
+            "url": "https://www.imdb.com/title/tt5074352/"
           }
         ]
       },
@@ -39296,7 +39296,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13d1567d07-417b-4b7b-8356-5d0b87f43128.jpg",
         "rating": 9.1,
-        "rating_count": 2439,
+        "rating_count": 2440,
         "rating_distribution": [
           0,
           0,
@@ -42395,36 +42395,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2025-10-20T01:01:53.095770",
+  "updated_at": "2025-10-21T00:59:14.061717",
   "stats": {
     "movie": {
       "count": 142,
-      "time": 12.4
+      "time": 13.49
     },
     "tv": {
       "count": 112,
-      "time": 7.98
+      "time": 8.63
     },
     "book": {
       "count": 30,
-      "time": 1.98
+      "time": 2.09
     },
     "music": {
       "count": 4,
-      "time": 0.17
+      "time": 0.24
     },
     "podcast": {
       "count": 0,
-      "time": 0.12
+      "time": 0.24
     },
     "game": {
       "count": 1,
-      "time": 0.13
+      "time": 0.19
     },
     "performance": {
       "count": 2,
-      "time": 0.16
+      "time": 0.3
     }
   },
-  "total_time": 22.93
+  "total_time": 25.19
 }

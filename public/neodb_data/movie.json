@@ -5779,16 +5779,16 @@
         "display_title": "误杀瞒天记",
         "external_resources": [
           {
-            "url": "https://www.wikidata.org/wiki/Q19824636"
-          },
-          {
-            "url": "https://www.imdb.com/title/tt4430212/"
-          },
-          {
             "url": "https://movie.douban.com/subject/26419637/"
           },
           {
             "url": "https://www.themoviedb.org/movie/352173"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q19824636"
+          },
+          {
+            "url": "https://www.imdb.com/title/tt4430212/"
           }
         ]
       },
@@ -8991,9 +8991,6 @@
         "display_title": "你好，李焕英",
         "external_resources": [
           {
-            "url": "https://www.wikidata.org/wiki/Q105221616"
-          },
-          {
             "url": "https://www.imdb.com/title/tt13364790/"
           },
           {
@@ -9001,6 +8998,9 @@
           },
           {
             "url": "https://www.themoviedb.org/movie/758891"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q105221616"
           }
         ]
       },
@@ -20785,10 +20785,10 @@
             "url": "https://minreol.dk/movie/2sRWX0H6tXtLDyVq91fSYP"
           },
           {
-            "url": "https://www.imdb.com/title/tt0926084/"
+            "url": "https://www.wikidata.org/wiki/Q161678"
           },
           {
-            "url": "https://www.wikidata.org/wiki/Q161678"
+            "url": "https://www.imdb.com/title/tt0926084/"
           }
         ]
       },
@@ -23509,10 +23509,10 @@
         "display_title": "罗小黑战记",
         "external_resources": [
           {
-            "url": "https://www.wikidata.org/wiki/Q67124023"
+            "url": "https://movie.douban.com/subject/26709258/"
           },
           {
-            "url": "https://movie.douban.com/subject/26709258/"
+            "url": "https://www.wikidata.org/wiki/Q67124023"
           },
           {
             "url": "https://www.imdb.com/title/tt10734928/"
@@ -27596,9 +27596,6 @@
         "display_title": "摔跤吧！爸爸",
         "external_resources": [
           {
-            "url": "https://www.imdb.com/title/tt5074352/"
-          },
-          {
             "url": "https://eggplant.place/movie/6IApLgC7PB98SQE3aNdTHM"
           },
           {
@@ -27608,10 +27605,13 @@
             "url": "https://www.themoviedb.org/movie/360814"
           },
           {
+            "url": "https://minreol.dk/movie/1WWDpHtcc6zJyYugT0VaXe"
+          },
+          {
             "url": "https://www.wikidata.org/wiki/Q20762668"
           },
           {
-            "url": "https://minreol.dk/movie/1WWDpHtcc6zJyYugT0VaXe"
+            "url": "https://www.imdb.com/title/tt5074352/"
           }
         ]
       },
@@ -28300,7 +28300,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13d1567d07-417b-4b7b-8356-5d0b87f43128.jpg",
         "rating": 9.1,
-        "rating_count": 2439,
+        "rating_count": 2440,
         "rating_distribution": [
           0,
           0,
@@ -29354,5 +29354,5 @@
   ],
   "count": 142,
   "category": "movie",
-  "updated_at": "2025-10-20T01:01:42.519791"
+  "updated_at": "2025-10-21T00:59:02.320279"
 }
