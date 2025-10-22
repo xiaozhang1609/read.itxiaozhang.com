@@ -17657,7 +17657,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/12/0838bda30b-4624-44fc-a506-fe2dec0f453c.jpg",
         "rating": 8.1,
-        "rating_count": 1061,
+        "rating_count": 1062,
         "rating_distribution": [
           1,
           2,
@@ -29354,5 +29354,5 @@
   ],
   "count": 142,
   "category": "movie",
-  "updated_at": "2025-10-21T00:59:02.320279"
+  "updated_at": "2025-10-22T01:00:01.955794"
 }
