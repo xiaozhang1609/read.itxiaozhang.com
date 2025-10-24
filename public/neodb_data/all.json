@@ -6876,7 +6876,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15000b3b6b-44f3-49bc-8f4b-161e365621f5.jpg",
         "rating": 7.4,
-        "rating_count": 207,
+        "rating_count": 208,
         "rating_distribution": [
           0,
           1,
@@ -18499,7 +18499,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/133604f9b2-b434-4aa8-92c0-e8f88336e4db.jpg",
         "rating": 9.3,
-        "rating_count": 2601,
+        "rating_count": 2602,
         "rating_distribution": [
           0,
           0,
@@ -22520,12 +22520,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2022/10/2573823f61-b01b-40a3-926a-f2563cbd989a.jpg",
         "rating": 7.8,
-        "rating_count": 285,
+        "rating_count": 286,
         "rating_distribution": [
           0,
           1,
           20,
-          56,
+          55,
           21
         ],
         "tags": [
@@ -27558,12 +27558,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2024/04/17/7d1bda2d-db00-4136-a4cb-6ef3f39ef985.jpg",
         "rating": 7.2,
-        "rating_count": 104,
+        "rating_count": 105,
         "rating_distribution": [
           0,
           1,
           35,
-          52,
+          53,
           9
         ],
         "tags": [
@@ -29620,7 +29620,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/fedi/2025/01/20/9af3d23c-62c9-4794-a514-bd3f69ed9f76.jpg",
         "rating": 8.5,
-        "rating_count": 2506,
+        "rating_count": 2507,
         "rating_distribution": [
           0,
           1,
@@ -37023,10 +37023,10 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15d98dd5bd-46e9-45de-91c8-57ae7cb4a7da.jpg",
         "rating": 8.2,
-        "rating_count": 527,
+        "rating_count": 528,
         "rating_distribution": [
           0,
-          0,
+          1,
           17,
           48,
           32
@@ -38502,7 +38502,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1502c1ffd2-6210-4a80-b843-27465766fc86.jpg",
         "rating": 8.6,
-        "rating_count": 1929,
+        "rating_count": 1930,
         "rating_distribution": [
           0,
           0,
@@ -39296,7 +39296,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13d1567d07-417b-4b7b-8356-5d0b87f43128.jpg",
         "rating": 9.1,
-        "rating_count": 2441,
+        "rating_count": 2442,
         "rating_distribution": [
           0,
           0,
@@ -42395,36 +42395,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2025-10-23T00:58:41.863157",
+  "updated_at": "2025-10-24T00:55:06.895278",
   "stats": {
     "movie": {
       "count": 142,
-      "time": 14.21
+      "time": 13.21
     },
     "tv": {
       "count": 112,
-      "time": 9.1
+      "time": 8.6
     },
     "book": {
       "count": 30,
-      "time": 2.35
+      "time": 2.11
     },
     "music": {
       "count": 4,
-      "time": 0.22
+      "time": 0.3
     },
     "podcast": {
       "count": 0,
-      "time": 0.16
+      "time": 0.18
     },
     "game": {
       "count": 1,
-      "time": 0.17
+      "time": 0.2
     },
     "performance": {
       "count": 2,
       "time": 0.2
     }
   },
-  "total_time": 26.42
+  "total_time": 24.79
 }
