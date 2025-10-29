@@ -2375,7 +2375,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14138f068a-33d6-4cb0-a556-1112c79ede52.jpg",
         "rating": 9.3,
-        "rating_count": 1646,
+        "rating_count": 1647,
         "rating_distribution": [
           0,
           0,
@@ -3848,13 +3848,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/12/09/e349737a-1ad1-4118-ab72-3f8fd067cf4d.webp",
         "rating": 8.7,
-        "rating_count": 310,
+        "rating_count": 311,
         "rating_distribution": [
           0,
           0,
           9,
           32,
-          57
+          56
         ],
         "tags": [
           "2020s",
@@ -4269,7 +4269,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157c78ce20-44be-4128-85cd-0cfdc73ebb0a.jpg",
         "rating": 8.0,
-        "rating_count": 691,
+        "rating_count": 692,
         "rating_distribution": [
           1,
           2,
@@ -4364,7 +4364,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/06/1012f10cab-8842-442a-bd65-75dc2723a36b.jpg",
         "rating": 7.8,
-        "rating_count": 598,
+        "rating_count": 599,
         "rating_distribution": [
           2,
           5,
@@ -5081,13 +5081,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/09/04cbcb6fd5-268a-485b-ac86-17ebb9e1ecd8.jpg",
         "rating": 8.2,
-        "rating_count": 418,
+        "rating_count": 419,
         "rating_distribution": [
           0,
           0,
           18,
           44,
-          35
+          36
         ],
         "tags": [
           "2020s",
@@ -5448,13 +5448,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/19/368cf45a-631c-4500-9ec0-c814f93efe6f.jpg",
         "rating": 7.8,
-        "rating_count": 321,
+        "rating_count": 322,
         "rating_distribution": [
           0,
           6,
-          23,
+          22,
           39,
-          30
+          31
         ],
         "tags": [
           "2020s",
@@ -5646,7 +5646,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/03/14/e0cc80de-58b3-4a0c-ba0b-cb1ed25f326a.webp",
         "rating": 8.8,
-        "rating_count": 535,
+        "rating_count": 536,
         "rating_distribution": [
           0,
           0,
@@ -5740,7 +5740,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/2775557ce8-06f5-4882-a7e4-a3293ba16d3a.jpg",
         "rating": 8.9,
-        "rating_count": 1080,
+        "rating_count": 1081,
         "rating_distribution": [
           0,
           1,
@@ -6997,7 +6997,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1543e536b3-fcc3-44d0-a4da-96eacc5607bf.jpg",
         "rating": 9.6,
-        "rating_count": 486,
+        "rating_count": 485,
         "rating_distribution": [
           0,
           0,
@@ -7664,7 +7664,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ddb8977a-6e04-4d3f-bb55-a73b948034e7.jpg",
         "rating": 9.2,
-        "rating_count": 373,
+        "rating_count": 374,
         "rating_distribution": [
           0,
           1,
@@ -7679,6 +7679,7 @@
           "中国",
           "中国动画",
           "中国动画短片",
+          "剧集",
           "动作",
           "动漫",
           "动画",
@@ -7688,7 +7689,6 @@
           "国产动画",
           "国漫",
           "大陆",
-          "奇幻",
           "小黑好可爱",
           "治癒系",
           "短片",
@@ -8545,13 +8545,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16c1d450ea-c8ef-43f5-b29a-024062efeda9.jpg",
         "rating": 9.4,
-        "rating_count": 96,
+        "rating_count": 97,
         "rating_distribution": [
           0,
           0,
           3,
           22,
-          73
+          74
         ],
         "tags": [
           "2010s",
@@ -10762,5 +10762,5 @@
   ],
   "count": 112,
   "category": "tv",
-  "updated_at": "2025-10-28T00:57:24.651881"
+  "updated_at": "2025-10-29T01:01:28.855981"
 }
