@@ -12108,21 +12108,22 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/08/09/d546187f-bf96-4341-a492-99bc987de142.jpg",
         "rating": 7.6,
-        "rating_count": 228,
+        "rating_count": 230,
         "rating_distribution": [
           2,
           3,
-          21,
+          20,
           44,
-          28
+          29
         ],
         "tags": [
           "2020s",
           "2024",
           "2024流媒体",
           "2024院线",
+          "2025",
           "35歲的片",
-          "5",
+          "nithilan_saminathan",
           "y",
           "人性",
           "剧情",
@@ -12133,7 +12134,6 @@
           "家庭",
           "悬疑",
           "成长",
-          "暴力",
           "犯罪",
           "电影",
           "都市"
@@ -14537,7 +14537,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/154c5a960d-1ca7-4edb-a221-7e4e0d5af43f.jpg",
         "rating": 8.6,
-        "rating_count": 892,
+        "rating_count": 893,
         "rating_distribution": [
           0,
           0,
@@ -17485,7 +17485,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/c50f391f-f017-4478-ae8c-ff4cd460e2c2.jpg",
         "rating": 8.0,
-        "rating_count": 1158,
+        "rating_count": 1159,
         "rating_distribution": [
           0,
           2,
@@ -29357,5 +29357,5 @@
   ],
   "count": 142,
   "category": "movie",
-  "updated_at": "2025-11-01T01:02:18.475262"
+  "updated_at": "2025-11-02T01:03:11.212914"
 }

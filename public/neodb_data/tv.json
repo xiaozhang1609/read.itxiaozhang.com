@@ -9139,7 +9139,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2023/01/033be87cb9-20e8-43a6-831e-f59c540d018a.jpg",
         "rating": 8.1,
-        "rating_count": 637,
+        "rating_count": 640,
         "rating_distribution": [
           0,
           3,
@@ -10762,5 +10762,5 @@
   ],
   "count": 112,
   "category": "tv",
-  "updated_at": "2025-11-01T01:02:26.286702"
+  "updated_at": "2025-11-02T01:03:19.220448"
 }
