@@ -1638,13 +1638,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/26a4fa45-6953-49f9-b8cf-35f7ca58275b.jpg",
         "rating": 7.6,
-        "rating_count": 190,
+        "rating_count": 191,
         "rating_distribution": [
           0,
           5,
-          22,
+          21,
           47,
-          24
+          25
         ],
         "tags": [
           "2023",
@@ -8454,12 +8454,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/163da055cd-66a1-4ab7-8a59-1d0b78d8fb3d.jpg",
         "rating": 8.4,
-        "rating_count": 113,
+        "rating_count": 114,
         "rating_distribution": [
           2,
           3,
           6,
-          40,
+          41,
           46
         ],
         "tags": [
@@ -10762,5 +10762,5 @@
   ],
   "count": 112,
   "category": "tv",
-  "updated_at": "2025-11-04T00:59:39.492822"
+  "updated_at": "2025-11-05T01:01:23.804684"
 }
