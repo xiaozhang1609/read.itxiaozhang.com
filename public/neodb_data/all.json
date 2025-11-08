@@ -4722,7 +4722,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/26a4fa45-6953-49f9-b8cf-35f7ca58275b.jpg",
         "rating": 7.6,
-        "rating_count": 191,
+        "rating_count": 192,
         "rating_distribution": [
           0,
           5,
@@ -4811,7 +4811,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/9b8c9c00-d17c-4de2-9dc4-d7d8eba26a3c.jpg",
         "rating": 8.2,
-        "rating_count": 363,
+        "rating_count": 364,
         "rating_distribution": [
           0,
           3,
@@ -4899,7 +4899,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/91aef100-a4ff-4866-8e5e-a6b1af1bc754.jpg",
         "rating": 8.6,
-        "rating_count": 255,
+        "rating_count": 256,
         "rating_distribution": [
           0,
           0,
@@ -5176,7 +5176,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158cac42e4-74fb-472f-afd5-78984be19315.jpg",
         "rating": 8.2,
-        "rating_count": 792,
+        "rating_count": 793,
         "rating_distribution": [
           1,
           2,
@@ -7161,12 +7161,12 @@
           "bradleycooper",
           "g美国",
           "jimcarrey",
+          "man",
           "us",
           "zooeydeschanel",
           "人生",
           "励志",
           "喜剧",
-          "地区 澳大利亚",
           "地区 美国",
           "好好先生",
           "搞笑",
@@ -16767,13 +16767,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1616db63d8-fedf-4ed2-9af3-f433bd8aedff.jpg",
         "rating": 7.9,
-        "rating_count": 480,
+        "rating_count": 481,
         "rating_distribution": [
           0,
           1,
           22,
           55,
-          20
+          19
         ],
         "tags": [
           "2010",
@@ -32196,92 +32196,6 @@
     {
       "shelf_type": "complete",
       "visibility": 0,
-      "post_id": 87802049986589056,
-      "item": {
-        "type": "Movie",
-        "title": "魁拔Ⅲ战神崛起",
-        "description": "历经惨烈的元泱界大战，成功突破魁拔十二妖第一道防线的蛮吉（刘婧荦 配音）、镜心（刘校妤 配音）一行，为追赶曲境一号再踏征途，却意外闯入萨库人大仓（王宇腾 配音）与粼妖姑娘海问香（姚姝 配音）所设下的诡异防线。面对大仓与海问香的步步紧逼，蛮吉等人无奈应战。激战中，神秘少年 敖江（刘校妤 配音）凭空出现、曲境一号舰长远浪（杨晨 配音）更做出种种令人匪夷所思的决定，让本已复杂的局面，越发显得扑朔迷离；而机缘巧合下，脉门封闭已久的蛮吉竟意外开启六大脉门，化身无敌战神，携魁拔脉兽驰骋于漫天烽火中，上演了一场气势磅礴的惊世之战……",
-        "localized_title": [
-          {
-            "lang": "zh-cn",
-            "text": "魁拔Ⅲ战神崛起"
-          },
-          {
-            "lang": "zh-cn",
-            "text": "魁拔3"
-          },
-          {
-            "lang": "zh-cn",
-            "text": "魁拔3战神崛起"
-          },
-          {
-            "lang": "zh-cn",
-            "text": "魁拔3之战神崛起"
-          },
-          {
-            "lang": "sw",
-            "text": "Kuiba Ⅲ"
-          }
-        ],
-        "localized_description": [
-          {
-            "lang": "zh-cn",
-            "text": "历经惨烈的元泱界大战，成功突破魁拔十二妖第一道防线的蛮吉（刘婧荦 配音）、镜心（刘校妤 配音）一行，为追赶曲境一号再踏征途，却意外闯入萨库人大仓（王宇腾 配音）与粼妖姑娘海问香（姚姝 配音）所设下的诡异防线。面对大仓与海问香的步步紧逼，蛮吉等人无奈应战。激战中，神秘少年 敖江（刘校妤 配音）凭空出现、曲境一号舰长远浪（杨晨 配音）更做出种种令人匪夷所思的决定，让本已复杂的局面，越发显得扑朔迷离；而机缘巧合下，脉门封闭已久的蛮吉竟意外开启六大脉门，化身无敌战神，携魁拔脉兽驰骋于漫天烽火中，上演了一场气势磅礴的惊世之战……"
-          }
-        ],
-        "cover_image_url": "https://neodb.social/m/movie/2021/09/18a22d4c52-7107-4300-a38c-5bd94a63cfc3.jpg",
-        "rating": 7.8,
-        "rating_count": 120,
-        "rating_distribution": [
-          0,
-          5,
-          22,
-          47,
-          24
-        ],
-        "tags": [
-          "2010s",
-          "2014",
-          "中国",
-          "中国动画",
-          "中国大陆",
-          "中国电影",
-          "冒险",
-          "动作",
-          "动漫",
-          "动画",
-          "动画电影",
-          "国产",
-          "国产动画",
-          "大陆",
-          "奇幻",
-          "电影",
-          "青青树",
-          "魁拔",
-          "魔幻"
-        ],
-        "brief": "历经惨烈的元泱界大战，成功突破魁拔十二妖第一道防线的蛮吉（刘婧荦 配音）、镜心（刘校妤 配音）一行，为追赶曲境一号再踏征途，却意外闯入萨库人大仓（王宇腾 配音）与粼妖姑娘海问香（姚姝 配音）所设下的诡异防线。面对大仓与海问香的步步紧逼，蛮吉等人无奈应战。激战中，神秘少年 敖江（刘校妤 配音）凭空出现、曲境一号舰长远浪（杨晨 配音）更做出种种令人匪夷所思的决定，让本已复杂的局面，越发显得扑朔迷离；而机缘巧合下，脉门封闭已久的蛮吉竟意外开启六大脉门，化身无敌战神，携魁拔脉兽驰骋于漫天烽火中，上演了一场气势磅礴的惊世之战……",
-        "id": "https://neodb.social/movie/40SAnQuw1hsChfSOW7U2HR",
-        "uuid": "40SAnQuw1hsChfSOW7U2HR",
-        "url": "/movie/40SAnQuw1hsChfSOW7U2HR",
-        "api_url": "/api/movie/40SAnQuw1hsChfSOW7U2HR",
-        "category": "movie",
-        "parent_uuid": null,
-        "display_title": "魁拔Ⅲ战神崛起",
-        "external_resources": [
-          {
-            "url": "https://movie.douban.com/subject/24723061/"
-          }
-        ]
-      },
-      "created_time": "2022-08-31T13:54:00Z",
-      "comment_text": null,
-      "rating_grade": 8,
-      "tags": []
-    },
-    {
-      "shelf_type": "complete",
-      "visibility": 0,
       "post_id": 87802049990104376,
       "item": {
         "type": "Movie",
@@ -32531,6 +32445,92 @@
       "created_time": "2022-08-31T13:54:00Z",
       "comment_text": null,
       "rating_grade": 9,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
+      "post_id": 87802049986589056,
+      "item": {
+        "type": "Movie",
+        "title": "魁拔Ⅲ战神崛起",
+        "description": "历经惨烈的元泱界大战，成功突破魁拔十二妖第一道防线的蛮吉（刘婧荦 配音）、镜心（刘校妤 配音）一行，为追赶曲境一号再踏征途，却意外闯入萨库人大仓（王宇腾 配音）与粼妖姑娘海问香（姚姝 配音）所设下的诡异防线。面对大仓与海问香的步步紧逼，蛮吉等人无奈应战。激战中，神秘少年 敖江（刘校妤 配音）凭空出现、曲境一号舰长远浪（杨晨 配音）更做出种种令人匪夷所思的决定，让本已复杂的局面，越发显得扑朔迷离；而机缘巧合下，脉门封闭已久的蛮吉竟意外开启六大脉门，化身无敌战神，携魁拔脉兽驰骋于漫天烽火中，上演了一场气势磅礴的惊世之战……",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "魁拔Ⅲ战神崛起"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "魁拔3"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "魁拔3战神崛起"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "魁拔3之战神崛起"
+          },
+          {
+            "lang": "sw",
+            "text": "Kuiba Ⅲ"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "历经惨烈的元泱界大战，成功突破魁拔十二妖第一道防线的蛮吉（刘婧荦 配音）、镜心（刘校妤 配音）一行，为追赶曲境一号再踏征途，却意外闯入萨库人大仓（王宇腾 配音）与粼妖姑娘海问香（姚姝 配音）所设下的诡异防线。面对大仓与海问香的步步紧逼，蛮吉等人无奈应战。激战中，神秘少年 敖江（刘校妤 配音）凭空出现、曲境一号舰长远浪（杨晨 配音）更做出种种令人匪夷所思的决定，让本已复杂的局面，越发显得扑朔迷离；而机缘巧合下，脉门封闭已久的蛮吉竟意外开启六大脉门，化身无敌战神，携魁拔脉兽驰骋于漫天烽火中，上演了一场气势磅礴的惊世之战……"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/movie/2021/09/18a22d4c52-7107-4300-a38c-5bd94a63cfc3.jpg",
+        "rating": 7.8,
+        "rating_count": 120,
+        "rating_distribution": [
+          0,
+          5,
+          22,
+          47,
+          24
+        ],
+        "tags": [
+          "2010s",
+          "2014",
+          "中国",
+          "中国动画",
+          "中国大陆",
+          "中国电影",
+          "冒险",
+          "动作",
+          "动漫",
+          "动画",
+          "动画电影",
+          "国产",
+          "国产动画",
+          "大陆",
+          "奇幻",
+          "电影",
+          "青青树",
+          "魁拔",
+          "魔幻"
+        ],
+        "brief": "历经惨烈的元泱界大战，成功突破魁拔十二妖第一道防线的蛮吉（刘婧荦 配音）、镜心（刘校妤 配音）一行，为追赶曲境一号再踏征途，却意外闯入萨库人大仓（王宇腾 配音）与粼妖姑娘海问香（姚姝 配音）所设下的诡异防线。面对大仓与海问香的步步紧逼，蛮吉等人无奈应战。激战中，神秘少年 敖江（刘校妤 配音）凭空出现、曲境一号舰长远浪（杨晨 配音）更做出种种令人匪夷所思的决定，让本已复杂的局面，越发显得扑朔迷离；而机缘巧合下，脉门封闭已久的蛮吉竟意外开启六大脉门，化身无敌战神，携魁拔脉兽驰骋于漫天烽火中，上演了一场气势磅礴的惊世之战……",
+        "id": "https://neodb.social/movie/40SAnQuw1hsChfSOW7U2HR",
+        "uuid": "40SAnQuw1hsChfSOW7U2HR",
+        "url": "/movie/40SAnQuw1hsChfSOW7U2HR",
+        "api_url": "/api/movie/40SAnQuw1hsChfSOW7U2HR",
+        "category": "movie",
+        "parent_uuid": null,
+        "display_title": "魁拔Ⅲ战神崛起",
+        "external_resources": [
+          {
+            "url": "https://movie.douban.com/subject/24723061/"
+          }
+        ]
+      },
+      "created_time": "2022-08-31T13:54:00Z",
+      "comment_text": null,
+      "rating_grade": 8,
       "tags": []
     },
     {
@@ -33361,7 +33361,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1540ca6a04-7e73-4d51-bf03-5e75bb63a8de.jpg",
         "rating": 8.0,
-        "rating_count": 1099,
+        "rating_count": 1098,
         "rating_distribution": [
           0,
           3,
@@ -33502,91 +33502,35 @@
       "item": {
         "type": "Movie",
         "title": "哈利·波特与火焰杯",
-        "description": "这是一个不同寻常的学期，魔法学校的盛事：三强争霸赛在霍格沃茨举行。学生们争先报名，希翼获得永恒无上的荣誉。火焰杯在选出三所学校的三名勇士后，竟将未足年龄的哈利也挑选出来。\n哈利（Daniel Radcliffe饰）的当选引起其他学生的嫉妒连连，就连铁哥们罗恩（Rupert Grint饰）也首次和他闹起了别扭，哈利感到孤立无援，还好有教父小天狼星和赫敏一直支持他。可总有些好事者如记者丽塔等着看他的好戏。天知道这场比赛是何等艰辛危险，在龙的眼皮下偷蛋，潜入湖底救人，在迷宫中探险……一不小心，甚至可能付出生命的代价。\n黑魔王伏地魔的威胁渐渐显现，每一天都险象环生，动人心弦。",
+        "description": "这是一个不同寻常的学期，魔法学校的盛事：三强争霸赛将在霍格沃茨举行。学生们争先报名，希翼获得永恒无上的荣誉。火焰杯在选出三所学校的三名勇士后，竟将未足年龄的哈利也挑选出来。哈利的当选引起其他学生的嫉妒连连，就连铁哥们罗恩也首次和他闹起了别扭，哈利感到孤立无援，还好有教父小天狼星和赫敏一直支持他。可总有些好事者如记者丽塔等着看他的好戏。天知道这场比赛是何等艰辛危险，在龙的眼皮下偷蛋，潜入湖底救人，在迷宫中探险……一不小心，甚至可能付出生命的代价。黑魔王伏地魔的威胁渐渐显现，每一天都险象环生，动人心弦。",
         "localized_title": [
           {
-            "lang": "zh-cn",
-            "text": "哈利·波特与火焰杯"
-          },
-          {
-            "lang": "en",
-            "text": "Harry Potter and the Goblet of Fire"
-          },
-          {
-            "lang": "zh-cn",
-            "text": "哈利波特4：火杯的考验(港/台)"
-          },
-          {
-            "lang": "zh-cn",
-            "text": "哈4"
-          },
-          {
-            "lang": "fr",
-            "text": "Harry Potter et la Coupe de feu"
-          },
-          {
-            "lang": "de",
-            "text": "Harry Potter und der Feuerkelch"
-          },
-          {
-            "lang": "nn",
-            "text": "Harry Potter and the Goblet of Fire"
-          },
-          {
-            "lang": "nb",
-            "text": "Harry Potter og ildbegeret"
-          },
-          {
-            "lang": "no",
-            "text": "Harry Potter og ildbegeret"
-          },
-          {
-            "lang": "sv",
-            "text": "Harry Potter och den flammande bägaren"
-          },
-          {
-            "lang": "da",
-            "text": "Harry Potter og flammernes pokal"
-          },
-          {
-            "lang": "zh",
-            "text": "哈利波特：火盃的考驗"
-          },
-          {
-            "lang": "zh-tw",
-            "text": "哈利波特－火盃的考驗"
-          },
-          {
-            "lang": "zh-hk",
-            "text": "哈利波特－火盃的考驗"
-          },
-          {
-            "lang": "zh-hans",
-            "text": "哈利·波特与火焰杯"
-          },
-          {
-            "lang": "zh-hant",
-            "text": "哈利波特－火盃的考驗"
-          },
-          {
-            "lang": "zh-sg",
-            "text": "哈利波特：火杯的考验"
-          },
-          {
-            "lang": "es",
-            "text": "Harry Potter y el cáliz de fuego"
-          },
-          {
-            "lang": "pt",
-            "text": "Harry Potter e o Cálice de Fogo"
+            "lang": "ko",
+            "text": "해리 포터와 불의 잔"
           },
           {
             "lang": "ja",
             "text": "ハリー・ポッターと炎のゴブレット"
           },
           {
-            "lang": "ko",
-            "text": "해리 포터와 불의 잔"
+            "lang": "pt",
+            "text": "Harry Potter e o Cálice de Fogo"
+          },
+          {
+            "lang": "de",
+            "text": "Harry Potter und der Feuerkelch"
+          },
+          {
+            "lang": "fr",
+            "text": "Harry Potter et la Coupe de feu"
+          },
+          {
+            "lang": "es",
+            "text": "Harry Potter y el cáliz de fuego"
+          },
+          {
+            "lang": "en",
+            "text": "Harry Potter and the Goblet of Fire"
           },
           {
             "lang": "zh-hk",
@@ -33595,81 +33539,13 @@
           {
             "lang": "zh-tw",
             "text": "哈利波特：火盃的考驗"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "哈利·波特与火焰杯"
           }
         ],
         "localized_description": [
-          {
-            "lang": "zh-cn",
-            "text": "这是一个不同寻常的学期，魔法学校的盛事：三强争霸赛在霍格沃茨举行。学生们争先报名，希翼获得永恒无上的荣誉。火焰杯在选出三所学校的三名勇士后，竟将未足年龄的哈利也挑选出来。\n哈利（Daniel Radcliffe饰）的当选引起其他学生的嫉妒连连，就连铁哥们罗恩（Rupert Grint饰）也首次和他闹起了别扭，哈利感到孤立无援，还好有教父小天狼星和赫敏一直支持他。可总有些好事者如记者丽塔等着看他的好戏。天知道这场比赛是何等艰辛危险，在龙的眼皮下偷蛋，潜入湖底救人，在迷宫中探险……一不小心，甚至可能付出生命的代价。\n黑魔王伏地魔的威胁渐渐显现，每一天都险象环生，动人心弦。"
-          },
-          {
-            "lang": "fr",
-            "text": "La quatrième année à l’école de Poudlard est marquée par le « Tournoi des trois sorciers ». Les participants sont choisis par la fameuse « Coupe de feu » qui est à l’origine d’un scandale. Elle sélectionne Harry Potter alors qu’il n’a pas l’âge légal requis ! Accusé de tricherie et mis à mal par une série d’épreuves physiques de plus en plus difficiles, ce dernier sera enfin confronté à Celui dont on ne doit pas prononcer le nom, Lord V."
-          },
-          {
-            "lang": "de",
-            "text": "Das große Abenteuer beginnt, als der Feuerkelch Harry Potters Namen freigibt und Harry damit Teilnehmer eines gefährlichen Wettbewerbs unter drei ruhmreichen Zauberschulen wird – des Trimagischen Turniers. Wer aber könnte Harrys Namen in den Feuerkelch geworfen haben? Jetzt muss er einen gefährlichen Drachen bezwingen, mit gespenstischen Wasserdämonen kämpfen und einem verzauberten Labyrinth entkommen – nur, um am Ende Dem-dessen-Name-nicht-genannt-werden-darf gegenüberzustehen."
-          },
-          {
-            "lang": "nb",
-            "text": "Harry starter sitt fjerde år på Galtvort, konkurrerer i den troløse Rumpeldunk-turneringen. Og møter den onde Fyrst Voldemort. Ronny og Hermine hjelper Harry med å håndtere presset - men Voldemort lurer og venter på sin sjanse til å ødelegge Harry og alt han står for."
-          },
-          {
-            "lang": "no",
-            "text": "Når Harrys navn trekkes fra ildbegeret, må han delta i en tøff kamp om ære mellom tre trollmannsskoler. Men siden han aldri meldte seg på turneringen selv, hvem var det da som gjorde det? Denne må Harry kjempe mot en fryktinngytende drage, olme vanndemoner og en forhekset labyrint, bare for å oppdage at han befinner seg i fyrst Voldemorts jerngrep."
-          },
-          {
-            "lang": "sv",
-            "text": "När den flammande bägaren väljer ut Harry Potter som en av deltagarna i Den Magiska Trekampen tvingas han tävla mot två andra magiskolor i en stenhård kamp om evig ära. Men Harry anmälde sig inte ens som kandidat… så vem såg till att han kunde väljas? Harry blir tvungen att slåss mot en livsfarlig, eldsprutande drake, möta onda vattendemoner och ta sig igenom en farlig, förtrollad labyrint – och alltihop bara för att sedan hamna i klorna på Han-Som-Inte-Får-Nämnas-Vid-Namn."
-          },
-          {
-            "lang": "en",
-            "text": "When Harry Potter's name emerges from the Goblet of Fire, he becomes a competitor in a grueling battle for glory among three wizarding schools—the Triwizard Tournament. But since Harry never submitted his name for the Tournament, who did? Now Harry must confront a deadly dragon, fierce water demons and an enchanted maze only to find himself in the cruel grasp of He Who Must Not Be Named."
-          },
-          {
-            "lang": "da",
-            "text": "Inden Harry Potter skal starte på sit fjerde år på Hogwarts, tager han, Weasley-familien og Hermione til verdensmesterskaberne i troldmandssporten Quidditch. Men pludselig viser Voldemort's mærke sig på himlen, og frygten for de ondes kræfters tilbagevenden skræmmer alle. Skolen starter, og snart har Harry også andre ting at bekymre sig om, for han mangler en date til det årlige julebal. Harry bliver på mystisk vis udvalgt af Flammernes Pokal til at repræsentere Hogwarts i en prestigefyldte troldmandsturnering, hvor han skal kæmpe imod ældre og mere erfarne elever fra to rivaliserende troldmandsskoler."
-          },
-          {
-            "lang": "nn",
-            "text": ""
-          },
-          {
-            "lang": "zh",
-            "text": "哈利波特系列电影的第四集"
-          },
-          {
-            "lang": "zh-hant",
-            "text": "哈利波特系列電影"
-          },
-          {
-            "lang": "en",
-            "text": "2005 film directed by Mike Newell"
-          },
-          {
-            "lang": "es",
-            "text": "película de 2005 dirigida por Mike Newell"
-          },
-          {
-            "lang": "fr",
-            "text": "film réalisé par Mike Newell et sorti en 2005"
-          },
-          {
-            "lang": "de",
-            "text": "Film von Mike Newell (2005)"
-          },
-          {
-            "lang": "pt",
-            "text": "filme de 2005 dirigido por Mike Newell"
-          },
-          {
-            "lang": "ja",
-            "text": "マイク・ニューウェル監督の2005年のファンタジー映画"
-          },
-          {
-            "lang": "ko",
-            "text": "2005년 마이크 뉴얼 감독의 영국-미국 판타지 영화"
-          },
           {
             "lang": "ko",
             "text": "요즘 들어 매일 꾸는 악몽 때문에 이마의 상처에 더욱 통증을 느끼는 해리는 친구 론과 헤르미온느와 함께 퀴디치 월드컵에 참가해 악몽에서 벗어날 수 있게 돼 마냥 기쁘다. 그러나 퀴디치 캠프장 근방 하늘에 불길한 기운이 나타난다. 바로 마왕 볼드모트의 상징인 어둠의 표식이 나타난 것. 볼드모트가 13년 전에 자취를 감춘 뒤, 감히 모습을 드러내지 못했던 그의 추종자 데스 이터들이 그 표식을 불러낸 것이다. 두려움으로 가득 찬 해리는 안전한 호그와트 마법학교로 돌아가고 싶어한다. 덤블도어 교장이라면 자신을 지켜줄 수 있을 것이기에. 그러나 올해는 예년과 상황이 좀 다른데..."
@@ -33683,8 +33559,20 @@
             "text": "O nome de Harry Potter é extraído do Cálice de Fogo, tornando-se assim num dos concorrentes de Hogwarts que irão disputar a glória e o prestígio no Torneio dos Três Feiticeiros realizado entre as três grandes escolas de feiticeiros e onde terá de enfrentar os alunos mais experientes numa série de desafios. Mas quem inscreveu o nome de Harry, visto que não foi ele? Entretanto, os aliados de Lord Voldermort espalham o pânico durante o Campeonato do Mundo de Quidditch, sinalizando o retorno do malvado bruxo com a Marca Negra. Agora Harry terá de enfrentar um mortífero dragão, lidar com ferozes demónios aquáticos, conquistar um labirinto encantado, e, ainda convidar uma rapariga para o Baile de Inverno, antes de acabar nas garras de Aquele Cujo Nome Não Deve Ser Pronunciado..."
           },
           {
+            "lang": "de",
+            "text": "Das große Abenteuer beginnt, als der Feuerkelch Harry Potters Namen freigibt und Harry damit Teilnehmer eines gefährlichen Wettbewerbs unter drei ruhmreichen Zauberschulen wird – des Trimagischen Turniers. Wer aber könnte Harrys Namen in den Feuerkelch geworfen haben? Jetzt muss er einen gefährlichen Drachen bezwingen, mit gespenstischen Wasserdämonen kämpfen und einem verzauberten Labyrinth entkommen – nur, um am Ende Dem-dessen-Name-nicht-genannt-werden-darf gegenüberzustehen."
+          },
+          {
+            "lang": "fr",
+            "text": "La quatrième année à l’école de Poudlard est marquée par le « Tournoi des trois sorciers ». Les participants sont choisis par la fameuse « Coupe de feu » qui est à l’origine d’un scandale. Elle sélectionne Harry Potter alors qu’il n’a pas l’âge légal requis ! Accusé de tricherie et mis à mal par une série d’épreuves physiques de plus en plus difficiles, ce dernier sera enfin confronté à Celui dont on ne doit pas prononcer le nom, Lord V."
+          },
+          {
             "lang": "es",
             "text": "En el cuarto año en Hogwarts, Harry se enfrenta al mayor de los desafíos y peligros de la saga. Cuando es elegido bajo misteriosas circunstancias como el competidor que representará a Hogwarts en el Torneo Triwizard, Harry deberá competir contra los mejores jóvenes magos de toda Europa. Pero mientras se prepara, aparecen pruebas que manifiestan que Lord Voldemort ha regresado. Antes de darse cuenta, Harry no solo estará luchando por el campeonato sino también por su vida"
+          },
+          {
+            "lang": "en",
+            "text": "When Harry Potter's name emerges from the Goblet of Fire, he becomes a competitor in a grueling battle for glory among three wizarding schools—the Triwizard Tournament. But since Harry never submitted his name for the Tournament, who did? Now Harry must confront a deadly dragon, fierce water demons and an enchanted maze only to find himself in the cruel grasp of He Who Must Not Be Named."
           },
           {
             "lang": "zh-hk",
@@ -33699,7 +33587,7 @@
             "text": "这是一个不同寻常的学期，魔法学校的盛事：三强争霸赛将在霍格沃茨举行。学生们争先报名，希翼获得永恒无上的荣誉。火焰杯在选出三所学校的三名勇士后，竟将未足年龄的哈利也挑选出来。哈利的当选引起其他学生的嫉妒连连，就连铁哥们罗恩也首次和他闹起了别扭，哈利感到孤立无援，还好有教父小天狼星和赫敏一直支持他。可总有些好事者如记者丽塔等着看他的好戏。天知道这场比赛是何等艰辛危险，在龙的眼皮下偷蛋，潜入湖底救人，在迷宫中探险……一不小心，甚至可能付出生命的代价。黑魔王伏地魔的威胁渐渐显现，每一天都险象环生，动人心弦。"
           }
         ],
-        "cover_image_url": "https://neodb.social/m/movie/2021/09/159008bab2-fd56-48b7-b553-f0a4d76eef0a.jpg",
+        "cover_image_url": "https://neodb.social/m/item/imdb/2025/11/07/a33756a3-308e-45aa-b653-b3682080a021.jpg",
         "rating": 8.1,
         "rating_count": 1631,
         "rating_distribution": [
@@ -33730,7 +33618,7 @@
           "青春",
           "魔幻"
         ],
-        "brief": "这是一个不同寻常的学期，魔法学校的盛事：三强争霸赛在霍格沃茨举行。学生们争先报名，希翼获得永恒无上的荣誉。火焰杯在选出三所学校的三名勇士后，竟将未足年龄的哈利也挑选出来。\n哈利（Daniel Radcliffe饰）的当选引起其他学生的嫉妒连连，就连铁哥们罗恩（Rupert Grint饰）也首次和他闹起了别扭，哈利感到孤立无援，还好有教父小天狼星和赫敏一直支持他。可总有些好事者如记者丽塔等着看他的好戏。天知道这场比赛是何等艰辛危险，在龙的眼皮下偷蛋，潜入湖底救人，在迷宫中探险……一不小心，甚至可能付出生命的代价。\n黑魔王伏地魔的威胁渐渐显现，每一天都险象环生，动人心弦。",
+        "brief": "这是一个不同寻常的学期，魔法学校的盛事：三强争霸赛将在霍格沃茨举行。学生们争先报名，希翼获得永恒无上的荣誉。火焰杯在选出三所学校的三名勇士后，竟将未足年龄的哈利也挑选出来。哈利的当选引起其他学生的嫉妒连连，就连铁哥们罗恩也首次和他闹起了别扭，哈利感到孤立无援，还好有教父小天狼星和赫敏一直支持他。可总有些好事者如记者丽塔等着看他的好戏。天知道这场比赛是何等艰辛危险，在龙的眼皮下偷蛋，潜入湖底救人，在迷宫中探险……一不小心，甚至可能付出生命的代价。黑魔王伏地魔的威胁渐渐显现，每一天都险象环生，动人心弦。",
         "id": "https://neodb.social/movie/5ZD3Nli9yTkWQw9uTdUrv2",
         "uuid": "5ZD3Nli9yTkWQw9uTdUrv2",
         "url": "/movie/5ZD3Nli9yTkWQw9uTdUrv2",
@@ -42448,36 +42336,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2025-11-07T00:59:56.423764",
+  "updated_at": "2025-11-08T00:56:48.310834",
   "stats": {
     "movie": {
       "count": 142,
-      "time": 12.32
+      "time": 12.01
     },
     "tv": {
       "count": 112,
-      "time": 7.97
+      "time": 7.76
     },
     "book": {
       "count": 30,
-      "time": 1.89
+      "time": 1.92
     },
     "music": {
       "count": 4,
-      "time": 0.17
+      "time": 0.19
     },
     "podcast": {
       "count": 0,
-      "time": 0.13
+      "time": 0.1
     },
     "game": {
       "count": 1,
-      "time": 0.14
+      "time": 0.12
     },
     "performance": {
       "count": 2,
-      "time": 0.2
+      "time": 0.15
     }
   },
-  "total_time": 22.81
+  "total_time": 22.25
 }
