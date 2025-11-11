@@ -4636,7 +4636,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/12eb1ffdd9-8769-429d-9b4a-a2a3a7bd3764.jpg",
         "rating": 8.9,
-        "rating_count": 406,
+        "rating_count": 407,
         "rating_distribution": [
           0,
           0,
@@ -4722,13 +4722,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/26a4fa45-6953-49f9-b8cf-35f7ca58275b.jpg",
         "rating": 7.6,
-        "rating_count": 193,
+        "rating_count": 194,
         "rating_distribution": [
           0,
           5,
           21,
           47,
-          24
+          25
         ],
         "tags": [
           "2023",
@@ -10723,9 +10723,6 @@
         "display_title": "红高粱",
         "external_resources": [
           {
-            "url": "https://www.wikidata.org/wiki/Q166588"
-          },
-          {
             "url": "https://www.imdb.com/title/tt0093206/"
           },
           {
@@ -10733,6 +10730,9 @@
           },
           {
             "url": "https://www.themoviedb.org/movie/42006"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q166588"
           }
         ]
       },
@@ -19674,7 +19674,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/154c5a960d-1ca7-4edb-a221-7e4e0d5af43f.jpg",
         "rating": 8.6,
-        "rating_count": 895,
+        "rating_count": 896,
         "rating_distribution": [
           0,
           0,
@@ -23357,10 +23357,10 @@
             "url": "https://www.themoviedb.org/movie/548"
           },
           {
-            "url": "https://movie.douban.com/subject/1291879/"
+            "url": "https://www.wikidata.org/wiki/Q135465"
           },
           {
-            "url": "https://www.wikidata.org/wiki/Q135465"
+            "url": "https://movie.douban.com/subject/1291879/"
           }
         ]
       },
@@ -27197,9 +27197,6 @@
             "url": "https://eggplant.place/movie/0mUWFcfbM9eubh15afvgmL"
           },
           {
-            "url": "https://www.themoviedb.org/movie/916224"
-          },
-          {
             "url": "https://bgm.tv/subject/362577"
           },
           {
@@ -27210,6 +27207,9 @@
           },
           {
             "url": "https://movie.douban.com/subject/35371261/"
+          },
+          {
+            "url": "https://www.themoviedb.org/movie/916224"
           }
         ]
       },
@@ -33341,7 +33341,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1540ca6a04-7e73-4d51-bf03-5e75bb63a8de.jpg",
         "rating": 8.0,
-        "rating_count": 1100,
+        "rating_count": 1101,
         "rating_distribution": [
           0,
           3,
@@ -34551,7 +34551,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/154d17b8a4-2b9e-4a69-8f43-7eb6894ffbc5.jpg",
         "rating": 7.5,
-        "rating_count": 784,
+        "rating_count": 785,
         "rating_distribution": [
           0,
           3,
@@ -35728,7 +35728,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/135717365f-c912-4679-9f01-b05fcca43095.jpg",
         "rating": 8.4,
-        "rating_count": 1744,
+        "rating_count": 1745,
         "rating_distribution": [
           0,
           1,
@@ -36944,7 +36944,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15d98dd5bd-46e9-45de-91c8-57ae7cb4a7da.jpg",
         "rating": 8.2,
-        "rating_count": 529,
+        "rating_count": 530,
         "rating_distribution": [
           0,
           1,
@@ -38475,10 +38475,10 @@
             "url": "https://minreol.dk/movie/1WWDpHtcc6zJyYugT0VaXe"
           },
           {
-            "url": "https://www.wikidata.org/wiki/Q20762668"
+            "url": "https://www.imdb.com/title/tt5074352/"
           },
           {
-            "url": "https://www.imdb.com/title/tt5074352/"
+            "url": "https://www.wikidata.org/wiki/Q20762668"
           }
         ]
       },
@@ -41830,9 +41830,9 @@
           18
         ],
         "tags": [
+          "2010s",
           "2012",
           "6",
-          "jp",
           "佐藤健",
           "剑心",
           "剧情",
@@ -42316,36 +42316,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2025-11-10T01:03:09.175085",
+  "updated_at": "2025-11-11T01:01:21.475677",
   "stats": {
     "movie": {
       "count": 142,
-      "time": 15.06
+      "time": 12.92
     },
     "tv": {
       "count": 112,
-      "time": 9.32
+      "time": 9.04
     },
     "book": {
       "count": 30,
-      "time": 2.55
+      "time": 2.1
     },
     "music": {
       "count": 4,
-      "time": 0.32
+      "time": 0.31
     },
     "podcast": {
       "count": 0,
-      "time": 0.24
+      "time": 0.29
     },
     "game": {
       "count": 1,
-      "time": 0.24
+      "time": 0.3
     },
     "performance": {
       "count": 2,
-      "time": 0.28
+      "time": 0.19
     }
   },
-  "total_time": 28.01
+  "total_time": 25.15
 }
