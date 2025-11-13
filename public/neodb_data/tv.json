@@ -1727,7 +1727,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/9b8c9c00-d17c-4de2-9dc4-d7d8eba26a3c.jpg",
         "rating": 8.2,
-        "rating_count": 365,
+        "rating_count": 366,
         "rating_distribution": [
           0,
           3,
@@ -3685,12 +3685,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/22/a170513d-27d1-4a66-b415-83bcc178b78b.webp",
         "rating": 7.5,
-        "rating_count": 136,
+        "rating_count": 137,
         "rating_distribution": [
           2,
           5,
           19,
-          46,
+          45,
           25
         ],
         "tags": [
@@ -3726,6 +3726,9 @@
         "external_resources": [
           {
             "url": "https://neodb.kevga.de/tv/season/6wS0Ix0AVs8mW1mt4T6ASk"
+          },
+          {
+            "url": "https://eggplant.place/tv/season/3EROWcdO1kLubYzJssfstL"
           },
           {
             "url": "https://movie.douban.com/subject/35765350/"
@@ -4269,7 +4272,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157c78ce20-44be-4128-85cd-0cfdc73ebb0a.jpg",
         "rating": 8.0,
-        "rating_count": 693,
+        "rating_count": 694,
         "rating_distribution": [
           1,
           2,
@@ -8392,7 +8395,6 @@
           "三国演义",
           "中国",
           "中国大陆",
-          "中國",
           "剧集",
           "历史",
           "古装",
@@ -8404,6 +8406,7 @@
           "战争",
           "电视剧",
           "看过的电视剧",
+          "童年",
           "经典",
           "连续剧"
         ],
@@ -10762,5 +10765,5 @@
   ],
   "count": 112,
   "category": "tv",
-  "updated_at": "2025-11-12T01:00:51.969928"
+  "updated_at": "2025-11-13T01:00:54.972220"
 }
