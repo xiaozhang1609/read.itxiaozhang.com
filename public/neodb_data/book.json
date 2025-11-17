@@ -1460,13 +1460,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2022/03/13255f8b5f-8f72-4b6f-8f0b-c15346e9cad1.jpg",
         "rating": 8.6,
-        "rating_count": 184,
+        "rating_count": 185,
         "rating_distribution": [
           0,
           0,
           8,
           50,
-          40
+          41
         ],
         "tags": [
           "1文学",
@@ -1724,7 +1724,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2022/10/2573823f61-b01b-40a3-926a-f2563cbd989a.jpg",
         "rating": 7.8,
-        "rating_count": 288,
+        "rating_count": 289,
         "rating_distribution": [
           0,
           1,
@@ -1880,12 +1880,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/1624e4d141-0ad0-4ddb-bcef-9d93ac4f3bfe.jpg",
         "rating": 8.2,
-        "rating_count": 80,
+        "rating_count": 81,
         "rating_distribution": [
           0,
           1,
           13,
-          57,
+          58,
           27
         ],
         "tags": [
@@ -1932,5 +1932,5 @@
   ],
   "count": 30,
   "category": "book",
-  "updated_at": "2025-11-16T01:04:53.706488"
+  "updated_at": "2025-11-17T01:01:53.004043"
 }
