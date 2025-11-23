@@ -4467,10 +4467,10 @@
         "display_title": "哪吒之魔童闹海",
         "external_resources": [
           {
-            "url": "https://www.wikidata.org/wiki/Q131937861"
+            "url": "https://www.imdb.com/title/tt34956443/"
           },
           {
-            "url": "https://www.imdb.com/title/tt34956443/"
+            "url": "https://www.wikidata.org/wiki/Q131937861"
           },
           {
             "url": "https://bgm.tv/subject/383308"
@@ -4722,7 +4722,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/26a4fa45-6953-49f9-b8cf-35f7ca58275b.jpg",
         "rating": 7.6,
-        "rating_count": 197,
+        "rating_count": 198,
         "rating_distribution": [
           0,
           5,
@@ -4811,7 +4811,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/9b8c9c00-d17c-4de2-9dc4-d7d8eba26a3c.jpg",
         "rating": 8.2,
-        "rating_count": 367,
+        "rating_count": 368,
         "rating_distribution": [
           0,
           2,
@@ -5076,7 +5076,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/05/8722487d-911a-4260-8589-4ea0626eb134.jpg",
         "rating": 5.7,
-        "rating_count": 324,
+        "rating_count": 323,
         "rating_distribution": [
           8,
           20,
@@ -5546,7 +5546,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/153f250f04-06a2-4a3d-88b0-f28cca4e9b3b.jpg",
         "rating": 8.8,
-        "rating_count": 483,
+        "rating_count": 482,
         "rating_distribution": [
           0,
           0,
@@ -12681,7 +12681,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/04/15b785f2f1-4e5a-4ab8-8344-90049e5ac6fb.jpg",
         "rating": 8.2,
-        "rating_count": 359,
+        "rating_count": 360,
         "rating_distribution": [
           0,
           0,
@@ -15839,7 +15839,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ce6a4ea1-e930-4890-857f-95f944cf49c8.jpg",
         "rating": 8.8,
-        "rating_count": 1559,
+        "rating_count": 1558,
         "rating_distribution": [
           0,
           0,
@@ -19277,8 +19277,8 @@
           0,
           1,
           26,
-          49,
-          22
+          50,
+          21
         ],
         "tags": [
           "2020s",
@@ -24941,7 +24941,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/07/be012b58-ed0a-4750-b71d-03b0f59276a6.jpg",
         "rating": 7.8,
-        "rating_count": 1110,
+        "rating_count": 1109,
         "rating_distribution": [
           2,
           2,
@@ -29676,7 +29676,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/fedi/2025/01/20/9af3d23c-62c9-4794-a514-bd3f69ed9f76.jpg",
         "rating": 8.5,
-        "rating_count": 2518,
+        "rating_count": 2517,
         "rating_distribution": [
           0,
           1,
@@ -33344,7 +33344,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1540ca6a04-7e73-4d51-bf03-5e75bb63a8de.jpg",
         "rating": 8.0,
-        "rating_count": 1103,
+        "rating_count": 1105,
         "rating_distribution": [
           0,
           3,
@@ -33802,11 +33802,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1342d14337-0e7e-42e2-b3f5-d92f0903d33f.jpg",
         "rating": 8.5,
-        "rating_count": 1771,
+        "rating_count": 1772,
         "rating_distribution": [
           0,
           0,
-          14,
+          13,
           41,
           43
         ],
@@ -34245,7 +34245,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15f3e99e45-6b26-4747-a8f2-09f292b8f332.jpg",
         "rating": 8.3,
-        "rating_count": 1772,
+        "rating_count": 1773,
         "rating_distribution": [
           0,
           1,
@@ -42319,36 +42319,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2025-11-22T00:57:54.315719",
+  "updated_at": "2025-11-23T01:08:45.055439",
   "stats": {
     "movie": {
       "count": 142,
-      "time": 12.59
+      "time": 14.14
     },
     "tv": {
       "count": 112,
-      "time": 7.89
+      "time": 8.86
     },
     "book": {
       "count": 30,
-      "time": 1.89
+      "time": 2.32
     },
     "music": {
       "count": 4,
-      "time": 0.17
+      "time": 0.23
     },
     "podcast": {
       "count": 0,
-      "time": 0.12
+      "time": 0.18
     },
     "game": {
       "count": 1,
-      "time": 0.13
+      "time": 0.2
     },
     "performance": {
       "count": 2,
-      "time": 0.18
+      "time": 0.21
     }
   },
-  "total_time": 22.97
+  "total_time": 26.14
 }
