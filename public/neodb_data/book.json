@@ -1649,14 +1649,14 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanbook/2023/12/26/9e4d5cb9-8b97-4462-8c03-98d74ecbe4c0.jpg",
-        "rating": 8.0,
-        "rating_count": 76,
+        "rating": 8.1,
+        "rating_count": 77,
         "rating_distribution": [
           1,
           1,
           18,
-          39,
-          39
+          38,
+          40
         ],
         "tags": [
           "b cn",
@@ -1932,5 +1932,5 @@
   ],
   "count": 30,
   "category": "book",
-  "updated_at": "2025-11-23T01:08:44.233798"
+  "updated_at": "2025-11-24T01:04:29.148800"
 }
