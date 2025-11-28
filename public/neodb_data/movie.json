@@ -22712,92 +22712,6 @@
     {
       "shelf_type": "complete",
       "visibility": 0,
-      "post_id": 87802049986589056,
-      "item": {
-        "type": "Movie",
-        "title": "魁拔Ⅲ战神崛起",
-        "description": "历经惨烈的元泱界大战，成功突破魁拔十二妖第一道防线的蛮吉（刘婧荦 配音）、镜心（刘校妤 配音）一行，为追赶曲境一号再踏征途，却意外闯入萨库人大仓（王宇腾 配音）与粼妖姑娘海问香（姚姝 配音）所设下的诡异防线。面对大仓与海问香的步步紧逼，蛮吉等人无奈应战。激战中，神秘少年 敖江（刘校妤 配音）凭空出现、曲境一号舰长远浪（杨晨 配音）更做出种种令人匪夷所思的决定，让本已复杂的局面，越发显得扑朔迷离；而机缘巧合下，脉门封闭已久的蛮吉竟意外开启六大脉门，化身无敌战神，携魁拔脉兽驰骋于漫天烽火中，上演了一场气势磅礴的惊世之战……",
-        "localized_title": [
-          {
-            "lang": "zh-cn",
-            "text": "魁拔Ⅲ战神崛起"
-          },
-          {
-            "lang": "zh-cn",
-            "text": "魁拔3"
-          },
-          {
-            "lang": "zh-cn",
-            "text": "魁拔3战神崛起"
-          },
-          {
-            "lang": "zh-cn",
-            "text": "魁拔3之战神崛起"
-          },
-          {
-            "lang": "sw",
-            "text": "Kuiba Ⅲ"
-          }
-        ],
-        "localized_description": [
-          {
-            "lang": "zh-cn",
-            "text": "历经惨烈的元泱界大战，成功突破魁拔十二妖第一道防线的蛮吉（刘婧荦 配音）、镜心（刘校妤 配音）一行，为追赶曲境一号再踏征途，却意外闯入萨库人大仓（王宇腾 配音）与粼妖姑娘海问香（姚姝 配音）所设下的诡异防线。面对大仓与海问香的步步紧逼，蛮吉等人无奈应战。激战中，神秘少年 敖江（刘校妤 配音）凭空出现、曲境一号舰长远浪（杨晨 配音）更做出种种令人匪夷所思的决定，让本已复杂的局面，越发显得扑朔迷离；而机缘巧合下，脉门封闭已久的蛮吉竟意外开启六大脉门，化身无敌战神，携魁拔脉兽驰骋于漫天烽火中，上演了一场气势磅礴的惊世之战……"
-          }
-        ],
-        "cover_image_url": "https://neodb.social/m/movie/2021/09/18a22d4c52-7107-4300-a38c-5bd94a63cfc3.jpg",
-        "rating": 7.8,
-        "rating_count": 120,
-        "rating_distribution": [
-          0,
-          5,
-          22,
-          47,
-          24
-        ],
-        "tags": [
-          "2010s",
-          "2014",
-          "中国",
-          "中国动画",
-          "中国大陆",
-          "中国电影",
-          "冒险",
-          "动作",
-          "动漫",
-          "动画",
-          "动画电影",
-          "国产",
-          "国产动画",
-          "大陆",
-          "奇幻",
-          "电影",
-          "青青树",
-          "魁拔",
-          "魔幻"
-        ],
-        "brief": "历经惨烈的元泱界大战，成功突破魁拔十二妖第一道防线的蛮吉（刘婧荦 配音）、镜心（刘校妤 配音）一行，为追赶曲境一号再踏征途，却意外闯入萨库人大仓（王宇腾 配音）与粼妖姑娘海问香（姚姝 配音）所设下的诡异防线。面对大仓与海问香的步步紧逼，蛮吉等人无奈应战。激战中，神秘少年 敖江（刘校妤 配音）凭空出现、曲境一号舰长远浪（杨晨 配音）更做出种种令人匪夷所思的决定，让本已复杂的局面，越发显得扑朔迷离；而机缘巧合下，脉门封闭已久的蛮吉竟意外开启六大脉门，化身无敌战神，携魁拔脉兽驰骋于漫天烽火中，上演了一场气势磅礴的惊世之战……",
-        "id": "https://neodb.social/movie/40SAnQuw1hsChfSOW7U2HR",
-        "uuid": "40SAnQuw1hsChfSOW7U2HR",
-        "url": "/movie/40SAnQuw1hsChfSOW7U2HR",
-        "api_url": "/api/movie/40SAnQuw1hsChfSOW7U2HR",
-        "category": "movie",
-        "parent_uuid": null,
-        "display_title": "魁拔Ⅲ战神崛起",
-        "external_resources": [
-          {
-            "url": "https://movie.douban.com/subject/24723061/"
-          }
-        ]
-      },
-      "created_time": "2022-08-31T13:54:00Z",
-      "comment_text": null,
-      "rating_grade": 8,
-      "tags": []
-    },
-    {
-      "shelf_type": "complete",
-      "visibility": 0,
       "post_id": 87802049990104376,
       "item": {
         "type": "Movie",
@@ -23052,219 +22966,87 @@
     {
       "shelf_type": "complete",
       "visibility": 0,
-      "post_id": 79467129078232008,
+      "post_id": 87802049986589056,
       "item": {
         "type": "Movie",
-        "title": "教父",
-        "description": "40年代的美国，“教父”维托·柯里昂（马龙·白兰度 饰）是黑手党柯里昂家族的首领，带领家族从事非法的勾当，但同时他也是许多弱小平民的保护神，深得人们爱戴。\r\n因为拒绝了毒枭索洛索的毒品交易要求，柯里昂家族和纽约其他几个黑手党家族的矛盾激化。圣诞前夕，索洛索劫持了“教父”的参谋汤姆，并派人暗杀“教父”；因为内奸的出卖，“教父”的大儿子桑尼被仇家杀害；小儿子麦可（阿尔·帕西诺 饰）也被卷了进来，失去爱妻。黑手党家族之间的矛盾越来越白热化。\r\n年老的“教父”面对丧子之痛怎样统领全局？黑手党之间的仇杀如何落幕？谁是家族的内奸？谁又能够成为新一代的“教父”？\r\n血雨腥风和温情脉脉，在这部里程碑式的黑帮史诗巨片里真实上演。",
+        "title": "魁拔Ⅲ战神崛起",
+        "description": "历经惨烈的元泱界大战，成功突破魁拔十二妖第一道防线的蛮吉（刘婧荦 配音）、镜心（刘校妤 配音）一行，为追赶曲境一号再踏征途，却意外闯入萨库人大仓（王宇腾 配音）与粼妖姑娘海问香（姚姝 配音）所设下的诡异防线。面对大仓与海问香的步步紧逼，蛮吉等人无奈应战。激战中，神秘少年 敖江（刘校妤 配音）凭空出现、曲境一号舰长远浪（杨晨 配音）更做出种种令人匪夷所思的决定，让本已复杂的局面，越发显得扑朔迷离；而机缘巧合下，脉门封闭已久的蛮吉竟意外开启六大脉门，化身无敌战神，携魁拔脉兽驰骋于漫天烽火中，上演了一场气势磅礴的惊世之战……",
         "localized_title": [
           {
             "lang": "zh-cn",
-            "text": "教父"
+            "text": "魁拔Ⅲ战神崛起"
           },
           {
-            "lang": "en",
-            "text": "The Godfather"
+            "lang": "zh-cn",
+            "text": "魁拔3"
           },
           {
-            "lang": "en",
-            "text": "Mario Puzo's The Godfather"
+            "lang": "zh-cn",
+            "text": "魁拔3战神崛起"
           },
           {
-            "lang": "fr",
-            "text": "Le Parrain"
+            "lang": "zh-cn",
+            "text": "魁拔3之战神崛起"
           },
           {
-            "lang": "de",
-            "text": "Der Pate"
-          },
-          {
-            "lang": "nn",
-            "text": "The Godfather"
-          },
-          {
-            "lang": "nb",
-            "text": "Gudfaren"
-          },
-          {
-            "lang": "no",
-            "text": "Gudfaren"
-          },
-          {
-            "lang": "sv",
-            "text": "Gudfadern"
-          },
-          {
-            "lang": "da",
-            "text": "The Godfather"
-          },
-          {
-            "lang": "zh",
-            "text": "教父"
-          },
-          {
-            "lang": "zh-tw",
-            "text": "教父"
-          },
-          {
-            "lang": "zh-hans",
-            "text": "教父"
-          },
-          {
-            "lang": "zh-hant",
-            "text": "教父"
-          },
-          {
-            "lang": "es",
-            "text": "El padrino"
-          },
-          {
-            "lang": "pt",
-            "text": "O Padrinho"
-          },
-          {
-            "lang": "ja",
-            "text": "ゴッドファーザー"
-          },
-          {
-            "lang": "ko",
-            "text": "대부"
+            "lang": "sw",
+            "text": "Kuiba Ⅲ"
           }
         ],
         "localized_description": [
           {
             "lang": "zh-cn",
-            "text": "40年代的美国，“教父”维托·柯里昂（马龙·白兰度 饰）是黑手党柯里昂家族的首领，带领家族从事非法的勾当，但同时他也是许多弱小平民的保护神，深得人们爱戴。\r\n因为拒绝了毒枭索洛索的毒品交易要求，柯里昂家族和纽约其他几个黑手党家族的矛盾激化。圣诞前夕，索洛索劫持了“教父”的参谋汤姆，并派人暗杀“教父”；因为内奸的出卖，“教父”的大儿子桑尼被仇家杀害；小儿子麦可（阿尔·帕西诺 饰）也被卷了进来，失去爱妻。黑手党家族之间的矛盾越来越白热化。\r\n年老的“教父”面对丧子之痛怎样统领全局？黑手党之间的仇杀如何落幕？谁是家族的内奸？谁又能够成为新一代的“教父”？\r\n血雨腥风和温情脉脉，在这部里程碑式的黑帮史诗巨片里真实上演。"
-          },
-          {
-            "lang": "fr",
-            "text": "La Seconde Guerre mondiale vient de s'achever. À New York, le « parrain » Don Corleone, l'un des chefs respectés de la mafia, se sent vieillir. Il refuse de s'adapter à son temps et de se lancer, comme ses pairs, dans le trafic de drogue. Une frilosité qui entrave la bonne marche des affaires des autres « familles » et qui lui vaut d'être la cible d'un attentat. Don Corleone survit à ses blessures, mais reste très diminué. Mike, son plus jeune fils, qui jusque-là se tenait à l'écart des affaires de son père, devient le plus dévoué de ses héritiers. Plus efficace que ses frères, Sonny et Fredo, il venge son père et organise l'élimination de ses adversaires…"
-          },
-          {
-            "lang": "de",
-            "text": "Don Vito Corleone ist der Kopf einer der einflußreichsten Mafia-Familien New Yorks. Als die anderen Familien der Stadt beschließen, neben Glücksspiel und Schutzgelderpressungen nun auch den Handel mit Drogen als Erwerbsquelle zu nutzen und sich Don Corleone diesem Vorhaben nicht anschließen möchte, wird er zum Ziel eines hinterhältigen Mordanschlags. Nun steht Vitos Sohn Michael in der Verantwortung, in die Fußstapfen seines Vaters zu treten, obwohl er mit den Geschäften der Familie bis dato nichts zu tun haben wollte."
-          },
-          {
-            "lang": "nb",
-            "text": "I årene 1945 til 1955, er sagaen om den fiktive italiensk-amerikanske mafia-familien Corleone. Da den organiserte mafia-familiens overhode, Vito Corleone såvidt overlever et drapsforsøk. Går hans yngste sønn, Michael inn for å ta de antatte drapsmennene, og starter et oppgjør med blodig hevn."
-          },
-          {
-            "lang": "no",
-            "text": "I årene 1945 til 1955, en historie om den fiktive italiensk-amerikanske mafiafamilien, Corleone. Når familiens patriark Vito Corleone, så vidt overlever et drapsforsøk, går hans yngste sønn, Michael inn for å ta seg av drapsmennene, og starter en gjengjeldelse med blodig hevn."
-          },
-          {
-            "lang": "sv",
-            "text": "Don Vito Corleone är överhuvud (gudfader) för en New York baserad maffia familj. Problem uppstår när en gangster stöd av en annan maffiafamilj, Sollozzo, delger sina planer på att börja sälja droger i New York. Don Vito hatar tanken på droger och han är klart nöjd med spel och beskydd verksamheterna som allaredan ger god avkastning. Ett försök att mörda Don Vito misslyckas och Sollozzo kidnappar istället Don Vitos rådgivare och försöker få honom att övertala Don Vitos son att acceptera droger som en ny inkomstkälla, men planen slår fel när Sollozzo får reda på att Don Vito fortfarande lever."
-          },
-          {
-            "lang": "en",
-            "text": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge."
-          },
-          {
-            "lang": "da",
-            "text": "Familien Corleone er en stor, varmhjertet slægt af italiensk herkomst. Samtidig er familiens overhoved, Don Vito, en ledende skikkelse i mafiaen, en \"gudfar\", hvis magt kun begrænses af hans konkurrenter."
-          },
-          {
-            "lang": "zh",
-            "text": "1972年上映的美國電影"
-          },
-          {
-            "lang": "zh-hans",
-            "text": "1972年上映的美国电影"
-          },
-          {
-            "lang": "en",
-            "text": "1972 film by Francis Ford Coppola"
-          },
-          {
-            "lang": "es",
-            "text": "película de 1972 dirigida por Francis Ford Coppola"
-          },
-          {
-            "lang": "fr",
-            "text": "film de Francis Ford Coppola, sorti en 1972"
-          },
-          {
-            "lang": "de",
-            "text": "Film von Francis Ford Coppola (1972)"
-          },
-          {
-            "lang": "pt",
-            "text": "filme de 1972 realizado por Francis Ford Coppola"
-          },
-          {
-            "lang": "ja",
-            "text": "アメリカの映画作品、『ゴッドファーザーシリーズ』の第1作目"
-          },
-          {
-            "lang": "ko",
-            "text": "1972년 개봉한 미국의 범죄 영화"
+            "text": "历经惨烈的元泱界大战，成功突破魁拔十二妖第一道防线的蛮吉（刘婧荦 配音）、镜心（刘校妤 配音）一行，为追赶曲境一号再踏征途，却意外闯入萨库人大仓（王宇腾 配音）与粼妖姑娘海问香（姚姝 配音）所设下的诡异防线。面对大仓与海问香的步步紧逼，蛮吉等人无奈应战。激战中，神秘少年 敖江（刘校妤 配音）凭空出现、曲境一号舰长远浪（杨晨 配音）更做出种种令人匪夷所思的决定，让本已复杂的局面，越发显得扑朔迷离；而机缘巧合下，脉门封闭已久的蛮吉竟意外开启六大脉门，化身无敌战神，携魁拔脉兽驰骋于漫天烽火中，上演了一场气势磅礴的惊世之战……"
           }
         ],
-        "cover_image_url": "https://neodb.social/m/movie/2021/09/1324f7bdb2-898a-450b-95ca-73c4d1b92011.jpg",
-        "rating": 9.2,
-        "rating_count": 1758,
+        "cover_image_url": "https://neodb.social/m/movie/2021/09/18a22d4c52-7107-4300-a38c-5bd94a63cfc3.jpg",
+        "rating": 7.8,
+        "rating_count": 120,
         "rating_distribution": [
           0,
-          0,
           5,
-          26,
-          67
+          22,
+          47,
+          24
         ],
         "tags": [
-          "1970s",
-          "1972",
-          "alpacino",
-          "marlonbrando",
-          "人性",
-          "人生",
-          "剧情",
-          "家庭",
-          "弗朗西斯 福特 科波拉",
-          "成长",
-          "教父",
-          "暴力",
-          "犯罪",
+          "2010s",
+          "2014",
+          "中国",
+          "中国动画",
+          "中国大陆",
+          "中国电影",
+          "冒险",
+          "动作",
+          "动漫",
+          "动画",
+          "动画电影",
+          "国产",
+          "国产动画",
+          "大陆",
+          "奇幻",
           "电影",
-          "经典",
-          "美国",
-          "美国电影",
-          "阿尔 帕西诺",
-          "黑帮",
-          "黑社会"
+          "青青树",
+          "魁拔",
+          "魔幻"
         ],
-        "brief": "40年代的美国，“教父”维托·柯里昂（马龙·白兰度 饰）是黑手党柯里昂家族的首领，带领家族从事非法的勾当，但同时他也是许多弱小平民的保护神，深得人们爱戴。\r\n因为拒绝了毒枭索洛索的毒品交易要求，柯里昂家族和纽约其他几个黑手党家族的矛盾激化。圣诞前夕，索洛索劫持了“教父”的参谋汤姆，并派人暗杀“教父”；因为内奸的出卖，“教父”的大儿子桑尼被仇家杀害；小儿子麦可（阿尔·帕西诺 饰）也被卷了进来，失去爱妻。黑手党家族之间的矛盾越来越白热化。\r\n年老的“教父”面对丧子之痛怎样统领全局？黑手党之间的仇杀如何落幕？谁是家族的内奸？谁又能够成为新一代的“教父”？\r\n血雨腥风和温情脉脉，在这部里程碑式的黑帮史诗巨片里真实上演。",
-        "id": "https://neodb.social/movie/6TlNfO3Svt0mcuUh67RnpO",
-        "uuid": "6TlNfO3Svt0mcuUh67RnpO",
-        "url": "/movie/6TlNfO3Svt0mcuUh67RnpO",
-        "api_url": "/api/movie/6TlNfO3Svt0mcuUh67RnpO",
+        "brief": "历经惨烈的元泱界大战，成功突破魁拔十二妖第一道防线的蛮吉（刘婧荦 配音）、镜心（刘校妤 配音）一行，为追赶曲境一号再踏征途，却意外闯入萨库人大仓（王宇腾 配音）与粼妖姑娘海问香（姚姝 配音）所设下的诡异防线。面对大仓与海问香的步步紧逼，蛮吉等人无奈应战。激战中，神秘少年 敖江（刘校妤 配音）凭空出现、曲境一号舰长远浪（杨晨 配音）更做出种种令人匪夷所思的决定，让本已复杂的局面，越发显得扑朔迷离；而机缘巧合下，脉门封闭已久的蛮吉竟意外开启六大脉门，化身无敌战神，携魁拔脉兽驰骋于漫天烽火中，上演了一场气势磅礴的惊世之战……",
+        "id": "https://neodb.social/movie/40SAnQuw1hsChfSOW7U2HR",
+        "uuid": "40SAnQuw1hsChfSOW7U2HR",
+        "url": "/movie/40SAnQuw1hsChfSOW7U2HR",
+        "api_url": "/api/movie/40SAnQuw1hsChfSOW7U2HR",
         "category": "movie",
         "parent_uuid": null,
-        "display_title": "教父",
+        "display_title": "魁拔Ⅲ战神崛起",
         "external_resources": [
           {
-            "url": "https://eggplant.place/movie/4RmdZjmK0SJaZypJnNJuAH"
-          },
-          {
-            "url": "https://www.imdb.com/title/tt0068646/"
-          },
-          {
-            "url": "https://movie.douban.com/subject/1291841/"
-          },
-          {
-            "url": "https://www.themoviedb.org/movie/238"
-          },
-          {
-            "url": "https://minreol.dk/movie/4RHYiF2teQpStqE9oteObS"
-          },
-          {
-            "url": "https://www.wikidata.org/wiki/Q47703"
+            "url": "https://movie.douban.com/subject/24723061/"
           }
         ]
       },
-      "created_time": "2022-08-08T13:54:00Z",
+      "created_time": "2022-08-31T13:54:00Z",
       "comment_text": null,
-      "rating_grade": 9,
+      "rating_grade": 8,
       "tags": []
     },
     {
@@ -23488,6 +23270,224 @@
       "created_time": "2022-08-08T13:54:00Z",
       "comment_text": null,
       "rating_grade": 8,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
+      "post_id": 79467129078232008,
+      "item": {
+        "type": "Movie",
+        "title": "教父",
+        "description": "40年代的美国，“教父”维托·柯里昂（马龙·白兰度 饰）是黑手党柯里昂家族的首领，带领家族从事非法的勾当，但同时他也是许多弱小平民的保护神，深得人们爱戴。\r\n因为拒绝了毒枭索洛索的毒品交易要求，柯里昂家族和纽约其他几个黑手党家族的矛盾激化。圣诞前夕，索洛索劫持了“教父”的参谋汤姆，并派人暗杀“教父”；因为内奸的出卖，“教父”的大儿子桑尼被仇家杀害；小儿子麦可（阿尔·帕西诺 饰）也被卷了进来，失去爱妻。黑手党家族之间的矛盾越来越白热化。\r\n年老的“教父”面对丧子之痛怎样统领全局？黑手党之间的仇杀如何落幕？谁是家族的内奸？谁又能够成为新一代的“教父”？\r\n血雨腥风和温情脉脉，在这部里程碑式的黑帮史诗巨片里真实上演。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "教父"
+          },
+          {
+            "lang": "en",
+            "text": "The Godfather"
+          },
+          {
+            "lang": "en",
+            "text": "Mario Puzo's The Godfather"
+          },
+          {
+            "lang": "fr",
+            "text": "Le Parrain"
+          },
+          {
+            "lang": "de",
+            "text": "Der Pate"
+          },
+          {
+            "lang": "nn",
+            "text": "The Godfather"
+          },
+          {
+            "lang": "nb",
+            "text": "Gudfaren"
+          },
+          {
+            "lang": "no",
+            "text": "Gudfaren"
+          },
+          {
+            "lang": "sv",
+            "text": "Gudfadern"
+          },
+          {
+            "lang": "da",
+            "text": "The Godfather"
+          },
+          {
+            "lang": "zh",
+            "text": "教父"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "教父"
+          },
+          {
+            "lang": "zh-hans",
+            "text": "教父"
+          },
+          {
+            "lang": "zh-hant",
+            "text": "教父"
+          },
+          {
+            "lang": "es",
+            "text": "El padrino"
+          },
+          {
+            "lang": "pt",
+            "text": "O Padrinho"
+          },
+          {
+            "lang": "ja",
+            "text": "ゴッドファーザー"
+          },
+          {
+            "lang": "ko",
+            "text": "대부"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "40年代的美国，“教父”维托·柯里昂（马龙·白兰度 饰）是黑手党柯里昂家族的首领，带领家族从事非法的勾当，但同时他也是许多弱小平民的保护神，深得人们爱戴。\r\n因为拒绝了毒枭索洛索的毒品交易要求，柯里昂家族和纽约其他几个黑手党家族的矛盾激化。圣诞前夕，索洛索劫持了“教父”的参谋汤姆，并派人暗杀“教父”；因为内奸的出卖，“教父”的大儿子桑尼被仇家杀害；小儿子麦可（阿尔·帕西诺 饰）也被卷了进来，失去爱妻。黑手党家族之间的矛盾越来越白热化。\r\n年老的“教父”面对丧子之痛怎样统领全局？黑手党之间的仇杀如何落幕？谁是家族的内奸？谁又能够成为新一代的“教父”？\r\n血雨腥风和温情脉脉，在这部里程碑式的黑帮史诗巨片里真实上演。"
+          },
+          {
+            "lang": "fr",
+            "text": "La Seconde Guerre mondiale vient de s'achever. À New York, le « parrain » Don Corleone, l'un des chefs respectés de la mafia, se sent vieillir. Il refuse de s'adapter à son temps et de se lancer, comme ses pairs, dans le trafic de drogue. Une frilosité qui entrave la bonne marche des affaires des autres « familles » et qui lui vaut d'être la cible d'un attentat. Don Corleone survit à ses blessures, mais reste très diminué. Mike, son plus jeune fils, qui jusque-là se tenait à l'écart des affaires de son père, devient le plus dévoué de ses héritiers. Plus efficace que ses frères, Sonny et Fredo, il venge son père et organise l'élimination de ses adversaires…"
+          },
+          {
+            "lang": "de",
+            "text": "Don Vito Corleone ist der Kopf einer der einflußreichsten Mafia-Familien New Yorks. Als die anderen Familien der Stadt beschließen, neben Glücksspiel und Schutzgelderpressungen nun auch den Handel mit Drogen als Erwerbsquelle zu nutzen und sich Don Corleone diesem Vorhaben nicht anschließen möchte, wird er zum Ziel eines hinterhältigen Mordanschlags. Nun steht Vitos Sohn Michael in der Verantwortung, in die Fußstapfen seines Vaters zu treten, obwohl er mit den Geschäften der Familie bis dato nichts zu tun haben wollte."
+          },
+          {
+            "lang": "nb",
+            "text": "I årene 1945 til 1955, er sagaen om den fiktive italiensk-amerikanske mafia-familien Corleone. Da den organiserte mafia-familiens overhode, Vito Corleone såvidt overlever et drapsforsøk. Går hans yngste sønn, Michael inn for å ta de antatte drapsmennene, og starter et oppgjør med blodig hevn."
+          },
+          {
+            "lang": "no",
+            "text": "I årene 1945 til 1955, en historie om den fiktive italiensk-amerikanske mafiafamilien, Corleone. Når familiens patriark Vito Corleone, så vidt overlever et drapsforsøk, går hans yngste sønn, Michael inn for å ta seg av drapsmennene, og starter en gjengjeldelse med blodig hevn."
+          },
+          {
+            "lang": "sv",
+            "text": "Don Vito Corleone är överhuvud (gudfader) för en New York baserad maffia familj. Problem uppstår när en gangster stöd av en annan maffiafamilj, Sollozzo, delger sina planer på att börja sälja droger i New York. Don Vito hatar tanken på droger och han är klart nöjd med spel och beskydd verksamheterna som allaredan ger god avkastning. Ett försök att mörda Don Vito misslyckas och Sollozzo kidnappar istället Don Vitos rådgivare och försöker få honom att övertala Don Vitos son att acceptera droger som en ny inkomstkälla, men planen slår fel när Sollozzo får reda på att Don Vito fortfarande lever."
+          },
+          {
+            "lang": "en",
+            "text": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge."
+          },
+          {
+            "lang": "da",
+            "text": "Familien Corleone er en stor, varmhjertet slægt af italiensk herkomst. Samtidig er familiens overhoved, Don Vito, en ledende skikkelse i mafiaen, en \"gudfar\", hvis magt kun begrænses af hans konkurrenter."
+          },
+          {
+            "lang": "zh",
+            "text": "1972年上映的美國電影"
+          },
+          {
+            "lang": "zh-hans",
+            "text": "1972年上映的美国电影"
+          },
+          {
+            "lang": "en",
+            "text": "1972 film by Francis Ford Coppola"
+          },
+          {
+            "lang": "es",
+            "text": "película de 1972 dirigida por Francis Ford Coppola"
+          },
+          {
+            "lang": "fr",
+            "text": "film de Francis Ford Coppola, sorti en 1972"
+          },
+          {
+            "lang": "de",
+            "text": "Film von Francis Ford Coppola (1972)"
+          },
+          {
+            "lang": "pt",
+            "text": "filme de 1972 realizado por Francis Ford Coppola"
+          },
+          {
+            "lang": "ja",
+            "text": "アメリカの映画作品、『ゴッドファーザーシリーズ』の第1作目"
+          },
+          {
+            "lang": "ko",
+            "text": "1972년 개봉한 미국의 범죄 영화"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/movie/2021/09/1324f7bdb2-898a-450b-95ca-73c4d1b92011.jpg",
+        "rating": 9.2,
+        "rating_count": 1758,
+        "rating_distribution": [
+          0,
+          0,
+          5,
+          26,
+          67
+        ],
+        "tags": [
+          "1970s",
+          "1972",
+          "alpacino",
+          "marlonbrando",
+          "人性",
+          "人生",
+          "剧情",
+          "家庭",
+          "弗朗西斯 福特 科波拉",
+          "成长",
+          "教父",
+          "暴力",
+          "犯罪",
+          "电影",
+          "经典",
+          "美国",
+          "美国电影",
+          "阿尔 帕西诺",
+          "黑帮",
+          "黑社会"
+        ],
+        "brief": "40年代的美国，“教父”维托·柯里昂（马龙·白兰度 饰）是黑手党柯里昂家族的首领，带领家族从事非法的勾当，但同时他也是许多弱小平民的保护神，深得人们爱戴。\r\n因为拒绝了毒枭索洛索的毒品交易要求，柯里昂家族和纽约其他几个黑手党家族的矛盾激化。圣诞前夕，索洛索劫持了“教父”的参谋汤姆，并派人暗杀“教父”；因为内奸的出卖，“教父”的大儿子桑尼被仇家杀害；小儿子麦可（阿尔·帕西诺 饰）也被卷了进来，失去爱妻。黑手党家族之间的矛盾越来越白热化。\r\n年老的“教父”面对丧子之痛怎样统领全局？黑手党之间的仇杀如何落幕？谁是家族的内奸？谁又能够成为新一代的“教父”？\r\n血雨腥风和温情脉脉，在这部里程碑式的黑帮史诗巨片里真实上演。",
+        "id": "https://neodb.social/movie/6TlNfO3Svt0mcuUh67RnpO",
+        "uuid": "6TlNfO3Svt0mcuUh67RnpO",
+        "url": "/movie/6TlNfO3Svt0mcuUh67RnpO",
+        "api_url": "/api/movie/6TlNfO3Svt0mcuUh67RnpO",
+        "category": "movie",
+        "parent_uuid": null,
+        "display_title": "教父",
+        "external_resources": [
+          {
+            "url": "https://eggplant.place/movie/4RmdZjmK0SJaZypJnNJuAH"
+          },
+          {
+            "url": "https://www.imdb.com/title/tt0068646/"
+          },
+          {
+            "url": "https://movie.douban.com/subject/1291841/"
+          },
+          {
+            "url": "https://www.themoviedb.org/movie/238"
+          },
+          {
+            "url": "https://minreol.dk/movie/4RHYiF2teQpStqE9oteObS"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q47703"
+          }
+        ]
+      },
+      "created_time": "2022-08-08T13:54:00Z",
+      "comment_text": null,
+      "rating_grade": 9,
       "tags": []
     },
     {
@@ -29361,5 +29361,5 @@
   ],
   "count": 143,
   "category": "movie",
-  "updated_at": "2025-11-27T00:59:26.012294"
+  "updated_at": "2025-11-28T00:58:41.370707"
 }

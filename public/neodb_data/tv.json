@@ -1638,13 +1638,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/26a4fa45-6953-49f9-b8cf-35f7ca58275b.jpg",
         "rating": 7.6,
-        "rating_count": 199,
+        "rating_count": 201,
         "rating_distribution": [
           0,
-          5,
-          22,
+          4,
+          21,
           47,
-          25
+          24
         ],
         "tags": [
           "2023",
@@ -3728,10 +3728,10 @@
             "url": "https://neodb.kevga.de/tv/season/6wS0Ix0AVs8mW1mt4T6ASk"
           },
           {
-            "url": "https://eggplant.place/tv/season/3EROWcdO1kLubYzJssfstL"
+            "url": "https://movie.douban.com/subject/35765350/"
           },
           {
-            "url": "https://movie.douban.com/subject/35765350/"
+            "url": "https://eggplant.place/tv/season/3EROWcdO1kLubYzJssfstL"
           },
           {
             "url": "https://bgm.tv/subject/369304"
@@ -4250,6 +4250,26 @@
           {
             "lang": "ja",
             "text": "呪術廻戦"
+          },
+          {
+            "lang": "it",
+            "text": "Stagione 1"
+          },
+          {
+            "lang": "da",
+            "text": "Sæson 1"
+          },
+          {
+            "lang": "pt",
+            "text": "Temporada 1"
+          },
+          {
+            "lang": "fr",
+            "text": "Saison 1"
+          },
+          {
+            "lang": "es",
+            "text": "Jujutsu Kaisen"
           }
         ],
         "localized_description": [
@@ -4268,6 +4288,14 @@
           {
             "lang": "ja",
             "text": "驚異的な身体能力を持つ、少年・虎杖悠仁はごく普通の高校生活を送っていたが、ある日“呪い”に襲われた仲間を救うため、特級呪物“両面宿儺の指”を喰らい、己の魂に呪いを宿してしまう。\n呪いである“両面宿儺”と肉体を共有することとなった虎杖は、最強の呪術師である五条 悟の案内で、対呪い専門機関である「東京都立呪術高等専門学校」へと。編入することになり……"
+          },
+          {
+            "lang": "it",
+            "text": "Yuuji eccelle nella corsa, ma non ha nessun interesse a correre in tondo su una pista. Fa parte del club di ricerche sull'occulto, anche se un po' per gioco, ma le cose si fanno serie quando uno spirito compare realmente a scuola..."
+          },
+          {
+            "lang": "es",
+            "text": "Yuji Itadori se traga un dedo maldito para salvar a alguien de su clase y ahora Ryomen Sukuna, un poderoso hechicero malvado conocido como el Rey de las Maldiciones, vive en su alma. Las maldiciones son seres sobrenaturales creadas a partir de las emociones negativas de los humanos. Esta energía maldita puede usarse como fuente de poder por parte de los hechiceros y de los espíritus malditos.\n\nGuiado por los hechiceros, Yuji Itadori se une a la Escuela Técnica de Hechicería de Tokio, una organización que se enfrenta a las maldiciones. Con la ayuda de su profesor, Satoru Gojo, Itadori hace amistad con Megumi Fushiguro y Nobara Kurosaki, ambos estudiantes de primer año como él."
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157c78ce20-44be-4128-85cd-0cfdc73ebb0a.jpg",
@@ -4318,6 +4346,9 @@
           },
           {
             "url": "https://www.themoviedb.org/tv/95479/season/1"
+          },
+          {
+            "url": "https://eggplant.place/tv/season/5CpLQ9SEWXLDz8gv2jetvS"
           },
           {
             "url": "https://bgm.tv/subject/294993"
@@ -4742,6 +4773,14 @@
           {
             "lang": "zh-cn",
             "text": "第一季"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "天国大魔境"
+          },
+          {
+            "lang": "en",
+            "text": "Heavenly Delusion"
           }
         ],
         "localized_description": [
@@ -4756,6 +4795,10 @@
           {
             "lang": "zh-cn",
             "text": "15年前，世界发生了一场前所未有的“大灾害”，在日本的废墟上，居住着被称为“食人者”的怪物，幸存的人们只能互相依靠、小心翼翼地在这个世界上生活。\n\n在东京经营着“万事屋”的贵留子，接受了一名女性的神秘委托，任务是将少年小丸护送到“天国”去。小丸称：“据说“天国”里有个与自己长相一模一样的家伙。”但除此之外便一无所知，于是两个人就这样踏上了寻找“天国”的旅程。\n\n另一方面，有一群孩子生活在高墙耸立的“学校”中，这里有园长和温柔的老师等，他们每天都过着富足而平静的生活。某天，其中一名少年“时男”收到了一则神秘信息。\n\n“你想去外面的外面吗？”对于第一次萌生的疑惑，孩子们对原本的生活开始产生了动荡。"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "该剧由漫画鬼才石黑正数亲自打造，贵留子与小丸踏上寻找“天国”的旅程，极力避开专门猎杀人类的怪物。时男舍弃井井有条的生活，勇闯外面的世界。"
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/bangumi/2024/02/24/721c8a8b-f563-4994-b35f-940327755105.jpg",
@@ -4802,10 +4845,13 @@
             "url": "https://movie.douban.com/subject/36129263/"
           },
           {
-            "url": "https://www.themoviedb.org/tv/208891/season/1"
+            "url": "https://bgm.tv/subject/404804"
           },
           {
-            "url": "https://bgm.tv/subject/404804"
+            "url": "https://eggplant.place/tv/season/7ExfR3aR8KltYY1ZWP6bpH"
+          },
+          {
+            "url": "https://www.themoviedb.org/tv/208891/season/1"
           }
         ]
       },
@@ -5331,10 +5377,10 @@
             "url": "https://movie.douban.com/subject/27072327/"
           },
           {
-            "url": "https://www.themoviedb.org/tv/1429/season/3"
+            "url": "https://eggplant.place/tv/season/73BIYufPPDld063l361nEt"
           },
           {
-            "url": "https://eggplant.place/tv/season/73BIYufPPDld063l361nEt"
+            "url": "https://www.themoviedb.org/tv/1429/season/3"
           }
         ]
       },
@@ -10765,5 +10811,5 @@
   ],
   "count": 112,
   "category": "tv",
-  "updated_at": "2025-11-27T00:59:33.754400"
+  "updated_at": "2025-11-28T00:58:50.216308"
 }
