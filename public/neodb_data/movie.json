@@ -15976,7 +15976,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/10/20/1da820fd-8dfc-40c4-95b4-84aaa71ee443.webp",
         "rating": 6.6,
-        "rating_count": 408,
+        "rating_count": 409,
         "rating_distribution": [
           3,
           10,
@@ -19913,10 +19913,10 @@
             "url": "https://movie.douban.com/subject/25726614/"
           },
           {
-            "url": "https://www.themoviedb.org/movie/259316"
+            "url": "https://minreol.dk/movie/0jNz9HezSGA69UkWUswNuM"
           },
           {
-            "url": "https://minreol.dk/movie/0jNz9HezSGA69UkWUswNuM"
+            "url": "https://www.themoviedb.org/movie/259316"
           },
           {
             "url": "https://eggplant.place/movie/7h8CfAJf358dy5Ky4OxoDd"
@@ -23426,7 +23426,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1324f7bdb2-898a-450b-95ca-73c4d1b92011.jpg",
         "rating": 9.2,
-        "rating_count": 1758,
+        "rating_count": 1759,
         "rating_distribution": [
           0,
           0,
@@ -23644,7 +23644,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1540ca6a04-7e73-4d51-bf03-5e75bb63a8de.jpg",
         "rating": 8.0,
-        "rating_count": 1109,
+        "rating_count": 1110,
         "rating_distribution": [
           0,
           3,
@@ -29361,5 +29361,5 @@
   ],
   "count": 143,
   "category": "movie",
-  "updated_at": "2025-11-28T00:58:41.370707"
+  "updated_at": "2025-11-29T00:59:12.583548"
 }
