@@ -9434,7 +9434,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/16573efe00-fcb2-44d8-803a-538702f09986.jpg",
         "rating": 8.9,
-        "rating_count": 390,
+        "rating_count": 391,
         "rating_distribution": [
           0,
           0,
@@ -19681,7 +19681,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/15e852899b-0b52-41b1-b8e5-772c8e13f739.jpg",
         "rating": 9.2,
-        "rating_count": 444,
+        "rating_count": 445,
         "rating_distribution": [
           0,
           0,
@@ -22227,11 +22227,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/05/08/b1302e71-dc78-444c-b77c-7c9963751aef.jpg",
         "rating": 8.0,
-        "rating_count": 268,
+        "rating_count": 269,
         "rating_distribution": [
           0,
           0,
-          16,
+          15,
           52,
           30
         ],
@@ -22764,7 +22764,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2022/10/2573823f61-b01b-40a3-926a-f2563cbd989a.jpg",
         "rating": 7.8,
-        "rating_count": 293,
+        "rating_count": 294,
         "rating_distribution": [
           0,
           1,
@@ -22811,6 +22811,9 @@
           },
           {
             "url": "https://www.goodreads.com/book/show/63235343"
+          },
+          {
+            "url": "https://bgm.tv/subject/508794"
           }
         ]
       },
@@ -22936,13 +22939,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/16e346809f-05cd-4c06-8541-8926fc4d8348.jpg",
         "rating": 8.8,
-        "rating_count": 234,
+        "rating_count": 235,
         "rating_distribution": [
           0,
           0,
           11,
-          36,
-          52
+          37,
+          51
         ],
         "tags": [
           "一句顶一万句",
@@ -33814,7 +33817,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/imdb/2025/11/07/a33756a3-308e-45aa-b653-b3682080a021.jpg",
         "rating": 8.1,
-        "rating_count": 1637,
+        "rating_count": 1638,
         "rating_distribution": [
           0,
           1,
@@ -42505,19 +42508,19 @@
     "game",
     "performance"
   ],
-  "updated_at": "2025-12-04T01:01:55.493460",
+  "updated_at": "2025-12-05T01:02:26.238574",
   "stats": {
     "movie": {
       "count": 143,
-      "time": 12.34
+      "time": 12.33
     },
     "tv": {
       "count": 112,
-      "time": 7.89
+      "time": 7.86
     },
     "book": {
       "count": 30,
-      "time": 1.94
+      "time": 2.08
     },
     "music": {
       "count": 4,
@@ -42533,8 +42536,8 @@
     },
     "performance": {
       "count": 2,
-      "time": 0.16
+      "time": 0.15
     }
   },
-  "total_time": 22.76
+  "total_time": 22.87
 }
