@@ -2740,7 +2740,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/11/30/9ba014ae-5023-41ba-8414-b725d6bd2d67.jpg",
         "rating": 8.5,
-        "rating_count": 211,
+        "rating_count": 212,
         "rating_distribution": [
           0,
           0,
@@ -2828,13 +2828,13 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/09/59f49696-e8a1-40b8-a956-07cc5e7e6891.jpg",
-        "rating": 8.5,
-        "rating_count": 256,
+        "rating": 8.6,
+        "rating_count": 257,
         "rating_distribution": [
           0,
           0,
           4,
-          51,
+          50,
           43
         ],
         "tags": [
@@ -2971,7 +2971,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/04/15b785f2f1-4e5a-4ab8-8344-90049e5ac6fb.jpg",
         "rating": 8.3,
-        "rating_count": 367,
+        "rating_count": 368,
         "rating_distribution": [
           0,
           0,
@@ -7049,7 +7049,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1543e536b3-fcc3-44d0-a4da-96eacc5607bf.jpg",
         "rating": 9.6,
-        "rating_count": 491,
+        "rating_count": 492,
         "rating_distribution": [
           0,
           0,
@@ -7870,13 +7870,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2023/05/31/c3376f14-de62-4882-a7b5-c26e62c006ed.jpg",
         "rating": 8.1,
-        "rating_count": 66,
+        "rating_count": 67,
         "rating_distribution": [
           0,
           4,
           19,
-          39,
-          36
+          38,
+          37
         ],
         "tags": [
           "2010",
@@ -10814,5 +10814,5 @@
   ],
   "count": 112,
   "category": "tv",
-  "updated_at": "2025-12-07T01:08:39.391452"
+  "updated_at": "2025-12-08T01:02:54.651621"
 }
