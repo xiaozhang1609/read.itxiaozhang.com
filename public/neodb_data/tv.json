@@ -110,11 +110,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15aadf9d17-0834-429a-b430-905f68d1ecef.jpg",
         "rating": 5.1,
-        "rating_count": 854,
+        "rating_count": 855,
         "rating_distribution": [
-          22,
+          21,
           27,
-          31,
+          30,
           12,
           6
         ],
@@ -274,7 +274,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15f11cb17e-28ef-4bfa-aeff-392988e0b7e4.jpg",
         "rating": 8.3,
-        "rating_count": 827,
+        "rating_count": 828,
         "rating_distribution": [
           0,
           2,
@@ -438,12 +438,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158a56cee8-99aa-4219-ba9f-a5063c79d6fe.jpg",
         "rating": 8.9,
-        "rating_count": 818,
+        "rating_count": 819,
         "rating_distribution": [
           0,
           0,
           8,
-          32,
+          31,
           58
         ],
         "tags": [
@@ -602,7 +602,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15b584a17b-254f-4e46-8023-e1eee5f27544.jpg",
         "rating": 8.8,
-        "rating_count": 820,
+        "rating_count": 821,
         "rating_distribution": [
           1,
           2,
@@ -766,7 +766,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15c334a558-9307-41cf-a344-9f8fb889cd27.jpg",
         "rating": 9.4,
-        "rating_count": 883,
+        "rating_count": 884,
         "rating_distribution": [
           0,
           0,
@@ -930,7 +930,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15d0e7610b-a4e2-4ee5-a4d9-14c3732300b5.jpg",
         "rating": 9.3,
-        "rating_count": 907,
+        "rating_count": 908,
         "rating_distribution": [
           0,
           0,
@@ -1278,7 +1278,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13f0f1086d-2dd2-4f8b-a1a8-fff29ef19e35.jpg",
         "rating": 9.3,
-        "rating_count": 1308,
+        "rating_count": 1309,
         "rating_distribution": [
           0,
           0,
@@ -1460,7 +1460,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/02/16/1c296bee-5d49-4208-b11b-f7f0f949bc64.jpg",
         "rating": 8.4,
-        "rating_count": 266,
+        "rating_count": 267,
         "rating_distribution": [
           1,
           1,
@@ -1912,7 +1912,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158cac42e4-74fb-472f-afd5-78984be19315.jpg",
         "rating": 8.3,
-        "rating_count": 807,
+        "rating_count": 808,
         "rating_distribution": [
           0,
           2,
@@ -2291,7 +2291,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/131b46667b-3905-4bdb-a7ec-441f1126be6d.jpg",
         "rating": 9.0,
-        "rating_count": 1193,
+        "rating_count": 1194,
         "rating_distribution": [
           0,
           0,
@@ -2375,7 +2375,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14138f068a-33d6-4cb0-a556-1112c79ede52.jpg",
         "rating": 9.3,
-        "rating_count": 1661,
+        "rating_count": 1662,
         "rating_distribution": [
           0,
           0,
@@ -4398,13 +4398,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/06/1012f10cab-8842-442a-bd65-75dc2723a36b.jpg",
         "rating": 7.8,
-        "rating_count": 610,
+        "rating_count": 611,
         "rating_distribution": [
           2,
           5,
           19,
           38,
-          34
+          35
         ],
         "tags": [
           "2022",
@@ -4584,7 +4584,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
         "rating": 8.9,
-        "rating_count": 611,
+        "rating_count": 612,
         "rating_distribution": [
           0,
           1,
@@ -4673,7 +4673,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/05/08/b1302e71-dc78-444c-b77c-7c9963751aef.jpg",
         "rating": 8.0,
-        "rating_count": 269,
+        "rating_count": 270,
         "rating_distribution": [
           0,
           0,
@@ -5238,7 +5238,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/16/f28d5972-1708-4dd1-a655-d75431e32c33.webp",
         "rating": 9.0,
-        "rating_count": 777,
+        "rating_count": 778,
         "rating_distribution": [
           0,
           0,
@@ -5334,7 +5334,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/24/a9688316-76fe-4704-add5-ab62c18e523f.webp",
         "rating": 9.3,
-        "rating_count": 703,
+        "rating_count": 704,
         "rating_distribution": [
           0,
           0,
@@ -5419,7 +5419,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/01/0601fef99c-a667-460e-bebd-99e45fb92e8a.webp",
         "rating": 9.7,
-        "rating_count": 623,
+        "rating_count": 624,
         "rating_distribution": [
           0,
           0,
@@ -5652,7 +5652,7 @@
       "item": {
         "type": "TVSeason",
         "title": "最后生还者",
-        "description": "2013年，突变的虫草菌肆虐美国，真菌将人类宿主变成了攻击性超强的吃人怪物。20年后，人类文明已面目全非，幸存者只能生活在治安隔离区。一天，乔尔（佩德罗·帕斯卡 饰）和泰丝（安娜·托芙 饰）接了一个赏金任务，要护送一个14岁的女孩艾莉（贝拉·拉姆齐 饰）去反抗组织火萤的研究基地。可他们不知道的是，女孩身上隐藏着一个关系到人类文明延续的秘密……",
+        "description": "2013年，突变的虫草菌肆虐美国，真菌将人类宿主变成了攻击性超强的吃人怪物。20年后，人类文明已面目全非，幸存的人类为了生存自相残杀。一天，乔尔（佩德罗·帕斯卡 饰）和泰丝（安娜·托芙 饰）接了一个赏金任务，反抗组织“火萤”的首领玛琳（梅尔·丹德里奇 饰）要他们离开由军队保护的隔离区，护送一个14岁的女孩艾莉（贝拉·拉姆齐 饰）穿越化为废墟丛林的大都市去火萤的研究基地。可他们不知道的是，女孩身上隐藏着一个关系到人类文明延续的秘密……",
         "localized_title": [
           {
             "lang": "zh-cn",
@@ -5663,30 +5663,14 @@
             "text": "The Last of Us"
           },
           {
-            "lang": "zh-cn",
-            "text": "美国末日"
-          },
-          {
-            "lang": "zh-cn",
-            "text": "末日余生"
-          },
-          {
-            "lang": "zh-cn",
-            "text": "我们最后一代"
-          },
-          {
             "lang": "es",
-            "text": "Temporada 1"
+            "text": "Los Últimos de Nosotros"
           }
         ],
         "localized_description": [
           {
             "lang": "zh-cn",
-            "text": "2013年，突变的虫草菌肆虐美国，真菌将人类宿主变成了攻击性超强的吃人怪物。20年后，人类文明已面目全非，幸存者只能生活在治安隔离区。一天，乔尔（佩德罗·帕斯卡 饰）和泰丝（安娜·托芙 饰）接了一个赏金任务，要护送一个14岁的女孩艾莉（贝拉·拉姆齐 饰）去反抗组织火萤的研究基地。可他们不知道的是，女孩身上隐藏着一个关系到人类文明延续的秘密……"
-          },
-          {
-            "lang": "zh-cn",
-            "text": "　　该剧由HBO出品，改编自顽皮狗于2013年6月14日推出的PlayStation平台同名游戏。讲述了在现代文明被摧毁的二十年后，人类因现代传染病而面临绝种危机，幸存的人类为了生存自相残杀。中年男性走私犯乔尔（佩德罗·帕斯卡 饰）为了完成“火萤”组织首领玛琳（梅尔·丹德里奇 饰）的托付，带着14岁少女艾莉（贝拉·拉姆齐 饰）一同踏出由军队保护的疫情隔离区，穿越化为废墟丛林的大都会。面对病毒感染变种人类与其他幸存者集团威胁，展开了一场改变两人一生的深刻旅程。"
+            "text": "2013年，突变的虫草菌肆虐美国，真菌将人类宿主变成了攻击性超强的吃人怪物。20年后，人类文明已面目全非，幸存的人类为了生存自相残杀。一天，乔尔（佩德罗·帕斯卡 饰）和泰丝（安娜·托芙 饰）接了一个赏金任务，反抗组织“火萤”的首领玛琳（梅尔·丹德里奇 饰）要他们离开由军队保护的隔离区，护送一个14岁的女孩艾莉（贝拉·拉姆齐 饰）穿越化为废墟丛林的大都市去火萤的研究基地。可他们不知道的是，女孩身上隐藏着一个关系到人类文明延续的秘密……"
           },
           {
             "lang": "es",
@@ -5695,7 +5679,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/03/14/e0cc80de-58b3-4a0c-ba0b-cb1ed25f326a.webp",
         "rating": 8.8,
-        "rating_count": 539,
+        "rating_count": 540,
         "rating_distribution": [
           0,
           0,
@@ -5724,7 +5708,7 @@
           "美国",
           "美国电影"
         ],
-        "brief": "2013年，突变的虫草菌肆虐美国，真菌将人类宿主变成了攻击性超强的吃人怪物。20年后，人类文明已面目全非，幸存者只能生活在治安隔离区。一天，乔尔（佩德罗·帕斯卡 饰）和泰丝（安娜·托芙 饰）接了一个赏金任务，要护送一个14岁的女孩艾莉（贝拉·拉姆齐 饰）去反抗组织火萤的研究基地。可他们不知道的是，女孩身上隐藏着一个关系到人类文明延续的秘密……",
+        "brief": "2013年，突变的虫草菌肆虐美国，真菌将人类宿主变成了攻击性超强的吃人怪物。20年后，人类文明已面目全非，幸存的人类为了生存自相残杀。一天，乔尔（佩德罗·帕斯卡 饰）和泰丝（安娜·托芙 饰）接了一个赏金任务，反抗组织“火萤”的首领玛琳（梅尔·丹德里奇 饰）要他们离开由军队保护的隔离区，护送一个14岁的女孩艾莉（贝拉·拉姆齐 饰）穿越化为废墟丛林的大都市去火萤的研究基地。可他们不知道的是，女孩身上隐藏着一个关系到人类文明延续的秘密……",
         "id": "https://neodb.social/tv/season/1LaJ8HkYNgWaCDJk6OnZbA",
         "uuid": "1LaJ8HkYNgWaCDJk6OnZbA",
         "url": "/tv/season/1LaJ8HkYNgWaCDJk6OnZbA",
@@ -5789,7 +5773,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/2775557ce8-06f5-4882-a7e4-a3293ba16d3a.jpg",
         "rating": 8.9,
-        "rating_count": 1090,
+        "rating_count": 1091,
         "rating_distribution": [
           0,
           1,
@@ -5910,7 +5894,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/10/25/9d58efc5-69fd-4a00-b651-942c37a2ed0f.jpg",
         "rating": 8.8,
-        "rating_count": 372,
+        "rating_count": 373,
         "rating_distribution": [
           0,
           0,
@@ -7285,7 +7269,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158b2b635b-d04a-41b9-a36b-c5af7dfc3f2a.jpg",
         "rating": 9.4,
-        "rating_count": 1040,
+        "rating_count": 1041,
         "rating_distribution": [
           0,
           0,
@@ -9331,14 +9315,14 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ff05449c-d8e8-4a87-a939-e48f28f1d8d3.jpg",
-        "rating": 7.4,
-        "rating_count": 314,
+        "rating": 7.5,
+        "rating_count": 316,
         "rating_distribution": [
           1,
           6,
           32,
           37,
-          22
+          23
         ],
         "tags": [
           "2010s",
@@ -9917,13 +9901,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/154640d33f-f755-4e3c-a9e4-39e36fa7afa3.jpg",
         "rating": 9.2,
-        "rating_count": 78,
+        "rating_count": 79,
         "rating_distribution": [
           0,
           0,
           2,
           34,
-          62
+          63
         ],
         "tags": [
           "2011",
@@ -10057,13 +10041,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/150ef62a14-2640-4819-8fd2-4d573fca17df.jpg",
         "rating": 8.0,
-        "rating_count": 111,
+        "rating_count": 112,
         "rating_distribution": [
           1,
           1,
           12,
-          59,
-          24
+          58,
+          25
         ],
         "tags": [
           "2010s",
@@ -10581,7 +10565,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16301fc784-d92c-4c87-a7a0-bad93d1c52a6.jpg",
         "rating": 8.6,
-        "rating_count": 94,
+        "rating_count": 95,
         "rating_distribution": [
           3,
           2,
@@ -10814,5 +10798,5 @@
   ],
   "count": 112,
   "category": "tv",
-  "updated_at": "2025-12-09T01:01:49.212192"
+  "updated_at": "2025-12-10T01:04:00.575203"
 }
