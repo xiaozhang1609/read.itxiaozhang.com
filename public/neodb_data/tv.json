@@ -1460,13 +1460,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/02/16/1c296bee-5d49-4208-b11b-f7f0f949bc64.jpg",
         "rating": 8.4,
-        "rating_count": 269,
+        "rating_count": 270,
         "rating_distribution": [
           1,
           1,
           7,
           48,
-          40
+          41
         ],
         "tags": [
           "2020s",
@@ -2375,7 +2375,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14138f068a-33d6-4cb0-a556-1112c79ede52.jpg",
         "rating": 9.3,
-        "rating_count": 1663,
+        "rating_count": 1664,
         "rating_distribution": [
           0,
           0,
@@ -3250,12 +3250,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/02/24bdbed50e-f9d6-4444-aadb-20c719aa716f.jpg",
         "rating": 7.8,
-        "rating_count": 137,
+        "rating_count": 138,
         "rating_distribution": [
           0,
           7,
           14,
-          51,
+          50,
           27
         ],
         "tags": [
@@ -3851,7 +3851,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/12/09/e349737a-1ad1-4118-ab72-3f8fd067cf4d.webp",
         "rating": 8.7,
-        "rating_count": 317,
+        "rating_count": 318,
         "rating_distribution": [
           0,
           0,
@@ -5679,7 +5679,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/03/14/e0cc80de-58b3-4a0c-ba0b-cb1ed25f326a.webp",
         "rating": 8.8,
-        "rating_count": 541,
+        "rating_count": 542,
         "rating_distribution": [
           0,
           0,
@@ -7269,7 +7269,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158b2b635b-d04a-41b9-a36b-c5af7dfc3f2a.jpg",
         "rating": 9.4,
-        "rating_count": 1042,
+        "rating_count": 1043,
         "rating_distribution": [
           0,
           0,
@@ -10798,5 +10798,5 @@
   ],
   "count": 112,
   "category": "tv",
-  "updated_at": "2025-12-13T01:00:14.839416"
+  "updated_at": "2025-12-14T01:08:48.922464"
 }

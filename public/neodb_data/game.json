@@ -30,22 +30,20 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubangame/2024/07/16/c6005816-cd8a-46f8-9856-36d26be7a372.jpg",
         "rating": 7.8,
-        "rating_count": 96,
+        "rating_count": 97,
         "rating_distribution": [
           4,
           4,
           20,
           34,
-          36
+          37
         ],
         "tags": [
           "6",
           "arts",
           "moba",
           "pc",
-          "riot games",
           "动作",
-          "合作",
           "团队",
           "塔防",
           "拳头",
@@ -53,6 +51,7 @@
           "游戏",
           "策略",
           "网游",
+          "网络游戏",
           "美国",
           "腾讯",
           "英雄联盟",
@@ -80,5 +79,5 @@
   ],
   "count": 1,
   "category": "game",
-  "updated_at": "2025-12-13T01:00:17.648062"
+  "updated_at": "2025-12-14T01:08:52.119039"
 }
