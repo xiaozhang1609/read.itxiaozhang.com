@@ -12208,13 +12208,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/12/11f9d3bf28-48c9-40a7-944b-6a3083c3d41b.jpg",
         "rating": 7.4,
-        "rating_count": 44,
+        "rating_count": 45,
         "rating_distribution": [
           2,
           2,
-          34,
-          43,
-          18
+          33,
+          44,
+          17
         ],
         "tags": [
           "1990s",
@@ -12433,7 +12433,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/05/05/ff4458fb-b949-416c-833f-def4a33e1a74.webp",
         "rating": 8.0,
-        "rating_count": 519,
+        "rating_count": 520,
         "rating_distribution": [
           0,
           0,
@@ -23026,7 +23026,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/10/22/061fa0ce-5b93-4b37-a162-d488e100d05d.jpg",
         "rating": 8.2,
-        "rating_count": 169,
+        "rating_count": 170,
         "rating_distribution": [
           1,
           2,
@@ -23640,7 +23640,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/09/04cbcb6fd5-268a-485b-ac86-17ebb9e1ecd8.jpg",
         "rating": 8.2,
-        "rating_count": 426,
+        "rating_count": 427,
         "rating_distribution": [
           0,
           0,
@@ -23748,7 +23748,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/16/f28d5972-1708-4dd1-a655-d75431e32c33.webp",
         "rating": 9.0,
-        "rating_count": 781,
+        "rating_count": 782,
         "rating_distribution": [
           0,
           0,
@@ -25949,7 +25949,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/7a48ff6e-aae2-458e-9b35-523ece2badfb.jpg",
         "rating": 8.3,
-        "rating_count": 929,
+        "rating_count": 930,
         "rating_distribution": [
           0,
           2,
@@ -27388,7 +27388,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2023/07/20/8206c5c4-0d6d-46f6-a08c-7a7d3af84393.jpg",
         "rating": 7.0,
-        "rating_count": 831,
+        "rating_count": 832,
         "rating_distribution": [
           0,
           7,
@@ -39826,189 +39826,215 @@
     {
       "shelf_type": "complete",
       "visibility": 0,
-      "post_id": 6590595608874792,
+      "post_id": 6590595607528512,
       "item": {
         "type": "Movie",
-        "title": "马达加斯加的企鹅",
-        "description": "为了给最疼爱的小老弟菜鸟（克里斯多夫·奈茨 Christopher Knights 配音）庆生，老大（汤姆·麦格拉思 Tom McGrath 配音）带领菜鸟以及好搭档科斯基（克里斯·米勒 Chris Miller 配音）、瑞哥闯入了防守最严密的美国黄金储备中心，只为找到金库尽头仅有的那台销售炸薯条的自动贩卖机。谁知他们刚刚完成任务没多久，便被长着触角的贩卖机吞了进去，随后被运到一个神秘的所在。在全封闭的设施内，四只企鹅见到了伪装成基因遗传科学家的章鱼戴夫（约翰·马尔科维奇 John Malkovich 配音）。原来戴夫曾是动物园一只明星章鱼，但随着萌态十足的企鹅们的到来，他便跌入了绝望的深谷。因此戴夫潜心研制了可怕的血清，发誓要向所有他曾待过的动物园中的企鹅展开报复。\n老大和伙伴们在逃亡途中得到北风特工队的救助，而他们和这些高傲的特工队员将分别阻止戴夫的阴谋……",
+        "title": "秒速5厘米",
+        "description": "如果，樱花掉落的速度是每秒5厘米，那么两颗心需要多久才能靠近？\n少年时，贵树（水橋研二配）和明理（近藤好美配）是形影不离的好朋友，可很快，一道巨大的鸿沟便横亘在两人中间：明理转学，贵树也随着父母工作的调动搬到遥远的鹿儿岛。在搬家前，贵树乘坐新干线千里迢迢和明理相会，在漫长的等待后，茫茫大雪中，两人在枯萎的樱花树下深情相拥，并献出彼此的first kiss，约定着下一次再一起来看樱花。\n时光荏苒，两人竟再没见过，虽然在人海中一直搜寻彼此的身影，但似乎总是徒然。再后来，他们分别有了各自的生活，只是还偶尔会梦到13岁时的这段青涩而美好的感情，才明白当年怎么也说不出口的那个字就是爱。",
         "localized_title": [
           {
-            "lang": "id",
-            "text": "Penguins of Madagascar"
-          },
-          {
-            "lang": "fr",
-            "text": "Les Pingouins de Madagascar"
-          },
-          {
-            "lang": "de",
-            "text": "Die Pinguine aus Madagascar"
-          },
-          {
-            "lang": "no",
-            "text": "Madagaskarpingvinene"
-          },
-          {
-            "lang": "sv",
-            "text": "Pingvinerna från Madagaskar"
-          },
-          {
-            "lang": "en",
-            "text": "Penguins of Madagascar"
-          },
-          {
-            "lang": "da",
-            "text": "Pingvinerne fra Madagascar"
-          },
-          {
             "lang": "zh-cn",
-            "text": "马达加斯加的企鹅"
-          },
-          {
-            "lang": "zh-tw",
-            "text": "馬達加斯加爆走企鵝"
-          },
-          {
-            "lang": "zh-hk",
-            "text": "荒失失企鵝"
-          },
-          {
-            "lang": "zh-hant",
-            "text": "馬達加斯加爆走企鵝"
-          },
-          {
-            "lang": "zh-sg",
-            "text": "荒失失企鹅"
-          },
-          {
-            "lang": "es",
-            "text": "Los pingüinos de Madagascar"
-          },
-          {
-            "lang": "pt",
-            "text": "Os Pinguins de Madagascar: O filme"
-          },
-          {
-            "lang": "ko",
-            "text": "마다가스카의 펭귄"
+            "text": "秒速5厘米"
           },
           {
             "lang": "ja",
-            "text": "ペンギンズ FROM マダガスカル ザ・ムービー"
+            "text": "秒速5センチメートル"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "秒速五厘米"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "秒速5公分"
+          },
+          {
+            "lang": "sk",
+            "text": "Byôsoku 5 senchimêtoru"
+          },
+          {
+            "lang": "en",
+            "text": "5 Centimeters per Second"
+          },
+          {
+            "lang": "en",
+            "text": "5 Centimeters Per Second: A Chain of Short Stories About Their Distance"
+          },
+          {
+            "lang": "ko",
+            "text": "초속 5센티미터"
+          },
+          {
+            "lang": "pt",
+            "text": "Cinco Centímetros por Segundo"
+          },
+          {
+            "lang": "de",
+            "text": "5 Centimeters per Second"
+          },
+          {
+            "lang": "fr",
+            "text": "5 centimètres par seconde"
+          },
+          {
+            "lang": "es",
+            "text": "5 centímetros por segundo"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "秒速5厘米"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "秒速5公分"
+          },
+          {
+            "lang": "zh",
+            "text": "秒速5公分"
+          },
+          {
+            "lang": "en",
+            "text": "5 Centimeters Per Second"
+          },
+          {
+            "lang": "es",
+            "text": "A cinco centímetros por segundo"
+          },
+          {
+            "lang": "pt",
+            "text": "5 Centimeters per Second"
           }
         ],
         "localized_description": [
           {
             "lang": "zh-cn",
-            "text": "为了给最疼爱的小老弟菜鸟（克里斯多夫·奈茨 Christopher Knights 配音）庆生，老大（汤姆·麦格拉思 Tom McGrath 配音）带领菜鸟以及好搭档科斯基（克里斯·米勒 Chris Miller 配音）、瑞哥闯入了防守最严密的美国黄金储备中心，只为找到金库尽头仅有的那台销售炸薯条的自动贩卖机。谁知他们刚刚完成任务没多久，便被长着触角的贩卖机吞了进去，随后被运到一个神秘的所在。在全封闭的设施内，四只企鹅见到了伪装成基因遗传科学家的章鱼戴夫（约翰·马尔科维奇 John Malkovich 配音）。原来戴夫曾是动物园一只明星章鱼，但随着萌态十足的企鹅们的到来，他便跌入了绝望的深谷。因此戴夫潜心研制了可怕的血清，发誓要向所有他曾待过的动物园中的企鹅展开报复。\n老大和伙伴们在逃亡途中得到北风特工队的救助，而他们和这些高傲的特工队员将分别阻止戴夫的阴谋……"
-          },
-          {
-            "lang": "fr",
-            "text": "Vous pensiez connaître les Pingouins de Madagascar ? Pourtant, les quatre frères cachent un lourd secret. Ils sont en fait… agents secrets ! Pour sauver le monde du terrible Docteur Octavius, les pingouins devront s’associer à la très chic organisation de la North Wind menée par le superbe husky au nom classé secret."
-          },
-          {
-            "lang": "de",
-            "text": "Zehn Jahre, nachdem Skipper, Kowalski, Rico und Private Spaß und abenteuerliche Spezialeinsätze als Lebensziel ausgerufen haben, stehen die vier Pinguine aus dem New Yorker Zoo vor ihrer größten Herausforderung. Oktopus Dave will sich an allen Pinguinen rächen, sie in monströse Kreaturen verwandeln, weil ihm die niedlichen Vögel in jedem Tierpark die Schau stahlen. Doch Dave rechnet nicht mit der souveränen Coolness der Frackträger und der Unterstützung, die sie durch die Superprofis vom Agententeam \"Nordwind\" erhalten."
-          },
-          {
-            "lang": "no",
-            "text": "Superspioner blir ikke født... de klekkes! Oppdag hemmelighetene bak de beste og morsomste pingvinene i hele spionbransjen: Skipper, Kowalski, Rico og Menig. Denne elitegruppen slår seg sammen med den hemmelige organisasjonen, Nordavinden, som ledes av Agent Hemmelig (Vi kunne ha fortalt deg hans virkelige navn, men da... ja du vet). Sammen må de stoppe den skurken Dr. Oktavius Blekk fra å ødelegge verden slik vi kjenner den!"
-          },
-          {
-            "lang": "sv",
-            "text": "Pingvinerna Skepparn, Kowalski, Rico och Basse ger sig ut på ett superhemligt uppdrag för  att stoppa den ondskefulle dr Octavius Bläcks planer på världsherravälde. De samarbetar med underrättelsetjänsten Nordanvinden, som leds av agent Hemlig (vi kan säga hans namn men då måste vi... ja, ni vet)."
-          },
-          {
-            "lang": "en",
-            "text": "Skipper, Kowalski, Rico and Private join forces with undercover organization The North Wind to stop the villainous Dr. Octavius Brine from destroying the world as we know it."
-          },
-          {
-            "lang": "da",
-            "text": "Blæksprutten dr. Octavius Brine nærer et indædt had til den langt mere nuttede pingvinrace. Forklædt som forsker vil Brine kidnappe alle pingviner i verden og forvandle dem til frastødende mutanter! Men de fire pingvinagenter Skipper, Kowalski, Rico og Rekrut er på sagen, og de får hjælp af indsatsstyrken Nordenvind, der består af en ulv, en sæl, en isbjørn og en ugle."
+            "text": "如果，樱花掉落的速度是每秒5厘米，那么两颗心需要多久才能靠近？\n少年时，贵树（水橋研二配）和明理（近藤好美配）是形影不离的好朋友，可很快，一道巨大的鸿沟便横亘在两人中间：明理转学，贵树也随着父母工作的调动搬到遥远的鹿儿岛。在搬家前，贵树乘坐新干线千里迢迢和明理相会，在漫长的等待后，茫茫大雪中，两人在枯萎的樱花树下深情相拥，并献出彼此的first kiss，约定着下一次再一起来看樱花。\n时光荏苒，两人竟再没见过，虽然在人海中一直搜寻彼此的身影，但似乎总是徒然。再后来，他们分别有了各自的生活，只是还偶尔会梦到13岁时的这段青涩而美好的感情，才明白当年怎么也说不出口的那个字就是爱。"
           },
           {
             "lang": "ko",
-            "text": "넘치는 유머, 감쪽 같은 위장술, 똑소리 나는 브레인! 날 때부터 남달랐던 악동 펭귄 스키퍼, 코왈스키, 리코, 프라이빗! 어느 날 그들 앞에 복수심에 불타는 문어박사 옥토브레인이 나타나고, 그의 거대한 음모를 알게 된 펭귄 4총사는 비밀 조직 ‘노스윈드’와 함께 세상을 구할 사상 최대의 작전을 펼치는데…!"
+            "text": "도쿄의 초등학교에 다니는 타카키와 아카리는 부모의 전근으로 막 이사왔다. 가정환경도, 적극성이 없다는 것도, 작은 체구에 병약한 부분도 같은 닮은 꼴이이었던 두 사람. 하지만 초등학교 졸업과 동시에 아카리의 이사가 결정된다. 뜻대로 되지 않는 사정을 이해하면서도 어린 아이이기에 쌓아올 수 있던 시간은 어린 아이이기에 무너지게 된다. 시간이 흘러 벚꽃의 계절을 눈앞에 둔 중학교 1학년 3학기, 이번에는 타카키가 카고시마로 전학을 가게 된다. 어린 시절의 후회와 아카리에게 줄 편지를 가슴에 품고 타카키는 그녀가 살고 있는 마을로 향하는데..."
           },
           {
             "lang": "ja",
-            "text": "キュートな外見とは裏腹にエリートスパイとして活躍するペンギンズは秘密の潜入捜査中、かつて動物園で彼らに人気を奪われたことを恨むタコのデーブに誘拐される。デーブが人間の姿をしたオクト博士に姿を変え、世界中のペンギンへの復讐（ふくしゅう）を計画していることを知ったペンギンズは、スパイ軍団「ノース・ウィンド」と手を組み邪悪な陰謀に立ち向かう。"
+            "text": "東京の小学生・遠野貴樹と篠原明里はお互いに対する「他人には分らない特別な想い」を抱えていた。しかし小学校卒業と同時に明里は栃木へ転校してしまい、それきり会うことが無くなってしまう。貴樹が中学に入学して半年が経過した夏のある日、栃木の明里から手紙が届く。それをきっかけに、文通を重ねるようになる2人。しかしその年の冬に、今度は貴樹が鹿児島へ転校することが決まった。鹿児島と栃木では絶望的に遠い。「もう二度と会えなくなるかもしれない…」そう思った貴樹は、明里に会いに行く決意をする。しかしその約束の日、関東では大雪となった。当初の予定は列車の遅延で大幅に狂い、時間だけがただ残酷に流れていく…。貴樹と明里の、再会と別れの1日を時間経過と共に描く。"
           },
           {
             "lang": "pt",
-            "text": "Equipas de super espiões não nascem assim... são chocados. Descobre os segredos das mais espetaculares e mais hilariantes aves secretas da espionagem mundial: Capitão, Kowalski, Rico e Soldado. Estes top da elite irão unir forças com uma organização de intervenção secreta, Vento do Norte, que protege os animais. Liderados pelo engraçado Agente Secreto (poderíamos dizer o nome dele, mas depois... tu sabes), com a voz de Benedict Cumberbatch. Juntos, eles têm de evitar que o vilão Dr. Octavius."
+            "text": "Tohno Takaki e Shinohara Akari, dois grandes amigos e colegas de turma, separam-se quando a família de Akari se muda para outra região do Japão devido ao emprego e, apesar da separação, continuam a comunicar através de cartas. Quando Takaki descobre que a sua família também se vai mudar, decide encontrar-se com Akari uma última vez. Com o passar do tempo, cada um segue o seu caminho e a distância aumenta progressivamente, acabando por deixarem de se contactar. Contudo, continuam a lembrar-se dos momentos que passaram juntos, imaginando se um dia se voltarão a encontrar."
+          },
+          {
+            "lang": "de",
+            "text": "Der junge Takaki und die süße Akari begegnen, verlieben und trennen sich wieder. Sie suchen sich selbst und einander, nach Worten für ihre Gefühle, berühren sich, entfernen sich wieder und werden erwachsen. Traurig und schön gleiten sie durch die Jahre, verlieben sich neu, finden neue Partner, neue Aufgaben und Ziele, einander vergessend und doch etwas vermissend. Wie Blütenblätter, die im Wind tanzen und langsam zur Erde fallen. In drei wundervoll, episodischen Geschichten geht Regisseur Makoto Shinkai der Frage nach, was das Ungesagte hinterlässt und welche Überraschungen das Leben bereithält."
+          },
+          {
+            "lang": "fr",
+            "text": "Takaki et Akari sont deux camarades de classe de l'école primaire. Au cours de leur temps ensemble, ils sont devenus des amis proches. Leur relation est testée lorsque Akari déménage dans une autre ville à cause du travail de ses parents. tout les deux luttent pour conserver leur amitié, alors que le temps et la distance semblent lentement les séparer. Lorsque Takaki découvre qu'il est en train de s'éloigner définitivement, il décide de rendre une dernière à visite à Akari."
           },
           {
             "lang": "es",
-            "text": "Skypper, Kowalsky, Rico y Cabo, los superagentes pingüinos, tienen que salvar el mundo en una misión para la que llevan prepárandose toda la vida. Dicha misión tendrán que realizarla junto al denominado equipo \"Viento del norte\", un comando de élite especializado en salvar animales que no pueden defenderse por si solos."
+            "text": "Takaki y Akari son dos compañeros de clase en la escuela primaria. Durante su tiempo juntos se volvieron amigos cercanos. Su relación es puesta a prueba cuando Akari se muda a otra ciudad debido al trabajo de sus padres. Ambos sufren dificultades para mantener su amistad viva, mientras el tiempo y la distancia lentamente los separa. Cuando Takaki se entera que se muda a un lugar más lejano, decide visitar a Akari por última vez."
+          },
+          {
+            "lang": "en",
+            "text": "Three moments in Takaki's life: his relationship with Akari and their forced separation; his friendship with Kanae, who is secretly in love with him; the demands and disappointments of adulthood, an unhappy life in a cold city."
           },
           {
             "lang": "zh-hk",
-            "text": "瘋狂企鵝團隊,包括隊長、高華斯基、力高、卒仔,首度擔任主角,觀眾們肯定驚喜萬分!這四隻黑白相間彷如穿著「踢死兔禮服」的鬼馬企鵝仔,為了捍衛族群存亡,竟然踏上史無前例的刺激間諜冒險旅程。"
+            "text": "時間是1990年代至2000年代的日本，遠野貴樹與篠原明里原本是同班同學的好朋友，自從小學畢業之後，兩人因搬家都沒有再見一次面。分隔兩地的兩個人，靠着書信往來保持聯絡，直到貴樹知道即將跟隨家人搬到鹿兒島，距離明里更遠的地方，於是兩人約定了再見面的時間。計劃好的行程，卻遇上了暴風雪。之後大家都長大了，各有各的生活，但對彼此的思念，一直留在心中。  本片由三個故事構成，分別是〈櫻花抄〉描述貴樹和明里的重逢、〈太空人〉描述在別人眼中的貴樹、〈秒速5厘米〉描述之後他們各人的生活事情和貴樹內心的徬徨。"
           },
           {
             "lang": "zh-tw",
-            "text": "章魚戴夫最初在水族館裡受到不少遊客的喜愛，可是漸漸地遊客都喜愛上了企鵝，這讓戴夫受到很大的冷落，自尊心得到嚴重打擊的他從此對企鵝們懷恨在心。後來戴夫開始實施他的報仇計劃，他決心發明一種藥水，它能讓企鵝都變成醜陋的怪物以便受到人類的討厭。隨著越來越多的企鵝都遭到戴夫成員的綁架，四位企鵝：老大、卡哇伊、涼快和菜鳥，聯手以灰狼為首的「放風所」四成員，與邪惡的章魚們展開了一次激烈較量"
+            "text": "時間是1990年代的日本，遠野貴樹與篠原明里原本是同班同學的好朋友，自從小學畢業之後，兩人就都沒有再見過面。兩人即使分隔兩地，依舊靠著書信往來保持聯絡。某天，當貴樹知道自己即將跟隨家人搬到鹿兒島，搬到離明里更遠的地方後，兩人於是約定要再次見面。但是兩人原本計畫好的行程，卻遇上了暴風雪…。"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "如果，樱花掉落的速度是每秒5厘米，那么两颗心需要多久才能靠近？少年时，贵树（水桥研二 配）和明理（近藤好美 配）是形影不离的好朋友，可很快，一道巨大的鸿沟便横亘在两人中间：明理转学，贵树也随着父母工作的调动搬到遥远的鹿儿岛。在搬家前，贵树乘坐电车千里迢迢和明理相会，在漫长的等待后，茫茫大雪中，两人在枯萎的樱花树下深情相拥，并献出彼此的first kiss，约定着下一次再一起来看樱花。时光荏苒，两人竟再没见过，虽然在人海中一直搜寻彼此的身影，但似乎总是徒然。再后来，他们分别有了各自的生活，只是还偶尔会梦到13岁时的这段青涩而美好的感情，才明白当年怎么也说不出口的那个字就是爱。"
+          },
+          {
+            "lang": "zh",
+            "text": "2007年的日本動畫電影，由新海誠執導"
+          },
+          {
+            "lang": "en",
+            "text": "2007 Japanese animated film directed by Makoto Shinkai"
+          },
+          {
+            "lang": "es",
+            "text": "película de animación japonesa"
+          },
+          {
+            "lang": "fr",
+            "text": "film sorti en 2007"
+          },
+          {
+            "lang": "de",
+            "text": "Animefilm von Makoto Shinkai"
+          },
+          {
+            "lang": "pt",
+            "text": "filme de animação japonês dirigido por Makoto Shinkai, lançado em 2007"
+          },
+          {
+            "lang": "ja",
+            "text": "新海誠のアニメーション映画"
+          },
+          {
+            "lang": "ko",
+            "text": "2007년 신카이 마코토 감독의 일본의 애니메이션 영화"
           }
         ],
-        "cover_image_url": "https://neodb.social/m/item/movie/2025/11/24/9f5a0527-41bb-4308-a536-f3928922c690.jpg",
-        "rating": 7.2,
-        "rating_count": 403,
+        "cover_image_url": "https://neodb.social/m/movie/2021/09/157eee4ad4-84de-4e92-8fc4-aa4ff42da48f.jpg",
+        "rating": 7.9,
+        "rating_count": 1587,
         "rating_distribution": [
-          0,
-          5,
-          40,
-          44,
-          9
+          1,
+          3,
+          24,
+          38,
+          32
         ],
         "tags": [
-          "2010s",
-          "2014",
-          "3d",
-          "6",
-          "benedictcumberbatch",
-          "企鹅",
-          "冒险",
-          "动物",
+          "2000s",
+          "2007",
+          "anime",
+          "剧场版",
+          "剧情",
+          "动漫",
           "动画",
-          "动画片",
           "动画电影",
-          "喜剧",
-          "埃里克 达尼尔",
-          "搞笑",
-          "梦工厂",
+          "成长",
+          "文艺",
+          "新海城",
+          "新海诚",
+          "日本",
+          "日本动画",
+          "日本电影",
+          "爱情",
           "电影",
-          "美国",
-          "美国电影",
-          "萌",
-          "马达加斯加"
+          "秒速5cm",
+          "秒速5センチメートル",
+          "青春"
         ],
-        "brief": "为了给最疼爱的小老弟菜鸟（克里斯多夫·奈茨 Christopher Knights 配音）庆生，老大（汤姆·麦格拉思 Tom McGrath 配音）带领菜鸟以及好搭档科斯基（克里斯·米勒 Chris Miller 配音）、瑞哥闯入了防守最严密的美国黄金储备中心，只为找到金库尽头仅有的那台销售炸薯条的自动贩卖机。谁知他们刚刚完成任务没多久，便被长着触角的贩卖机吞了进去，随后被运到一个神秘的所在。在全封闭的设施内，四只企鹅见到了伪装成基因遗传科学家的章鱼戴夫（约翰·马尔科维奇 John Malkovich 配音）。原来戴夫曾是动物园一只明星章鱼，但随着萌态十足的企鹅们的到来，他便跌入了绝望的深谷。因此戴夫潜心研制了可怕的血清，发誓要向所有他曾待过的动物园中的企鹅展开报复。\n老大和伙伴们在逃亡途中得到北风特工队的救助，而他们和这些高傲的特工队员将分别阻止戴夫的阴谋……",
-        "id": "https://neodb.social/movie/0Yxx81A14ZVEVjOuemHS96",
-        "uuid": "0Yxx81A14ZVEVjOuemHS96",
-        "url": "/movie/0Yxx81A14ZVEVjOuemHS96",
-        "api_url": "/api/movie/0Yxx81A14ZVEVjOuemHS96",
+        "brief": "如果，樱花掉落的速度是每秒5厘米，那么两颗心需要多久才能靠近？\n少年时，贵树（水橋研二配）和明理（近藤好美配）是形影不离的好朋友，可很快，一道巨大的鸿沟便横亘在两人中间：明理转学，贵树也随着父母工作的调动搬到遥远的鹿儿岛。在搬家前，贵树乘坐新干线千里迢迢和明理相会，在漫长的等待后，茫茫大雪中，两人在枯萎的樱花树下深情相拥，并献出彼此的first kiss，约定着下一次再一起来看樱花。\n时光荏苒，两人竟再没见过，虽然在人海中一直搜寻彼此的身影，但似乎总是徒然。再后来，他们分别有了各自的生活，只是还偶尔会梦到13岁时的这段青涩而美好的感情，才明白当年怎么也说不出口的那个字就是爱。",
+        "id": "https://neodb.social/movie/00QcJRBFuFvrsfE5gUzpOB",
+        "uuid": "00QcJRBFuFvrsfE5gUzpOB",
+        "url": "/movie/00QcJRBFuFvrsfE5gUzpOB",
+        "api_url": "/api/movie/00QcJRBFuFvrsfE5gUzpOB",
         "category": "movie",
         "parent_uuid": null,
-        "display_title": "马达加斯加的企鹅",
+        "display_title": "秒速5厘米",
         "external_resources": [
           {
-            "url": "https://eggplant.place/movie/3sn1XtyAhswUXiq2DgdNRr"
+            "url": "https://movie.douban.com/subject/2043546/"
           },
           {
-            "url": "https://www.imdb.com/title/tt1911658/"
+            "url": "https://www.themoviedb.org/movie/38142"
           },
           {
-            "url": "https://movie.douban.com/subject/11810348/"
+            "url": "https://www.imdb.com/title/tt0983213/"
           },
           {
-            "url": "https://www.themoviedb.org/movie/270946"
-          },
-          {
-            "url": "https://minreol.dk/movie/5oV4fR8IWPxiaDnbU5QeUg"
-          },
-          {
-            "url": "https://www.wikidata.org/wiki/Q15616479"
+            "url": "https://www.wikidata.org/wiki/Q143513"
           }
         ]
       },
@@ -42503,36 +42529,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2025-12-15T01:06:29.295892",
+  "updated_at": "2025-12-16T01:04:41.755559",
   "stats": {
     "movie": {
       "count": 143,
-      "time": 14.14
+      "time": 14.88
     },
     "tv": {
       "count": 112,
-      "time": 8.8
+      "time": 9.04
     },
     "book": {
       "count": 30,
-      "time": 2.4
+      "time": 2.2
     },
     "music": {
       "count": 4,
-      "time": 0.25
+      "time": 0.23
     },
     "podcast": {
       "count": 0,
-      "time": 0.19
+      "time": 0.18
     },
     "game": {
       "count": 1,
-      "time": 0.25
+      "time": 0.21
     },
     "performance": {
       "count": 2,
-      "time": 0.23
+      "time": 0.22
     }
   },
-  "total_time": 26.26
+  "total_time": 26.97
 }
