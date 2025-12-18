@@ -1264,7 +1264,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/130a836090-38a7-4ff8-ba17-e28898c892f6.jpg",
         "rating": 9.0,
-        "rating_count": 272,
+        "rating_count": 273,
         "rating_distribution": [
           0,
           0,
@@ -1809,13 +1809,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/16e346809f-05cd-4c06-8541-8926fc4d8348.jpg",
         "rating": 8.8,
-        "rating_count": 235,
+        "rating_count": 236,
         "rating_distribution": [
           0,
           0,
           11,
-          37,
-          51
+          36,
+          52
         ],
         "tags": [
           "一句顶一万句",
@@ -1936,5 +1936,5 @@
   ],
   "count": 30,
   "category": "book",
-  "updated_at": "2025-12-17T01:00:05.044199"
+  "updated_at": "2025-12-18T01:01:08.008689"
 }
