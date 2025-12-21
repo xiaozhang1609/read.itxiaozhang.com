@@ -1278,7 +1278,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13f0f1086d-2dd2-4f8b-a1a8-fff29ef19e35.jpg",
         "rating": 9.3,
-        "rating_count": 1314,
+        "rating_count": 1315,
         "rating_distribution": [
           0,
           0,
@@ -2291,7 +2291,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/131b46667b-3905-4bdb-a7ec-441f1126be6d.jpg",
         "rating": 9.0,
-        "rating_count": 1198,
+        "rating_count": 1199,
         "rating_distribution": [
           0,
           0,
@@ -2375,7 +2375,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14138f068a-33d6-4cb0-a556-1112c79ede52.jpg",
         "rating": 9.3,
-        "rating_count": 1669,
+        "rating_count": 1670,
         "rating_distribution": [
           0,
           0,
@@ -3690,7 +3690,7 @@
           2,
           5,
           19,
-          46,
+          45,
           26
         ],
         "tags": [
@@ -4087,13 +4087,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1532a54bd6-77fe-4203-b8f2-bd290c3b6dc0.jpg",
         "rating": 8.4,
-        "rating_count": 291,
+        "rating_count": 292,
         "rating_distribution": [
           0,
           4,
-          12,
+          11,
           42,
-          40
+          41
         ],
         "tags": [
           "11",
@@ -4585,7 +4585,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
         "rating": 8.9,
-        "rating_count": 613,
+        "rating_count": 612,
         "rating_distribution": [
           0,
           1,
@@ -6813,7 +6813,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/17/18d1616a-20a3-4c95-9694-b8b225b56ffa.jpg",
         "rating": 8.5,
-        "rating_count": 349,
+        "rating_count": 348,
         "rating_distribution": [
           0,
           1,
@@ -7036,7 +7036,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1543e536b3-fcc3-44d0-a4da-96eacc5607bf.jpg",
         "rating": 9.6,
-        "rating_count": 494,
+        "rating_count": 495,
         "rating_distribution": [
           0,
           0,
@@ -7193,12 +7193,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/173a6861f9-395d-4813-b674-98bc8dc8f139.jpg",
         "rating": 8.1,
-        "rating_count": 77,
+        "rating_count": 78,
         "rating_distribution": [
           0,
           5,
           15,
-          45,
+          46,
           33
         ],
         "tags": [
@@ -7206,12 +7206,12 @@
           "enu",
           "spartacus",
           "starz",
-          "teleplay",
           "动作",
           "历史",
           "古罗马",
           "史诗",
           "情色",
+          "战争",
           "暴力",
           "电视剧",
           "电视剧美国",
@@ -7770,16 +7770,20 @@
           {
             "lang": "zh-cn",
             "text": "公元1722年，康熙驾崩，素有“冷面王”之称的四阿哥胤祯(唐国强 饰)继位 。胤禛虽然并不是朝野所看好的皇位人选，却是康熙亲自选择的雍正皇帝。他在江南“煸动”灾民闹事，在城隍庙摆鸿门宴掏走了地方官和富商二百多万两银子筹款赈灾；他追讨国库欠款，逼得老臣上吊；刑部冤狱案，他隔岸观火，让八阿哥和太子斗得两败俱伤；百官行贿案，他借年羹尧之手血洗江夏镇，使得太子再度被废。\r\n雍正当政后出现的山西诺敏案、科场舞弊案中，雍正杀了一批牵扯进去的朝廷中枢重臣。西北用兵、数省天灾，急需军费和赈灾，抄贪官污吏的家财，解决急需。而后的“摊丁入亩、火耗归公”、“士绅一体当差、一体纳粮”、“河南罢考案”、“铁帽子亲王大殿发难逼宫”、“含泪杀亲子”等一系列旨在推行新政、抑制官绅敛财和宫廷内部党争、挤压的历史事件贯穿雍正的一生和雍正王朝......"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "　　公元1722年康熙驾崩，素有“冷面王”之称的四阿哥胤祯(唐国强 饰)继位 。胤禛虽然并不是朝野所看好的皇位人选，却是康熙亲自选择的雍正皇帝。他在江南“煸动”灾民闹事，在城隍庙摆鸿门宴掏走了地方官和富商二百多万两银子筹款赈灾；他追讨国库欠款，逼得老臣上吊；刑部冤狱案，他隔岸观火，让八阿哥和太子斗得两败俱伤；百官行贿案，他借年羹尧之手血洗江夏镇，使得太子再度被废。 \r\n　　雍正当政后出现的山西诺敏案、科场舞弊案中，雍正杀了一批牵扯进去的朝廷中枢重臣。西北用兵、数省天灾，急需军费和赈灾，抄贪官污吏的家财，解决急需。而后的“摊丁入亩、火耗归公”、“士绅一体当差、一体纳粮”、“河南罢考案”、“铁帽子亲王大殿发难逼宫”、“含泪杀亲子”等一系列旨在推行新政、抑制官绅敛财和宫廷内部党争、挤压的历史事件贯穿雍正的一生和雍正王朝......"
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1654673dfe-17d7-4871-9f25-eed5867ad0e5.jpg",
         "rating": 8.6,
-        "rating_count": 212,
+        "rating_count": 213,
         "rating_distribution": [
           0,
           0,
           9,
-          42,
+          43,
           46
         ],
         "tags": [
@@ -7815,6 +7819,9 @@
         "external_resources": [
           {
             "url": "https://movie.douban.com/subject/1830575/"
+          },
+          {
+            "url": "https://bgm.tv/subject/128309"
           }
         ]
       },
@@ -7857,20 +7864,20 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_tvseason/2023/05/31/c3376f14-de62-4882-a7b5-c26e62c006ed.jpg",
         "rating": 8.1,
-        "rating_count": 67,
+        "rating_count": 68,
         "rating_distribution": [
           0,
           4,
           19,
           38,
-          37
+          38
         ],
         "tags": [
           "2010",
           "2016",
           "2023",
           "enu",
-          "history",
+          "movie",
           "spartacus",
           "starz",
           "剧情",
@@ -10405,7 +10412,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155c5cd599-d9ed-4144-b6dd-f450ec1edd27.jpg",
         "rating": 9.4,
-        "rating_count": 605,
+        "rating_count": 606,
         "rating_distribution": [
           0,
           0,
@@ -10801,5 +10808,5 @@
   ],
   "count": 112,
   "category": "tv",
-  "updated_at": "2025-12-20T01:00:25.959240"
+  "updated_at": "2025-12-21T01:08:47.164139"
 }
