@@ -784,12 +784,12 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/1659fe98c3-c730-4c99-8cf1-bf17727e61e6.jpg",
-        "rating": 8.1,
-        "rating_count": 90,
+        "rating": 8.2,
+        "rating_count": 91,
         "rating_distribution": [
           0,
           0,
-          22,
+          21,
           45,
           32
         ],
@@ -1125,12 +1125,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/15e852899b-0b52-41b1-b8e5-772c8e13f739.jpg",
         "rating": 9.2,
-        "rating_count": 446,
+        "rating_count": 447,
         "rating_distribution": [
           0,
           0,
           4,
-          28,
+          27,
           66
         ],
         "tags": [
@@ -1727,7 +1727,6 @@
         "tags": [
           "b cn",
           "b 纪实文学",
-          "m 图书馆",
           "t 纪实",
           "中国",
           "中国大陆",
@@ -1739,6 +1738,7 @@
           "图书馆",
           "文化研究",
           "漂在加拿大",
+          "社会",
           "社会学",
           "社会纪实",
           "纪实",
@@ -2001,5 +2001,5 @@
   ],
   "count": 31,
   "category": "book",
-  "updated_at": "2025-12-21T01:08:49.095886"
+  "updated_at": "2025-12-22T01:07:18.971476"
 }
