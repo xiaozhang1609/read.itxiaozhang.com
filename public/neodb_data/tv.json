@@ -3153,12 +3153,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/08/29/43e193de-dc85-411d-8021-7d18962b38e7.jpg",
         "rating": 7.2,
-        "rating_count": 101,
+        "rating_count": 102,
         "rating_distribution": [
           0,
           3,
           33,
-          48,
+          49,
           13
         ],
         "tags": [
@@ -3575,11 +3575,11 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/05/01/126d2c3a-9c25-47b1-9e71-9680c338c0b8.webp",
-        "rating": 6.9,
-        "rating_count": 71,
+        "rating": 6.8,
+        "rating_count": 72,
         "rating_distribution": [
           1,
-          9,
+          11,
           29,
           47,
           11
@@ -3685,7 +3685,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/22/a170513d-27d1-4a66-b415-83bcc178b78b.webp",
         "rating": 7.5,
-        "rating_count": 141,
+        "rating_count": 142,
         "rating_distribution": [
           2,
           5,
@@ -4585,7 +4585,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
         "rating": 8.9,
-        "rating_count": 613,
+        "rating_count": 614,
         "rating_distribution": [
           0,
           1,
@@ -4597,13 +4597,13 @@
           "2021",
           "anime",
           "netflix",
+          "tv",
           "剧情",
           "动作",
           "动画",
           "奇幻",
           "拳头",
           "法国",
-          "游戏",
           "游戏改",
           "游戏改编",
           "电视剧",
@@ -5050,12 +5050,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/10/22/061fa0ce-5b93-4b37-a162-d488e100d05d.jpg",
         "rating": 8.2,
-        "rating_count": 171,
+        "rating_count": 172,
         "rating_distribution": [
           1,
           2,
           16,
-          35,
+          34,
           44
         ],
         "tags": [
@@ -5131,7 +5131,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/09/04cbcb6fd5-268a-485b-ac86-17ebb9e1ecd8.jpg",
         "rating": 8.2,
-        "rating_count": 429,
+        "rating_count": 430,
         "rating_distribution": [
           0,
           0,
@@ -5420,7 +5420,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/01/0601fef99c-a667-460e-bebd-99e45fb92e8a.webp",
         "rating": 9.7,
-        "rating_count": 629,
+        "rating_count": 630,
         "rating_distribution": [
           0,
           0,
@@ -5498,7 +5498,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/19/368cf45a-631c-4500-9ec0-c814f93efe6f.jpg",
         "rating": 7.8,
-        "rating_count": 331,
+        "rating_count": 332,
         "rating_distribution": [
           0,
           6,
@@ -5980,7 +5980,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/24/7b6ac0a9-1096-4531-a7b5-3dbb05ca776e.webp",
         "rating": 9.1,
-        "rating_count": 341,
+        "rating_count": 342,
         "rating_distribution": [
           0,
           0,
@@ -6521,12 +6521,12 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2024/04/17/7d1bda2d-db00-4136-a4cb-6ef3f39ef985.jpg",
-        "rating": 7.2,
-        "rating_count": 110,
+        "rating": 7.1,
+        "rating_count": 111,
         "rating_distribution": [
           0,
           2,
-          34,
+          35,
           53,
           9
         ],
@@ -9627,13 +9627,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27db6e874a-a444-44d4-b987-6952f5669cac.jpg",
         "rating": 7.6,
-        "rating_count": 33,
+        "rating_count": 34,
         "rating_distribution": [
           0,
-          3,
-          36,
-          36,
-          24
+          2,
+          35,
+          38,
+          23
         ],
         "tags": [
           "2009",
@@ -10122,13 +10122,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16d5f2f556-70c0-4f1e-8c3c-5c5cb1596fdf.jpg",
         "rating": 9.0,
-        "rating_count": 150,
+        "rating_count": 151,
         "rating_distribution": [
           0,
           0,
-          8,
+          7,
           33,
-          58
+          57
         ],
         "tags": [
           "2005",
@@ -10808,5 +10808,5 @@
   ],
   "count": 112,
   "category": "tv",
-  "updated_at": "2025-12-22T01:07:17.052948"
+  "updated_at": "2025-12-23T01:04:13.071151"
 }
