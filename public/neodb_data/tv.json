@@ -110,7 +110,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15aadf9d17-0834-429a-b430-905f68d1ecef.jpg",
         "rating": 5.1,
-        "rating_count": 860,
+        "rating_count": 859,
         "rating_distribution": [
           21,
           27,
@@ -3410,7 +3410,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13de2367b3-cbe1-4669-996e-e3ef1f5ae43b.jpg",
         "rating": 8.9,
-        "rating_count": 317,
+        "rating_count": 316,
         "rating_distribution": [
           0,
           2,
@@ -4399,7 +4399,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/06/1012f10cab-8842-442a-bd65-75dc2723a36b.jpg",
         "rating": 7.9,
-        "rating_count": 615,
+        "rating_count": 614,
         "rating_distribution": [
           2,
           5,
@@ -10412,7 +10412,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155c5cd599-d9ed-4144-b6dd-f450ec1edd27.jpg",
         "rating": 9.4,
-        "rating_count": 606,
+        "rating_count": 605,
         "rating_distribution": [
           0,
           0,
@@ -10808,5 +10808,5 @@
   ],
   "count": 112,
   "category": "tv",
-  "updated_at": "2025-12-24T01:03:21.608225"
+  "updated_at": "2025-12-25T01:04:19.994064"
 }
