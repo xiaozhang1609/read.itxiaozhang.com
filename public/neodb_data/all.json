@@ -198,8 +198,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1580662fe9-65c8-4a69-8548-f06ce4773166.jpg",
-        "rating": 7.6,
-        "rating_count": 518,
+        "rating": 7.5,
+        "rating_count": 519,
         "rating_distribution": [
           0,
           2,
@@ -1111,7 +1111,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14825026bf-54eb-44f9-b7aa-c14c4f756797.jpg",
         "rating": 8.2,
-        "rating_count": 1000,
+        "rating_count": 1001,
         "rating_distribution": [
           0,
           0,
@@ -2815,7 +2815,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15aadf9d17-0834-429a-b430-905f68d1ecef.jpg",
         "rating": 5.1,
-        "rating_count": 859,
+        "rating_count": 860,
         "rating_distribution": [
           21,
           27,
@@ -4042,7 +4042,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13f0f1086d-2dd2-4f8b-a1a8-fff29ef19e35.jpg",
         "rating": 9.3,
-        "rating_count": 1317,
+        "rating_count": 1318,
         "rating_distribution": [
           0,
           0,
@@ -4356,7 +4356,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1663bcc4de-a15c-4d50-a3ab-13f9736bd689.jpg",
         "rating": 6.8,
-        "rating_count": 1165,
+        "rating_count": 1166,
         "rating_distribution": [
           1,
           9,
@@ -4480,11 +4480,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/01/01/68e22bdb-a83e-4c24-971c-60ccff6b60d6.webp",
         "rating": 5.7,
-        "rating_count": 130,
+        "rating_count": 131,
         "rating_distribution": [
           6,
           19,
-          53,
+          54,
           16,
           3
         ],
@@ -4495,16 +4495,16 @@
           "刘德华",
           "劇情",
           "劉德華",
+          "大银幕",
           "大陆",
           "庄文强",
-          "待定",
+          "待定档",
           "方中信",
           "梁朝伟",
           "港片",
           "港產片",
           "犯罪",
           "电影",
-          "白只",
           "金融",
           "香港",
           "香港电影",
@@ -4684,7 +4684,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/02/02/d801edae-d1f3-499d-8a73-123ce9669780.jpg",
         "rating": 6.7,
-        "rating_count": 553,
+        "rating_count": 555,
         "rating_distribution": [
           6,
           9,
@@ -4797,7 +4797,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/10/03/db405751-1d78-4d27-83f9-c4cffd81229d.jpg",
         "rating": 4.9,
-        "rating_count": 212,
+        "rating_count": 213,
         "rating_distribution": [
           16,
           26,
@@ -4979,20 +4979,19 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/26a4fa45-6953-49f9-b8cf-35f7ca58275b.jpg",
         "rating": 7.6,
-        "rating_count": 208,
+        "rating_count": 209,
         "rating_distribution": [
           0,
           4,
           22,
-          47,
+          46,
           25
         ],
         "tags": [
           "2023",
           "anime",
-          "t 2023",
           "t jp",
-          "t 奇幻",
+          "tv",
           "二次元",
           "僵尸",
           "冒险",
@@ -5001,6 +5000,7 @@
           "剧集",
           "动作",
           "动画",
+          "动画连续剧",
           "動畫",
           "奇幻",
           "日剧",
@@ -5068,7 +5068,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/9b8c9c00-d17c-4de2-9dc4-d7d8eba26a3c.jpg",
         "rating": 8.2,
-        "rating_count": 378,
+        "rating_count": 379,
         "rating_distribution": [
           0,
           2,
@@ -5080,7 +5080,6 @@
           "2021",
           "2022",
           "anime",
-          "ufotable",
           "冒险",
           "剧情",
           "剧集",
@@ -5088,6 +5087,7 @@
           "动漫",
           "动画",
           "奇幻",
+          "成长",
           "日剧",
           "日本",
           "日本动漫",
@@ -5156,22 +5156,22 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/91aef100-a4ff-4866-8e5e-a6b1af1bc754.jpg",
         "rating": 8.6,
-        "rating_count": 267,
+        "rating_count": 268,
         "rating_distribution": [
           0,
           0,
           11,
           41,
-          46
+          45
         ],
         "tags": [
           "2021",
           "anime",
           "bilibili",
           "t 奇幻",
+          "tv动画",
           "ufotable",
           "xin",
-          "アニメ",
           "动作",
           "动漫",
           "动画",
@@ -5333,7 +5333,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/05/8722487d-911a-4260-8589-4ea0626eb134.jpg",
         "rating": 5.8,
-        "rating_count": 331,
+        "rating_count": 333,
         "rating_distribution": [
           8,
           20,
@@ -5433,13 +5433,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158cac42e4-74fb-472f-afd5-78984be19315.jpg",
         "rating": 8.3,
-        "rating_count": 813,
+        "rating_count": 814,
         "rating_distribution": [
           0,
           2,
-          15,
+          14,
           44,
-          37
+          36
         ],
         "tags": [
           "2019",
@@ -5562,10 +5562,10 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2024/04/20/7448d3b5-249e-40c0-b76d-daed7a64157f.webp",
         "rating": 7.4,
-        "rating_count": 143,
+        "rating_count": 144,
         "rating_distribution": [
           0,
-          3,
+          4,
           25,
           54,
           15
@@ -5574,18 +5574,18 @@
           "2024",
           "fx",
           "netflix",
+          "tv",
+          "usa",
           "剧情",
+          "剧集",
+          "动作",
+          "勾心斗角",
           "历史",
           "小说改编",
+          "成长",
           "战争",
-          "改編",
-          "改编",
-          "政治",
-          "新教徒",
           "日剧",
           "日本",
-          "日本史",
-          "权力",
           "电视剧",
           "真田广之",
           "美剧",
@@ -6277,7 +6277,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/159aaa290e-3e36-4e6d-b463-ae522aacb61c.jpg",
         "rating": 6.3,
-        "rating_count": 694,
+        "rating_count": 695,
         "rating_distribution": [
           2,
           15,
@@ -7896,7 +7896,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15a47c8284-e2de-42cb-8e53-3066c6a3f0f1.jpg",
         "rating": 7.2,
-        "rating_count": 912,
+        "rating_count": 913,
         "rating_distribution": [
           1,
           4,
@@ -8392,16 +8392,17 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14cb3b8d3f-209d-4f2d-be2f-107c05d7ff65.jpg",
         "rating": 8.3,
-        "rating_count": 166,
+        "rating_count": 167,
         "rating_distribution": [
           0,
           0,
-          12,
+          11,
           59,
           28
         ],
         "tags": [
           "2001",
+          "first",
           "中国",
           "中国大陆",
           "中国电影",
@@ -8410,14 +8411,13 @@
           "冯小宁",
           "剧情",
           "华语",
+          "华语电影",
           "历史",
+          "反战",
           "大陆",
           "感人",
           "战争",
           "抗日",
-          "日本",
-          "梗概",
-          "民族",
           "电影",
           "紫日",
           "经典"
@@ -10744,7 +10744,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/05/14/c6b6a72c-2a26-487c-9c3f-54c23cf4ca9e.webp",
         "rating": 8.8,
-        "rating_count": 2539,
+        "rating_count": 2540,
         "rating_distribution": [
           0,
           1,
@@ -12157,12 +12157,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanbook/2023/05/29/cc933957-9ec9-4c69-a74d-23f7e3a52ef0.jpg",
         "rating": 8.3,
-        "rating_count": 172,
+        "rating_count": 173,
         "rating_distribution": [
           0,
           1,
           9,
-          51,
+          52,
           36
         ],
         "tags": [
@@ -12497,8 +12497,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/05/05/ff4458fb-b949-416c-833f-def4a33e1a74.webp",
-        "rating": 8.1,
-        "rating_count": 526,
+        "rating": 8.0,
+        "rating_count": 527,
         "rating_distribution": [
           0,
           0,
@@ -12740,7 +12740,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15a5cb7008-acae-4a3b-8d5d-581355037dcf.jpg",
         "rating": 7.4,
-        "rating_count": 1523,
+        "rating_count": 1524,
         "rating_distribution": [
           0,
           5,
@@ -13255,7 +13255,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/138d1723f9-e106-4e8e-b490-3cd2ed271cae.jpg",
         "rating": 8.2,
-        "rating_count": 1772,
+        "rating_count": 1773,
         "rating_distribution": [
           0,
           0,
@@ -13877,9 +13877,9 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/07/01/f929217a-3c36-4a6e-8885-64fc07476424.webp",
         "rating": 6.2,
-        "rating_count": 368,
+        "rating_count": 370,
         "rating_distribution": [
-          6,
+          7,
           13,
           38,
           34,
@@ -13888,24 +13888,23 @@
         "tags": [
           "2020s",
           "2024",
-          "2025",
           "7",
           "amcempire25",
           "china",
+          "parent",
+          "z",
           "中国",
           "中国大陆",
           "人生",
           "剧情",
           "华语",
-          "和谐国电影",
           "喜剧",
           "国内电影",
           "大陆",
           "家庭",
           "搞笑",
           "沈腾",
-          "电影",
-          "马丽"
+          "电影"
         ],
         "brief": "困苦的爹，辛劳的妈，破烂的院子，破碎的他。西虹市做大做强的路上怎么把老马家落下了？！\n“汤里没油，兜里没子”的马成钢（沈腾 饰）和春兰（马丽 饰），赶驴打工，家徒四壁，而儿子马继业（肖帛辰 饰）则是他们逆天改命的唯一希望。小马很争气，年年好成绩，一点不娇气，意志贼坚毅。但随着小马一天天长大，他却逐渐发现身边的人们都越来越不对劲……",
         "id": "https://neodb.social/movie/1O3OM5a0GELT6BtF7KEtUp",
@@ -16720,12 +16719,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/08/09/d546187f-bf96-4341-a492-99bc987de142.jpg",
         "rating": 7.6,
-        "rating_count": 244,
+        "rating_count": 246,
         "rating_distribution": [
           2,
           3,
           20,
-          45,
+          44,
           28
         ],
         "tags": [
@@ -16744,7 +16743,6 @@
           "国外电影",
           "家庭",
           "悬疑",
-          "成长",
           "犯罪",
           "电影",
           "经典",
@@ -17798,7 +17796,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13de2367b3-cbe1-4669-996e-e3ef1f5ae43b.jpg",
         "rating": 8.9,
-        "rating_count": 316,
+        "rating_count": 317,
         "rating_distribution": [
           0,
           2,
@@ -18764,7 +18762,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/133604f9b2-b434-4aa8-92c0-e8f88336e4db.jpg",
         "rating": 9.3,
-        "rating_count": 2649,
+        "rating_count": 2650,
         "rating_distribution": [
           0,
           0,
@@ -19938,7 +19936,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/154c5a960d-1ca7-4edb-a221-7e4e0d5af43f.jpg",
         "rating": 8.6,
-        "rating_count": 908,
+        "rating_count": 909,
         "rating_distribution": [
           0,
           0,
@@ -20310,7 +20308,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155f176840-2af9-4da9-b94b-9ff31d1f45b3.jpg",
         "rating": 8.5,
-        "rating_count": 808,
+        "rating_count": 809,
         "rating_distribution": [
           0,
           0,
@@ -20552,7 +20550,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/22/a170513d-27d1-4a66-b415-83bcc178b78b.webp",
         "rating": 7.5,
-        "rating_count": 142,
+        "rating_count": 143,
         "rating_distribution": [
           2,
           5,
@@ -20562,6 +20560,7 @@
         ],
         "tags": [
           "2023",
+          "剧情",
           "剧集",
           "动作",
           "动漫",
@@ -20578,9 +20577,7 @@
           "战斗",
           "日剧",
           "日本",
-          "日本动画",
-          "日漫",
-          "日语"
+          "日本动画"
         ],
         "brief": "最强2人，回不去的青春。2017年12月，乙骨忧太解除了祈本里香的诅咒。追溯到2006年（春天），高专时代的五条悟与夏油杰。作为咒术师活跃着，所向披靡的2人，接受来自咒术界拥有不死术式的要·天元的委托。委托有两个，天元的的适合者——被选中成为“星浆体”的天内理子，对那个少女的“护卫”和“抹去”两人为了维持咒术界而进行护卫任务，在那里自称伏黑的“术师杀手”以暗杀“星浆体”为目标介入。在之后被称为最强的咒术师和最恶的咒术师，五条与夏油，两人的过去被揭开…",
         "id": "https://neodb.social/tv/season/3lnrTxp2pGchm4KpABRE9J",
@@ -20718,13 +20715,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/12/09/e349737a-1ad1-4118-ab72-3f8fd067cf4d.webp",
         "rating": 8.7,
-        "rating_count": 327,
+        "rating_count": 328,
         "rating_distribution": [
           0,
           0,
           9,
-          31,
-          58
+          32,
+          57
         ],
         "tags": [
           "2020s",
@@ -20736,6 +20733,8 @@
           "剧集",
           "动画",
           "動畫",
+          "奇怪生物类",
+          "小众",
           "幻象",
           "异星",
           "欧美动画",
@@ -20744,9 +20743,7 @@
           "科技",
           "美剧",
           "美国",
-          "美国动画",
-          "美國",
-          "自然"
+          "美国动画"
         ],
         "brief": "本剧是对2016年动画短片《拾荒者》概念的拓展。\r\n在一艘星际货运飞船受损后，船员发现他们被困在了一个美丽但让人难以应付的陌生星球上。在这里，他们必须存活得足够久，才有机会逃离或获救。当幸存者们努力寻找被击落的船只和失踪的船员时，他们的新家展现出一个充满敌意的世界，这个世界可以在没有人类干扰的情况下蓬勃发展。",
         "id": "https://neodb.social/tv/season/57PyYqzRowAjrcajGknvnl",
@@ -20990,7 +20987,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/156963fe1b-b7c5-48eb-bd54-03d23c3d8c01.jpg",
         "rating": 8.7,
-        "rating_count": 1999,
+        "rating_count": 2000,
         "rating_distribution": [
           0,
           0,
@@ -21503,7 +21500,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/01/e4b2048e-6b85-4488-9859-7c519e74dc60.jpg",
         "rating": 9.2,
-        "rating_count": 2088,
+        "rating_count": 2089,
         "rating_distribution": [
           0,
           0,
@@ -21592,7 +21589,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/08/69d304f8-1a0f-4f06-9a4a-b1d870f43864.webp",
         "rating": 7.9,
-        "rating_count": 212,
+        "rating_count": 213,
         "rating_distribution": [
           0,
           2,
@@ -21605,15 +21602,15 @@
           "amazon",
           "amazonprime",
           "annabel o hagan",
+          "usa",
           "vault",
           "wd",
           "乔纳森 诺兰",
           "人性",
           "人类快死光了",
-          "冒险",
           "剧集",
           "动作",
-          "尸鬼",
+          "实验",
           "末日",
           "游戏改编",
           "电视剧",
@@ -22373,13 +22370,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2022/03/13255f8b5f-8f72-4b6f-8f0b-c15346e9cad1.jpg",
         "rating": 8.6,
-        "rating_count": 185,
+        "rating_count": 186,
         "rating_distribution": [
           0,
           0,
           8,
           50,
-          41
+          40
         ],
         "tags": [
           "1文学",
@@ -22554,12 +22551,12 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/bangumi/2024/02/24/721c8a8b-f563-4994-b35f-940327755105.jpg",
-        "rating": 8.4,
-        "rating_count": 161,
+        "rating": 8.3,
+        "rating_count": 162,
         "rating_distribution": [
           0,
           1,
-          10,
+          11,
           40,
           45
         ],
@@ -22576,8 +22573,6 @@
           "动画",
           "动画番剧",
           "動畫",
-          "哲学",
-          "好想看",
           "悬疑",
           "日本",
           "日本动画",
@@ -22836,7 +22831,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2022/10/2573823f61-b01b-40a3-926a-f2563cbd989a.jpg",
         "rating": 7.8,
-        "rating_count": 298,
+        "rating_count": 299,
         "rating_distribution": [
           0,
           2,
@@ -23011,13 +23006,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/16e346809f-05cd-4c06-8541-8926fc4d8348.jpg",
         "rating": 8.8,
-        "rating_count": 238,
+        "rating_count": 239,
         "rating_distribution": [
           0,
           0,
           10,
-          36,
-          52
+          37,
+          51
         ],
         "tags": [
           "一句顶一万句",
@@ -23098,7 +23093,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/10/22/061fa0ce-5b93-4b37-a162-d488e100d05d.jpg",
         "rating": 8.2,
-        "rating_count": 173,
+        "rating_count": 174,
         "rating_distribution": [
           1,
           2,
@@ -23108,6 +23103,7 @@
         ],
         "tags": [
           "2023",
+          "万神殿",
           "人工智能",
           "刘宇昆",
           "剧情",
@@ -23123,10 +23119,7 @@
           "科幻",
           "美剧",
           "美国",
-          "美国动画",
-          "艾伦 艾克哈特",
-          "虚构",
-          "过程神学"
+          "美国动画"
         ],
         "brief": "在全球互联网关闭之后，麦蒂加入了凯斯宾的比赛，以选择上传的情报，谁可以保护人类免受机器中其他幽灵的侵害。新的盟友、敌人和生命形式将永远改变我们的世界。",
         "id": "https://neodb.social/tv/season/0xC4D2WSR2h5HaEvT8KdNr",
@@ -23409,11 +23402,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/10/20/1da820fd-8dfc-40c4-95b4-84aaa71ee443.webp",
         "rating": 6.6,
-        "rating_count": 420,
+        "rating_count": 421,
         "rating_distribution": [
           3,
           10,
-          39,
+          38,
           39,
           7
         ],
@@ -23820,7 +23813,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/16/f28d5972-1708-4dd1-a655-d75431e32c33.webp",
         "rating": 9.0,
-        "rating_count": 786,
+        "rating_count": 787,
         "rating_distribution": [
           0,
           0,
@@ -23976,12 +23969,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/02/11/279d76f8-a2a0-4bca-8893-0e040c0f673e.jpg",
         "rating": 6.7,
-        "rating_count": 178,
+        "rating_count": 179,
         "rating_distribution": [
           1,
           7,
-          44,
-          37,
+          45,
+          36,
           8
         ],
         "tags": [
@@ -23993,8 +23986,6 @@
           "中国大陆",
           "中国电影",
           "中國",
-          "人性",
-          "刑侦",
           "剧情",
           "国产",
           "国内电影",
@@ -24004,7 +23995,8 @@
           "犯罪",
           "电影",
           "真实事件改编",
-          "罪案"
+          "罪案",
+          "院线"
         ],
         "brief": "改编自纪实文学《请转告局长，三大队任务完成了》。\r\n奸杀嫌犯因先前被群众殴打，死在审讯室中。负责此案的三大队也连带入狱。而另一名嫌犯还逍遥法外。出狱后，三大队在队长老程带领下追查其行踪，最终协助警方抓获嫌犯，追凶十二年。",
         "id": "https://neodb.social/movie/7mKTnEIpqPzDbCbZZzUY9v",
@@ -24307,7 +24299,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/24/a9688316-76fe-4704-add5-ab62c18e523f.webp",
         "rating": 9.3,
-        "rating_count": 712,
+        "rating_count": 713,
         "rating_distribution": [
           0,
           0,
@@ -24536,7 +24528,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/07/5c08ca37-111a-4d69-847a-6590365d31e7.jpg",
         "rating": 6.3,
-        "rating_count": 813,
+        "rating_count": 814,
         "rating_distribution": [
           5,
           13,
@@ -24859,7 +24851,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/01/0601fef99c-a667-460e-bebd-99e45fb92e8a.webp",
         "rating": 9.7,
-        "rating_count": 631,
+        "rating_count": 632,
         "rating_distribution": [
           0,
           0,
@@ -25255,7 +25247,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/07/be012b58-ed0a-4750-b71d-03b0f59276a6.jpg",
         "rating": 7.8,
-        "rating_count": 1132,
+        "rating_count": 1133,
         "rating_distribution": [
           2,
           3,
@@ -25345,10 +25337,10 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/19/368cf45a-631c-4500-9ec0-c814f93efe6f.jpg",
         "rating": 7.8,
-        "rating_count": 333,
+        "rating_count": 334,
         "rating_distribution": [
           0,
-          6,
+          5,
           22,
           39,
           31
@@ -25555,7 +25547,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/c50f391f-f017-4478-ae8c-ff4cd460e2c2.jpg",
         "rating": 8.0,
-        "rating_count": 1198,
+        "rating_count": 1199,
         "rating_distribution": [
           0,
           2,
@@ -26021,7 +26013,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/7a48ff6e-aae2-458e-9b35-523ece2badfb.jpg",
         "rating": 8.3,
-        "rating_count": 940,
+        "rating_count": 942,
         "rating_distribution": [
           0,
           2,
@@ -26133,7 +26125,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/21/156627ec-4352-454a-a41e-6a1a5ae83070.jpg",
         "rating": 9.2,
-        "rating_count": 593,
+        "rating_count": 594,
         "rating_distribution": [
           0,
           0,
@@ -26221,7 +26213,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/03/14/e0cc80de-58b3-4a0c-ba0b-cb1ed25f326a.webp",
         "rating": 8.8,
-        "rating_count": 547,
+        "rating_count": 548,
         "rating_distribution": [
           0,
           0,
@@ -26315,7 +26307,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/2775557ce8-06f5-4882-a7e4-a3293ba16d3a.jpg",
         "rating": 8.9,
-        "rating_count": 1098,
+        "rating_count": 1099,
         "rating_distribution": [
           0,
           1,
@@ -26521,7 +26513,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/24/7b6ac0a9-1096-4531-a7b5-3dbb05ca776e.webp",
         "rating": 9.1,
-        "rating_count": 343,
+        "rating_count": 344,
         "rating_distribution": [
           0,
           0,
@@ -26819,7 +26811,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/02/0877652c-19db-4f9b-8be5-e8645b18db8b.jpg",
         "rating": 6.9,
-        "rating_count": 369,
+        "rating_count": 370,
         "rating_distribution": [
           4,
           12,
@@ -27460,7 +27452,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2023/07/20/8206c5c4-0d6d-46f6-a08c-7a7d3af84393.jpg",
         "rating": 7.0,
-        "rating_count": 839,
+        "rating_count": 840,
         "rating_distribution": [
           0,
           7,
@@ -27772,33 +27764,34 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/275e2658ad-2aae-4ba2-9d91-73860d948fa3.webp",
         "rating": 8.6,
-        "rating_count": 127,
+        "rating_count": 128,
         "rating_distribution": [
           0,
           0,
           15,
-          34,
+          35,
           49
         ],
         "tags": [
           "2019",
-          "dulcēdō",
           "netflix",
+          "tv",
           "人性",
+          "剧 美剧 英剧 各种剧",
           "剧情",
           "动作",
           "悬疑",
+          "抢银行",
           "推理",
+          "梗概",
           "犯罪",
+          "电视剧",
+          "盗窃",
           "网络",
           "西剧",
           "西班牙",
           "西班牙剧",
-          "西班牙电视剧",
-          "西班牙语",
-          "西语",
           "警匪",
-          "高智商",
           "黑色幽默"
         ],
         "brief": "教授和他的团队再次重聚，这次的目标是西班牙银行，他们将以大胆而危险的新计划解救里约。抵抗仍在继续。",
@@ -27914,18 +27907,20 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2024/04/17/7d1bda2d-db00-4136-a4cb-6ef3f39ef985.jpg",
         "rating": 7.1,
-        "rating_count": 112,
+        "rating_count": 113,
         "rating_distribution": [
           0,
           2,
-          35,
+          36,
           52,
           8
         ],
         "tags": [
           "2024",
           "netflix",
+          "tv",
           "动作",
+          "外星人",
           "奇幻",
           "寄生",
           "寄生兽",
@@ -27936,8 +27931,6 @@
           "成长",
           "改編",
           "改编",
-          "漫改",
-          "漫画改编",
           "科幻",
           "血腥",
           "韓國",
@@ -28090,7 +28083,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/131f51610c-f166-4ba3-a734-bf089151525e.jpg",
         "rating": 9.1,
-        "rating_count": 526,
+        "rating_count": 527,
         "rating_distribution": [
           0,
           0,
@@ -28471,7 +28464,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/05/08ce26bdb6-eb1d-4b5d-8baf-559ae723b8cd.jpg",
         "rating": 5.4,
-        "rating_count": 674,
+        "rating_count": 675,
         "rating_distribution": [
           8,
           26,
@@ -29677,11 +29670,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/05/09/93138ddf-92a7-4fda-9d04-92f9b197d65c.webp",
         "rating": 7.6,
-        "rating_count": 518,
+        "rating_count": 519,
         "rating_distribution": [
           0,
           2,
-          19,
+          20,
           60,
           17
         ],
@@ -32841,12 +32834,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/18a22d4c52-7107-4300-a38c-5bd94a63cfc3.jpg",
         "rating": 7.8,
-        "rating_count": 121,
+        "rating_count": 122,
         "rating_distribution": [
           0,
           5,
           22,
-          47,
+          48,
           23
         ],
         "tags": [
@@ -33697,7 +33690,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1540ca6a04-7e73-4d51-bf03-5e75bb63a8de.jpg",
         "rating": 8.0,
-        "rating_count": 1120,
+        "rating_count": 1121,
         "rating_distribution": [
           0,
           3,
@@ -33737,10 +33730,10 @@
         "display_title": "罗小黑战记",
         "external_resources": [
           {
-            "url": "https://movie.douban.com/subject/26709258/"
+            "url": "https://www.wikidata.org/wiki/Q67124023"
           },
           {
-            "url": "https://www.wikidata.org/wiki/Q67124023"
+            "url": "https://movie.douban.com/subject/26709258/"
           },
           {
             "url": "https://www.imdb.com/title/tt10734928/"
@@ -34338,7 +34331,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15d0883f9f-f849-4054-9b49-e021f380f73b.jpg",
         "rating": 6.5,
-        "rating_count": 1406,
+        "rating_count": 1407,
         "rating_distribution": [
           6,
           15,
@@ -36091,7 +36084,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/135717365f-c912-4679-9f01-b05fcca43095.jpg",
         "rating": 8.4,
-        "rating_count": 1777,
+        "rating_count": 1778,
         "rating_distribution": [
           0,
           1,
@@ -37975,7 +37968,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155798a734-660d-42a2-ae49-b3a9916150de.jpg",
         "rating": 7.3,
-        "rating_count": 256,
+        "rating_count": 257,
         "rating_distribution": [
           1,
           5,
@@ -39580,7 +39573,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13d1567d07-417b-4b7b-8356-5d0b87f43128.jpg",
         "rating": 9.1,
-        "rating_count": 2474,
+        "rating_count": 2475,
         "rating_distribution": [
           0,
           0,
@@ -40259,12 +40252,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2025/11/24/9f5a0527-41bb-4308-a536-f3928922c690.jpg",
         "rating": 7.2,
-        "rating_count": 406,
+        "rating_count": 407,
         "rating_distribution": [
           0,
           5,
           40,
-          45,
+          44,
           9
         ],
         "tags": [
@@ -42615,36 +42608,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2025-12-26T01:04:27.847122",
+  "updated_at": "2025-12-27T01:02:38.734053",
   "stats": {
     "movie": {
       "count": 143,
-      "time": 12.81
+      "time": 14.37
     },
     "tv": {
       "count": 112,
-      "time": 8.05
+      "time": 8.98
     },
     "book": {
       "count": 31,
-      "time": 1.96
+      "time": 2.34
     },
     "music": {
       "count": 4,
-      "time": 0.18
+      "time": 0.23
     },
     "podcast": {
       "count": 0,
-      "time": 0.12
+      "time": 0.16
     },
     "game": {
       "count": 1,
-      "time": 0.14
+      "time": 0.19
     },
     "performance": {
       "count": 2,
-      "time": 0.16
+      "time": 0.2
     }
   },
-  "total_time": 23.44
+  "total_time": 26.46
 }
