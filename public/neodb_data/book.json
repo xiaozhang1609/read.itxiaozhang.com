@@ -3,6 +3,77 @@
     {
       "shelf_type": "complete",
       "visibility": 0,
+      "post_id": 528502473135654536,
+      "item": {
+        "type": "Edition",
+        "title": "妻妾成群",
+        "description": "《妻妾成群》借旧中国特有的封建家庭模式作小说的框架，一个男人娶了四个女人做太太。但作者关心的不是一个男人如何在四个女人中周旋，如何控制她们，而是关心四个女人怎会把她们一齐拴在一个男人的脖子上，并且像一棵濒临枯萎的藤蔓在稀薄的空气中相互绞杀而争得那一点点空气。\n《妻妾成群》被改编为电影《大红灯笼高高挂》，张艺谋导演，获奥斯卡金像奖提名。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "妻妾成群"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "《妻妾成群》借旧中国特有的封建家庭模式作小说的框架，一个男人娶了四个女人做太太。但作者关心的不是一个男人如何在四个女人中周旋，如何控制她们，而是关心四个女人怎会把她们一齐拴在一个男人的脖子上，并且像一棵濒临枯萎的藤蔓在稀薄的空气中相互绞杀而争得那一点点空气。\n《妻妾成群》被改编为电影《大红灯笼高高挂》，张艺谋导演，获奥斯卡金像奖提名。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/book/2021/09/16609aecd9-deea-4669-baab-c417dfb13ac3.jpg",
+        "rating": 8.2,
+        "rating_count": 160,
+        "rating_distribution": [
+          0,
+          0,
+          13,
+          63,
+          23
+        ],
+        "tags": [
+          "kindle",
+          "public",
+          "上海文艺出版社",
+          "下书如山倒读书如抽丝",
+          "中国",
+          "中国当代文学",
+          "中国文学",
+          "中国现当代",
+          "中国现当代文学",
+          "女人",
+          "女性",
+          "妻妾成群",
+          "小说",
+          "当代",
+          "当代文学",
+          "文学",
+          "文本",
+          "电子书",
+          "苏童",
+          "购得"
+        ],
+        "brief": "《妻妾成群》借旧中国特有的封建家庭模式作小说的框架，一个男人娶了四个女人做太太。但作者关心的不是一个男人如何在四个女人中周旋，如何控制她们，而是关心四个女人怎会把她们一齐拴在一个男人的脖子上，并且像一棵濒临枯萎的藤蔓在稀薄的空气中相互绞杀而争得那一点点空气。\n《妻妾成群》被改编为电影《大红灯笼高高挂》，张艺谋导演，获奥斯卡金像奖提名。",
+        "id": "https://neodb.social/book/1FlJWtQfFJJBkuNpUSEWg0",
+        "uuid": "1FlJWtQfFJJBkuNpUSEWg0",
+        "url": "/book/1FlJWtQfFJJBkuNpUSEWg0",
+        "api_url": "/api/book/1FlJWtQfFJJBkuNpUSEWg0",
+        "category": "book",
+        "parent_uuid": "7WNUfhMEaATp5uqDPN9kGZ",
+        "display_title": "妻妾成群",
+        "external_resources": [
+          {
+            "url": "https://book.douban.com/subject/1025753/"
+          }
+        ]
+      },
+      "created_time": "2025-12-29T16:20:08.618Z",
+      "comment_text": null,
+      "rating_grade": 6,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
       "post_id": 524365847472020944,
       "item": {
         "type": "Edition",
@@ -1125,13 +1196,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/15e852899b-0b52-41b1-b8e5-772c8e13f739.jpg",
         "rating": 9.2,
-        "rating_count": 448,
+        "rating_count": 449,
         "rating_distribution": [
           0,
           0,
           4,
           27,
-          66
+          67
         ],
         "tags": [
           "i 文学",
@@ -1716,13 +1787,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanbook/2023/12/26/9e4d5cb9-8b97-4462-8c03-98d74ecbe4c0.jpg",
         "rating": 8.0,
-        "rating_count": 79,
+        "rating_count": 80,
         "rating_distribution": [
           1,
           1,
           18,
-          39,
-          39
+          40,
+          38
         ],
         "tags": [
           "b cn",
@@ -1790,7 +1861,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2022/10/2573823f61-b01b-40a3-926a-f2563cbd989a.jpg",
         "rating": 7.8,
-        "rating_count": 299,
+        "rating_count": 300,
         "rating_distribution": [
           0,
           2,
@@ -1999,7 +2070,7 @@
       "tags": []
     }
   ],
-  "count": 31,
+  "count": 32,
   "category": "book",
-  "updated_at": "2025-12-29T01:09:47.335080"
+  "updated_at": "2025-12-30T01:04:31.422239"
 }
