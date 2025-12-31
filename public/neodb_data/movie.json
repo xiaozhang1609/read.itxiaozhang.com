@@ -8990,7 +8990,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/05/05/ff4458fb-b949-416c-833f-def4a33e1a74.webp",
         "rating": 8.1,
-        "rating_count": 529,
+        "rating_count": 530,
         "rating_distribution": [
           0,
           0,
@@ -13978,7 +13978,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/133604f9b2-b434-4aa8-92c0-e8f88336e4db.jpg",
         "rating": 9.3,
-        "rating_count": 2657,
+        "rating_count": 2658,
         "rating_distribution": [
           0,
           0,
@@ -16587,13 +16587,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1342c2c8f4-6447-4008-9f51-2fcd641c4799.jpg",
         "rating": 7.8,
-        "rating_count": 1800,
+        "rating_count": 1801,
         "rating_distribution": [
           0,
           2,
           25,
           49,
-          22
+          21
         ],
         "tags": [
           "2010s",
@@ -18423,11 +18423,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/05/13c80ca032-f642-4ed2-86c0-94704a240cf0.jpg",
         "rating": 6.9,
-        "rating_count": 288,
+        "rating_count": 289,
         "rating_distribution": [
           1,
           6,
-          37,
+          38,
           45,
           8
         ],
@@ -25871,7 +25871,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16fc9ee12a-ef5f-460d-ae93-831dd06c61ce.jpg",
         "rating": 7.6,
-        "rating_count": 407,
+        "rating_count": 408,
         "rating_distribution": [
           1,
           1,
@@ -29109,7 +29109,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155c04dbf9-a5ea-49f7-807c-8f46e3fda242.jpg",
         "rating": 7.8,
-        "rating_count": 1162,
+        "rating_count": 1163,
         "rating_distribution": [
           0,
           3,
@@ -29407,5 +29407,5 @@
   ],
   "count": 143,
   "category": "movie",
-  "updated_at": "2025-12-30T01:04:21.724879"
+  "updated_at": "2025-12-31T01:05:48.510459"
 }
