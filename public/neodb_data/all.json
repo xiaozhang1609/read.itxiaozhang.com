@@ -10814,7 +10814,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/05/14/c6b6a72c-2a26-487c-9c3f-54c23cf4ca9e.webp",
         "rating": 8.8,
-        "rating_count": 2546,
+        "rating_count": 2547,
         "rating_distribution": [
           0,
           1,
@@ -18833,7 +18833,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/133604f9b2-b434-4aa8-92c0-e8f88336e4db.jpg",
         "rating": 9.3,
-        "rating_count": 2659,
+        "rating_count": 2660,
         "rating_distribution": [
           0,
           0,
@@ -23182,7 +23182,7 @@
           "动作",
           "动漫",
           "动画",
-          "动画剧",
+          "动画剧集",
           "家庭",
           "小说改编",
           "幻想",
@@ -23692,7 +23692,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/9c60c854-c003-4fde-8112-218faee891da.jpg",
         "rating": 8.8,
-        "rating_count": 1103,
+        "rating_count": 1104,
         "rating_distribution": [
           0,
           0,
@@ -24383,7 +24383,6 @@
           "2018",
           "2019",
           "anime",
-          "アニメ",
           "二次元",
           "人性",
           "剧情",
@@ -24393,6 +24392,7 @@
           "奇幻",
           "日本",
           "日本动画",
+          "梶裕贵",
           "漫画改编",
           "热血",
           "电视剧",
@@ -25388,7 +25388,7 @@
       "post_id": 277330903698501464,
       "item": {
         "type": "TVSeason",
-        "title": "中国奇谭",
+        "title": "中国奇谭 第一季",
         "description": "短片集由八个植根于中国传统文化的独立的故事组成：《小妖怪的夏天》《鹅鹅鹅》《林林》《乡村巴士带走了王孩儿和神仙》《小满》《玉兔》《小卖部》《飞鸟与鱼》，在观众面前铺陈开一个极具中式想象力和审美魅力的“妖怪”故事集。\r\n其中故事纵览古今、展望未来，从古代故事到科幻想象、 从乡土眷恋到唯美爱情、从生命母题到人性思考，展现着中式想象力、承载着中国民族文化与哲学。影片涵盖多种美术风格以及制作手法：既有传统的二维、剪纸、偶定格动画，又有CG、三渲二的现代技术，还有将素描与中国水墨韵味相结合的创新尝试，是创作者们对中国美学一次多视角的诠释。",
         "localized_title": [
           {
@@ -25398,12 +25398,56 @@
           {
             "lang": "no",
             "text": "Yao-Chinese Folktales"
+          },
+          {
+            "lang": "ko",
+            "text": "시즌 1"
+          },
+          {
+            "lang": "ja",
+            "text": "シーズン1"
+          },
+          {
+            "lang": "pt",
+            "text": "Temporada 1"
+          },
+          {
+            "lang": "de",
+            "text": "Staffel 1"
+          },
+          {
+            "lang": "fr",
+            "text": "Saison 1"
+          },
+          {
+            "lang": "es",
+            "text": "Temporada 1"
+          },
+          {
+            "lang": "en",
+            "text": "Season 1"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "第 1 季"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "第 1 季"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "第 1 季"
           }
         ],
         "localized_description": [
           {
             "lang": "zh-cn",
             "text": "短片集由八个植根于中国传统文化的独立的故事组成：《小妖怪的夏天》《鹅鹅鹅》《林林》《乡村巴士带走了王孩儿和神仙》《小满》《玉兔》《小卖部》《飞鸟与鱼》，在观众面前铺陈开一个极具中式想象力和审美魅力的“妖怪”故事集。\r\n其中故事纵览古今、展望未来，从古代故事到科幻想象、 从乡土眷恋到唯美爱情、从生命母题到人性思考，展现着中式想象力、承载着中国民族文化与哲学。影片涵盖多种美术风格以及制作手法：既有传统的二维、剪纸、偶定格动画，又有CG、三渲二的现代技术，还有将素描与中国水墨韵味相结合的创新尝试，是创作者们对中国美学一次多视角的诠释。"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "动画短片集《中国奇谭》由八个植根于中国传统文化的独立的故事组成：《小妖怪的夏天》、《鹅鹅鹅》、《林林》、《乡村巴士带走了王孩儿和神仙》、《小满》、《飞鸟与鱼》、《小卖部》、《玉兔》。故事纵览古今、展望未来，从乡土眷恋到科技幻想、从生命母题到人性思考，展现着中式想象力、承载着中国民族文化与哲学。"
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/19/368cf45a-631c-4500-9ec0-c814f93efe6f.jpg",
@@ -25445,13 +25489,16 @@
         "api_url": "/api/tv/season/6I6TutwG8JI3xyOgioAqEJ",
         "category": "tv",
         "parent_uuid": "4rghi1Yy3YDGBRdkDa3NRi",
-        "display_title": "中国奇谭",
+        "display_title": "中国奇谭 第一季",
         "external_resources": [
           {
             "url": "https://movie.douban.com/subject/35674355/"
           },
           {
             "url": "https://bgm.tv/subject/358660"
+          },
+          {
+            "url": "https://www.themoviedb.org/tv/139162/season/1"
           }
         ]
       },
@@ -42700,36 +42747,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2026-01-01T01:12:08.351870",
+  "updated_at": "2026-01-02T01:05:48.282917",
   "stats": {
     "movie": {
       "count": 143,
-      "time": 14.0
+      "time": 12.85
     },
     "tv": {
       "count": 112,
-      "time": 8.92
+      "time": 8.66
     },
     "book": {
       "count": 32,
-      "time": 2.21
+      "time": 2.15
     },
     "music": {
       "count": 4,
-      "time": 0.2
+      "time": 0.17
     },
     "podcast": {
       "count": 0,
-      "time": 0.16
+      "time": 0.13
     },
     "game": {
       "count": 1,
-      "time": 0.23
+      "time": 0.14
     },
     "performance": {
       "count": 2,
-      "time": 0.18
+      "time": 0.16
     }
   },
-  "total_time": 25.9
+  "total_time": 24.25
 }
