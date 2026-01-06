@@ -1278,7 +1278,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13f0f1086d-2dd2-4f8b-a1a8-fff29ef19e35.jpg",
         "rating": 9.3,
-        "rating_count": 1321,
+        "rating_count": 1322,
         "rating_distribution": [
           0,
           0,
@@ -4085,7 +4085,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1532a54bd6-77fe-4203-b8f2-bd290c3b6dc0.jpg",
         "rating": 8.4,
-        "rating_count": 294,
+        "rating_count": 295,
         "rating_distribution": [
           0,
           4,
@@ -4162,7 +4162,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/08/69d304f8-1a0f-4f06-9a4a-b1d870f43864.webp",
         "rating": 7.9,
-        "rating_count": 215,
+        "rating_count": 217,
         "rating_distribution": [
           0,
           2,
@@ -4583,7 +4583,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
         "rating": 8.9,
-        "rating_count": 617,
+        "rating_count": 618,
         "rating_distribution": [
           0,
           1,
@@ -5721,7 +5721,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/03/14/e0cc80de-58b3-4a0c-ba0b-cb1ed25f326a.webp",
         "rating": 8.8,
-        "rating_count": 552,
+        "rating_count": 553,
         "rating_distribution": [
           0,
           0,
@@ -6735,12 +6735,12 @@
           "netflix",
           "tv",
           "人性",
-          "剧 美剧 英剧 各种剧",
           "剧情",
           "剧集",
           "动作",
           "悬疑",
           "惊悚",
+          "爱情",
           "犯罪",
           "电视剧",
           "西剧",
@@ -7078,7 +7078,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1543e536b3-fcc3-44d0-a4da-96eacc5607bf.jpg",
         "rating": 9.6,
-        "rating_count": 499,
+        "rating_count": 500,
         "rating_distribution": [
           0,
           0,
@@ -10871,5 +10871,5 @@
   ],
   "count": 112,
   "category": "tv",
-  "updated_at": "2026-01-05T01:11:34.173793"
+  "updated_at": "2026-01-06T01:05:39.289802"
 }
