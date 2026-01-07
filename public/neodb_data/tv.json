@@ -3,6 +3,101 @@
     {
       "shelf_type": "complete",
       "visibility": 0,
+      "post_id": 531384070304995456,
+      "item": {
+        "type": "TVSeason",
+        "title": "怪奇物語 (怪奇物语 第一季)",
+        "description": "《怪奇物语》：向征服了一代人的 80 年代经典作品致敬。《怪奇物语》以 1983 年的印第安纳州为背景，一个小男孩莫名其妙地消失了。当朋友、家人和当地警察寻找答案时，他们都被卷入一个非同寻常的谜团，其中涉及绝密的政府实验、恐怖的超自然力量，还有一个非常奇怪的小女孩。",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "怪奇物语 第一季"
+          },
+          {
+            "lang": "de",
+            "text": "Stranger Things Staffel 1"
+          },
+          {
+            "lang": "en",
+            "text": "Stranger Things Season 1"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "《怪奇物语》：向征服了一代人的 80 年代经典作品致敬。《怪奇物语》以 1983 年的印第安纳州为背景，一个小男孩莫名其妙地消失了。当朋友、家人和当地警察寻找答案时，他们都被卷入一个非同寻常的谜团，其中涉及绝密的政府实验、恐怖的超自然力量，还有一个非常奇怪的小女孩。"
+          },
+          {
+            "lang": "en",
+            "text": "Strange things are afoot in Hawkins, Indiana, where a young boy's sudden disappearance unearths a young girl with otherworldly powers."
+          },
+          {
+            "lang": "zh-cn",
+            "text": "　　故事发生在1985年的印第安纳州霍金斯镇，正值炎夏，学校放假了，镇上新开了一家购物中心，霍金斯小组成员也即将成年。情窦初开的同时，也使小组成员的动态变得更加复杂，他们必须找出一起长大的方法。与此同时，危险迫在眉睫。当小镇受到新旧敌人的威胁时，小十一和她的朋友们意识到 ，邪恶永远不会结束，它会一直存在。现在，他们必须团结一致才能活下来，并牢记友谊的力量永远比恐惧更强大。"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/movie/2021/09/15972032e2-9c87-4328-baa9-21c0395470bf.jpg",
+        "rating": 8.5,
+        "rating_count": 1283,
+        "rating_distribution": [
+          0,
+          1,
+          10,
+          46,
+          42
+        ],
+        "tags": [
+          "2010s",
+          "2016",
+          "netflix",
+          "tv",
+          "亲情",
+          "剧情",
+          "剧集",
+          "奇幻",
+          "家庭",
+          "恐怖",
+          "悬疑",
+          "惊悚",
+          "电视剧",
+          "看过的电视剧",
+          "科幻",
+          "美剧",
+          "美国",
+          "薇诺娜 瑞德",
+          "青春"
+        ],
+        "brief": "《怪奇物语》：向征服了一代人的 80 年代经典作品致敬。《怪奇物语》以 1983 年的印第安纳州为背景，一个小男孩莫名其妙地消失了。当朋友、家人和当地警察寻找答案时，他们都被卷入一个非同寻常的谜团，其中涉及绝密的政府实验、恐怖的超自然力量，还有一个非常奇怪的小女孩。",
+        "id": "https://neodb.social/tv/season/3PqjvvQNgI7YZy1Vbx7DBE",
+        "uuid": "3PqjvvQNgI7YZy1Vbx7DBE",
+        "url": "/tv/season/3PqjvvQNgI7YZy1Vbx7DBE",
+        "api_url": "/api/tv/season/3PqjvvQNgI7YZy1Vbx7DBE",
+        "category": "tv",
+        "parent_uuid": "7CBSvM6MWpetN1LceIH3FX",
+        "display_title": "怪奇物語 (怪奇物语 第一季)",
+        "external_resources": [
+          {
+            "url": "https://eggplant.place/tv/season/22l8pVR3myflnCLk83dO4v"
+          },
+          {
+            "url": "https://movie.douban.com/subject/26359270/"
+          },
+          {
+            "url": "https://www.themoviedb.org/tv/66732/season/1"
+          },
+          {
+            "url": "https://bgm.tv/subject/187187"
+          }
+        ]
+      },
+      "created_time": "2026-01-06T15:10:34.903Z",
+      "comment_text": null,
+      "rating_grade": 9,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
       "post_id": 443969058267341544,
       "item": {
         "type": "TVSeason",
@@ -1460,13 +1555,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/02/16/1c296bee-5d49-4208-b11b-f7f0f949bc64.jpg",
         "rating": 8.4,
-        "rating_count": 276,
+        "rating_count": 277,
         "rating_distribution": [
           1,
           1,
           7,
           48,
-          40
+          41
         ],
         "tags": [
           "2020s",
@@ -1912,11 +2007,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158cac42e4-74fb-472f-afd5-78984be19315.jpg",
         "rating": 8.3,
-        "rating_count": 818,
+        "rating_count": 819,
         "rating_distribution": [
           0,
           2,
-          14,
+          15,
           45,
           36
         ],
@@ -2041,7 +2136,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2024/04/20/7448d3b5-249e-40c0-b76d-daed7a64157f.webp",
         "rating": 7.4,
-        "rating_count": 144,
+        "rating_count": 145,
         "rating_distribution": [
           0,
           4,
@@ -2291,7 +2386,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/131b46667b-3905-4bdb-a7ec-441f1126be6d.jpg",
         "rating": 9.0,
-        "rating_count": 1204,
+        "rating_count": 1205,
         "rating_distribution": [
           0,
           0,
@@ -2375,7 +2470,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14138f068a-33d6-4cb0-a556-1112c79ede52.jpg",
         "rating": 9.3,
-        "rating_count": 1679,
+        "rating_count": 1680,
         "rating_distribution": [
           0,
           0,
@@ -2739,7 +2834,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/11/30/9ba014ae-5023-41ba-8414-b725d6bd2d67.jpg",
         "rating": 8.5,
-        "rating_count": 220,
+        "rating_count": 221,
         "rating_distribution": [
           0,
           0,
@@ -2828,7 +2923,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/09/59f49696-e8a1-40b8-a956-07cc5e7e6891.jpg",
         "rating": 8.6,
-        "rating_count": 265,
+        "rating_count": 266,
         "rating_distribution": [
           0,
           0,
@@ -2970,11 +3065,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/04/15b785f2f1-4e5a-4ab8-8344-90049e5ac6fb.jpg",
         "rating": 8.3,
-        "rating_count": 375,
+        "rating_count": 376,
         "rating_distribution": [
           0,
           0,
-          8,
+          7,
           57,
           33
         ],
@@ -3152,7 +3247,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/08/29/43e193de-dc85-411d-8021-7d18962b38e7.jpg",
         "rating": 7.2,
-        "rating_count": 105,
+        "rating_count": 106,
         "rating_distribution": [
           0,
           3,
@@ -3575,12 +3670,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/05/01/126d2c3a-9c25-47b1-9e71-9680c338c0b8.webp",
         "rating": 6.9,
-        "rating_count": 75,
+        "rating_count": 76,
         "rating_distribution": [
           1,
           10,
-          29,
-          45,
+          28,
+          46,
           13
         ],
         "tags": [
@@ -4299,7 +4394,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157c78ce20-44be-4128-85cd-0cfdc73ebb0a.jpg",
         "rating": 8.0,
-        "rating_count": 705,
+        "rating_count": 706,
         "rating_distribution": [
           1,
           2,
@@ -4397,7 +4492,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/06/1012f10cab-8842-442a-bd65-75dc2723a36b.jpg",
         "rating": 7.8,
-        "rating_count": 619,
+        "rating_count": 620,
         "rating_distribution": [
           2,
           5,
@@ -5233,7 +5328,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/16/f28d5972-1708-4dd1-a655-d75431e32c33.webp",
         "rating": 9.0,
-        "rating_count": 791,
+        "rating_count": 792,
         "rating_distribution": [
           0,
           0,
@@ -5329,13 +5424,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/24/a9688316-76fe-4704-add5-ab62c18e523f.webp",
         "rating": 9.3,
-        "rating_count": 717,
+        "rating_count": 718,
         "rating_distribution": [
           0,
           0,
           3,
           24,
-          71
+          72
         ],
         "tags": [
           "2010s",
@@ -5414,7 +5509,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/01/0601fef99c-a667-460e-bebd-99e45fb92e8a.webp",
         "rating": 9.7,
-        "rating_count": 635,
+        "rating_count": 636,
         "rating_distribution": [
           0,
           0,
@@ -5633,7 +5728,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/21/156627ec-4352-454a-a41e-6a1a5ae83070.jpg",
         "rating": 9.2,
-        "rating_count": 597,
+        "rating_count": 598,
         "rating_distribution": [
           0,
           0,
@@ -5815,7 +5910,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/2775557ce8-06f5-4882-a7e4-a3293ba16d3a.jpg",
         "rating": 8.9,
-        "rating_count": 1104,
+        "rating_count": 1105,
         "rating_distribution": [
           0,
           1,
@@ -6107,7 +6202,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2024/02/16/ebc8a989-7250-4d9a-bc87-f0015d90a64b.jpg",
         "rating": 8.7,
-        "rating_count": 110,
+        "rating_count": 111,
         "rating_distribution": [
           0,
           2,
@@ -6336,11 +6431,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/3162443ce4-c901-4bcc-b518-2ded04071051.jpg",
         "rating": 8.5,
-        "rating_count": 123,
+        "rating_count": 124,
         "rating_distribution": [
           0,
           0,
-          21,
+          20,
           27,
           50
         ],
@@ -6421,13 +6516,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/275e2658ad-2aae-4ba2-9d91-73860d948fa3.webp",
         "rating": 8.6,
-        "rating_count": 129,
+        "rating_count": 130,
         "rating_distribution": [
           0,
           0,
           15,
           35,
-          48
+          49
         ],
         "tags": [
           "2019",
@@ -6720,13 +6815,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13fad64691-a76f-489b-a7d7-ea2a222066c6.jpg",
         "rating": 8.3,
-        "rating_count": 151,
+        "rating_count": 152,
         "rating_distribution": [
           0,
           1,
           19,
           35,
-          43
+          42
         ],
         "tags": [
           "2018",
@@ -6855,11 +6950,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/17/18d1616a-20a3-4c95-9694-b8b225b56ffa.jpg",
         "rating": 8.5,
-        "rating_count": 351,
+        "rating_count": 352,
         "rating_distribution": [
           0,
           1,
-          14,
+          15,
           38,
           44
         ],
@@ -7001,7 +7096,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1373cde94d-7ce8-4f88-9d1e-adcf85e9d479.jpg",
         "rating": 8.2,
-        "rating_count": 233,
+        "rating_count": 234,
         "rating_distribution": [
           0,
           3,
@@ -10869,7 +10964,7 @@
       "tags": []
     }
   ],
-  "count": 112,
+  "count": 113,
   "category": "tv",
-  "updated_at": "2026-01-06T01:05:39.289802"
+  "updated_at": "2026-01-07T01:06:19.343195"
 }
