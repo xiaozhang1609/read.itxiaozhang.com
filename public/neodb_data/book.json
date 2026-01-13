@@ -26,7 +26,7 @@
         "rating_distribution": [
           0,
           0,
-          13,
+          14,
           63,
           23
         ],
@@ -95,10 +95,10 @@
         "rating": 7.5,
         "rating_count": 22,
         "rating_distribution": [
-          4,
+          5,
           9,
           18,
-          40,
+          41,
           27
         ],
         "tags": [
@@ -163,8 +163,8 @@
           0,
           0,
           16,
-          66,
-          16
+          67,
+          17
         ],
         "tags": [
           "2016",
@@ -221,8 +221,8 @@
         "rating_distribution": [
           0,
           0,
-          5,
-          64,
+          6,
+          65,
           29
         ],
         "tags": [
@@ -291,8 +291,8 @@
         "rating_distribution": [
           0,
           0,
-          7,
-          53,
+          8,
+          54,
           38
         ],
         "tags": [
@@ -469,8 +469,8 @@
           0,
           0,
           7,
-          39,
-          52
+          40,
+          53
         ],
         "tags": [
           "中国",
@@ -535,7 +535,7 @@
           0,
           0,
           12,
-          87,
+          88,
           0
         ],
         "tags": [
@@ -669,8 +669,8 @@
         "rating_count": 22,
         "rating_distribution": [
           0,
-          4,
-          22,
+          5,
+          23,
           27,
           45
         ],
@@ -737,8 +737,8 @@
         "rating_count": 175,
         "rating_distribution": [
           0,
-          1,
-          9,
+          2,
+          10,
           52,
           36
         ],
@@ -860,9 +860,9 @@
         "rating_distribution": [
           0,
           0,
-          22,
+          23,
           44,
-          32
+          33
         ],
         "tags": [
           "2012",
@@ -1199,10 +1199,10 @@
         "rating_count": 451,
         "rating_distribution": [
           0,
-          0,
+          1,
           4,
           28,
-          66
+          67
         ],
         "tags": [
           "i 文学",
@@ -1274,7 +1274,7 @@
         "rating_distribution": [
           0,
           0,
-          13,
+          14,
           18,
           68
         ],
@@ -1330,10 +1330,10 @@
         "rating": 7.9,
         "rating_count": 132,
         "rating_distribution": [
-          0,
+          1,
           0,
           28,
-          43,
+          44,
           27
         ],
         "tags": [
@@ -1403,9 +1403,9 @@
         "rating_count": 274,
         "rating_distribution": [
           0,
-          0,
+          1,
           7,
-          29,
+          30,
           62
         ],
         "tags": [
@@ -1474,10 +1474,10 @@
         "rating_count": 17,
         "rating_distribution": [
           0,
-          5,
-          5,
+          6,
+          6,
           70,
-          17
+          18
         ],
         "tags": [
           "nonfiction",
@@ -1540,7 +1540,7 @@
         "rating_count": 12,
         "rating_distribution": [
           0,
-          16,
+          17,
           8,
           50,
           25
@@ -1600,8 +1600,8 @@
         "rating_count": 188,
         "rating_distribution": [
           0,
-          0,
-          7,
+          1,
+          8,
           51,
           40
         ],
@@ -1791,8 +1791,8 @@
         "rating_distribution": [
           1,
           1,
-          18,
-          40,
+          19,
+          41,
           38
         ],
         "tags": [
@@ -1864,10 +1864,10 @@
         "rating_count": 304,
         "rating_distribution": [
           0,
-          1,
-          20,
+          2,
+          21,
           55,
-          21
+          22
         ],
         "tags": [
           "f 小说",
@@ -1949,7 +1949,7 @@
         "rating_distribution": [
           0,
           0,
-          10,
+          11,
           37,
           52
         ],
@@ -2025,8 +2025,8 @@
           0,
           1,
           13,
-          58,
-          26
+          59,
+          27
         ],
         "tags": [
           "2012 2016",
@@ -2072,5 +2072,5 @@
   ],
   "count": 32,
   "category": "book",
-  "updated_at": "2026-01-12T01:09:30.683737"
+  "updated_at": "2026-01-13T01:02:51.412884"
 }
