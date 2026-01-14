@@ -286,14 +286,14 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/16a752aa93-74de-48a9-83a6-a8c922e68ccc.jpg",
-        "rating": 8.5,
-        "rating_count": 13,
+        "rating": 8.4,
+        "rating_count": 12,
         "rating_distribution": [
           0,
           0,
           8,
-          54,
-          38
+          58,
+          34
         ],
         "tags": [
           "中国",
@@ -2072,5 +2072,5 @@
   ],
   "count": 32,
   "category": "book",
-  "updated_at": "2026-01-13T01:02:51.412884"
+  "updated_at": "2026-01-14T01:08:41.726759"
 }
