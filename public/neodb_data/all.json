@@ -34,11 +34,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15d11df79d-e135-4b40-92fb-908b367c3558.jpg",
         "rating": 8.2,
-        "rating_count": 821,
+        "rating_count": 822,
         "rating_distribution": [
           0,
-          2,
-          17,
+          3,
+          16,
           46,
           35
         ],
@@ -122,7 +122,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/154b044d00-d0d8-4d95-84fc-3562fddcdaaa.jpg",
         "rating": 8.3,
-        "rating_count": 960,
+        "rating_count": 961,
         "rating_distribution": [
           0,
           2,
@@ -216,7 +216,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15972032e2-9c87-4328-baa9-21c0395470bf.jpg",
         "rating": 8.5,
-        "rating_count": 1289,
+        "rating_count": 1290,
         "rating_distribution": [
           1,
           1,
@@ -600,7 +600,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1580662fe9-65c8-4a69-8548-f06ce4773166.jpg",
         "rating": 7.6,
-        "rating_count": 523,
+        "rating_count": 524,
         "rating_distribution": [
           1,
           3,
@@ -816,7 +816,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15cce2b25c-b1c4-4c7d-b69f-7ee205e70534.jpg",
         "rating": 7.5,
-        "rating_count": 522,
+        "rating_count": 523,
         "rating_distribution": [
           0,
           4,
@@ -1512,7 +1512,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14825026bf-54eb-44f9-b7aa-c14c4f756797.jpg",
         "rating": 8.2,
-        "rating_count": 1006,
+        "rating_count": 1007,
         "rating_distribution": [
           0,
           1,
@@ -2364,7 +2364,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16f9e88964-fa39-4855-aef1-96d19143ddd3.jpg",
         "rating": 5.8,
-        "rating_count": 124,
+        "rating_count": 125,
         "rating_distribution": [
           4,
           20,
@@ -2456,12 +2456,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16ed2dc86f-32ae-4f7b-98be-8bd0982aa66c.jpg",
         "rating": 7.1,
-        "rating_count": 240,
+        "rating_count": 241,
         "rating_distribution": [
           0,
           4,
-          40,
-          48,
+          41,
+          47,
           8
         ],
         "tags": [
@@ -4431,19 +4431,11 @@
           {
             "lang": "zh-cn",
             "text": "改编自乔治·R·R·马丁所著的奇幻小说《冰与火之歌》第一部，故事发生在虚构的维斯特洛大陆上。由国王劳勃·拜拉席恩前往北地拜访他的好友、临冬城主暨北境统领艾德·史塔克开始，逐渐展示了这片奇幻大陆的全貌。单纯的国王，耿直的首相，各怀鬼胎的大臣，拥兵自重的四方诸侯，和平的表象即将打破，国家面临无尽的战乱。而更让人惊悚的是，北境长城之外，神秘的异鬼隐隐现身。"
-          },
-          {
-            "lang": "ja",
-            "text": ""
-          },
-          {
-            "lang": "zh-hk",
-            "text": ""
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13f0f1086d-2dd2-4f8b-a1a8-fff29ef19e35.jpg",
         "rating": 9.3,
-        "rating_count": 1324,
+        "rating_count": 1325,
         "rating_distribution": [
           0,
           0,
@@ -5677,12 +5669,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/05/8722487d-911a-4260-8589-4ea0626eb134.jpg",
         "rating": 5.8,
-        "rating_count": 343,
+        "rating_count": 345,
         "rating_distribution": [
           8,
           20,
-          42,
-          24,
+          43,
+          23,
           6
         ],
         "tags": [
@@ -6147,7 +6139,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/153f250f04-06a2-4a3d-88b0-f28cca4e9b3b.jpg",
         "rating": 8.8,
-        "rating_count": 488,
+        "rating_count": 489,
         "rating_distribution": [
           0,
           1,
@@ -6409,7 +6401,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/163d5bf73e-1783-481b-8aea-b388a9599d4f.jpg",
         "rating": 5.8,
-        "rating_count": 328,
+        "rating_count": 329,
         "rating_distribution": [
           4,
           25,
@@ -7446,10 +7438,6 @@
             "text": "Jim Carrey spelar en smart advokat som konstant måste ljuga för att rädda sig ur diverse absurda situationer. På grund av sin sons önskan på födelsedagen blir han tvungen att tala sanning de närmaste 24 timmarna... Med en advokat som talar sanning börjar händelserna att ta fart..."
           },
           {
-            "lang": "zh-hk",
-            "text": ""
-          },
-          {
             "lang": "en",
             "text": "1997 film directed by Tom Shadyac"
           },
@@ -7928,18 +7916,6 @@
             "text": "I 2031 har en ny istid gjort Jorden nærmest ubeboelig. Menneskets sidste bastion er et langt højteknologisk tog, som konstant er i bevægelse. Hvis motoren stopper, fryser menneskeheden ihjel. De rigeste bor i de forreste vogne, mens de fattigste lever kummerligt i de bagerste vogne, hvor oprøret ulmer."
           },
           {
-            "lang": "nn",
-            "text": ""
-          },
-          {
-            "lang": "nb",
-            "text": ""
-          },
-          {
-            "lang": "no",
-            "text": ""
-          },
-          {
             "lang": "zh",
             "text": "2013年韓國電影"
           },
@@ -7970,7 +7946,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1547b89f8e-94c0-435e-8c7f-6b4513db2842.jpg",
         "rating": 7.1,
-        "rating_count": 1241,
+        "rating_count": 1243,
         "rating_distribution": [
           1,
           6,
@@ -8240,7 +8216,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15a47c8284-e2de-42cb-8e53-3066c6a3f0f1.jpg",
         "rating": 7.2,
-        "rating_count": 916,
+        "rating_count": 917,
         "rating_distribution": [
           1,
           4,
@@ -9329,7 +9305,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/131b46667b-3905-4bdb-a7ec-441f1126be6d.jpg",
         "rating": 9.0,
-        "rating_count": 1206,
+        "rating_count": 1207,
         "rating_distribution": [
           0,
           0,
@@ -9922,13 +9898,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14138f068a-33d6-4cb0-a556-1112c79ede52.jpg",
         "rating": 9.3,
-        "rating_count": 1682,
+        "rating_count": 1683,
         "rating_distribution": [
           0,
-          0,
+          1,
           5,
           24,
-          71
+          70
         ],
         "tags": [
           "2010s",
@@ -10058,13 +10034,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15b1a129f9-80cf-44a4-b61d-574ad0aa49b5.jpg",
         "rating": 8.0,
-        "rating_count": 197,
+        "rating_count": 198,
         "rating_distribution": [
           0,
-          3,
+          2,
           18,
           56,
-          23
+          24
         ],
         "tags": [
           "2010s",
@@ -10689,7 +10665,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14e13c0daf-a37b-44be-90ba-9c071890a000.jpg",
         "rating": 8.0,
-        "rating_count": 471,
+        "rating_count": 473,
         "rating_distribution": [
           0,
           3,
@@ -11087,7 +11063,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/05/14/c6b6a72c-2a26-487c-9c3f-54c23cf4ca9e.webp",
         "rating": 8.8,
-        "rating_count": 2560,
+        "rating_count": 2561,
         "rating_distribution": [
           0,
           2,
@@ -11481,14 +11457,6 @@
             "text": "Caesar og hans aber bliver tvunget ind i en dødbringende konflikt med en gruppe svært bevæbnede mennesker under ledelse af den nådesløse Oberst.  Aberne lider store tab, og Caesar må kæmpe en indre kamp med sine instinkter for at kunne planlægge og starte jagten på retfærdighed for sine artsfæller.  Rejsen bringer Caesar ansigt til ansigt med Obersten, og de står over for et slag, der vil afgøre skæbne for deres arter og fremtiden for planeten."
           },
           {
-            "lang": "nn",
-            "text": ""
-          },
-          {
-            "lang": "nb",
-            "text": ""
-          },
-          {
             "lang": "en",
             "text": "After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind."
           },
@@ -11769,14 +11737,6 @@
           {
             "lang": "da",
             "text": "I en hær­get, frem­ti­dig ver­den, hvor gan­ske få men­ne­sker har over­le­vet en dø­de­lig virus, har en na­tion af ge­ne­tisk ud­vik­le­de aber vok­set sig stær­ke, stif­tet fa­mi­lie og lig­ner den do­mi­ne­ren­de race. Aber­ne le­ver i fred an­ført af den vise chim­pan­se Ca­es­ar, der var den før­ste af sin slags, og som for­står og respek­te­rer men­ne­skets na­tur. Men fre­den skal vise sig skrø­be­lig, da et op­rør ul­mer hos de des­pe­ra­te men­ne­sker. Snart er dyr og men­ne­sker på kan­ten af en krig, hvor beg­ge si­der kæm­per for in­tet min­dre end ar­tens over­le­vel­se."
-          },
-          {
-            "lang": "nn",
-            "text": ""
-          },
-          {
-            "lang": "nb",
-            "text": ""
           },
           {
             "lang": "zh-cn",
@@ -12065,14 +12025,6 @@
             "text": "       《猩球崛起》以深入浅出的故事探讨人类文明与科技进化之间的冲突。\r\n    故事的背景设在现代的旧金山，基因科学家威尔-罗德曼（詹姆斯·弗兰克饰）为了治疗人类神经萎缩类疾病而研发了一种药品，该药可以治疗老年痴呆一类的病症，新药在黑猩猩身上做实验时，人们发现可以大幅度提高其智力，症状眼睛变为绿色，智力达到人类水平，这只试验成功的黑猩猩生下小猩猩后，为了保护其子母性爆发，袭击了工作人员而被射杀。其后研究所被迫对剩下所有黑猩猩进行了安乐死，研究项目被迫停止。为了救新生的小猩猩，威尔收养了他并起名凯撒（安迪·瑟金斯饰），在喂养凯撒过程中，因治疗猩猩的伤，威尔-罗德曼遇上了动物学家凯洛琳（芙蕾达·平托饰）并相恋。\r\n    凯撒因为遗传其母的基因，从小就有很高的智慧，同威尔一家人一直幸福的生活着。威尔看到凯撒的实验效果后，给老年痴呆症的父亲注射了同样的药品，奇迹般的恢复了大脑功能，但是数年后威尔发现人体对这种病毒药品产生了抗体，威尔的父亲病情恶化。威尔向上司展示药品成果，要求使用更猛烈的病毒进行实验，并在猩猩实验中取得成功，威尔将药品带回了家。在一次误伤人类之后，凯撒被迫与威尔分离，并被送进了看护所。在那里他受到了无情的对待，继而开始对人类产生敌意。有着高智慧的凯撒顺利逃离了看护所，回到威尔的家后偷走了药品，带回看守所给其他黑猩猩使用，并开始领导他们，最终带领其他猩猩逃出了看守所。而此时已经证明这个药品对人类是一种致命的病毒，但是对猩猩无害而且能大幅提高其智慧，病毒已经开始传播，形势在逆转，一场不得不与人类对立的战争即将开始。"
           },
           {
-            "lang": "nn",
-            "text": ""
-          },
-          {
-            "lang": "nb",
-            "text": ""
-          },
-          {
             "lang": "zh-hans",
             "text": "美国科幻电影"
           },
@@ -12352,13 +12304,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ef885c05-3eb7-48f9-8a51-ffc98674447b.jpg",
         "rating": 8.1,
-        "rating_count": 759,
+        "rating_count": 760,
         "rating_distribution": [
           0,
-          2,
+          3,
           16,
           54,
-          28
+          27
         ],
         "tags": [
           "2000s",
@@ -12615,14 +12567,14 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/12/11f9d3bf28-48c9-40a7-944b-6a3083c3d41b.jpg",
-        "rating": 7.4,
-        "rating_count": 45,
+        "rating": 7.5,
+        "rating_count": 46,
         "rating_distribution": [
           2,
           2,
           33,
-          45,
-          18
+          43,
+          20
         ],
         "tags": [
           "1990s",
@@ -12716,7 +12668,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/11/30/9ba014ae-5023-41ba-8414-b725d6bd2d67.jpg",
         "rating": 8.5,
-        "rating_count": 222,
+        "rating_count": 223,
         "rating_distribution": [
           0,
           1,
@@ -12841,7 +12793,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/05/05/ff4458fb-b949-416c-833f-def4a33e1a74.webp",
         "rating": 8.1,
-        "rating_count": 537,
+        "rating_count": 538,
         "rating_distribution": [
           0,
           1,
@@ -12933,13 +12885,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/09/59f49696-e8a1-40b8-a956-07cc5e7e6891.jpg",
         "rating": 8.6,
-        "rating_count": 267,
+        "rating_count": 268,
         "rating_distribution": [
           0,
           0,
-          4,
+          5,
           51,
-          45
+          44
         ],
         "tags": [
           "2020s",
@@ -13281,13 +13233,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/04/15b785f2f1-4e5a-4ab8-8344-90049e5ac6fb.jpg",
         "rating": 8.3,
-        "rating_count": 378,
+        "rating_count": 379,
         "rating_distribution": [
-          0,
+          1,
           1,
           8,
           57,
-          34
+          33
         ],
         "tags": [
           "2020s",
@@ -13598,7 +13550,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/138d1723f9-e106-4e8e-b490-3cd2ed271cae.jpg",
         "rating": 8.2,
-        "rating_count": 1783,
+        "rating_count": 1784,
         "rating_distribution": [
           0,
           1,
@@ -13807,7 +13759,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15e76bca99-667d-4bc2-a4ba-140d9ac4572d.jpg",
         "rating": 7.3,
-        "rating_count": 715,
+        "rating_count": 716,
         "rating_distribution": [
           0,
           5,
@@ -14101,7 +14053,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/156bbc2ea2-fc09-440a-bb29-83dd0339574a.jpg",
         "rating": 6.7,
-        "rating_count": 1394,
+        "rating_count": 1395,
         "rating_distribution": [
           3,
           10,
@@ -14495,7 +14447,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15a2f45055-f7fd-4e4c-ba2b-c9438595671d.jpg",
         "rating": 8.0,
-        "rating_count": 821,
+        "rating_count": 822,
         "rating_distribution": [
           0,
           2,
@@ -15660,13 +15612,13 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/08/29/43e193de-dc85-411d-8021-7d18962b38e7.jpg",
-        "rating": 7.3,
+        "rating": 7.2,
         "rating_count": 107,
         "rating_distribution": [
           0,
-          4,
+          5,
           32,
-          50,
+          49,
           14
         ],
         "tags": [
@@ -15988,14 +15940,6 @@
             "text": "11 nævninge er overbeviste om, at sagsøgte er skyldig i mord. Den tolvte er ikke i tvivl om, at han er uskyldig. Hvordan kan denne ene mand styre de andre mod samme konklusion? Der er tale om en sag med tilsyneladende overvældende beviser mod en teenager, som er anklaget for at have dræbt sin far i \"en af de bedste film nogensinde\""
           },
           {
-            "lang": "nn",
-            "text": ""
-          },
-          {
-            "lang": "nb",
-            "text": ""
-          },
-          {
             "lang": "zh",
             "text": "1957年美國電影"
           },
@@ -16105,13 +16049,13 @@
             "url": "https://minreol.dk/movie/4wqIl9qrKhJswpwQmuGE1e"
           },
           {
-            "url": "https://www.wikidata.org/wiki/Q2345"
-          },
-          {
             "url": "https://www.themoviedb.org/movie/389"
           },
           {
             "url": "https://www.imdb.com/title/tt0050083/"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q2345"
           },
           {
             "url": "https://movie.douban.com/subject/1293182/"
@@ -16600,7 +16544,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/159f8910db-b66d-47a4-bfe2-681b9b942ab5.jpg",
         "rating": 7.6,
-        "rating_count": 1126,
+        "rating_count": 1128,
         "rating_distribution": [
           1,
           4,
@@ -16816,7 +16760,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/141ac4ecd0-60a1-4b48-9c43-a1fb3a42f224.jpg",
         "rating": 8.3,
-        "rating_count": 1676,
+        "rating_count": 1677,
         "rating_distribution": [
           0,
           1,
@@ -17367,7 +17311,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1616db63d8-fedf-4ed2-9af3-f433bd8aedff.jpg",
         "rating": 7.9,
-        "rating_count": 487,
+        "rating_count": 488,
         "rating_distribution": [
           0,
           1,
@@ -17559,7 +17503,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/02/09/99387773-4bce-49ab-97a8-142495cdbcb7.webp",
         "rating": 7.1,
-        "rating_count": 632,
+        "rating_count": 633,
         "rating_distribution": [
           1,
           4,
@@ -17779,7 +17723,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/02/09/a0bfb9c4-f0fd-4101-830d-0c1b988c93b7.webp",
         "rating": 6.4,
-        "rating_count": 453,
+        "rating_count": 454,
         "rating_distribution": [
           2,
           13,
@@ -18042,7 +17986,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/02/09/ff5b5d50-1e64-423a-b992-6880be257d62.webp",
         "rating": 8.7,
-        "rating_count": 916,
+        "rating_count": 917,
         "rating_distribution": [
           0,
           0,
@@ -18403,7 +18347,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/02/09/4b06c21f-3439-4a71-a88d-3a62ee8d8f3e.webp",
         "rating": 8.3,
-        "rating_count": 849,
+        "rating_count": 850,
         "rating_distribution": [
           0,
           1,
@@ -18677,7 +18621,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/02/09/521f8674-8810-46f3-9a78-a22145369684.webp",
         "rating": 8.1,
-        "rating_count": 1085,
+        "rating_count": 1086,
         "rating_distribution": [
           0,
           1,
@@ -19106,7 +19050,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/133604f9b2-b434-4aa8-92c0-e8f88336e4db.jpg",
         "rating": 9.2,
-        "rating_count": 2674,
+        "rating_count": 2676,
         "rating_distribution": [
           0,
           0,
@@ -19358,12 +19302,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14151af899-4ee7-4466-87a9-4f9f993aa929.jpg",
         "rating": 6.9,
-        "rating_count": 244,
+        "rating_count": 245,
         "rating_distribution": [
           1,
           10,
-          41,
-          34,
+          40,
+          35,
           14
         ],
         "tags": [
@@ -19733,7 +19677,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/151cae5e9d-01ae-4f83-a66e-da7e4a2e4923.jpg",
         "rating": 8.2,
-        "rating_count": 296,
+        "rating_count": 297,
         "rating_distribution": [
           0,
           2,
@@ -20280,7 +20224,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/154c5a960d-1ca7-4edb-a221-7e4e0d5af43f.jpg",
         "rating": 8.6,
-        "rating_count": 915,
+        "rating_count": 916,
         "rating_distribution": [
           0,
           1,
@@ -20652,7 +20596,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155f176840-2af9-4da9-b94b-9ff31d1f45b3.jpg",
         "rating": 8.5,
-        "rating_count": 813,
+        "rating_count": 814,
         "rating_distribution": [
           0,
           1,
@@ -21331,7 +21275,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/156963fe1b-b7c5-48eb-bd54-03d23c3d8c01.jpg",
         "rating": 8.7,
-        "rating_count": 2013,
+        "rating_count": 2015,
         "rating_distribution": [
           0,
           1,
@@ -22539,14 +22483,6 @@
           {
             "lang": "zh-cn",
             "text": "　　《英雄联盟：双城之战》是英雄联盟官方动画剧集，讲述的是在充满蒸汽朋克气息的乌托邦-皮尔特沃夫和由化学品驱动的地下城-祖安中，蔚和金克丝两姐妹，她们在一场激烈的冲突后发现两个人站在了彼此的对立面。她们从此分开，走上不同的道路，朝着不同的命运终点走去，但心中的羁绊又无时不刻地让姐妹二人想要破镜重圆。"
-          },
-          {
-            "lang": "pt",
-            "text": ""
-          },
-          {
-            "lang": "es",
-            "text": ""
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
@@ -23275,7 +23211,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/13/d643b437-3391-4e50-8c8e-22f26228aa04.jpg",
         "rating": 8.1,
-        "rating_count": 248,
+        "rating_count": 249,
         "rating_distribution": [
           0,
           2,
@@ -23648,11 +23584,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27f57e81a9-2604-47ae-8bb9-adf88ac7c65d.jpg",
         "rating": 5.5,
-        "rating_count": 42,
+        "rating_count": 43,
         "rating_distribution": [
           7,
-          36,
-          38,
+          35,
+          39,
           12,
           7
         ],
@@ -23746,7 +23682,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/10/20/1da820fd-8dfc-40c4-95b4-84aaa71ee443.webp",
         "rating": 6.6,
-        "rating_count": 431,
+        "rating_count": 432,
         "rating_distribution": [
           4,
           10,
@@ -24540,7 +24476,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1342c2c8f4-6447-4008-9f51-2fcd641c4799.jpg",
         "rating": 7.8,
-        "rating_count": 1804,
+        "rating_count": 1807,
         "rating_distribution": [
           0,
           3,
@@ -24872,7 +24808,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/07/5c08ca37-111a-4d69-847a-6590365d31e7.jpg",
         "rating": 6.3,
-        "rating_count": 824,
+        "rating_count": 826,
         "rating_distribution": [
           5,
           14,
@@ -25281,7 +25217,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/07/be012b58-ed0a-4750-b71d-03b0f59276a6.jpg",
         "rating": 7.8,
-        "rating_count": 1148,
+        "rating_count": 1149,
         "rating_distribution": [
           3,
           3,
@@ -25535,7 +25471,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16d55ba3c5-3088-4dd0-a0b8-13546996ebb8.jpg",
         "rating": 7.7,
-        "rating_count": 639,
+        "rating_count": 640,
         "rating_distribution": [
           1,
           2,
@@ -25878,7 +25814,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/c50f391f-f017-4478-ae8c-ff4cd460e2c2.jpg",
         "rating": 8.0,
-        "rating_count": 1214,
+        "rating_count": 1216,
         "rating_distribution": [
           1,
           2,
@@ -26344,7 +26280,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/7a48ff6e-aae2-458e-9b35-523ece2badfb.jpg",
         "rating": 8.3,
-        "rating_count": 956,
+        "rating_count": 957,
         "rating_distribution": [
           0,
           3,
@@ -26456,7 +26392,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/21/156627ec-4352-454a-a41e-6a1a5ae83070.jpg",
         "rating": 9.2,
-        "rating_count": 599,
+        "rating_count": 600,
         "rating_distribution": [
           1,
           0,
@@ -26544,7 +26480,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/03/14/e0cc80de-58b3-4a0c-ba0b-cb1ed25f326a.webp",
         "rating": 8.8,
-        "rating_count": 555,
+        "rating_count": 556,
         "rating_distribution": [
           1,
           0,
@@ -26758,8 +26694,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/10/25/9d58efc5-69fd-4a00-b651-942c37a2ed0f.jpg",
-        "rating": 8.8,
-        "rating_count": 374,
+        "rating": 8.9,
+        "rating_count": 375,
         "rating_distribution": [
           1,
           1,
@@ -28795,7 +28731,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/05/08ce26bdb6-eb1d-4b5d-8baf-559ae723b8cd.jpg",
         "rating": 5.4,
-        "rating_count": 679,
+        "rating_count": 680,
         "rating_distribution": [
           8,
           27,
@@ -29435,10 +29371,6 @@
             "text": "虽然纽特（埃迪·雷德梅恩 Eddie Redmayne 饰）协助美国魔法部将邪恶的黑巫师格林德沃（约翰尼·德普 Johnny Depp 饰）捉拿归案，但最终格林德沃还是逃脱了禁锢，他来到了法国巴黎，一是为了集结信徒掀起革命，二是为了寻找同样藏匿在这里的克雷登斯（埃兹拉·米勒 Ezra Miller 饰），寄生在克雷登斯身上的默默然是帮助格林德沃实现野心的不可或缺的道具。格林德沃的潜逃在整个魔法世界里都掀起了轩然大波，一时间草木皆兵。邓布利多（裘德·洛 Jude Law 饰）秘密的找到了纽特，希望他能够前往巴黎，先格林德沃一步找到克雷登斯。和纽特一起踏上巴黎之旅的，是麻鸡雅各布（丹·福格勒 Dan Fogler 饰），他此行的目的，是要找回先前因为吵架而来到巴黎投奔姐姐蒂娜（凯瑟琳·沃特森 Katherine Waterston 饰）的恋人奎妮（艾莉森·苏朵儿 Alison Sudol 饰）。"
           },
           {
-            "lang": "nn",
-            "text": ""
-          },
-          {
             "lang": "nb",
             "text": "Den mektige trollmannen Gellert Grindelwald er blitt tatt til fange av MACUSA (Magical Congress of the United States of America), ved hjelp av Salmander Fisle. Men Grindelwald klarer å unnslippe og setter seg et mål om å lage en hær med kun fullblods magikere, for å herske over alle ikke-magiske vesener. I et forsøk på å ødelegge Grindelwalds planer, etterlater Albus Humlesnurr sin tidligere student Salamander Fisle, som er villig til å hjelpe, uvitende om de farene som ligger i vente. Kjærlighet og lojalitet testes, selv blant de nærmeste venner og familie, i en stadig mer splittet trollmannsverden."
           },
@@ -29457,7 +29389,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/152e6e9667-35c2-499e-b909-50b6c5601160.jpg",
         "rating": 6.8,
-        "rating_count": 1508,
+        "rating_count": 1509,
         "rating_distribution": [
           2,
           10,
@@ -29660,14 +29592,6 @@
             "text": "Troldmanden Newt Scamander ankommer til New York i 1926 med en kuffert fuld af usædvanlige, magiske væsener, han har fundet på en nylig rejse. Ved et uheld slipper væsenerne ud af Newts kuffert, og nu må han og nogle nye bekendtskaber gøre, hvad de kan for at indfange dem igen."
           },
           {
-            "lang": "nn",
-            "text": ""
-          },
-          {
-            "lang": "nb",
-            "text": ""
-          },
-          {
             "lang": "zh",
             "text": "2016年奇幻電影"
           },
@@ -29730,7 +29654,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ce3e35c1-f475-46ab-9a12-f1cc8cd55c19.jpg",
         "rating": 7.6,
-        "rating_count": 1842,
+        "rating_count": 1843,
         "rating_distribution": [
           0,
           4,
@@ -29953,18 +29877,6 @@
             "text": "艾德金（克里斯·派恩 Chris Pine 饰）是一名吟游诗人，在一次盗宝行动中，他的贪婪导致了妻子的死亡。之后，野蛮人霍尔盖（米歇尔·罗德里格兹 Michelle Rodriguez 饰）出现在了颓废的艾德金身边，和他共同抚养女儿琪拉（克洛伊·科尔曼 Chloe Coleman 饰）。琪拉长大之后，艾德金、霍尔盖带着琪拉和她的舅舅福奇（休·格兰特 Hugh Grant 饰）等人组成了一支盗宝团队，哪知道在一次行动之中失手了，最终，艾德金和霍尔盖锒铛入狱。一晃眼多年过去，艾德金和霍尔盖联手越狱，并且决定夺回他们当年未得手的宝物，为了达成目的，他们还吸纳了菜鸟术士西蒙（贾斯蒂斯·史密斯 Justice Smith 饰）和德鲁伊女孩多立克（索菲娅·莉莉丝 Sophia Lillis 饰）。就在艾德金一行人离宝物越来越近之际，当年带着琪拉逃跑的福奇，他的真面目也渐渐的展露了出来。"
           },
           {
-            "lang": "nn",
-            "text": ""
-          },
-          {
-            "lang": "nb",
-            "text": ""
-          },
-          {
-            "lang": "no",
-            "text": ""
-          },
-          {
             "lang": "zh",
             "text": "2023年電影"
           },
@@ -30007,7 +29919,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/05/09/93138ddf-92a7-4fda-9d04-92f9b197d65c.webp",
         "rating": 7.6,
-        "rating_count": 524,
+        "rating_count": 526,
         "rating_distribution": [
           1,
           2,
@@ -30306,18 +30218,6 @@
             "text": "托尼（维果·莫腾森 Viggo Mortensen 饰）是一个吊儿郎当游手好闲的混混，在一家夜总会做侍者。这间夜总会因故要停业几个月，可托尼所要支付的房租和生活费不会因此取消，所以他的当务之急是去寻找另一份工作来填补这几个月的空缺。在这个节骨眼上，一位名叫唐雪莉（马赫沙拉·阿里 Mahershala Ali 饰）的黑人钢琴家提出雇佣托尼。唐雪莉即将开始为期八个星期的南下巡回演出，可是，那个时候南方对黑人的歧视非常的严重，于是托尼便成为了唐雪莉的司机兼保镖。一路上，两人迥异的性格使得他们之间产生了很多的矛盾，与此同时，唐雪莉在南方所遭受的种种不公平的对待也让托尼对种族歧视感到深恶痛绝。"
           },
           {
-            "lang": "nn",
-            "text": ""
-          },
-          {
-            "lang": "nb",
-            "text": ""
-          },
-          {
-            "lang": "no",
-            "text": ""
-          },
-          {
             "lang": "zh",
             "text": "2018年由彼得·法雷利執導的電影"
           },
@@ -30352,7 +30252,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/fedi/2025/01/20/9af3d23c-62c9-4794-a514-bd3f69ed9f76.jpg",
         "rating": 8.5,
-        "rating_count": 2558,
+        "rating_count": 2559,
         "rating_distribution": [
           0,
           1,
@@ -30797,10 +30697,6 @@
             "text": "Mørkets kræfter har overtaget Hogwarts, og tiden er kommet til, at Harry, Hermione og Ron må stå på egne ben. Sammen drager de ud for at finde og tilintetgøre horcruxerne, der er hemmeligheden bag Voldemort's udødelighed."
           },
           {
-            "lang": "nn",
-            "text": ""
-          },
-          {
             "lang": "en",
             "text": "2010 film directed by David Yates"
           },
@@ -30863,7 +30759,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13a47e43fe-9ea3-43ca-a9e2-808483a6598b.jpg",
         "rating": 7.9,
-        "rating_count": 1588,
+        "rating_count": 1589,
         "rating_distribution": [
           1,
           2,
@@ -31173,10 +31069,6 @@
             "text": "Harry, Ron og Hermione har haft held til at ødelægge en af den onde Voldemort's horcruxer, og hvis de kan finde og destruere de andre, er stadigvæk håb for både troldmænd og mugglere. Men Lord Voldemort har i mellemtiden fået fingre i Oldstaven, som er en af de magtfulde tre Dødsregalier. Han angriber Hogwarts med fuld styrke, og Harry Potter må gå sin skæbne i møde i det afgørende slag mod Mørkets Kræfter."
           },
           {
-            "lang": "nn",
-            "text": ""
-          },
-          {
             "lang": "zh",
             "text": "2011英国电影"
           },
@@ -31215,7 +31107,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15dcceff27-b10e-4149-9673-022b83f75410.jpg",
         "rating": 8.6,
-        "rating_count": 1827,
+        "rating_count": 1828,
         "rating_distribution": [
           0,
           1,
@@ -31403,10 +31295,6 @@
             "text": "Harry er tilbage i sit femte år på Hogwarts, og selvom de foregående års hændelser var meget voldsomme, så er de færreste overbeviste om Voldemort's tilbagekomst. Specielt ikke ministeren for magi, Cornelius Fudge, der mener det hele er Dumbledore's skyld. Imens lægger mørke magter meget onde planer i kulissen, og igen er det op til Harry og hans venner at afværge katastrofen."
           },
           {
-            "lang": "nn",
-            "text": ""
-          },
-          {
             "lang": "zh-hant",
             "text": "哈利波特系列電影"
           },
@@ -31441,7 +31329,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15b71e1380-9ed2-4ac2-bf49-d2e2b3c92156.jpg",
         "rating": 7.7,
-        "rating_count": 1578,
+        "rating_count": 1579,
         "rating_distribution": [
           0,
           3,
@@ -32063,7 +31951,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158b2b635b-d04a-41b9-a36b-c5af7dfc3f2a.jpg",
         "rating": 9.4,
-        "rating_count": 1053,
+        "rating_count": 1054,
         "rating_distribution": [
           0,
           1,
@@ -32310,7 +32198,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14eb778691-3d16-4e96-a3f0-97f7660a8adb.jpg",
         "rating": 8.8,
-        "rating_count": 842,
+        "rating_count": 843,
         "rating_distribution": [
           0,
           1,
@@ -32823,7 +32711,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14f252245f-7496-4c2e-80d3-be5538201552.jpg",
         "rating": 9.1,
-        "rating_count": 1125,
+        "rating_count": 1126,
         "rating_distribution": [
           0,
           0,
@@ -33080,7 +32968,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/153c3015b5-9fa5-4673-a6d0-49abd1664fa9.jpg",
         "rating": 7.4,
-        "rating_count": 1540,
+        "rating_count": 1541,
         "rating_distribution": [
           1,
           4,
@@ -33605,7 +33493,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2025/11/08/de56cc98-9602-4826-8a7e-fcc31915efef.webp",
         "rating": 7.1,
-        "rating_count": 1815,
+        "rating_count": 1816,
         "rating_distribution": [
           1,
           7,
@@ -33820,7 +33708,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1324f7bdb2-898a-450b-95ca-73c4d1b92011.jpg",
         "rating": 9.1,
-        "rating_count": 1790,
+        "rating_count": 1791,
         "rating_distribution": [
           0,
           1,
@@ -34266,7 +34154,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/imdb/2025/11/07/a33756a3-308e-45aa-b653-b3682080a021.jpg",
         "rating": 8.1,
-        "rating_count": 1658,
+        "rating_count": 1659,
         "rating_distribution": [
           0,
           1,
@@ -34462,10 +34350,6 @@
             "text": "Harry Potter og vennerne Ron og Hermione har taget hul på deres tredje skoleår på Hogwarts. Eventyret tager igen fart, da morderen Sirius Black undslipper fra Azkaban-fængslet. Black mistænkes for at være håndlanger for den onde troldmand Voldemort og Harrys venner frygter nu, at Black er flygtet for at hævne sig på ham. Det er imidlertid kun begyndelsen på Harry's problemer. De sjælesugende Dementor-vagter fra Azkaban har slået ring om skolen, for at fange Black, men deres tilstedeværelse påvirker Harry negativt. Sammen med vennerne må Harry opspore Sirius Black og løse mysteriet om den nat, hvor hans forældre blev dræbt."
           },
           {
-            "lang": "nn",
-            "text": ""
-          },
-          {
             "lang": "en",
             "text": "2004 film directed by Alfonso Cuarón"
           },
@@ -34496,7 +34380,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1342d14337-0e7e-42e2-b3f5-d92f0903d33f.jpg",
         "rating": 8.5,
-        "rating_count": 1803,
+        "rating_count": 1804,
         "rating_distribution": [
           0,
           1,
@@ -34877,10 +34761,6 @@
             "text": "Unge Harry har taget hul på sit andet år på Hogwarts, trods adskillige advarsler. Det varer ikke længe, før Harry og vennerne opdager, at der er noget helt galt på skolen. Elever bliver forvandlet til sten, trusler bliver skrevet med blod på væggene og et dødbringende monster er løs! Nogen har åbnet Hemmelighedernes Kammer. Harry, Ron og Hermione sætter sig for at finde kammeret og dræbe monstret. Rygtet siger, at Hemmelighedernes Kammer er blevet åbnet af en arvtager til Salazar Slytherin – en af Hogwarts grundlæggere. Mistanken retter sig mod den arrogante elev, Draco Malfoy, men Harry frygter, at hans arvefjende, Voldemort står bag de skræmmende begivenheder."
           },
           {
-            "lang": "nn",
-            "text": ""
-          },
-          {
             "lang": "en",
             "text": "2002 film directed by Chris Columbus"
           },
@@ -34939,7 +34819,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15f3e99e45-6b26-4747-a8f2-09f292b8f332.jpg",
         "rating": 8.3,
-        "rating_count": 1802,
+        "rating_count": 1803,
         "rating_distribution": [
           0,
           1,
@@ -35523,7 +35403,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/fedi/2024/10/23/a22a5764-cfb6-4e2f-bbd6-254d0a241f3d.jpg",
         "rating": 8.3,
-        "rating_count": 2679,
+        "rating_count": 2680,
         "rating_distribution": [
           1,
           2,
@@ -35615,8 +35495,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1654673dfe-17d7-4871-9f25-eed5867ad0e5.jpg",
-        "rating": 8.6,
-        "rating_count": 217,
+        "rating": 8.7,
+        "rating_count": 218,
         "rating_distribution": [
           1,
           0,
@@ -35903,10 +35783,6 @@
             "text": "På sin 11-års fødselsdag bliver Harry Potter, som lever en kummerlig tilværelse hos sin tante og onkel, kontaktet af kæmpen Hagrid, som afslører at hans afdøde forældre var magtfulde magikere. Harry bliver derfor tilbudt en plads på den fornemme skole for trolddom, Hogwarts. Her får Harry nye venner, den charmerende og autoritetstro Hermione samt den klodsede, men trofaste Ron. Desuden møder han den vise rektor Dumbledore. Langsomt går det op for Harry, at han er noget særligt, hvilket hænger sammen med hans forældres død, som slet ikke var et uheld men derimod et mysterium, hvor den ondskabsfulde troldmand Voldemort spiller en vigtig rolle."
           },
           {
-            "lang": "nn",
-            "text": ""
-          },
-          {
             "lang": "en",
             "text": "2001 film directed by Chris Columbus"
           },
@@ -35937,7 +35813,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/152bbd9498-8051-4931-afbf-4eddc7f9150c.jpg",
         "rating": 8.7,
-        "rating_count": 2251,
+        "rating_count": 2252,
         "rating_distribution": [
           0,
           1,
@@ -36187,7 +36063,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16bbdb118c-e312-47b1-b758-fac8583dd257.jpg",
         "rating": 7.9,
-        "rating_count": 424,
+        "rating_count": 425,
         "rating_distribution": [
           0,
           2,
@@ -36443,7 +36319,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/135717365f-c912-4679-9f01-b05fcca43095.jpg",
         "rating": 8.4,
-        "rating_count": 1789,
+        "rating_count": 1790,
         "rating_distribution": [
           0,
           2,
@@ -37739,13 +37615,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/163da055cd-66a1-4ab7-8a59-1d0b78d8fb3d.jpg",
         "rating": 8.4,
-        "rating_count": 114,
+        "rating_count": 115,
         "rating_distribution": [
           3,
-          4,
+          3,
           6,
           41,
-          46
+          47
         ],
         "tags": [
           "2000s",
@@ -38677,7 +38553,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158bab1067-4d98-4fa8-bb4c-06415a35b9ec.jpg",
         "rating": 7.2,
-        "rating_count": 443,
+        "rating_count": 444,
         "rating_distribution": [
           3,
           6,
@@ -38923,7 +38799,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1544ebc29e-ef48-41ed-8188-4355a1d66c34.jpg",
         "rating": 7.0,
-        "rating_count": 789,
+        "rating_count": 790,
         "rating_distribution": [
           2,
           6,
@@ -39694,7 +39570,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14e5043627-8e2d-43c0-a6cc-a8e05d8115d3.jpg",
         "rating": 9.4,
-        "rating_count": 2808,
+        "rating_count": 2809,
         "rating_distribution": [
           0,
           0,
@@ -39890,14 +39766,6 @@
             "text": "　　阿甘于二战结束后不久出生在美国南方阿拉巴马州一个闭塞的小镇，他先天弱智，智商只有75，然而他的妈妈是一个性格坚强的女性，她常常鼓励阿甘“傻人有傻福”，要他自强不息。阿甘像普通孩子一样上学，并且认识了一生的朋友和至爱珍妮，在珍妮和妈妈的爱护下，阿甘凭着上帝赐予的“飞毛腿”开始了一生不停的奔跑。阿甘成为橄榄球巨星、越战英雄、乒乓球外交使者、亿万富翁，但是，他始终忘不了珍妮，几次匆匆的相聚和离别，更是加深了阿甘的思念。有一天，阿甘收到珍妮的信，他们终于又要见面…"
           },
           {
-            "lang": "nn",
-            "text": ""
-          },
-          {
-            "lang": "nb",
-            "text": ""
-          },
-          {
             "lang": "zh",
             "text": "根据同名小说改编的1994年美国电影"
           },
@@ -39932,7 +39800,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13d1567d07-417b-4b7b-8356-5d0b87f43128.jpg",
         "rating": 9.1,
-        "rating_count": 2491,
+        "rating_count": 2492,
         "rating_distribution": [
           0,
           1,
@@ -40879,22 +40747,6 @@
           {
             "lang": "en",
             "text": "Takao, who is training to become a shoemaker, skipped school and is sketching shoes in a Japanese-style garden. He meets a mysterious woman, Yukino, who is older than him. Then, without arranging the times, the two start to see each other again and again, but only on rainy days. They deepen their relationship and open up to each other. But the end of the rainy season soon approaches."
-          },
-          {
-            "lang": "nn",
-            "text": ""
-          },
-          {
-            "lang": "nb",
-            "text": ""
-          },
-          {
-            "lang": "no",
-            "text": ""
-          },
-          {
-            "lang": "da",
-            "text": ""
           },
           {
             "lang": "ko",
@@ -42471,7 +42323,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15d7ec50c1-e799-446f-88ff-c9933b7bed8a.jpg",
         "rating": 7.6,
-        "rating_count": 379,
+        "rating_count": 380,
         "rating_distribution": [
           0,
           3,
@@ -42562,7 +42414,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155c5cd599-d9ed-4144-b6dd-f450ec1edd27.jpg",
         "rating": 9.4,
-        "rating_count": 605,
+        "rating_count": 606,
         "rating_distribution": [
           0,
           0,
@@ -42966,23 +42818,23 @@
     "game",
     "performance"
   ],
-  "updated_at": "2026-01-14T01:08:42.318497",
+  "updated_at": "2026-01-15T01:04:21.185381",
   "stats": {
     "movie": {
       "count": 144,
-      "time": 14.07
+      "time": 12.22
     },
     "tv": {
       "count": 115,
-      "time": 8.12
+      "time": 8.05
     },
     "book": {
       "count": 32,
-      "time": 1.95
+      "time": 2.03
     },
     "music": {
       "count": 4,
-      "time": 0.17
+      "time": 0.18
     },
     "podcast": {
       "count": 0,
@@ -42990,12 +42842,12 @@
     },
     "game": {
       "count": 1,
-      "time": 0.15
+      "time": 0.13
     },
     "performance": {
       "count": 2,
-      "time": 0.14
+      "time": 0.16
     }
   },
-  "total_time": 24.73
+  "total_time": 22.89
 }
