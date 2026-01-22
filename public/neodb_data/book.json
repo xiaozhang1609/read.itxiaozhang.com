@@ -1196,7 +1196,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/15e852899b-0b52-41b1-b8e5-772c8e13f739.jpg",
         "rating": 9.2,
-        "rating_count": 453,
+        "rating_count": 455,
         "rating_distribution": [
           0,
           1,
@@ -1400,7 +1400,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/130a836090-38a7-4ff8-ba17-e28898c892f6.jpg",
         "rating": 9.0,
-        "rating_count": 274,
+        "rating_count": 275,
         "rating_distribution": [
           0,
           1,
@@ -1537,13 +1537,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/11/27826f66e0-fff3-4c88-bc8a-0c22152f0eec.jpg",
         "rating": 7.7,
-        "rating_count": 12,
+        "rating_count": 13,
         "rating_distribution": [
           0,
-          17,
+          15,
           8,
-          50,
-          25
+          54,
+          23
         ],
         "tags": [
           "e b 怀特",
@@ -2072,5 +2072,5 @@
   ],
   "count": 32,
   "category": "book",
-  "updated_at": "2026-01-21T01:07:59.319712"
+  "updated_at": "2026-01-22T01:07:57.855408"
 }
