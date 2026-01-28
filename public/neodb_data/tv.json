@@ -4113,7 +4113,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/12/09/e349737a-1ad1-4118-ab72-3f8fd067cf4d.webp",
         "rating": 8.7,
-        "rating_count": 334,
+        "rating_count": 335,
         "rating_distribution": [
           0,
           1,
@@ -4426,7 +4426,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/08/69d304f8-1a0f-4f06-9a4a-b1d870f43864.webp",
         "rating": 7.9,
-        "rating_count": 220,
+        "rating_count": 221,
         "rating_distribution": [
           1,
           2,
@@ -4438,16 +4438,15 @@
           "2024",
           "amazon",
           "amazonprime",
-          "annabel o hagan",
+          "tv",
           "usa",
           "vault",
           "wd",
           "乔纳森 诺兰",
           "人性",
-          "人类快死光了",
+          "剧情",
           "剧集",
           "动作",
-          "实验",
           "末日",
           "游戏改编",
           "电视剧",
@@ -4839,7 +4838,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
         "rating": 8.9,
-        "rating_count": 624,
+        "rating_count": 625,
         "rating_distribution": [
           0,
           2,
@@ -5792,7 +5791,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/19/368cf45a-631c-4500-9ec0-c814f93efe6f.jpg",
         "rating": 7.9,
-        "rating_count": 343,
+        "rating_count": 344,
         "rating_distribution": [
           1,
           6,
@@ -11138,5 +11137,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-01-27T01:11:03.438630"
+  "updated_at": "2026-01-28T01:07:19.581616"
 }
