@@ -3047,7 +3047,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/02/02/d801edae-d1f3-499d-8a73-123ce9669780.jpg",
         "rating": 6.7,
-        "rating_count": 581,
+        "rating_count": 582,
         "rating_distribution": [
           7,
           9,
@@ -3584,7 +3584,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/153f250f04-06a2-4a3d-88b0-f28cca4e9b3b.jpg",
         "rating": 8.8,
-        "rating_count": 493,
+        "rating_count": 494,
         "rating_distribution": [
           0,
           1,
@@ -15347,7 +15347,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/156963fe1b-b7c5-48eb-bd54-03d23c3d8c01.jpg",
         "rating": 8.7,
-        "rating_count": 2019,
+        "rating_count": 2020,
         "rating_distribution": [
           0,
           1,
@@ -19817,13 +19817,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ce3e35c1-f475-46ab-9a12-f1cc8cd55c19.jpg",
         "rating": 7.6,
-        "rating_count": 1852,
+        "rating_count": 1851,
         "rating_distribution": [
           0,
           4,
           30,
-          48,
-          18
+          49,
+          17
         ],
         "tags": [
           "2010s",
@@ -29238,5 +29238,5 @@
   ],
   "count": 144,
   "category": "movie",
-  "updated_at": "2026-01-28T01:07:10.182948"
+  "updated_at": "2026-01-29T01:16:51.932423"
 }
