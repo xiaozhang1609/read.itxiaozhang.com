@@ -2590,9 +2590,6 @@
         "display_title": "军舰岛",
         "external_resources": [
           {
-            "url": "https://www.wikidata.org/wiki/Q24238125"
-          },
-          {
             "url": "https://www.imdb.com/title/tt5969696/"
           },
           {
@@ -2600,6 +2597,9 @@
           },
           {
             "url": "https://www.themoviedb.org/movie/436391"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q24238125"
           }
         ]
       },
@@ -5572,9 +5572,6 @@
         "display_title": "坚如磐石",
         "external_resources": [
           {
-            "url": "https://www.themoviedb.org/movie/661579"
-          },
-          {
             "url": "https://www.wikidata.org/wiki/Q97178048"
           },
           {
@@ -5582,6 +5579,9 @@
           },
           {
             "url": "https://movie.douban.com/subject/33447633/"
+          },
+          {
+            "url": "https://www.themoviedb.org/movie/661579"
           }
         ]
       },
@@ -5714,7 +5714,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/26a4fa45-6953-49f9-b8cf-35f7ca58275b.jpg",
         "rating": 7.6,
-        "rating_count": 222,
+        "rating_count": 223,
         "rating_distribution": [
           1,
           5,
@@ -7866,7 +7866,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15000b3b6b-44f3-49bc-8f4b-161e365621f5.jpg",
         "rating": 7.3,
-        "rating_count": 216,
+        "rating_count": 217,
         "rating_distribution": [
           0,
           3,
@@ -8134,7 +8134,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/160e018b2d-fa80-44b2-bc46-8e8da412d3c9.jpg",
         "rating": 7.4,
-        "rating_count": 291,
+        "rating_count": 292,
         "rating_distribution": [
           0,
           4,
@@ -8344,7 +8344,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1547b89f8e-94c0-435e-8c7f-6b4513db2842.jpg",
         "rating": 7.1,
-        "rating_count": 1254,
+        "rating_count": 1255,
         "rating_distribution": [
           1,
           6,
@@ -10493,10 +10493,10 @@
             "url": "https://www.wikidata.org/wiki/Q125988394"
           },
           {
-            "url": "https://www.imdb.com/title/tt11151998/"
+            "url": "https://www.themoviedb.org/movie/640347"
           },
           {
-            "url": "https://www.themoviedb.org/movie/640347"
+            "url": "https://www.imdb.com/title/tt11151998/"
           }
         ]
       },
@@ -12504,7 +12504,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/137d43a199-d8ef-492d-afce-13268e85133a.jpg",
         "rating": 7.8,
-        "rating_count": 936,
+        "rating_count": 937,
         "rating_distribution": [
           0,
           2,
@@ -13963,7 +13963,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/138d1723f9-e106-4e8e-b490-3cd2ed271cae.jpg",
         "rating": 8.2,
-        "rating_count": 1806,
+        "rating_count": 1807,
         "rating_distribution": [
           0,
           1,
@@ -17222,10 +17222,10 @@
             "url": "https://www.themoviedb.org/movie/152601"
           },
           {
-            "url": "https://www.imdb.com/title/tt1798709/"
+            "url": "https://www.wikidata.org/wiki/Q788822"
           },
           {
-            "url": "https://www.wikidata.org/wiki/Q788822"
+            "url": "https://www.imdb.com/title/tt1798709/"
           }
         ]
       },
@@ -22201,7 +22201,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/01/e4b2048e-6b85-4488-9859-7c519e74dc60.jpg",
         "rating": 9.2,
-        "rating_count": 2124,
+        "rating_count": 2125,
         "rating_distribution": [
           0,
           0,
@@ -25220,7 +25220,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/07/5c08ca37-111a-4d69-847a-6590365d31e7.jpg",
         "rating": 6.4,
-        "rating_count": 850,
+        "rating_count": 851,
         "rating_distribution": [
           5,
           13,
@@ -26226,7 +26226,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/c50f391f-f017-4478-ae8c-ff4cd460e2c2.jpg",
         "rating": 8.0,
-        "rating_count": 1241,
+        "rating_count": 1242,
         "rating_distribution": [
           1,
           3,
@@ -28142,7 +28142,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2023/07/20/8206c5c4-0d6d-46f6-a08c-7a7d3af84393.jpg",
         "rating": 7.0,
-        "rating_count": 859,
+        "rating_count": 860,
         "rating_distribution": [
           1,
           7,
@@ -30077,7 +30077,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2026/02/08/3fa19f1a-44f8-4649-ab2f-9d7ab10f0e37.jpeg",
         "rating": 7.6,
-        "rating_count": 1859,
+        "rating_count": 1860,
         "rating_distribution": [
           0,
           4,
@@ -39271,10 +39271,10 @@
             "url": "https://www.imdb.com/title/tt3950078/"
           },
           {
-            "url": "https://www.wikidata.org/wiki/Q7831591"
+            "url": "https://www.themoviedb.org/movie/294992"
           },
           {
-            "url": "https://www.themoviedb.org/movie/294992"
+            "url": "https://www.wikidata.org/wiki/Q7831591"
           }
         ]
       },
@@ -42176,12 +42176,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/05/1038509b7b-ca93-4967-bfa2-f22924dd2e4a.jpg",
         "rating": 6.3,
-        "rating_count": 20,
+        "rating_count": 21,
         "rating_distribution": [
+          4,
           5,
-          5,
-          60,
-          25,
+          62,
+          24,
           5
         ],
         "tags": [
@@ -43241,36 +43241,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2026-02-13T01:25:21.008325",
+  "updated_at": "2026-02-14T01:17:50.211916",
   "stats": {
     "movie": {
       "count": 145,
-      "time": 15.6
+      "time": 12.48
     },
     "tv": {
       "count": 115,
-      "time": 9.57
+      "time": 8.09
     },
     "book": {
       "count": 36,
-      "time": 2.5
+      "time": 2.01
     },
     "music": {
       "count": 4,
-      "time": 0.22
+      "time": 0.17
     },
     "podcast": {
       "count": 0,
-      "time": 0.26
+      "time": 0.13
     },
     "game": {
       "count": 1,
-      "time": 0.18
+      "time": 0.15
     },
     "performance": {
       "count": 2,
-      "time": 0.21
+      "time": 0.16
     }
   },
-  "total_time": 28.53
+  "total_time": 23.19
 }
