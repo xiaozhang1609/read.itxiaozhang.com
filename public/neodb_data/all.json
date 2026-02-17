@@ -70,7 +70,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/08/26/1e4d6296-5462-47f4-a745-b2975b78507b.jpg",
         "rating": 7.1,
-        "rating_count": 224,
+        "rating_count": 225,
         "rating_distribution": [
           1,
           5,
@@ -17420,7 +17420,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/08/09/d546187f-bf96-4341-a492-99bc987de142.jpg",
         "rating": 7.5,
-        "rating_count": 267,
+        "rating_count": 268,
         "rating_distribution": [
           3,
           4,
@@ -27629,7 +27629,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/05/13c80ca032-f642-4ed2-86c0-94704a240cf0.jpg",
         "rating": 6.9,
-        "rating_count": 300,
+        "rating_count": 301,
         "rating_distribution": [
           2,
           6,
@@ -34349,7 +34349,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1540ca6a04-7e73-4d51-bf03-5e75bb63a8de.jpg",
         "rating": 8.0,
-        "rating_count": 1140,
+        "rating_count": 1141,
         "rating_distribution": [
           0,
           3,
@@ -43241,23 +43241,23 @@
     "game",
     "performance"
   ],
-  "updated_at": "2026-02-16T01:21:24.754855",
+  "updated_at": "2026-02-17T01:20:49.787676",
   "stats": {
     "movie": {
       "count": 145,
-      "time": 11.75
+      "time": 11.78
     },
     "tv": {
       "count": 115,
-      "time": 7.87
+      "time": 7.75
     },
     "book": {
       "count": 36,
-      "time": 2.0
+      "time": 1.9
     },
     "music": {
       "count": 4,
-      "time": 0.17
+      "time": 0.16
     },
     "podcast": {
       "count": 0,
@@ -43265,12 +43265,12 @@
     },
     "game": {
       "count": 1,
-      "time": 0.17
+      "time": 0.13
     },
     "performance": {
       "count": 2,
-      "time": 0.16
+      "time": 0.14
     }
   },
-  "total_time": 22.25
+  "total_time": 21.98
 }
