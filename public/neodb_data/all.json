@@ -70,11 +70,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/08/26/1e4d6296-5462-47f4-a745-b2975b78507b.jpg",
         "rating": 7.1,
-        "rating_count": 229,
+        "rating_count": 230,
         "rating_distribution": [
           1,
-          4,
-          29,
+          5,
+          28,
           53,
           13
         ],
@@ -6067,7 +6067,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/05/8722487d-911a-4260-8589-4ea0626eb134.jpg",
         "rating": 5.8,
-        "rating_count": 361,
+        "rating_count": 362,
         "rating_distribution": [
           8,
           21,
@@ -10878,7 +10878,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/05/13/83ddf8d2-1a66-4ead-b4f5-7aa67044170b.webp",
         "rating": 7.6,
-        "rating_count": 352,
+        "rating_count": 353,
         "rating_distribution": [
           0,
           1,
@@ -15031,13 +15031,13 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16e3ccb10b-b6d0-495a-b83d-7361ed7c0d95.jpg",
-        "rating": 7.0,
-        "rating_count": 48,
+        "rating": 6.9,
+        "rating_count": 49,
         "rating_distribution": [
           0,
           6,
-          42,
-          48,
+          43,
+          47,
           4
         ],
         "tags": [
@@ -15286,9 +15286,6 @@
         "display_title": "龙之心",
         "external_resources": [
           {
-            "url": "https://www.wikidata.org/wiki/Q330612"
-          },
-          {
             "url": "https://www.imdb.com/title/tt0116136/"
           },
           {
@@ -15296,6 +15293,9 @@
           },
           {
             "url": "https://www.themoviedb.org/movie/8840"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q330612"
           }
         ]
       },
@@ -18175,9 +18175,6 @@
         "display_title": "谍影重重4",
         "external_resources": [
           {
-            "url": "https://www.wikidata.org/wiki/Q494048"
-          },
-          {
             "url": "https://www.imdb.com/title/tt1194173/"
           },
           {
@@ -18185,6 +18182,9 @@
           },
           {
             "url": "https://www.themoviedb.org/movie/49040"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q494048"
           }
         ]
       },
@@ -22899,13 +22899,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
         "rating": 8.9,
-        "rating_count": 629,
+        "rating_count": 630,
         "rating_distribution": [
           0,
-          2,
+          1,
           7,
           31,
-          60
+          61
         ],
         "tags": [
           "2021",
@@ -24661,7 +24661,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/02/11/279d76f8-a2a0-4bca-8893-0e040c0f673e.jpg",
         "rating": 6.8,
-        "rating_count": 195,
+        "rating_count": 196,
         "rating_distribution": [
           1,
           7,
@@ -25220,7 +25220,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/07/5c08ca37-111a-4d69-847a-6590365d31e7.jpg",
         "rating": 6.4,
-        "rating_count": 855,
+        "rating_count": 856,
         "rating_distribution": [
           5,
           13,
@@ -29523,7 +29523,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1543e536b3-fcc3-44d0-a4da-96eacc5607bf.jpg",
         "rating": 9.6,
-        "rating_count": 508,
+        "rating_count": 509,
         "rating_distribution": [
           0,
           0,
@@ -30461,10 +30461,10 @@
         "display_title": "灵能百分百",
         "external_resources": [
           {
-            "url": "https://www.themoviedb.org/tv/75867/season/1"
+            "url": "https://movie.douban.com/subject/27154756/"
           },
           {
-            "url": "https://movie.douban.com/subject/27154756/"
+            "url": "https://www.themoviedb.org/tv/75867/season/1"
           }
         ]
       },
@@ -32374,7 +32374,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158b2b635b-d04a-41b9-a36b-c5af7dfc3f2a.jpg",
         "rating": 9.4,
-        "rating_count": 1063,
+        "rating_count": 1064,
         "rating_distribution": [
           0,
           1,
@@ -32621,7 +32621,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14eb778691-3d16-4e96-a3f0-97f7660a8adb.jpg",
         "rating": 8.8,
-        "rating_count": 851,
+        "rating_count": 852,
         "rating_distribution": [
           0,
           1,
@@ -38452,7 +38452,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/133ed46be4-3fc4-4a59-9639-21a4c9b06bf1.jpg",
         "rating": 7.5,
-        "rating_count": 1342,
+        "rating_count": 1343,
         "rating_distribution": [
           1,
           5,
@@ -41376,7 +41376,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_tv/2025/12/27/7b07470a-13ce-4058-8aec-7ad10a4524ed.jpg",
         "rating": 8.1,
-        "rating_count": 656,
+        "rating_count": 657,
         "rating_distribution": [
           1,
           4,
@@ -43241,27 +43241,27 @@
     "game",
     "performance"
   ],
-  "updated_at": "2026-02-19T01:22:15.104268",
+  "updated_at": "2026-02-20T01:18:09.114990",
   "stats": {
     "movie": {
       "count": 145,
-      "time": 11.79
+      "time": 12.18
     },
     "tv": {
       "count": 115,
-      "time": 8.46
+      "time": 8.02
     },
     "book": {
       "count": 36,
-      "time": 2.07
+      "time": 2.04
     },
     "music": {
       "count": 4,
-      "time": 0.19
+      "time": 0.17
     },
     "podcast": {
       "count": 0,
-      "time": 0.14
+      "time": 0.12
     },
     "game": {
       "count": 1,
@@ -43269,8 +43269,8 @@
     },
     "performance": {
       "count": 2,
-      "time": 0.17
+      "time": 0.16
     }
   },
-  "total_time": 22.97
+  "total_time": 22.83
 }

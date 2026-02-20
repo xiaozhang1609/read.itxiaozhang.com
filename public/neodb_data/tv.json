@@ -4838,13 +4838,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
         "rating": 8.9,
-        "rating_count": 629,
+        "rating_count": 630,
         "rating_distribution": [
           0,
-          2,
+          1,
           7,
           31,
-          60
+          61
         ],
         "tags": [
           "2021",
@@ -7344,7 +7344,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1543e536b3-fcc3-44d0-a4da-96eacc5607bf.jpg",
         "rating": 9.6,
-        "rating_count": 508,
+        "rating_count": 509,
         "rating_distribution": [
           0,
           0,
@@ -7455,10 +7455,10 @@
         "display_title": "灵能百分百",
         "external_resources": [
           {
-            "url": "https://www.themoviedb.org/tv/75867/season/1"
+            "url": "https://movie.douban.com/subject/27154756/"
           },
           {
-            "url": "https://movie.douban.com/subject/27154756/"
+            "url": "https://www.themoviedb.org/tv/75867/season/1"
           }
         ]
       },
@@ -7591,7 +7591,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158b2b635b-d04a-41b9-a36b-c5af7dfc3f2a.jpg",
         "rating": 9.4,
-        "rating_count": 1063,
+        "rating_count": 1064,
         "rating_distribution": [
           0,
           1,
@@ -9511,7 +9511,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_tv/2025/12/27/7b07470a-13ce-4058-8aec-7ad10a4524ed.jpg",
         "rating": 8.1,
-        "rating_count": 656,
+        "rating_count": 657,
         "rating_distribution": [
           1,
           4,
@@ -11137,5 +11137,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-02-19T01:22:12.362578"
+  "updated_at": "2026-02-20T01:18:06.462018"
 }
