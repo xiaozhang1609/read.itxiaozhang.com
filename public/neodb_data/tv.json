@@ -217,7 +217,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15972032e2-9c87-4328-baa9-21c0395470bf.jpg",
         "rating": 8.5,
-        "rating_count": 1321,
+        "rating_count": 1322,
         "rating_distribution": [
           1,
           1,
@@ -5489,13 +5489,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/16/f28d5972-1708-4dd1-a655-d75431e32c33.webp",
         "rating": 9.0,
-        "rating_count": 806,
+        "rating_count": 807,
         "rating_distribution": [
           0,
           0,
           6,
-          33,
-          61
+          34,
+          60
         ],
         "tags": [
           "2010s",
@@ -5585,7 +5585,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/24/a9688316-76fe-4704-add5-ab62c18e523f.webp",
         "rating": 9.3,
-        "rating_count": 730,
+        "rating_count": 731,
         "rating_distribution": [
           0,
           0,
@@ -5670,7 +5670,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/01/0601fef99c-a667-460e-bebd-99e45fb92e8a.webp",
         "rating": 9.7,
-        "rating_count": 645,
+        "rating_count": 646,
         "rating_distribution": [
           0,
           0,
@@ -5889,12 +5889,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/21/156627ec-4352-454a-a41e-6a1a5ae83070.jpg",
         "rating": 9.2,
-        "rating_count": 608,
+        "rating_count": 609,
         "rating_distribution": [
           1,
           0,
-          6,
-          25,
+          5,
+          26,
           68
         ],
         "tags": [
@@ -6071,7 +6071,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/2775557ce8-06f5-4882-a7e4-a3293ba16d3a.jpg",
         "rating": 8.9,
-        "rating_count": 1120,
+        "rating_count": 1121,
         "rating_distribution": [
           0,
           1,
@@ -11138,5 +11138,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-03-04T01:17:07.964751"
+  "updated_at": "2026-03-05T01:19:29.380603"
 }
