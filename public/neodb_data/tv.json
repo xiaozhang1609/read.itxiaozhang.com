@@ -217,7 +217,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15972032e2-9c87-4328-baa9-21c0395470bf.jpg",
         "rating": 8.5,
-        "rating_count": 1324,
+        "rating_count": 1325,
         "rating_distribution": [
           1,
           1,
@@ -1818,7 +1818,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/12eb1ffdd9-8769-429d-9b4a-a2a3a7bd3764.jpg",
         "rating": 8.9,
-        "rating_count": 416,
+        "rating_count": 417,
         "rating_distribution": [
           0,
           1,
@@ -4350,7 +4350,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1532a54bd6-77fe-4203-b8f2-bd290c3b6dc0.jpg",
         "rating": 8.4,
-        "rating_count": 307,
+        "rating_count": 308,
         "rating_distribution": [
           0,
           4,
@@ -4608,13 +4608,13 @@
             "url": "https://movie.douban.com/subject/34895145/"
           },
           {
-            "url": "https://www.themoviedb.org/tv/95479/season/1"
-          },
-          {
             "url": "https://eggplant.place/tv/season/5CpLQ9SEWXLDz8gv2jetvS"
           },
           {
             "url": "https://bgm.tv/subject/294993"
+          },
+          {
+            "url": "https://www.themoviedb.org/tv/95479/season/1"
           }
         ]
       },
@@ -11138,5 +11138,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-03-12T01:14:43.727391"
+  "updated_at": "2026-03-13T01:18:39.840445"
 }
