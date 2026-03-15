@@ -5803,7 +5803,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/9b8c9c00-d17c-4de2-9dc4-d7d8eba26a3c.jpg",
         "rating": 8.2,
-        "rating_count": 398,
+        "rating_count": 399,
         "rating_distribution": [
           1,
           3,
@@ -5821,9 +5821,9 @@
           "动作",
           "动漫",
           "动画",
+          "動畫",
           "奇幻",
           "成长",
-          "日剧",
           "日本",
           "日本动漫",
           "日本动画",
@@ -19464,7 +19464,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/133604f9b2-b434-4aa8-92c0-e8f88336e4db.jpg",
         "rating": 9.2,
-        "rating_count": 2720,
+        "rating_count": 2721,
         "rating_distribution": [
           0,
           0,
@@ -25484,7 +25484,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/01/0601fef99c-a667-460e-bebd-99e45fb92e8a.webp",
         "rating": 9.7,
-        "rating_count": 648,
+        "rating_count": 649,
         "rating_distribution": [
           0,
           0,
@@ -26014,12 +26014,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/19/368cf45a-631c-4500-9ec0-c814f93efe6f.jpg",
         "rating": 7.8,
-        "rating_count": 354,
+        "rating_count": 355,
         "rating_distribution": [
-          1,
+          0,
           6,
           23,
-          39,
+          40,
           31
         ],
         "tags": [
@@ -27193,7 +27193,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/24/7b6ac0a9-1096-4531-a7b5-3dbb05ca776e.webp",
         "rating": 9.1,
-        "rating_count": 357,
+        "rating_count": 358,
         "rating_distribution": [
           0,
           1,
@@ -43242,36 +43242,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2026-03-14T01:16:41.226073",
+  "updated_at": "2026-03-15T01:30:07.087179",
   "stats": {
     "movie": {
       "count": 145,
-      "time": 12.08
+      "time": 16.28
     },
     "tv": {
       "count": 115,
-      "time": 7.99
+      "time": 8.41
     },
     "book": {
       "count": 36,
-      "time": 2.01
+      "time": 2.16
     },
     "music": {
       "count": 4,
-      "time": 0.18
+      "time": 0.17
     },
     "podcast": {
       "count": 0,
-      "time": 0.13
+      "time": 0.12
     },
     "game": {
       "count": 1,
-      "time": 0.14
+      "time": 0.13
     },
     "performance": {
       "count": 2,
       "time": 0.15
     }
   },
-  "total_time": 22.67
+  "total_time": 27.42
 }
