@@ -1544,7 +1544,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13f0f1086d-2dd2-4f8b-a1a8-fff29ef19e35.jpg",
         "rating": 9.3,
-        "rating_count": 1349,
+        "rating_count": 1350,
         "rating_distribution": [
           0,
           0,
@@ -3719,6 +3719,9 @@
           },
           {
             "url": "https://www.themoviedb.org/tv/34121/season/1"
+          },
+          {
+            "url": "https://movie.douban.com/subject/2272235/"
           }
         ]
       },
@@ -4273,7 +4276,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/17942e6d87-3ed1-4274-97d5-64cd5430a2b6.jpg",
         "rating": 8.5,
-        "rating_count": 175,
+        "rating_count": 176,
         "rating_distribution": [
           0,
           2,
@@ -7345,7 +7348,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1543e536b3-fcc3-44d0-a4da-96eacc5607bf.jpg",
         "rating": 9.6,
-        "rating_count": 513,
+        "rating_count": 514,
         "rating_distribution": [
           0,
           0,
@@ -8754,13 +8757,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/21/58486641-69b1-46ad-b902-66a09b705e9d.jpg",
         "rating": 9.2,
-        "rating_count": 339,
+        "rating_count": 340,
         "rating_distribution": [
           0,
           0,
-          7,
+          8,
           21,
-          72
+          71
         ],
         "tags": [
           "1990s",
@@ -10577,7 +10580,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/139d724fe4-c423-4a7b-8d56-6d81dff61afc.jpg",
         "rating": 9.5,
-        "rating_count": 686,
+        "rating_count": 687,
         "rating_distribution": [
           0,
           0,
@@ -11138,5 +11141,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-03-18T01:24:21.431220"
+  "updated_at": "2026-03-19T01:24:56.668238"
 }
