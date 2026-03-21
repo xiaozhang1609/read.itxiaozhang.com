@@ -88,13 +88,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/16927f0b28-91fa-459c-aac9-7559cd114c22.jpg",
         "rating": 8.1,
-        "rating_count": 86,
+        "rating_count": 87,
         "rating_distribution": [
           0,
           2,
           21,
-          43,
-          34
+          44,
+          33
         ],
         "tags": [
           "hl",
@@ -289,7 +289,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/16609aecd9-deea-4669-baab-c417dfb13ac3.jpg",
         "rating": 8.2,
-        "rating_count": 158,
+        "rating_count": 159,
         "rating_distribution": [
           0,
           0,
@@ -2212,7 +2212,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/16e346809f-05cd-4c06-8541-8926fc4d8348.jpg",
         "rating": 8.8,
-        "rating_count": 243,
+        "rating_count": 244,
         "rating_distribution": [
           0,
           0,
@@ -2339,5 +2339,5 @@
   ],
   "count": 36,
   "category": "book",
-  "updated_at": "2026-03-20T01:19:58.631515"
+  "updated_at": "2026-03-21T01:15:20.811995"
 }
