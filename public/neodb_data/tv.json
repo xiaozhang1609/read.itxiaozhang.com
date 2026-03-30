@@ -1204,7 +1204,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15d0e7610b-a4e2-4ee5-a4d9-14c3732300b5.jpg",
         "rating": 9.3,
-        "rating_count": 934,
+        "rating_count": 935,
         "rating_distribution": [
           0,
           0,
@@ -1364,7 +1364,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15230a44b5-d9e7-4ed0-9dca-f56d188b2e65.jpg",
         "rating": 9.3,
-        "rating_count": 1039,
+        "rating_count": 1041,
         "rating_distribution": [
           0,
           0,
@@ -1544,13 +1544,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13f0f1086d-2dd2-4f8b-a1a8-fff29ef19e35.jpg",
         "rating": 9.3,
-        "rating_count": 1354,
+        "rating_count": 1355,
         "rating_distribution": [
           0,
           0,
-          4,
+          3,
           26,
-          70
+          71
         ],
         "tags": [
           "2010s",
@@ -1818,7 +1818,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/12eb1ffdd9-8769-429d-9b4a-a2a3a7bd3764.jpg",
         "rating": 8.9,
-        "rating_count": 418,
+        "rating_count": 419,
         "rating_distribution": [
           0,
           1,
@@ -2177,7 +2177,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158cac42e4-74fb-472f-afd5-78984be19315.jpg",
         "rating": 8.2,
-        "rating_count": 838,
+        "rating_count": 839,
         "rating_distribution": [
           1,
           2,
@@ -2630,17 +2630,57 @@
           {
             "lang": "zh-cn",
             "text": "黑镜子 第一季"
+          },
+          {
+            "lang": "pt",
+            "text": "Temporada 1"
+          },
+          {
+            "lang": "de",
+            "text": "Staffel 1"
+          },
+          {
+            "lang": "fr",
+            "text": "Saison 1"
+          },
+          {
+            "lang": "es",
+            "text": "Temporada 1"
+          },
+          {
+            "lang": "en",
+            "text": "Season 1"
           }
         ],
         "localized_description": [
           {
             "lang": "zh-cn",
             "text": "这部英国迷你剧由3个各自独立的故事组成，彼此间并没有直接联系，但都以极端的黑色幽默讽刺和探讨了科技对人类生活产生的影响。\n《天佑吾主》：首相Michael Callow（罗里·金奈尔 Rory Kinnear 饰）被熟睡中的紧急电话召回办公室，得知广受喜爱的王室 成员Susannah公主遭人劫持，绑匪提出的交换条件匪夷所思。备感受辱的首相诸般尝试解救公主未果，最终在强大的社交网络民意压力下就范。\n《一千五百万的价值》：在未来世界，衣着统一的人们只通过虚拟网络交流，依靠日复一日骑自行车赚取赖以为生的消费点数。不甘做行尸走肉的Bing（丹尼尔·卡卢亚 Daniel Kaluuya 饰）倾尽自己所有点数帮助天籁般歌声的Abi（杰西卡·布朗-芬德利 Jessica Brown-Findlay 饰）登上选秀舞台，却被Abi沦为艳星的事实深深打击。\n《你的全部历史》：人人都植入内置芯片的时代，记忆影像可以被随时翻查。多疑的律师Liam（托比·凯贝尔 Toby Kebbell 饰）非常敏感妻子Fi（茱蒂·威泰克 Jodie Whittaker 饰）与前男友Jonas的关系。他歇斯底里的在三人记忆中搜查Fi不忠的证据，终于导致Fi崩溃离去。"
+          },
+          {
+            "lang": "pt",
+            "text": "Esta série de antologia de ficção científica cria realidades em que o corpo humano está dependente de energia externa e os humanos recebem implantes de memória."
+          },
+          {
+            "lang": "de",
+            "text": "In dieser Sci-Fi-Anthologieserie müssen die Menschen den Strom für ihre Existenz selbst generieren, erhalten Gedächtnisimplantate u. v. m."
+          },
+          {
+            "lang": "fr",
+            "text": "Cette série de science-fiction nous plonge dans un monde où les gens doivent créer leur propre énergie pour survivre, porter des implants électroniques, et plus encore."
+          },
+          {
+            "lang": "es",
+            "text": "Esta serie antológica de ciencia ficción imagina realidades en las que la gente se ve obligada a impulsar su propia existencia, recibe implantes de memoria y más."
+          },
+          {
+            "lang": "en",
+            "text": "Season one of this sci-fi anthology series imagines realities in which people are forced to power their own existence, receive memory implants and more."
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14138f068a-33d6-4cb0-a556-1112c79ede52.jpg",
         "rating": 9.3,
-        "rating_count": 1713,
+        "rating_count": 1714,
         "rating_distribution": [
           0,
           1,
@@ -2683,6 +2723,9 @@
           },
           {
             "url": "https://movie.douban.com/subject/7054120/"
+          },
+          {
+            "url": "https://neodb.mastodon.work/tv/season/68msL4QzL3ylq9598W6FVI"
           },
           {
             "url": "https://www.themoviedb.org/tv/42009/season/1"
@@ -3952,7 +3995,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/22/a170513d-27d1-4a66-b415-83bcc178b78b.webp",
         "rating": 7.6,
-        "rating_count": 158,
+        "rating_count": 159,
         "rating_distribution": [
           3,
           6,
@@ -4117,7 +4160,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/12/09/e349737a-1ad1-4118-ab72-3f8fd067cf4d.webp",
         "rating": 8.7,
-        "rating_count": 343,
+        "rating_count": 344,
         "rating_distribution": [
           0,
           1,
@@ -4430,7 +4473,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/08/69d304f8-1a0f-4f06-9a4a-b1d870f43864.webp",
         "rating": 7.9,
-        "rating_count": 232,
+        "rating_count": 233,
         "rating_distribution": [
           1,
           2,
@@ -4566,7 +4609,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157c78ce20-44be-4128-85cd-0cfdc73ebb0a.jpg",
         "rating": 8.0,
-        "rating_count": 727,
+        "rating_count": 728,
         "rating_distribution": [
           2,
           2,
@@ -4664,10 +4707,10 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/06/1012f10cab-8842-442a-bd65-75dc2723a36b.jpg",
         "rating": 7.8,
-        "rating_count": 640,
+        "rating_count": 641,
         "rating_distribution": [
-          2,
-          6,
+          3,
+          5,
           19,
           38,
           35
@@ -4841,8 +4884,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
-        "rating": 9.0,
-        "rating_count": 638,
+        "rating": 8.9,
+        "rating_count": 639,
         "rating_distribution": [
           0,
           1,
@@ -10244,13 +10287,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/154640d33f-f755-4e3c-a9e4-39e36fa7afa3.jpg",
         "rating": 9.2,
-        "rating_count": 81,
+        "rating_count": 82,
         "rating_distribution": [
           0,
           0,
           3,
-          33,
-          64
+          34,
+          63
         ],
         "tags": [
           "2011",
@@ -11141,5 +11184,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-03-29T01:44:33.040437"
+  "updated_at": "2026-03-30T01:47:01.458458"
 }
