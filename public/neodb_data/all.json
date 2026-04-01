@@ -289,12 +289,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/11/28ce908c3c-b914-427c-99a3-e1c9f81cc7e8.jpg",
         "rating": 7.6,
-        "rating_count": 23,
+        "rating_count": 24,
         "rating_distribution": [
           0,
           4,
-          18,
-          74,
+          17,
+          75,
           4
         ],
         "tags": [
@@ -2854,7 +2854,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16ed2dc86f-32ae-4f7b-98be-8bd0982aa66c.jpg",
         "rating": 7.1,
-        "rating_count": 247,
+        "rating_count": 248,
         "rating_distribution": [
           0,
           5,
@@ -3388,13 +3388,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2024/01/19/6cd01f5b-102a-4b63-96db-4f38cd0f89a1.webp",
         "rating": 8.9,
-        "rating_count": 374,
+        "rating_count": 375,
         "rating_distribution": [
           0,
           1,
-          6,
+          5,
           43,
-          50
+          51
         ],
         "tags": [
           "11",
@@ -8718,12 +8718,64 @@
           {
             "lang": "zh-cn",
             "text": "视觉2"
+          },
+          {
+            "lang": "pt",
+            "text": "Drishyam 2"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "誤殺瞞天記 2"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "誤殺瞞天記2"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "误杀瞒天记 2"
+          },
+          {
+            "lang": "hi",
+            "text": "दृश्यम २"
+          },
+          {
+            "lang": "de",
+            "text": "Drishyam 2"
           }
         ],
         "localized_description": [
           {
             "lang": "zh-cn",
             "text": "距离上一部故事的若干年后，维杰一家人已经过上了平静的生活，但是杀人的阴影依旧存在。本地警察局的新任局长对于这桩悬案重启了调查，维杰一家岌岌可危。这次，维杰能否再次守护住他的家人？"
+          },
+          {
+            "lang": "pt",
+            "text": "7 anos depois de o caso relacionado com Vijay Salgaonkar e a sua família ter sido encerrado, uma série de acontecimentos inesperados traz à luz do dia a verdade que ameaça mudar tudo para os Salgaonkars. Conseguirá Vijay salvar a sua família desta vez?"
+          },
+          {
+            "lang": "en",
+            "text": "7 years after the case related to Vijay Salgaonkar and his family was closed, a series of unexpected events bring truth to light that threatens to change everything for the Salgaonkars. Can Vijay save his family this time?"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "距離上一部故事的若幹年後，維傑一家人已經過上了平靜的生活，但是殺人的陰影依舊存在。本地警察局的新任局長對於這樁懸案重啟了調查，維傑一家岌岌可危。這次，維傑能否再次守護住他的家人？"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "距離上一部故事的若干年後，維杰一家人已經過上了平靜的生活，但是殺人的陰影依舊存在。本地警察局的新任局長對於這樁懸案重啟了調查，維杰一家岌岌可危。這次，維杰能否再次守護住他的家人？"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "“误杀瞒天记” 1 & 2 都翻拍自马拉雅拉姆语同名电影“较量” 1 & 2。若干年后，维杰一家人已经过上了平静的生活，但是杀人的阴影依旧存在。本地警察局的新任局长对于这桩悬案重启了调查，维杰一家岌岌可危。这次，维杰能否再次守护住他的家人？"
+          },
+          {
+            "lang": "en",
+            "text": "film directed by Abhishek Pathak"
+          },
+          {
+            "lang": "de",
+            "text": "Film von Abhishek Pathak"
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2023/01/04283a5ecf-ec09-4faf-ac97-ed75bcec81f2.jpg",
@@ -8760,6 +8812,15 @@
         "external_resources": [
           {
             "url": "https://movie.douban.com/subject/36056562/"
+          },
+          {
+            "url": "https://www.themoviedb.org/movie/1029827"
+          },
+          {
+            "url": "https://www.imdb.com/title/tt15501640/"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q112665700"
           }
         ]
       },
@@ -9136,7 +9197,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14cb3b8d3f-209d-4f2d-be2f-107c05d7ff65.jpg",
         "rating": 8.3,
-        "rating_count": 173,
+        "rating_count": 174,
         "rating_distribution": [
           0,
           1,
@@ -11532,7 +11593,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/05/14/c6b6a72c-2a26-487c-9c3f-54c23cf4ca9e.webp",
         "rating": 8.8,
-        "rating_count": 2607,
+        "rating_count": 2608,
         "rating_distribution": [
           0,
           2,
@@ -11728,7 +11789,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158a5847a4-2665-4249-8fcd-c0516f4820e7.jpg",
         "rating": 8.1,
-        "rating_count": 675,
+        "rating_count": 676,
         "rating_distribution": [
           0,
           1,
@@ -12773,7 +12834,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ef885c05-3eb7-48f9-8a51-ffc98674447b.jpg",
         "rating": 8.1,
-        "rating_count": 771,
+        "rating_count": 772,
         "rating_distribution": [
           0,
           2,
@@ -12852,14 +12913,14 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/163a127ae4-1f1e-4aa1-9065-ed7a4db5852c.jpg",
-        "rating": 8.1,
-        "rating_count": 23,
+        "rating": 8.2,
+        "rating_count": 24,
         "rating_distribution": [
           0,
           4,
-          26,
-          26,
-          44
+          25,
+          25,
+          46
         ],
         "tags": [
           "中国",
@@ -14521,7 +14582,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/156bbc2ea2-fc09-440a-bb29-83dd0339574a.jpg",
         "rating": 6.7,
-        "rating_count": 1419,
+        "rating_count": 1420,
         "rating_distribution": [
           3,
           10,
@@ -14915,7 +14976,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15a2f45055-f7fd-4e4c-ba2b-c9438595671d.jpg",
         "rating": 8.0,
-        "rating_count": 833,
+        "rating_count": 834,
         "rating_distribution": [
           0,
           2,
@@ -16214,12 +16275,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/12/10782d8b03-2b0f-4060-9db2-3052133ef3fe.jpg",
         "rating": 5.3,
-        "rating_count": 63,
+        "rating_count": 64,
         "rating_distribution": [
           11,
-          30,
+          31,
           38,
-          21,
+          20,
           0
         ],
         "tags": [
@@ -17013,7 +17074,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/159f8910db-b66d-47a4-bfe2-681b9b942ab5.jpg",
         "rating": 7.6,
-        "rating_count": 1138,
+        "rating_count": 1139,
         "rating_distribution": [
           1,
           4,
@@ -19482,13 +19543,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/133604f9b2-b434-4aa8-92c0-e8f88336e4db.jpg",
         "rating": 9.2,
-        "rating_count": 2730,
+        "rating_count": 2731,
         "rating_distribution": [
           0,
           0,
-          5,
+          4,
           27,
-          68
+          69
         ],
         "tags": [
           "1990s",
@@ -22679,7 +22740,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/06/1012f10cab-8842-442a-bd65-75dc2723a36b.jpg",
         "rating": 7.8,
-        "rating_count": 641,
+        "rating_count": 642,
         "rating_distribution": [
           3,
           5,
@@ -25649,7 +25710,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/07/be012b58-ed0a-4750-b71d-03b0f59276a6.jpg",
         "rating": 7.8,
-        "rating_count": 1180,
+        "rating_count": 1181,
         "rating_distribution": [
           3,
           3,
@@ -26246,7 +26307,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/c50f391f-f017-4478-ae8c-ff4cd460e2c2.jpg",
         "rating": 8.0,
-        "rating_count": 1259,
+        "rating_count": 1260,
         "rating_distribution": [
           1,
           2,
@@ -28160,7 +28221,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2023/07/20/8206c5c4-0d6d-46f6-a08c-7a7d3af84393.jpg",
         "rating": 7.0,
-        "rating_count": 870,
+        "rating_count": 871,
         "rating_distribution": [
           1,
           7,
@@ -28789,12 +28850,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/131f51610c-f166-4ba3-a734-bf089151525e.jpg",
         "rating": 9.2,
-        "rating_count": 546,
+        "rating_count": 547,
         "rating_distribution": [
           0,
-          0,
+          1,
           5,
-          29,
+          28,
           66
         ],
         "tags": [
@@ -32388,7 +32449,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158b2b635b-d04a-41b9-a36b-c5af7dfc3f2a.jpg",
         "rating": 9.4,
-        "rating_count": 1068,
+        "rating_count": 1069,
         "rating_distribution": [
           0,
           1,
@@ -32908,7 +32969,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/145f861699-f73a-4881-8146-9f775950635b.jpg",
         "rating": 9.0,
-        "rating_count": 1396,
+        "rating_count": 1397,
         "rating_distribution": [
           0,
           1,
@@ -33405,7 +33466,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/153c3015b5-9fa5-4673-a6d0-49abd1664fa9.jpg",
         "rating": 7.4,
-        "rating_count": 1573,
+        "rating_count": 1574,
         "rating_distribution": [
           1,
           4,
@@ -37236,7 +37297,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/01/23/79ffd6de-30f3-40ca-a2d5-0c03eaf97e37.webp",
         "rating": 8.8,
-        "rating_count": 436,
+        "rating_count": 437,
         "rating_distribution": [
           0,
           0,
@@ -38990,7 +39051,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158bab1067-4d98-4fa8-bb4c-06415a35b9ec.jpg",
         "rating": 7.2,
-        "rating_count": 453,
+        "rating_count": 454,
         "rating_distribution": [
           3,
           6,
@@ -39451,7 +39512,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1502c1ffd2-6210-4a80-b843-27465766fc86.jpg",
         "rating": 8.6,
-        "rating_count": 2001,
+        "rating_count": 2002,
         "rating_distribution": [
           0,
           1,
@@ -41252,7 +41313,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155c04dbf9-a5ea-49f7-807c-8f46e3fda242.jpg",
         "rating": 7.8,
-        "rating_count": 1188,
+        "rating_count": 1189,
         "rating_distribution": [
           1,
           4,
@@ -43255,36 +43316,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2026-03-31T01:29:46.044056",
+  "updated_at": "2026-04-01T01:50:40.536319",
   "stats": {
     "movie": {
       "count": 145,
-      "time": 13.25
+      "time": 11.37
     },
     "tv": {
       "count": 115,
-      "time": 8.3
+      "time": 7.43
     },
     "book": {
       "count": 36,
-      "time": 2.03
+      "time": 1.82
     },
     "music": {
       "count": 4,
-      "time": 0.23
+      "time": 0.18
     },
     "podcast": {
       "count": 0,
-      "time": 0.19
+      "time": 0.14
     },
     "game": {
       "count": 1,
-      "time": 0.21
+      "time": 0.15
     },
     "performance": {
       "count": 2,
-      "time": 0.24
+      "time": 0.16
     }
   },
-  "total_time": 24.44
+  "total_time": 21.25
 }
