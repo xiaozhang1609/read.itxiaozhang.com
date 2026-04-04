@@ -2554,7 +2554,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/131b46667b-3905-4bdb-a7ec-441f1126be6d.jpg",
         "rating": 9.0,
-        "rating_count": 1223,
+        "rating_count": 1224,
         "rating_distribution": [
           0,
           0,
@@ -5102,13 +5102,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/bangumi/2024/02/24/721c8a8b-f563-4994-b35f-940327755105.jpg",
         "rating": 8.4,
-        "rating_count": 172,
+        "rating_count": 173,
         "rating_distribution": [
           1,
           2,
-          12,
+          11,
           39,
-          46
+          47
         ],
         "tags": [
           "2023",
@@ -6116,13 +6116,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/2775557ce8-06f5-4882-a7e4-a3293ba16d3a.jpg",
         "rating": 8.9,
-        "rating_count": 1126,
+        "rating_count": 1127,
         "rating_distribution": [
           0,
-          1,
+          2,
           7,
           33,
-          59
+          58
         ],
         "tags": [
           "2010s",
@@ -8796,13 +8796,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/21/58486641-69b1-46ad-b902-66a09b705e9d.jpg",
         "rating": 9.2,
-        "rating_count": 341,
+        "rating_count": 342,
         "rating_distribution": [
           0,
           0,
-          8,
+          7,
           21,
-          71
+          72
         ],
         "tags": [
           "1990s",
@@ -11180,5 +11180,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-04-03T01:28:41.364601"
+  "updated_at": "2026-04-04T01:22:58.325438"
 }
