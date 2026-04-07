@@ -16914,7 +16914,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ce6a4ea1-e930-4890-857f-95f944cf49c8.jpg",
         "rating": 8.8,
-        "rating_count": 1605,
+        "rating_count": 1606,
         "rating_distribution": [
           0,
           0,
@@ -21227,7 +21227,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/15f1ce16d9-6e6d-44d1-96b4-7b300817b664.jpg",
         "rating": 7.9,
-        "rating_count": 135,
+        "rating_count": 136,
         "rating_distribution": [
           1,
           0,
@@ -24969,7 +24969,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1342c2c8f4-6447-4008-9f51-2fcd641c4799.jpg",
         "rating": 7.8,
-        "rating_count": 1846,
+        "rating_count": 1847,
         "rating_distribution": [
           0,
           3,
@@ -25964,7 +25964,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16d55ba3c5-3088-4dd0-a0b8-13546996ebb8.jpg",
         "rating": 7.7,
-        "rating_count": 652,
+        "rating_count": 653,
         "rating_distribution": [
           1,
           2,
@@ -29377,7 +29377,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/17/18d1616a-20a3-4c95-9694-b8b225b56ffa.jpg",
         "rating": 8.5,
-        "rating_count": 362,
+        "rating_count": 363,
         "rating_distribution": [
           1,
           1,
@@ -43316,36 +43316,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2026-04-06T01:47:09.494350",
+  "updated_at": "2026-04-07T01:44:21.722528",
   "stats": {
     "movie": {
       "count": 145,
-      "time": 10.74
+      "time": 12.38
     },
     "tv": {
       "count": 115,
-      "time": 7.02
+      "time": 8.18
     },
     "book": {
       "count": 36,
-      "time": 1.73
+      "time": 2.12
     },
     "music": {
       "count": 4,
-      "time": 0.15
+      "time": 0.24
     },
     "podcast": {
       "count": 0,
-      "time": 0.11
+      "time": 0.2
     },
     "game": {
       "count": 1,
-      "time": 0.12
+      "time": 0.27
     },
     "performance": {
       "count": 2,
-      "time": 0.14
+      "time": 0.23
     }
   },
-  "total_time": 20.02
+  "total_time": 23.61
 }
