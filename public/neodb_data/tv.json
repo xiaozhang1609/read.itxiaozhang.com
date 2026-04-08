@@ -6733,7 +6733,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/275e2658ad-2aae-4ba2-9d91-73860d948fa3.webp",
         "rating": 8.6,
-        "rating_count": 131,
+        "rating_count": 132,
         "rating_distribution": [
           0,
           0,
@@ -7310,7 +7310,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1373cde94d-7ce8-4f88-9d1e-adcf85e9d479.jpg",
         "rating": 8.1,
-        "rating_count": 239,
+        "rating_count": 240,
         "rating_distribution": [
           1,
           3,
@@ -7634,7 +7634,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158b2b635b-d04a-41b9-a36b-c5af7dfc3f2a.jpg",
         "rating": 9.4,
-        "rating_count": 1070,
+        "rating_count": 1071,
         "rating_distribution": [
           0,
           1,
@@ -9112,8 +9112,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/07/05c276ff7d-f4a2-4b7c-aadb-77ea19192448.jpg",
-        "rating": 7.1,
-        "rating_count": 215,
+        "rating": 7.2,
+        "rating_count": 216,
         "rating_distribution": [
           9,
           8,
@@ -9439,13 +9439,13 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27fe09ead9-76a1-44f6-b1cf-98e7701606e9.webp",
-        "rating": 9.4,
-        "rating_count": 40,
+        "rating": 9.5,
+        "rating_count": 41,
         "rating_distribution": [
           2,
           0,
-          2,
-          13,
+          3,
+          12,
           83
         ],
         "tags": [
@@ -9862,13 +9862,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27d51851ac-c5ef-436b-b7c6-723fc0c07620.jpg",
         "rating": 9.5,
-        "rating_count": 45,
+        "rating_count": 46,
         "rating_distribution": [
           0,
           2,
-          5,
+          4,
           9,
-          84
+          85
         ],
         "tags": [
           "中国",
@@ -10868,7 +10868,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/271548cb4b-40e2-4503-bda9-7dff00fd8e32.jpg",
         "rating": 7.9,
-        "rating_count": 82,
+        "rating_count": 83,
         "rating_distribution": [
           0,
           6,
@@ -10947,13 +10947,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16301fc784-d92c-4c87-a7a0-bad93d1c52a6.jpg",
         "rating": 8.7,
-        "rating_count": 101,
+        "rating_count": 102,
         "rating_distribution": [
           3,
           2,
           8,
-          32,
-          55
+          31,
+          56
         ],
         "tags": [
           "2009",
@@ -11054,13 +11054,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15d74b9234-1472-43dd-882d-d9c8e987154a.jpg",
         "rating": 9.4,
-        "rating_count": 180,
+        "rating_count": 181,
         "rating_distribution": [
           0,
           0,
           3,
-          25,
-          72
+          24,
+          73
         ],
         "tags": [
           "2006",
@@ -11180,5 +11180,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-04-07T01:44:18.656055"
+  "updated_at": "2026-04-08T01:44:34.590106"
 }
