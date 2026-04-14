@@ -18840,7 +18840,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/02/09/4b06c21f-3439-4a71-a88d-3a62ee8d8f3e.webp",
         "rating": 8.3,
-        "rating_count": 874,
+        "rating_count": 875,
         "rating_distribution": [
           0,
           1,
@@ -21331,7 +21331,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/22/a170513d-27d1-4a66-b415-83bcc178b78b.webp",
         "rating": 7.6,
-        "rating_count": 159,
+        "rating_count": 160,
         "rating_distribution": [
           3,
           6,
@@ -23602,13 +23602,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanbook/2026/01/16/12756c0c-6884-4c22-917f-d6411896029f.jpg",
         "rating": 7.8,
-        "rating_count": 315,
+        "rating_count": 316,
         "rating_distribution": [
           0,
           2,
           21,
-          55,
-          22
+          54,
+          23
         ],
         "tags": [
           "f 小说",
@@ -34424,7 +34424,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1540ca6a04-7e73-4d51-bf03-5e75bb63a8de.jpg",
         "rating": 8.0,
-        "rating_count": 1158,
+        "rating_count": 1159,
         "rating_distribution": [
           0,
           4,
@@ -43316,36 +43316,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2026-04-13T01:55:38.531265",
+  "updated_at": "2026-04-14T01:50:31.701000",
   "stats": {
     "movie": {
       "count": 145,
-      "time": 13.17
+      "time": 11.05
     },
     "tv": {
       "count": 115,
-      "time": 8.28
+      "time": 7.32
     },
     "book": {
       "count": 36,
-      "time": 2.04
+      "time": 1.81
     },
     "music": {
       "count": 4,
-      "time": 0.18
+      "time": 0.15
     },
     "podcast": {
       "count": 0,
-      "time": 0.15
+      "time": 0.11
     },
     "game": {
       "count": 1,
-      "time": 0.18
+      "time": 0.14
     },
     "performance": {
       "count": 2,
-      "time": 0.19
+      "time": 0.16
     }
   },
-  "total_time": 24.2
+  "total_time": 20.73
 }
