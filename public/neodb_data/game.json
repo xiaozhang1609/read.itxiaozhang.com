@@ -69,7 +69,8 @@
           {
             "url": "https://www.douban.com/game/26775340/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-08-08T08:19:35.746Z",
       "comment_text": null,
@@ -79,5 +80,5 @@
   ],
   "count": 1,
   "category": "game",
-  "updated_at": "2026-04-17T01:50:34.762358"
+  "updated_at": "2026-04-18T01:28:49.702171"
 }

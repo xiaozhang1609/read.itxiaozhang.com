@@ -124,7 +124,8 @@
           {
             "url": "https://reviewdb.app/movie/4z3sOoN6Llzmx6sX4pCTFM"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2026-01-31T14:34:31.335Z",
       "comment_text": "动作戏很好，严谨不错，逻辑剧本硬伤。",
@@ -190,7 +191,8 @@
           {
             "url": "https://book.douban.com/subject/24862876/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2026-01-30T14:07:23.608Z",
       "comment_text": null,
@@ -260,7 +262,8 @@
           {
             "url": "https://book.douban.com/subject/1456183/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2026-01-23T13:57:20.254Z",
       "comment_text": null,
@@ -322,7 +325,8 @@
           {
             "url": "https://book.douban.com/subject/1444245/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2026-01-23T13:54:00Z",
       "comment_text": null,
@@ -391,7 +395,8 @@
           {
             "url": "https://book.douban.com/subject/3662115/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2026-01-19T13:54:00Z",
       "comment_text": null,
@@ -479,7 +484,8 @@
           {
             "url": "https://www.themoviedb.org/tv/66732/season/3"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2026-01-11T13:40:32.597Z",
       "comment_text": "剧情老旧，不够严谨，跟过家家一样。",
@@ -569,7 +575,8 @@
           {
             "url": "https://bgm.tv/subject/208783"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2026-01-11T13:39:12.230Z",
       "comment_text": null,
@@ -664,7 +671,8 @@
           {
             "url": "https://bgm.tv/subject/187187"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2026-01-06T15:10:34.903Z",
       "comment_text": null,
@@ -721,7 +729,8 @@
           {
             "url": "https://movie.douban.com/subject/37499898/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2026-01-02T02:34:17.572Z",
       "comment_text": null,
@@ -792,7 +801,8 @@
           {
             "url": "https://book.douban.com/subject/1025753/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-12-29T16:20:08.618Z",
       "comment_text": null,
@@ -857,7 +867,8 @@
           {
             "url": "https://book.douban.com/subject/24748615/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-12-18T06:22:40.166Z",
       "comment_text": null,
@@ -1049,7 +1060,8 @@
           {
             "url": "https://www.imdb.com/title/tt2165735/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-11-26T05:22:54.401Z",
       "comment_text": null,
@@ -1264,7 +1276,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q30611788"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-10-10T14:36:29.070Z",
       "comment_text": null,
@@ -1343,7 +1356,8 @@
           {
             "url": "https://movie.douban.com/subject/1304694/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-09-21T13:40:59.184Z",
       "comment_text": null,
@@ -1514,7 +1528,8 @@
           {
             "url": "https://movie.douban.com/subject/3874981/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-09-19T13:31:31.697Z",
       "comment_text": null,
@@ -1705,7 +1720,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q62761126"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-09-10T15:03:48.628Z",
       "comment_text": null,
@@ -1966,7 +1982,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q132863"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-09-10T12:18:57.881Z",
       "comment_text": null,
@@ -2193,7 +2210,8 @@
           {
             "url": "https://www.imdb.com/title/tt0104558/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-08-30T01:25:18.051Z",
       "comment_text": null,
@@ -2406,7 +2424,8 @@
           {
             "url": "https://movie.douban.com/subject/23048775/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-08-29T09:09:13.447Z",
       "comment_text": null,
@@ -2601,7 +2620,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q24238125"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-06-27T07:14:51.410Z",
       "comment_text": null,
@@ -2813,7 +2833,8 @@
           {
             "url": "https://www.themoviedb.org/movie/81005"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-06-21T02:05:45.725Z",
       "comment_text": null,
@@ -2899,7 +2920,8 @@
           {
             "url": "https://movie.douban.com/subject/1292962/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-06-05T06:19:08.183Z",
       "comment_text": null,
@@ -3146,7 +3168,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q7737199"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-05-15T12:37:24.893Z",
       "comment_text": null,
@@ -3259,7 +3282,8 @@
           {
             "url": "https://www.imdb.com/title/tt0111752/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-05-15T02:10:19.923Z",
       "comment_text": null,
@@ -3442,7 +3466,8 @@
           {
             "url": "https://www.themoviedb.org/movie/195237"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-05-12T03:16:32.628Z",
       "comment_text": "英子像个天使，她可以感受到骆驼、亲人、疯子、小偷的情感。",
@@ -3509,7 +3534,8 @@
           {
             "url": "https://movie.douban.com/subject/10774103/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-05-10T09:55:20.459Z",
       "comment_text": null,
@@ -3673,7 +3699,8 @@
           {
             "url": "https://www.themoviedb.org/tv/1399/season/8"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-05-10T09:54:31.966Z",
       "comment_text": null,
@@ -3837,7 +3864,8 @@
           {
             "url": "https://www.themoviedb.org/tv/1399/season/7"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-05-10T09:54:23.315Z",
       "comment_text": null,
@@ -4001,7 +4029,8 @@
           {
             "url": "https://www.themoviedb.org/tv/1399/season/6"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-05-10T09:54:14.050Z",
       "comment_text": null,
@@ -4165,7 +4194,8 @@
           {
             "url": "https://www.themoviedb.org/tv/1399/season/5"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-04-09T12:20:02.948Z",
       "comment_text": null,
@@ -4329,7 +4359,8 @@
           {
             "url": "https://www.themoviedb.org/tv/1399/season/4"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-04-06T03:50:47.077Z",
       "comment_text": null,
@@ -4388,7 +4419,8 @@
           {
             "url": "https://www.goodreads.com/book/show/53492856"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-04-06T03:49:54.917Z",
       "comment_text": null,
@@ -4552,7 +4584,8 @@
           {
             "url": "https://www.themoviedb.org/tv/1399/season/3"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-03-30T04:08:49.888Z",
       "comment_text": null,
@@ -4712,7 +4745,8 @@
           {
             "url": "https://www.themoviedb.org/tv/1399/season/2"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-03-30T04:08:37.019Z",
       "comment_text": null,
@@ -4898,7 +4932,8 @@
           {
             "url": "https://neodb.kevga.de/tv/season/6bnEop1iQEUn92Y7pkkEip"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-03-30T04:08:30.340Z",
       "comment_text": null,
@@ -5074,7 +5109,8 @@
           {
             "url": "https://eggplant.place/tv/season/5cqMwpitE9rPk8IEclg5Ht"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-03-22T01:48:46.174Z",
       "comment_text": null,
@@ -5210,7 +5246,8 @@
           {
             "url": "https://www.imdb.com/title/tt8755316/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-03-15T12:54:27.003Z",
       "comment_text": null,
@@ -5333,7 +5370,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q105685552"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-03-04T11:54:13.363Z",
       "comment_text": null,
@@ -5490,7 +5528,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q131937861"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-03-03T09:43:24.795Z",
       "comment_text": "整体挺好，就是感觉有些不协调，有些地方深沉，有些地方弱智。龙王有点出戏，无论是相貌、配音还是台词都感觉有点古怪.",
@@ -5594,7 +5633,8 @@
           {
             "url": "https://www.themoviedb.org/movie/661579"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-03-03T09:39:36.578Z",
       "comment_text": null,
@@ -5689,7 +5729,8 @@
           {
             "url": "https://www.themoviedb.org/tv/13916/season/1"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-02-14T13:54:00Z",
       "comment_text": null,
@@ -5773,7 +5814,8 @@
           {
             "url": "https://www.themoviedb.org/tv/85937/season/4"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-01-31T13:54:00Z",
       "comment_text": null,
@@ -5865,7 +5907,8 @@
           {
             "url": "https://www.themoviedb.org/tv/85937/season/3"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-01-29T13:54:00Z",
       "comment_text": null,
@@ -5949,7 +5992,8 @@
           {
             "url": "https://www.themoviedb.org/tv/85937/season/2"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-01-27T13:54:00Z",
       "comment_text": null,
@@ -6129,7 +6173,8 @@
           {
             "url": "https://www.themoviedb.org/movie/1121612"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-01-23T13:54:00Z",
       "comment_text": null,
@@ -6226,7 +6271,8 @@
           {
             "url": "https://bgm.tv/subject/245665"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-01-23T13:54:00Z",
       "comment_text": null,
@@ -6354,7 +6400,8 @@
           {
             "url": "https://www.themoviedb.org/tv/126308/season/1"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-01-06T13:23:03.880Z",
       "comment_text": null,
@@ -6601,7 +6648,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q458656"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-01-06T09:22:19.833Z",
       "comment_text": null,
@@ -6684,7 +6732,8 @@
           {
             "url": "https://movie.douban.com/subject/10558447/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-01-06T09:21:48.485Z",
       "comment_text": null,
@@ -6860,7 +6909,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q55388729"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-01-06T09:21:09.699Z",
       "comment_text": null,
@@ -7075,7 +7125,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q1090566"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-01-04T12:19:29.419Z",
       "comment_text": null,
@@ -7290,7 +7341,8 @@
           {
             "url": "https://www.themoviedb.org/movie/353070"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2025-01-03T01:57:15.183Z",
       "comment_text": null,
@@ -7552,7 +7604,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q271006"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-12-30T02:05:34.796Z",
       "comment_text": null,
@@ -7663,7 +7716,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q5618719"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-12-28T11:51:13.168Z",
       "comment_text": null,
@@ -7931,7 +7985,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q48980"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-12-27T05:09:52.361Z",
       "comment_text": null,
@@ -8197,7 +8252,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q269887"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-12-26T13:54:00Z",
       "comment_text": null,
@@ -8411,7 +8467,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q492908"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-12-21T13:54:00Z",
       "comment_text": null,
@@ -8691,7 +8748,8 @@
           {
             "url": "https://bgm.tv/subject/45621"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-12-20T13:54:00Z",
       "comment_text": null,
@@ -8822,7 +8880,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q112665700"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-12-17T12:38:16.552Z",
       "comment_text": null,
@@ -8892,7 +8951,8 @@
           {
             "url": "https://book.douban.com/subject/1018360/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-12-15T13:25:45.155Z",
       "comment_text": null,
@@ -9080,7 +9140,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q19824636"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-12-15T13:23:55.536Z",
       "comment_text": null,
@@ -9248,7 +9309,8 @@
           {
             "url": "https://www.themoviedb.org/movie/151804"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-12-15T13:23:08.427Z",
       "comment_text": null,
@@ -9373,7 +9435,8 @@
           {
             "url": "https://www.themoviedb.org/tv/73223/season/1"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-12-09T03:28:42.135Z",
       "comment_text": "就在这里超越极限吧！",
@@ -9436,7 +9499,8 @@
           {
             "url": "https://book.douban.com/subject/1046276/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-11-23T13:54:00Z",
       "comment_text": null,
@@ -9660,7 +9724,8 @@
           {
             "url": "https://www.themoviedb.org/movie/37961"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-11-23T13:34:53.964Z",
       "comment_text": null,
@@ -9713,7 +9778,8 @@
           {
             "url": "https://book.douban.com/subject/6308767/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-11-17T11:00:31.906Z",
       "comment_text": null,
@@ -9837,7 +9903,8 @@
           {
             "url": "https://www.themoviedb.org/tv/42009/season/2"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-11-16T13:54:00Z",
       "comment_text": null,
@@ -10053,7 +10120,8 @@
           {
             "url": "https://www.themoviedb.org/movie/516486"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-11-14T11:33:40.432Z",
       "comment_text": "全程紧张刺激，代入感很强。拍摄很写实，演技扎实。做一个出色的船长真不容易，不眠不休，反应迅速，随时要下达命令，随时做出重大决定。我有个疑问，这么大的运输船队，装的物资非常多，运输船队的武器也很厉害，为什么没有配备更多的空中支援呢？\r\n人类互相侵略是否写在基因中的呢，这种邪恶难道真的是无法祛除的吗？",
@@ -10214,7 +10282,8 @@
           {
             "url": "https://movie.douban.com/subject/35503392/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-11-13T13:54:00Z",
       "comment_text": null,
@@ -10275,7 +10344,8 @@
           {
             "url": "https://www.goodreads.com/book/show/101708267"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-11-11T03:40:50.171Z",
       "comment_text": null,
@@ -10347,7 +10417,8 @@
           {
             "url": "https://www.goodreads.com/book/show/28404509"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-11-09T12:07:50.895Z",
       "comment_text": null,
@@ -10474,7 +10545,8 @@
           {
             "url": "https://www.themoviedb.org/tv/42009/season/1"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-11-06T03:01:35.702Z",
       "comment_text": "第二集简直是现实生活的缩影。第三集中记忆回溯技术有点厉害，这种外置存储复制人类大脑存储的技术可能会实现，事实上早都已经实现了，现在用的硬盘存储不就是这种吗，只不过还没到那种程度。刚开始我觉得男主神神叨叨的，有点神经质了，看到后面有点佩服男主的细心，也有点可怜他。技术改变生活，这是一把双刃剑，慎重。",
@@ -10614,7 +10686,8 @@
           {
             "url": "https://www.imdb.com/title/tt11151998/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-11-04T11:45:34.507Z",
       "comment_text": null,
@@ -10661,7 +10734,8 @@
           {
             "url": "https://book.douban.com/subject/20414869/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-11-03T11:10:48.130Z",
       "comment_text": null,
@@ -10743,7 +10817,8 @@
           {
             "url": "https://www.themoviedb.org/tv/62822/season/3"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-11-03T02:27:48.924Z",
       "comment_text": "Max是一个成熟的领导者，可以顾全大局，考虑大多数同伴的利益。Mia有人性，有智慧，有担当。Joe和Laura一家都是很好的人，如果世界上都是这样的人，这个世界会很美好。Niska非常有个性，可以独立思考，按照自己的想法做事，保护自己喜欢的人。Stanley是一个潜伏者，这我真没想到，第一次看到我都被惊到了。第一代有智慧的合成人成员真厉害，比其他有智慧的合成人，无论是智慧、经验、技术等总是可以胜一筹。结尾很精彩，一个新的世界即将开始，我兴冲冲的找第四季，怎么也找不到了，可惜可惜。",
@@ -10829,7 +10904,8 @@
           {
             "url": "https://www.themoviedb.org/tv/62822/season/2"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-10-28T13:54:00Z",
       "comment_text": "马克西的笑非常有感染力。",
@@ -11045,7 +11121,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q429444"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-10-25T10:43:22.173Z",
       "comment_text": "娱乐元素太多了，有点讨好低龄观众的味道。",
@@ -11243,7 +11320,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q224647"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-10-25T01:46:26.444Z",
       "comment_text": null,
@@ -11340,7 +11418,8 @@
           {
             "url": "https://www.themoviedb.org/tv/62822/season/1"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-10-24T12:02:58.667Z",
       "comment_text": "我有个疑问，为什么非要做成人形机器人呢，少数场景可能需要人形机器人，但更多的场合我觉得完全没必要，在大街上扫个树叶随便的机器人都可以胜任，没必要用价值昂贵的人形机器。",
@@ -11424,7 +11503,8 @@
           {
             "url": "https://eggplant.place/book/4kwVhwyrojW5moajeeykE1"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-10-24T11:55:24.015Z",
       "comment_text": "在当今这个时代，读者多追流俗，不愿动脑子。这当然没有什么不对。真正的长篇小说，知音难觅，但知音难觅是正常的。伟大的长篇小说，没有必要像宠物一样遍地打滚，也没有必要像鬣狗一样结群吠叫。它应该是鲸鱼，在深海里，孤独地遨游着，响亮而沉重地呼吸着，波浪翻滚地交配着，血水浩荡地生产着，与成群结队的鲨鱼，保持着足够的距离。--摘抄自《捍卫长篇小说的尊严》",
@@ -11644,7 +11724,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q2633399"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-10-21T02:32:19.928Z",
       "comment_text": "致敬所有为革命献身的先驱英灵。你们有理想、有信念，有智慧，你们正直、勇敢、善良、坚韧，希望你们安康，不要被现在的乌烟瘴气烦恼。",
@@ -11840,7 +11921,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q166588"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-10-20T13:54:00Z",
       "comment_text": null,
@@ -12114,7 +12196,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q19938437"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-10-20T12:21:13.277Z",
       "comment_text": "无论如何掩饰，侵略都是邪恶的，战争都是邪恶的，人类如果可以避免战争，文明会再进步一大步。",
@@ -12392,7 +12475,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q11220194"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-10-20T04:07:47.961Z",
       "comment_text": "从小在爱的环境中成长起来，凯撒对待事情的态度要温和宽容很多，他也知道战争带来的后果，他非常聪明。",
@@ -12681,7 +12765,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q243983"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-10-19T12:35:50.016Z",
       "comment_text": "很震撼，我看到的太迟了。这是我心目中的科幻片的样子，特效好，剧情好，有深度。",
@@ -12885,7 +12970,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q3028103"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-10-19T01:25:29.294Z",
       "comment_text": "整体看下来有些压抑，可能这就是真实的世界，复杂又乱糟糟。同性恋题材我看的很少，没什么发言的，感觉是很写实的作品。同性恋算少数群体，他们在生存环境并不友好，尤其是在作品设定的那个比较早的时间背景下。在不伤害别人的前提下，每个人都有自由选择追求幸福的权利。",
@@ -12953,7 +13039,8 @@
           {
             "url": "https://books.google.com/books?id=OJQRkgEACAAJ"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-10-19T01:15:24.687Z",
       "comment_text": "谨以此书召唤那些游荡在我的故乡无边无际的通红的高粱地里的英魂和冤魂。我是你们的不肖子孙。我愿扒出我的被酱油腌透了的心，切碎，放在三个碗里，摆在高粱地里。伏惟尚飨！尚飨！",
@@ -13025,7 +13112,8 @@
           {
             "url": "https://book.douban.com/subject/36328704/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-10-18T02:17:51.416Z",
       "comment_text": "另一个版本的西游取经故事，合理的演绎，整体也能自洽，有政治和江湖的味道。",
@@ -13145,7 +13233,8 @@
           {
             "url": "https://www.themoviedb.org/movie/67097"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-10-17T04:51:39.668Z",
       "comment_text": "这种老电影意境真高，现在拍不出来这种味道了。台词好，演技好，眼中含泪的镜头确实感染到我了。",
@@ -13245,7 +13334,8 @@
           {
             "url": "https://eggplant.place/tv/season/7ZjdLylcV8gkrevtHGWsuw"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-10-16T05:08:57.195Z",
       "comment_text": "高层之间的交手，不见半点火花，但联动的是底层的拼命和厮杀。身处高位，野心勃勃，心狠手辣，漠视底层人的性命，一想到这种人比比皆是，我的心就凉了半截，感觉这是人类组织性的悲哀。",
@@ -13373,7 +13463,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q115858816"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-10-15T13:19:39.601Z",
       "comment_text": "电影很好，里面的这些小人气得我肚子疼，这些软骨头到底是怎么坐在那么高的位置上，或许现实世界就是这样的吧。有真男人，但太少了。我一直等着结尾反转，走向一个皆大欢喜的结果，并没有如意，可能这就是现实。很适合多看几遍。\r\n20241019补充：后面我知道，这些人物和和事情都有原型，怪不得这么操蛋，现实更魔幻。",
@@ -13459,7 +13550,8 @@
           {
             "url": "https://www.themoviedb.org/tv/95480/season/2"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-10-14T13:33:52.173Z",
       "comment_text": "重感情，聪明，潇洒，傲娇，嘴臭，幽默，邋遢，放屁，我说的就是兰姆。",
@@ -13615,7 +13707,8 @@
           {
             "url": "https://www.themoviedb.org/movie/758891"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-10-13T01:35:20.054Z",
       "comment_text": "整体还不错，感觉有点像低配版的《夏洛特烦恼》",
@@ -13665,7 +13758,8 @@
           {
             "url": "https://book.douban.com/subject/20562899/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-10-12T01:43:33.292Z",
       "comment_text": null,
@@ -13812,7 +13906,8 @@
           {
             "url": "https://bgm.tv/subject/377641"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-10-09T02:13:40.127Z",
       "comment_text": "高层为了利益，不择手段。想做一个好人，还想爬到高层，很难。亮点：有很多搞笑的地方，尤其是兰姆，哈哈哈，太搞笑了。",
@@ -13886,7 +13981,8 @@
           {
             "url": "https://books.google.com/books?id=NP9-AAAAIAAJ"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-10-08T13:54:00Z",
       "comment_text": "生死疲劳，从贪欲起；少欲无为，身心自在。",
@@ -14139,7 +14235,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q266209"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-10-06T13:45:47.651Z",
       "comment_text": null,
@@ -14341,7 +14438,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q67628998"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-10-05T12:44:54.328Z",
       "comment_text": "上层享受优质资源，上层不想让底层爬上去，资源自上而下越来越少。优秀的革命者，需要善良正直的心、聪明的脑子和强力的手段，他们也可以放弃自己的生命，来换取革命成功。",
@@ -14393,7 +14491,8 @@
           {
             "url": "https://book.douban.com/subject/6509455/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-10-03T10:09:33.672Z",
       "comment_text": "值得多读几遍。",
@@ -14636,7 +14735,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q15624215"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-10-02T12:18:51.053Z",
       "comment_text": "很有启发。",
@@ -14751,7 +14851,8 @@
           {
             "url": "https://www.themoviedb.org/movie/1299537"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-10-02T07:53:46.881Z",
       "comment_text": null,
@@ -14810,7 +14911,8 @@
           {
             "url": "https://bgm.tv/subject/343182"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-10-01T13:54:00Z",
       "comment_text": null,
@@ -14859,7 +14961,8 @@
           {
             "url": "https://book.douban.com/subject/3294671/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-09-28T13:54:00Z",
       "comment_text": "听单田芳的评书《十二金钱镖》，很精彩。",
@@ -15027,7 +15130,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q18228411"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-09-27T12:50:33.018Z",
       "comment_text": null,
@@ -15197,7 +15301,8 @@
           {
             "url": "https://www.themoviedb.org/movie/26875"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-09-24T13:26:01.395Z",
       "comment_text": "部分台词不错,整体剧情老套,不过也不能对老电影要求太高.",
@@ -15413,7 +15518,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q330612"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-09-23T13:01:01.516Z",
       "comment_text": "96年的电影，特效不错，故事拉跨。",
@@ -15548,7 +15654,8 @@
           {
             "url": "https://www.themoviedb.org/movie/1241476"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-09-22T02:12:37.045Z",
       "comment_text": "整体不错,影片中有2个人群很不容易,生大病的人,和出监狱的人,平时的生活中我们可能见到少,但现实中这类人群应该也不少.演员演技到位,也能共情.这更像是一部公益片.",
@@ -15603,7 +15710,8 @@
           {
             "url": "https://book.douban.com/subject/6969088/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-09-21T13:54:00Z",
       "comment_text": "听的田连元的评书，整体很好。",
@@ -15834,7 +15942,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q20762698"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-09-18T13:54:00Z",
       "comment_text": null,
@@ -16069,7 +16178,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q18844656"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-09-17T13:54:00Z",
       "comment_text": null,
@@ -16182,7 +16292,8 @@
           {
             "url": "https://bgm.tv/subject/508964"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-09-13T02:24:07.459Z",
       "comment_text": "整体不错，推荐观看。演员演技在线，服装化妆道具都好，剧情也紧凑，有一些小瑕疵，但是瑕不掩瑜，希望国内能多出一些这样的剧。",
@@ -16326,7 +16437,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q11647648"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-09-09T11:05:39.890Z",
       "comment_text": null,
@@ -16589,7 +16701,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q2345"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-09-09T07:17:53.342Z",
       "comment_text": null,
@@ -16644,7 +16757,8 @@
           {
             "url": "https://book.douban.com/subject/35428292/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-09-08T12:15:53.339Z",
       "comment_text": null,
@@ -16745,7 +16859,8 @@
           {
             "url": "https://bgm.tv/subject/377414"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-09-07T11:50:29.691Z",
       "comment_text": null,
@@ -16965,7 +17080,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q201293"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-09-07T05:48:05.302Z",
       "comment_text": "高二的时候，语文老师组织班里看了一次，当时学业枯燥，无聊看什么电影都看得津津有味，却并看不太懂电影中的很多内容。现在再看，又多了一些感悟。",
@@ -17125,7 +17241,8 @@
           {
             "url": "https://www.themoviedb.org/movie/382572"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-09-02T10:01:56.714Z",
       "comment_text": "不同阶级的思维方式不一样，他们很富有，根本不考虑钱的问题，他们势力很大，可以随意夺取别人的财产、地位、生命和一切，他们的地位很高，有很多大房子，有很多佣人，可以结交地位同样很高的其他人。他们是吃肉的虎狼，而我是吃草的绵羊，这真悲哀。",
@@ -17304,7 +17421,8 @@
           {
             "url": "https://www.themoviedb.org/movie/152601"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-08-31T03:48:56.176Z",
       "comment_text": "我的情感经历几乎空白，西奥多回忆中的恋爱甜蜜情节让我陶醉。我相信纯真的爱情，我渴望爱情，但我的性格又有些像西奥多，人工智能的陪伴是否可以替代真人呢，我觉得有些困难，如果真的有那么一天，人工智能可以替代人类或者超过人类，我拭目以待。",
@@ -17376,7 +17494,8 @@
           {
             "url": "https://movie.douban.com/subject/34796271/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-08-30T13:54:00Z",
       "comment_text": null,
@@ -17547,7 +17666,8 @@
           {
             "url": "https://movie.douban.com/subject/36934908/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-08-30T00:45:30.083Z",
       "comment_text": "很好看的电影。爸爸的木纳和老实是表象，对女儿言听计从看着傻傻的，其实是个聪明能干的男人，善良老实有正义感。3个反派都是人渣，尤其是大反派最后还怪爸爸举报他，害他妻离子散坐牢，恶棍一个。讽刺的是，他伤害的是自己的亲生女儿。电影整体算慢热型的，需要一些耐心观看。电影中的暴力情节带点血腥，但这种血腥很合理，可以体现爸爸的愤怒，甚至有点爽，警察纵容爸爸杀那个强奸犯也很舒服。刚开始看觉得警察粗鲁贪心无用，后面又觉得警察聪明宽容。",
@@ -17602,7 +17722,8 @@
           {
             "url": "https://www.douban.com/location/drama/30466629/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-08-28T06:10:29.006Z",
       "comment_text": null,
@@ -17652,7 +17773,8 @@
           {
             "url": "https://www.douban.com/location/drama/36025825/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-08-28T06:09:53.275Z",
       "comment_text": null,
@@ -17852,7 +17974,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q1393064"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-08-27T09:54:24.610Z",
       "comment_text": "不能小看任何一个人，每个人都可能爆发出惊人的力量。",
@@ -18044,7 +18167,8 @@
           {
             "url": "https://www.themoviedb.org/movie/324668"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-08-26T13:04:39.966Z",
       "comment_text": null,
@@ -18263,7 +18387,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q494048"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-08-26T09:18:00.832Z",
       "comment_text": null,
@@ -18529,7 +18654,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q107226"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-08-25T13:36:33.041Z",
       "comment_text": null,
@@ -18623,7 +18749,8 @@
           {
             "url": "https://movie.douban.com/subject/2272235/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-08-25T02:33:15.299Z",
       "comment_text": null,
@@ -18893,7 +19020,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q156608"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-08-24T12:40:41.675Z",
       "comment_text": null,
@@ -19170,7 +19298,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q105624"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-08-24T12:40:20.039Z",
       "comment_text": null,
@@ -19245,7 +19374,8 @@
           {
             "url": "https://movie.douban.com/subject/26803472/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-08-14T13:54:00Z",
       "comment_text": null,
@@ -19338,7 +19468,8 @@
           {
             "url": "https://www.themoviedb.org/tv/207468/season/1"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-08-13T07:25:41.698Z",
       "comment_text": "设定不错，人物刻画也挺好。",
@@ -19602,7 +19733,8 @@
           {
             "url": "https://bgm.tv/subject/303548"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-08-12T14:40:19.416Z",
       "comment_text": "强烈推荐，这部电影值得反复观看。98年的电影，构思的这么好，不得不佩服人类的创造力，现在我们的创造力是否还比得上从前呢，未可知也。",
@@ -19849,7 +19981,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q220713"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-08-12T12:21:13.446Z",
       "comment_text": null,
@@ -19898,7 +20031,8 @@
           {
             "url": "https://music.douban.com/subject/1775972/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-08-11T02:31:56.832Z",
       "comment_text": null,
@@ -19946,7 +20080,8 @@
           {
             "url": "https://music.douban.com/subject/34197114/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-08-11T02:28:59.996Z",
       "comment_text": null,
@@ -20001,7 +20136,8 @@
           {
             "url": "https://book.douban.com/subject/2979014/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-08-11T02:10:11.253Z",
       "comment_text": "短片小说也有不错的体验。",
@@ -20221,7 +20357,8 @@
           {
             "url": "https://www.themoviedb.org/movie/9631"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-08-10T05:53:10.368Z",
       "comment_text": "太经典了，1998年的电影，值得反复观看。",
@@ -20275,7 +20412,8 @@
           {
             "url": "https://music.douban.com/subject/3008186/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-08-09T04:12:37.827Z",
       "comment_text": null,
@@ -20364,7 +20502,8 @@
           {
             "url": "https://www.imdb.com/title/tt27881502/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-08-08T14:23:14.622Z",
       "comment_text": "小孩子的想象力很丰富，我感觉自己小时候也这样，但是好多东西都在脑子里，没法说出来，即使到现在这个年纪，好多的东西我也说不出来，写不出来。我们的环境大都是打压这种难得的能力，非要在同一个模子刻出来，这样的小孩长大了大概零就是螺丝钉，我们的创造力小时候就被抑制了，死在了萌芽中。每个小孩子都是一个很好的树苗，能不能长成参天大树，环境非常重要，如何提供一个这样的环境，这是个难题，如何解决呢，希望有朝一日我能想到一个好办法。",
@@ -20440,7 +20579,8 @@
           {
             "url": "https://www.douban.com/game/26775340/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-08-08T08:19:35.746Z",
       "comment_text": null,
@@ -20502,7 +20642,8 @@
           {
             "url": "https://music.douban.com/subject/2165859/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-08-08T08:18:18.756Z",
       "comment_text": null,
@@ -20576,7 +20717,8 @@
           {
             "url": "https://book.douban.com/subject/1054685/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-08-07T11:12:51.367Z",
       "comment_text": null,
@@ -20768,7 +20910,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q1315888"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-08-07T11:11:16.979Z",
       "comment_text": "经典永远不过时，很好看。",
@@ -21000,7 +21143,8 @@
           {
             "url": "https://www.themoviedb.org/movie/592984"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-08-06T11:27:48.039Z",
       "comment_text": "我们无法选择出生，如果是出生环境很差，那我们逃离这个环境的几率就很小，即使肉身逃离，也很难拜托小时候的阴影。如果能靠自己挣扎出来，我觉得这个人非常强大。\r\n千万不能沾毒品，它谁让人丧失一切尊严和体面。\r\n生命里像外婆和女友那样的贵人很少，可遇而不可求。\r\n父母的言谈举止对孩子的影响非常巨大，贯穿一生，也会影响孩子教育下一代。\r\n迷途知返非常难得，浪子回头金不换。",
@@ -21140,7 +21284,8 @@
           {
             "url": "https://www.themoviedb.org/movie/14016"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-08-05T12:24:50.167Z",
       "comment_text": "人心里的鬼会越来越多。",
@@ -21198,7 +21343,8 @@
           {
             "url": "https://book.douban.com/subject/4832584/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-08-01T12:42:44.959Z",
       "comment_text": null,
@@ -21270,7 +21416,8 @@
           {
             "url": "https://www.goodreads.com/book/show/39343751"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-08-01T12:28:19.359Z",
       "comment_text": null,
@@ -21381,7 +21528,8 @@
           {
             "url": "https://bgm.tv/subject/369304"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-07-28T13:54:00Z",
       "comment_text": null,
@@ -21455,7 +21603,8 @@
           {
             "url": "https://movie.douban.com/subject/26803471/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-07-27T13:54:00Z",
       "comment_text": null,
@@ -21546,7 +21695,8 @@
           {
             "url": "https://www.themoviedb.org/tv/204154/season/1"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-07-26T13:54:00Z",
       "comment_text": null,
@@ -21830,7 +21980,8 @@
           {
             "url": "https://bgm.tv/subject/232067"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-07-25T13:54:00Z",
       "comment_text": null,
@@ -21904,7 +22055,8 @@
           {
             "url": "https://movie.douban.com/subject/26473874/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-07-21T14:41:03.477Z",
       "comment_text": null,
@@ -21981,7 +22133,8 @@
           {
             "url": "https://movie.douban.com/subject/25754843/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-07-21T14:40:50.293Z",
       "comment_text": null,
@@ -22058,7 +22211,8 @@
           {
             "url": "https://eggplant.place/tv/season/7WX2HgETwBirDs9dtEhZJr"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-07-21T14:40:35.773Z",
       "comment_text": null,
@@ -22335,7 +22489,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q104905"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-07-15T13:52:22.171Z",
       "comment_text": null,
@@ -22416,7 +22571,8 @@
           {
             "url": "https://movie.douban.com/subject/35128081/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-07-13T13:54:00Z",
       "comment_text": null,
@@ -22487,7 +22643,8 @@
           {
             "url": "https://book.douban.com/subject/6781808/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-07-05T13:54:00Z",
       "comment_text": null,
@@ -22553,7 +22710,8 @@
           {
             "url": "https://book.douban.com/subject/10546136/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-07-02T13:54:00Z",
       "comment_text": null,
@@ -22695,7 +22853,8 @@
           {
             "url": "https://www.themoviedb.org/tv/95479/season/1"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-06-20T13:54:00Z",
       "comment_text": null,
@@ -22793,7 +22952,8 @@
           {
             "url": "https://movie.douban.com/subject/35118256/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-06-17T13:54:00Z",
       "comment_text": null,
@@ -22853,7 +23013,8 @@
           {
             "url": "https://book.douban.com/subject/1083092/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-06-14T13:54:00Z",
       "comment_text": null,
@@ -23030,7 +23191,8 @@
           {
             "url": "https://neodb.kevga.de/tv/season/0KPTShyznUCf0ZltOY4RsE"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-06-11T13:54:00Z",
       "comment_text": null,
@@ -23112,7 +23274,8 @@
           {
             "url": "https://movie.douban.com/subject/35839999/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-06-08T13:54:00Z",
       "comment_text": null,
@@ -23185,7 +23348,8 @@
           {
             "url": "https://www.goodreads.com/book/show/52195757"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-06-01T13:54:00Z",
       "comment_text": null,
@@ -23238,7 +23402,8 @@
           {
             "url": "https://book.douban.com/subject/11441813/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-05-26T13:54:00Z",
       "comment_text": null,
@@ -23371,7 +23536,8 @@
           {
             "url": "https://www.themoviedb.org/tv/208891/season/1"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-05-23T13:54:00Z",
       "comment_text": null,
@@ -23435,7 +23601,8 @@
           {
             "url": "https://book.douban.com/subject/1083091/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-05-20T13:54:00Z",
       "comment_text": null,
@@ -23499,7 +23666,8 @@
           {
             "url": "https://movie.douban.com/subject/36571025/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-05-15T13:54:00Z",
       "comment_text": null,
@@ -23573,7 +23741,8 @@
           {
             "url": "https://book.douban.com/subject/36593622/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-05-14T13:54:00Z",
       "comment_text": null,
@@ -23653,7 +23822,8 @@
           {
             "url": "https://bgm.tv/subject/508794"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-05-10T13:54:00Z",
       "comment_text": null,
@@ -23744,7 +23914,8 @@
           {
             "url": "https://www.themoviedb.org/tv/126485/season/1"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-05-09T13:54:00Z",
       "comment_text": null,
@@ -23823,7 +23994,8 @@
           {
             "url": "https://book.douban.com/subject/3633461/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-05-03T13:54:00Z",
       "comment_text": null,
@@ -23910,7 +24082,8 @@
           {
             "url": "https://www.themoviedb.org/tv/195339/season/2"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-04-17T13:54:00Z",
       "comment_text": null,
@@ -24124,7 +24297,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q459398"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-03-30T13:54:00Z",
       "comment_text": null,
@@ -24227,7 +24401,8 @@
           {
             "url": "https://www.imdb.com/title/tt12151818/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-03-28T13:54:00Z",
       "comment_text": null,
@@ -24443,7 +24618,8 @@
           {
             "url": "https://movie.douban.com/subject/1291879/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-03-27T13:54:00Z",
       "comment_text": null,
@@ -24527,7 +24703,8 @@
           {
             "url": "https://movie.douban.com/subject/34990593/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-03-14T13:54:00Z",
       "comment_text": null,
@@ -24632,7 +24809,8 @@
           {
             "url": "https://eggplant.place/tv/season/7CoVbWQoSDMiNDFwqO3u0c"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-03-12T13:54:00Z",
       "comment_text": null,
@@ -24792,7 +24970,8 @@
           {
             "url": "https://www.themoviedb.org/movie/1109586"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-03-05T13:54:00Z",
       "comment_text": null,
@@ -25023,7 +25202,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q20948236"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-03-04T13:54:00Z",
       "comment_text": null,
@@ -25120,7 +25300,8 @@
           {
             "url": "https://www.themoviedb.org/tv/1429/season/3"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-02-29T13:54:00Z",
       "comment_text": null,
@@ -25358,7 +25539,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q67936237"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-02-22T13:54:00Z",
       "comment_text": null,
@@ -25527,7 +25709,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q65972529"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-02-16T13:54:00Z",
       "comment_text": null,
@@ -25609,7 +25792,8 @@
           {
             "url": "https://bgm.tv/subject/263750"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-02-15T13:54:00Z",
       "comment_text": null,
@@ -25767,7 +25951,8 @@
           {
             "url": "https://bgm.tv/subject/429141"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-02-08T13:54:00Z",
       "comment_text": null,
@@ -26017,7 +26202,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q219421"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-02-08T13:54:00Z",
       "comment_text": null,
@@ -26142,7 +26328,8 @@
           {
             "url": "https://www.themoviedb.org/tv/139162/season/1"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-02-05T13:54:00Z",
       "comment_text": null,
@@ -26361,7 +26548,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q108839994"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-02-03T13:54:00Z",
       "comment_text": null,
@@ -26536,7 +26724,8 @@
           {
             "url": "https://www.themoviedb.org/movie/839803"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-01-19T13:54:00Z",
       "comment_text": null,
@@ -26835,7 +27024,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q76448600"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-01-18T13:54:00Z",
       "comment_text": null,
@@ -26931,7 +27121,8 @@
           {
             "url": "https://www.themoviedb.org/tv/1429/season/4"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-01-12T13:54:00Z",
       "comment_text": null,
@@ -27025,7 +27216,8 @@
           {
             "url": "https://fantastika.social/tv/season/3cqIl70H7ySJFCh3oktYXE"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-01-10T13:54:00Z",
       "comment_text": null,
@@ -27114,7 +27306,8 @@
           {
             "url": "https://www.themoviedb.org/tv/1429/season/1"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-01-09T13:54:00Z",
       "comment_text": null,
@@ -27235,7 +27428,8 @@
           {
             "url": "https://www.themoviedb.org/tv/71496/season/1"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-01-02T13:54:00Z",
       "comment_text": null,
@@ -27313,7 +27507,8 @@
           {
             "url": "https://movie.douban.com/subject/35290710/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2024-01-01T13:54:00Z",
       "comment_text": null,
@@ -27396,7 +27591,8 @@
           {
             "url": "https://movie.douban.com/subject/35162581/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-12-19T13:54:00Z",
       "comment_text": null,
@@ -27496,7 +27692,8 @@
           {
             "url": "https://www.themoviedb.org/tv/46296/season/3"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-12-15T13:54:00Z",
       "comment_text": null,
@@ -27632,7 +27829,8 @@
           {
             "url": "https://www.themoviedb.org/movie/1089654"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-12-08T13:54:00Z",
       "comment_text": null,
@@ -27759,7 +27957,8 @@
           {
             "url": "https://movie.douban.com/subject/35457272/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-11-30T13:54:00Z",
       "comment_text": null,
@@ -27816,7 +28015,8 @@
           {
             "url": "https://movie.douban.com/subject/35259439/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-11-23T13:54:00Z",
       "comment_text": null,
@@ -27901,7 +28101,8 @@
           {
             "url": "https://movie.douban.com/subject/34911053/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-11-14T13:54:00Z",
       "comment_text": null,
@@ -27972,7 +28173,8 @@
           {
             "url": "https://book.douban.com/subject/3239913/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-11-11T13:54:00Z",
       "comment_text": null,
@@ -28100,7 +28302,8 @@
           {
             "url": "https://www.themoviedb.org/movie/801803"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-11-08T13:54:00Z",
       "comment_text": null,
@@ -28278,7 +28481,8 @@
           {
             "url": "https://www.themoviedb.org/movie/916224"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-10-26T13:54:00Z",
       "comment_text": null,
@@ -28488,7 +28692,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q239756"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-09-21T13:54:00Z",
       "comment_text": null,
@@ -28574,7 +28779,8 @@
           {
             "url": "https://movie.douban.com/subject/30201281/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-09-14T13:54:00Z",
       "comment_text": null,
@@ -28725,7 +28931,8 @@
           {
             "url": "https://bgm.tv/subject/449520"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-07-28T13:54:00Z",
       "comment_text": null,
@@ -28901,7 +29108,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q5231252"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-07-20T13:54:00Z",
       "comment_text": null,
@@ -28961,7 +29169,8 @@
           {
             "url": "https://movie.douban.com/subject/35679796/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-07-20T13:54:00Z",
       "comment_text": null,
@@ -29046,7 +29255,8 @@
           {
             "url": "https://movie.douban.com/subject/30183610/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-07-12T13:54:00Z",
       "comment_text": null,
@@ -29282,7 +29492,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q18199332"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-06-24T13:54:00Z",
       "comment_text": null,
@@ -29332,7 +29543,8 @@
           {
             "url": "https://www.themoviedb.org/tv/158190"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-06-24T13:54:00Z",
       "comment_text": null,
@@ -29423,7 +29635,8 @@
           {
             "url": "https://www.themoviedb.org/tv/102788/season/1"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-06-23T13:54:00Z",
       "comment_text": null,
@@ -29477,7 +29690,8 @@
           {
             "url": "https://movie.douban.com/subject/35679792/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-06-16T13:54:00Z",
       "comment_text": null,
@@ -29562,7 +29776,8 @@
           {
             "url": "https://movie.douban.com/subject/27185036/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-06-14T13:54:00Z",
       "comment_text": null,
@@ -29647,7 +29862,8 @@
           {
             "url": "https://www.themoviedb.org/tv/68034/season/1"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-06-13T13:54:00Z",
       "comment_text": null,
@@ -29948,7 +30164,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q18199331"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-05-25T13:54:00Z",
       "comment_text": null,
@@ -30213,7 +30430,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q18199330"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-05-08T13:54:00Z",
       "comment_text": null,
@@ -30474,7 +30692,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q105554572"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-04-20T13:54:00Z",
       "comment_text": null,
@@ -30542,7 +30761,8 @@
           {
             "url": "https://www.themoviedb.org/tv/75867/season/1"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-04-19T13:54:00Z",
       "comment_text": null,
@@ -30805,7 +31025,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q48673898"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-04-08T13:54:00Z",
       "comment_text": null,
@@ -31012,7 +31233,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q859852"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-03-08T13:54:00Z",
       "comment_text": null,
@@ -31310,7 +31532,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q161678"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-02-18T13:54:00Z",
       "comment_text": null,
@@ -31408,7 +31631,8 @@
           {
             "url": "https://log.melonbread.xyz/tv/season/2LuRhReCvuhiS1b2WA7fEZ"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-02-17T13:54:00Z",
       "comment_text": null,
@@ -31658,7 +31882,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q232009"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-02-08T13:54:00Z",
       "comment_text": null,
@@ -31880,7 +32105,8 @@
           {
             "url": "https://www.themoviedb.org/movie/675"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-01-21T13:54:00Z",
       "comment_text": null,
@@ -32162,7 +32388,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q125076"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2023-01-08T13:54:00Z",
       "comment_text": null,
@@ -32416,7 +32643,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q3057240"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2022-12-08T13:54:00Z",
       "comment_text": null,
@@ -32491,7 +32719,8 @@
           {
             "url": "https://movie.douban.com/subject/3882715/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2022-11-27T13:54:00Z",
       "comment_text": null,
@@ -32750,7 +32979,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q202326"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2022-10-27T13:54:00Z",
       "comment_text": null,
@@ -32820,7 +33050,8 @@
           {
             "url": "https://movie.douban.com/subject/2373267/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2022-10-21T13:54:00Z",
       "comment_text": null,
@@ -33020,7 +33251,8 @@
           {
             "url": "https://movie.douban.com/subject/1292365/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2022-10-12T13:54:00Z",
       "comment_text": null,
@@ -33269,7 +33501,8 @@
           {
             "url": "https://bgm.tv/subject/96295"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2022-09-08T13:54:00Z",
       "comment_text": null,
@@ -33523,7 +33756,8 @@
           {
             "url": "https://www.imdb.com/title/tt1343092/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2022-08-31T13:54:00Z",
       "comment_text": null,
@@ -33609,7 +33843,8 @@
           {
             "url": "https://movie.douban.com/subject/24723061/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2022-08-31T13:54:00Z",
       "comment_text": null,
@@ -33680,7 +33915,8 @@
           {
             "url": "https://movie.douban.com/subject/25928032/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2022-08-27T13:54:00Z",
       "comment_text": null,
@@ -33822,7 +34058,8 @@
           {
             "url": "https://www.themoviedb.org/tv/42705/season/1"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2022-08-25T13:54:00Z",
       "comment_text": null,
@@ -34045,7 +34282,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q38685497"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2022-08-08T13:54:00Z",
       "comment_text": null,
@@ -34263,7 +34501,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q47703"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2022-08-08T13:54:00Z",
       "comment_text": null,
@@ -34478,7 +34717,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q67124023"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2022-07-16T13:54:00Z",
       "comment_text": null,
@@ -34551,7 +34791,8 @@
           {
             "url": "https://movie.douban.com/subject/5151730/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2022-07-15T13:54:00Z",
       "comment_text": null,
@@ -34705,7 +34946,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q102225"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2022-05-20T13:54:00Z",
       "comment_text": null,
@@ -34932,7 +35174,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q102448"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2022-05-12T13:54:00Z",
       "comment_text": null,
@@ -35112,7 +35355,8 @@
           {
             "url": "https://www.themoviedb.org/movie/362682"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2022-04-30T13:54:00Z",
       "comment_text": null,
@@ -35370,7 +35614,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q102244"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2022-04-08T13:54:00Z",
       "comment_text": null,
@@ -35445,7 +35690,8 @@
           {
             "url": "https://movie.douban.com/subject/10477598/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2022-03-23T13:54:00Z",
       "comment_text": null,
@@ -35680,7 +35926,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q15055478"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2022-03-11T13:54:00Z",
       "comment_text": null,
@@ -35961,7 +36208,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q22000542"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2022-03-07T13:54:00Z",
       "comment_text": null,
@@ -36039,7 +36287,8 @@
           {
             "url": "https://bgm.tv/subject/128309"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2022-02-24T13:54:00Z",
       "comment_text": null,
@@ -36142,7 +36391,8 @@
           {
             "url": "https://www.themoviedb.org/tv/46296/season/1"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2022-02-16T13:54:00Z",
       "comment_text": null,
@@ -36364,7 +36614,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q102438"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2022-02-08T13:54:00Z",
       "comment_text": null,
@@ -36614,7 +36865,8 @@
           {
             "url": "https://www.themoviedb.org/movie/44896"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2022-02-07T13:54:00Z",
       "comment_text": null,
@@ -36708,7 +36960,8 @@
           {
             "url": "https://bgm.tv/subject/246001"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2022-01-13T13:54:00Z",
       "comment_text": null,
@@ -36871,7 +37124,8 @@
           {
             "url": "https://www.themoviedb.org/movie/9470"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2022-01-04T13:54:00Z",
       "comment_text": null,
@@ -36937,7 +37191,8 @@
           {
             "url": "https://movie.douban.com/subject/2988827/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2021-11-24T13:54:00Z",
       "comment_text": null,
@@ -37125,7 +37380,8 @@
           {
             "url": "https://www.themoviedb.org/movie/18860"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2021-11-10T13:54:00Z",
       "comment_text": null,
@@ -37208,7 +37464,8 @@
           {
             "url": "https://movie.douban.com/subject/1830590/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2021-07-16T13:54:00Z",
       "comment_text": null,
@@ -37348,7 +37605,8 @@
           {
             "url": "https://www.themoviedb.org/movie/11492"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2021-07-13T13:54:00Z",
       "comment_text": null,
@@ -37567,7 +37825,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q76780267"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2021-06-26T13:54:00Z",
       "comment_text": null,
@@ -37638,7 +37897,8 @@
           {
             "url": "https://movie.douban.com/subject/2155164/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2021-06-24T13:54:00Z",
       "comment_text": null,
@@ -37755,7 +38015,8 @@
           {
             "url": "https://www.themoviedb.org/tv/30689/season/1"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2021-06-10T13:54:00Z",
       "comment_text": null,
@@ -37880,7 +38141,8 @@
           {
             "url": "https://bgm.tv/subject/123218"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2021-05-12T13:54:00Z",
       "comment_text": null,
@@ -38084,7 +38346,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q280276"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2021-03-08T13:54:00Z",
       "comment_text": null,
@@ -38155,7 +38418,8 @@
           {
             "url": "https://movie.douban.com/subject/2347485/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2021-02-24T13:54:00Z",
       "comment_text": null,
@@ -38236,7 +38500,8 @@
           {
             "url": "https://movie.douban.com/subject/7051357/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2021-02-09T13:54:00Z",
       "comment_text": null,
@@ -38330,7 +38595,8 @@
           {
             "url": "https://bgm.tv/subject/221227"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2021-01-14T13:54:00Z",
       "comment_text": null,
@@ -38584,7 +38850,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q1388653"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2021-01-07T13:54:00Z",
       "comment_text": null,
@@ -38751,7 +39018,8 @@
           {
             "url": "https://www.themoviedb.org/movie/184614"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2021-01-05T13:54:00Z",
       "comment_text": null,
@@ -38826,7 +39094,8 @@
           {
             "url": "https://movie.douban.com/subject/2216383/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2020-10-07T13:54:00Z",
       "comment_text": null,
@@ -39108,7 +39377,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q131390"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2020-07-24T13:54:00Z",
       "comment_text": null,
@@ -39351,7 +39621,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q7831591"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2020-07-15T13:54:00Z",
       "comment_text": null,
@@ -39569,7 +39840,8 @@
           {
             "url": "https://www.imdb.com/title/tt5074352/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2020-07-02T13:54:00Z",
       "comment_text": null,
@@ -39619,7 +39891,8 @@
           {
             "url": "https://www.themoviedb.org/tv/95423"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2020-06-18T13:54:00Z",
       "comment_text": null,
@@ -39835,7 +40108,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q93701"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2020-03-04T13:54:00Z",
       "comment_text": null,
@@ -40125,7 +40399,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q172241"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2020-02-12T13:54:00Z",
       "comment_text": null,
@@ -40355,7 +40630,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q134773"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2020-02-06T13:54:00Z",
       "comment_text": null,
@@ -40440,7 +40716,8 @@
           {
             "url": "https://bgm.tv/subject/234772"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2020-01-13T13:54:00Z",
       "comment_text": null,
@@ -40568,7 +40845,8 @@
           {
             "url": "https://www.themoviedb.org/tv/65944/season/1"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2019-12-20T13:54:00Z",
       "comment_text": null,
@@ -40620,7 +40898,8 @@
           {
             "url": "https://movie.douban.com/subject/11504572/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2019-11-22T13:54:00Z",
       "comment_text": null,
@@ -40814,7 +41093,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q15616479"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2019-10-17T13:54:00Z",
       "comment_text": null,
@@ -41034,7 +41314,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q143513"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2019-10-17T13:54:00Z",
       "comment_text": null,
@@ -41108,7 +41389,8 @@
           {
             "url": "https://movie.douban.com/subject/10728463/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2019-08-30T13:54:00Z",
       "comment_text": null,
@@ -41370,7 +41652,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q6434185"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2019-08-24T13:54:00Z",
       "comment_text": null,
@@ -41478,7 +41761,8 @@
           {
             "url": "https://www.wikidata.org/wiki/Q25338402"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2019-06-15T13:54:00Z",
       "comment_text": null,
@@ -41645,7 +41929,8 @@
           {
             "url": "https://movie.douban.com/subject/6869376/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2019-06-05T13:54:00Z",
       "comment_text": null,
@@ -41718,7 +42003,8 @@
           {
             "url": "https://movie.douban.com/subject/3011552/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2019-05-17T13:54:00Z",
       "comment_text": null,
@@ -41801,7 +42087,8 @@
           {
             "url": "https://movie.douban.com/subject/6126501/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2019-03-17T13:54:00Z",
       "comment_text": null,
@@ -41867,7 +42154,8 @@
           {
             "url": "https://movie.douban.com/subject/25766634/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2018-11-21T13:54:00Z",
       "comment_text": null,
@@ -41937,7 +42225,8 @@
           {
             "url": "https://movie.douban.com/subject/11639499/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2018-10-27T13:54:00Z",
       "comment_text": null,
@@ -42010,7 +42299,8 @@
           {
             "url": "https://movie.douban.com/subject/4766920/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2018-10-11T13:54:00Z",
       "comment_text": null,
@@ -42143,7 +42433,8 @@
           {
             "url": "https://www.themoviedb.org/tv/72362/season/1"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2018-08-07T13:54:00Z",
       "comment_text": null,
@@ -42222,7 +42513,8 @@
           {
             "url": "https://movie.douban.com/subject/6952623/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2018-06-17T13:54:00Z",
       "comment_text": null,
@@ -42287,7 +42579,8 @@
           {
             "url": "https://movie.douban.com/subject/25837916/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2018-06-16T13:54:00Z",
       "comment_text": null,
@@ -42362,7 +42655,8 @@
           {
             "url": "https://movie.douban.com/subject/26392671/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2018-02-14T13:54:00Z",
       "comment_text": null,
@@ -42431,7 +42725,8 @@
           {
             "url": "https://movie.douban.com/subject/3278993/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2018-01-25T13:54:00Z",
       "comment_text": null,
@@ -42564,7 +42859,8 @@
           {
             "url": "https://www.themoviedb.org/tv/13923/season/1"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2018-01-10T13:54:00Z",
       "comment_text": null,
@@ -42644,7 +42940,8 @@
           {
             "url": "https://www.themoviedb.org/tv/34791/season/1"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2017-11-17T13:54:00Z",
       "comment_text": null,
@@ -42875,7 +43172,8 @@
           {
             "url": "https://www.themoviedb.org/movie/127533"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2017-10-20T13:54:00Z",
       "comment_text": null,
@@ -42963,7 +43261,8 @@
           {
             "url": "https://www.themoviedb.org/tv/60811/season/1"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2017-07-27T13:54:00Z",
       "comment_text": null,
@@ -43038,7 +43337,8 @@
           {
             "url": "https://movie.douban.com/subject/4840353/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2017-06-08T13:54:00Z",
       "comment_text": null,
@@ -43117,7 +43417,8 @@
           {
             "url": "https://movie.douban.com/subject/4117005/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2017-01-26T13:54:00Z",
       "comment_text": null,
@@ -43227,7 +43528,8 @@
           {
             "url": "https://movie.douban.com/subject/2244765/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2016-11-25T13:54:00Z",
       "comment_text": null,
@@ -43298,7 +43600,8 @@
           {
             "url": "https://movie.douban.com/subject/5262056/"
           }
-        ]
+        ],
+        "credits": []
       },
       "created_time": "2016-01-21T13:54:00Z",
       "comment_text": null,
@@ -43316,36 +43619,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2026-04-17T01:50:34.915107",
+  "updated_at": "2026-04-18T01:28:49.967271",
   "stats": {
     "movie": {
       "count": 145,
-      "time": 10.62
+      "time": 13.69
     },
     "tv": {
       "count": 115,
-      "time": 7.02
+      "time": 8.44
     },
     "book": {
       "count": 36,
-      "time": 1.69
+      "time": 2.3
     },
     "music": {
       "count": 4,
-      "time": 0.14
+      "time": 0.21
     },
     "podcast": {
       "count": 0,
-      "time": 0.11
+      "time": 0.17
     },
     "game": {
       "count": 1,
-      "time": 0.16
+      "time": 0.25
     },
     "performance": {
       "count": 2,
-      "time": 0.15
+      "time": 0.26
     }
   },
-  "total_time": 19.9
+  "total_time": 25.32
 }
