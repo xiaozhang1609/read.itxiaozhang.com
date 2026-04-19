@@ -60,7 +60,20 @@
             "url": "https://book.douban.com/subject/24862876/"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "苏童",
+            "character_name": "",
+            "person_url": "/api/person/5iHKvF49Dayv9cDwu23Pwk"
+          },
+          {
+            "role": "publisher",
+            "name": "作家出版社",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2026-01-30T14:07:23.608Z",
       "comment_text": null,
@@ -131,7 +144,20 @@
             "url": "https://book.douban.com/subject/1456183/"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "苏童",
+            "character_name": "",
+            "person_url": "/api/person/5iHKvF49Dayv9cDwu23Pwk"
+          },
+          {
+            "role": "publisher",
+            "name": "上海文艺出版社",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2026-01-23T13:57:20.254Z",
       "comment_text": null,
@@ -194,7 +220,20 @@
             "url": "https://book.douban.com/subject/1444245/"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "苏童",
+            "character_name": "",
+            "person_url": "/api/person/5iHKvF49Dayv9cDwu23Pwk"
+          },
+          {
+            "role": "publisher",
+            "name": "上海文艺出版社",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2026-01-23T13:54:00Z",
       "comment_text": null,
@@ -264,7 +303,20 @@
             "url": "https://book.douban.com/subject/3662115/"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "苏童",
+            "character_name": "",
+            "person_url": "/api/person/5iHKvF49Dayv9cDwu23Pwk"
+          },
+          {
+            "role": "publisher",
+            "name": "人民文学出版社",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2026-01-19T13:54:00Z",
       "comment_text": null,
@@ -336,7 +388,20 @@
             "url": "https://book.douban.com/subject/1025753/"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "苏童",
+            "character_name": "",
+            "person_url": "/api/person/5iHKvF49Dayv9cDwu23Pwk"
+          },
+          {
+            "role": "publisher",
+            "name": "上海文艺出版社",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2025-12-29T16:20:08.618Z",
       "comment_text": null,
@@ -402,7 +467,20 @@
             "url": "https://book.douban.com/subject/24748615/"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "豆豆",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "publisher",
+            "name": "作家出版社",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2025-12-18T06:22:40.166Z",
       "comment_text": null,
@@ -462,7 +540,20 @@
             "url": "https://www.goodreads.com/book/show/53492856"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "萧红",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "publisher",
+            "name": "陕西师大",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2025-04-06T03:49:54.917Z",
       "comment_text": null,
@@ -533,7 +624,26 @@
             "url": "https://book.douban.com/subject/1018360/"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "[英国] 霭理士",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "publisher",
+            "name": "商务印书馆",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "translator",
+            "name": "潘光旦",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2024-12-15T13:25:45.155Z",
       "comment_text": null,
@@ -597,7 +707,20 @@
             "url": "https://book.douban.com/subject/1046276/"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "余华",
+            "character_name": "",
+            "person_url": "/api/person/6D1G8EXkxjSkfsY1xqz2Et"
+          },
+          {
+            "role": "publisher",
+            "name": "上海文艺出版社",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2024-11-23T13:54:00Z",
       "comment_text": null,
@@ -651,7 +774,20 @@
             "url": "https://book.douban.com/subject/6308767/"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "吕新",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "publisher",
+            "name": "中国华侨出版社",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2024-11-17T11:00:31.906Z",
       "comment_text": null,
@@ -713,7 +849,26 @@
             "url": "https://www.goodreads.com/book/show/101708267"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "[日] 村上春树",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "publisher",
+            "name": "Shanghai Translation Publishing House",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "translator",
+            "name": "林少华",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2024-11-11T03:40:50.171Z",
       "comment_text": null,
@@ -786,7 +941,20 @@
             "url": "https://www.goodreads.com/book/show/28404509"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "余华",
+            "character_name": "",
+            "person_url": "/api/person/6D1G8EXkxjSkfsY1xqz2Et"
+          },
+          {
+            "role": "publisher",
+            "name": "南海出版公司",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2024-11-09T12:07:50.895Z",
       "comment_text": null,
@@ -834,7 +1002,14 @@
             "url": "https://book.douban.com/subject/20414869/"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "莫言",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2024-11-03T11:10:48.130Z",
       "comment_text": null,
@@ -919,7 +1094,20 @@
             "url": "https://eggplant.place/book/4kwVhwyrojW5moajeeykE1"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "莫言",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "publisher",
+            "name": "作家出版社",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2024-10-24T11:55:24.015Z",
       "comment_text": "在当今这个时代，读者多追流俗，不愿动脑子。这当然没有什么不对。真正的长篇小说，知音难觅，但知音难觅是正常的。伟大的长篇小说，没有必要像宠物一样遍地打滚，也没有必要像鬣狗一样结群吠叫。它应该是鲸鱼，在深海里，孤独地遨游着，响亮而沉重地呼吸着，波浪翻滚地交配着，血水浩荡地生产着，与成群结队的鲨鱼，保持着足够的距离。--摘抄自《捍卫长篇小说的尊严》",
@@ -988,7 +1176,20 @@
             "url": "https://books.google.com/books?id=OJQRkgEACAAJ"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "莫言",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "publisher",
+            "name": "上海文艺出版社",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2024-10-19T01:15:24.687Z",
       "comment_text": "谨以此书召唤那些游荡在我的故乡无边无际的通红的高粱地里的英魂和冤魂。我是你们的不肖子孙。我愿扒出我的被酱油腌透了的心，切碎，放在三个碗里，摆在高粱地里。伏惟尚飨！尚飨！",
@@ -1061,7 +1262,26 @@
             "url": "https://book.douban.com/subject/36328704/"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "马伯庸",
+            "character_name": "",
+            "person_url": "/api/person/1P5z5YUaVSVJDOHP5mi2Lq"
+          },
+          {
+            "role": "imprint",
+            "name": "博集天卷",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "publisher",
+            "name": "湖南文艺出版社",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2024-10-18T02:17:51.416Z",
       "comment_text": "另一个版本的西游取经故事，合理的演绎，整体也能自洽，有政治和江湖的味道。",
@@ -1112,7 +1332,26 @@
             "url": "https://book.douban.com/subject/20562899/"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "鲁迅",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "author",
+            "name": "绘者 丰子恺",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "publisher",
+            "name": "春风文艺出版社",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2024-10-12T01:43:33.292Z",
       "comment_text": null,
@@ -1187,7 +1426,20 @@
             "url": "https://books.google.com/books?id=NP9-AAAAIAAJ"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "莫言",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "publisher",
+            "name": "作家出版社",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2024-10-08T13:54:00Z",
       "comment_text": "生死疲劳，从贪欲起；少欲无为，身心自在。",
@@ -1240,7 +1492,26 @@
             "url": "https://book.douban.com/subject/6509455/"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "乔治·奥威尔",
+            "character_name": "",
+            "person_url": "/api/person/20uXftzjbZoN9icC0vO2hy"
+          },
+          {
+            "role": "publisher",
+            "name": "百花洲文艺出版社",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "translator",
+            "name": "李立玮",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2024-10-03T10:09:33.672Z",
       "comment_text": "值得多读几遍。",
@@ -1290,7 +1561,14 @@
             "url": "https://book.douban.com/subject/3294671/"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "宫白羽",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2024-09-28T13:54:00Z",
       "comment_text": "听单田芳的评书《十二金钱镖》，很精彩。",
@@ -1346,7 +1624,26 @@
             "url": "https://book.douban.com/subject/6969088/"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "金庸",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "publisher",
+            "name": "广州出版社",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "translator",
+            "name": "2011年11月第1版 2013年4月第2版",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2024-09-21T13:54:00Z",
       "comment_text": "听的田连元的评书，整体很好。",
@@ -1402,7 +1699,26 @@
             "url": "https://book.douban.com/subject/35428292/"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "糖匪",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "imprint",
+            "name": "后浪",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "publisher",
+            "name": "后浪丨海峡文艺出版社",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2024-09-08T12:15:53.339Z",
       "comment_text": null,
@@ -1458,7 +1774,26 @@
             "url": "https://book.douban.com/subject/2979014/"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "苏童",
+            "character_name": "",
+            "person_url": "/api/person/5iHKvF49Dayv9cDwu23Pwk"
+          },
+          {
+            "role": "imprint",
+            "name": "99读书人",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "publisher",
+            "name": "人民文学出版社",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2024-08-11T02:10:11.253Z",
       "comment_text": "短片小说也有不错的体验。",
@@ -1533,7 +1868,20 @@
             "url": "https://book.douban.com/subject/1054685/"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "王小波",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "publisher",
+            "name": "中国青年出版社",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2024-08-07T11:12:51.367Z",
       "comment_text": null,
@@ -1592,7 +1940,26 @@
             "url": "https://book.douban.com/subject/4832584/"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "金庸",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "imprint",
+            "name": "朗声图书",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "publisher",
+            "name": "广州出版社",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2024-08-01T12:42:44.959Z",
       "comment_text": null,
@@ -1665,7 +2032,20 @@
             "url": "https://www.goodreads.com/book/show/39343751"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "金庸",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "publisher",
+            "name": "海口-南海出版社",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2024-08-01T12:28:19.359Z",
       "comment_text": null,
@@ -1694,7 +2074,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/130a836090-38a7-4ff8-ba17-e28898c892f6.jpg",
         "rating": 9.0,
-        "rating_count": 278,
+        "rating_count": 279,
         "rating_distribution": [
           0,
           1,
@@ -1737,7 +2117,26 @@
             "url": "https://book.douban.com/subject/6781808/"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "[美国] 哈珀·李",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "publisher",
+            "name": "译林出版社",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "translator",
+            "name": "高红梅",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2024-07-05T13:54:00Z",
       "comment_text": null,
@@ -1804,7 +2203,20 @@
             "url": "https://book.douban.com/subject/10546136/"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "王小平",
+            "character_name": "",
+            "person_url": "/api/person/7YOY8fTW3kQ4tkphUKn2Op"
+          },
+          {
+            "role": "publisher",
+            "name": "江苏文艺出版社",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2024-07-02T13:54:00Z",
       "comment_text": null,
@@ -1865,7 +2277,26 @@
             "url": "https://book.douban.com/subject/1083092/"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "E．B·怀特",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "publisher",
+            "name": "上海译文出版社",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "translator",
+            "name": "任溶溶",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2024-06-14T13:54:00Z",
       "comment_text": null,
@@ -1939,7 +2370,26 @@
             "url": "https://www.goodreads.com/book/show/52195757"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "马伯庸",
+            "character_name": "",
+            "person_url": "/api/person/1P5z5YUaVSVJDOHP5mi2Lq"
+          },
+          {
+            "role": "imprint",
+            "name": "博集天卷",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "publisher",
+            "name": "湖南文艺出版社",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2024-06-01T13:54:00Z",
       "comment_text": null,
@@ -1993,7 +2443,26 @@
             "url": "https://book.douban.com/subject/11441813/"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "E·B·怀特",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "publisher",
+            "name": "上海译文出版社",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "translator",
+            "name": "任溶溶",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2024-05-26T13:54:00Z",
       "comment_text": null,
@@ -2058,7 +2527,26 @@
             "url": "https://book.douban.com/subject/1083091/"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "[美国] E·B·怀特",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "publisher",
+            "name": "上海译文出版社",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "translator",
+            "name": "任溶溶",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2024-05-20T13:54:00Z",
       "comment_text": null,
@@ -2133,7 +2621,20 @@
             "url": "https://book.douban.com/subject/36593622/"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "杨素秋",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "publisher",
+            "name": "上海译文出版社",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2024-05-14T13:54:00Z",
       "comment_text": null,
@@ -2214,7 +2715,26 @@
             "url": "https://bgm.tv/subject/508794"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "马伯庸",
+            "character_name": "",
+            "person_url": "/api/person/1P5z5YUaVSVJDOHP5mi2Lq"
+          },
+          {
+            "role": "imprint",
+            "name": "博集天卷",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "publisher",
+            "name": "湖南文艺出版社",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2024-05-10T13:54:00Z",
       "comment_text": null,
@@ -2294,7 +2814,26 @@
             "url": "https://book.douban.com/subject/3633461/"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "刘震云",
+            "character_name": "",
+            "person_url": "/api/person/3ixn1fExhcqY25hcaLa2rQ"
+          },
+          {
+            "role": "imprint",
+            "name": "长江新世纪",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "publisher",
+            "name": "长江文艺出版社",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2024-05-03T13:54:00Z",
       "comment_text": null,
@@ -2366,7 +2905,20 @@
             "url": "https://book.douban.com/subject/3239913/"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "author",
+            "name": "毕飞宇",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "publisher",
+            "name": "人民文学出版社",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2023-11-11T13:54:00Z",
       "comment_text": null,
@@ -2376,5 +2928,5 @@
   ],
   "count": 36,
   "category": "book",
-  "updated_at": "2026-04-18T01:28:49.073622"
+  "updated_at": "2026-04-19T01:54:31.606388"
 }

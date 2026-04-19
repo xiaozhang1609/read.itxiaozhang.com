@@ -49,7 +49,44 @@
             "url": "https://www.douban.com/location/drama/30466629/"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "actor",
+            "name": "朱时茂",
+            "character_name": "",
+            "person_url": "/api/person/2qSRf0VNFK1SUpl6VKfMly"
+          },
+          {
+            "role": "actor",
+            "name": "陈佩斯",
+            "character_name": "",
+            "person_url": "/api/person/5heXJSRObqU7X6emfs8RsG"
+          },
+          {
+            "role": "director",
+            "name": "陈佩斯",
+            "character_name": "",
+            "person_url": "/api/person/5heXJSRObqU7X6emfs8RsG"
+          },
+          {
+            "role": "director",
+            "name": "朱时茂",
+            "character_name": "",
+            "person_url": "/api/person/2qSRf0VNFK1SUpl6VKfMly"
+          },
+          {
+            "role": "playwright",
+            "name": "陈佩斯",
+            "character_name": "",
+            "person_url": "/api/person/5heXJSRObqU7X6emfs8RsG"
+          },
+          {
+            "role": "playwright",
+            "name": "朱时茂",
+            "character_name": "",
+            "person_url": "/api/person/2qSRf0VNFK1SUpl6VKfMly"
+          }
+        ]
       },
       "created_time": "2024-08-28T06:10:29.006Z",
       "comment_text": null,
@@ -100,7 +137,32 @@
             "url": "https://www.douban.com/location/drama/36025825/"
           }
         ],
-        "credits": []
+        "credits": [
+          {
+            "role": "actor",
+            "name": "牛群",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "冯巩",
+            "character_name": "",
+            "person_url": "/api/person/3xwoWJQzFpBmWvHjspYpVx"
+          },
+          {
+            "role": "director",
+            "name": "——",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "playwright",
+            "name": "梁左",
+            "character_name": "",
+            "person_url": null
+          }
+        ]
       },
       "created_time": "2024-08-28T06:09:53.275Z",
       "comment_text": null,
@@ -110,5 +172,5 @@
   ],
   "count": 2,
   "category": "performance",
-  "updated_at": "2026-04-18T01:28:49.966579"
+  "updated_at": "2026-04-19T01:54:32.382048"
 }
