@@ -142,7 +142,7 @@
             "role": "actor",
             "name": "牛群",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0DywKY19aa7k9wolTSmHxm"
           },
           {
             "role": "actor",
@@ -172,5 +172,5 @@
   ],
   "count": 2,
   "category": "performance",
-  "updated_at": "2026-04-19T01:54:32.382048"
+  "updated_at": "2026-04-20T01:56:08.865852"
 }

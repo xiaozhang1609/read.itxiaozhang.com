@@ -70,7 +70,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/08/26/1e4d6296-5462-47f4-a745-b2975b78507b.jpg",
         "rating": 7.0,
-        "rating_count": 256,
+        "rating_count": 257,
         "rating_distribution": [
           2,
           5,
@@ -148,7 +148,7 @@
             "role": "actor",
             "name": "此沙",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5SE6bE54XXjOB4n9RfQUpA"
           },
           {
             "role": "actor",
@@ -160,7 +160,7 @@
             "role": "actor",
             "name": "周政杰",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/15P3l5ptJG37VTM6vNXcAk"
           },
           {
             "role": "actor",
@@ -172,7 +172,7 @@
             "role": "actor",
             "name": "郎月婷",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/383bTf3g5DdMRd6Fx4yxDp"
           },
           {
             "role": "actor",
@@ -196,13 +196,13 @@
             "role": "director",
             "name": "杨子",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7FIVFMhNTVEQA186Rn7BxK"
           },
           {
             "role": "playwright",
             "name": "杨子",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7FIVFMhNTVEQA186Rn7BxK"
           }
         ]
       },
@@ -267,7 +267,7 @@
             "role": "director",
             "name": "吉原达矢",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3w5mgvyeOIOWNaOshEbMnX"
           }
         ]
       },
@@ -533,7 +533,7 @@
             "role": "actor",
             "name": "肖聪",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5A63JIcy35AFEqZBjuk3Xu"
           },
           {
             "role": "actor",
@@ -623,7 +623,7 @@
             "role": "playwright",
             "name": "余曦",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/65Xlurxb0CFQjRXWxmUA2B"
           }
         ]
       },
@@ -790,7 +790,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15cce2b25c-b1c4-4c7d-b69f-7ee205e70534.jpg",
         "rating": 7.5,
-        "rating_count": 533,
+        "rating_count": 534,
         "rating_distribution": [
           0,
           4,
@@ -846,7 +846,7 @@
             "role": "actor",
             "name": "罗根·马歇尔-格林",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3ANsww0JaoheMV3TCPPDgM"
           },
           {
             "role": "actor",
@@ -870,7 +870,7 @@
             "role": "actor",
             "name": "克里斯托弗·卡比",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0Is6ikcl5i2i51gljo5D49"
           },
           {
             "role": "actor",
@@ -1035,7 +1035,7 @@
             "role": "actor",
             "name": "宣萱",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6D8mzX9M0HvhUCB1t261lL"
           },
           {
             "role": "actor",
@@ -1274,7 +1274,7 @@
             "role": "actor",
             "name": "铁男",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/66XqCBHBtMP3e6KeTExhE0"
           },
           {
             "role": "actor",
@@ -1292,7 +1292,7 @@
             "role": "actor",
             "name": "尹子维",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6h1PWXBd2l0eHMFKmOQ2ew"
           },
           {
             "role": "director",
@@ -1940,13 +1940,13 @@
             "role": "actor",
             "name": "艾伦·德杰尼勒斯",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7DXUY2H6dnNPZ3poQm0t65"
           },
           {
             "role": "actor",
             "name": "亚历山大·古尔德",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5j5PvgGNWjv6K7s706wYeQ"
           },
           {
             "role": "actor",
@@ -1982,7 +1982,7 @@
             "role": "actor",
             "name": "薇姬·刘易斯",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2rMpXbgpOaY7cegQPJ332H"
           },
           {
             "role": "actor",
@@ -2006,7 +2006,7 @@
             "role": "actor",
             "name": "伊丽莎白·帕金斯",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6DBGFQKpupi0JAOVmOJSyp"
           },
           {
             "role": "actor",
@@ -2060,7 +2060,7 @@
             "role": "actor",
             "name": "埃里克·佩尔·沙利文",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6ys2gNtBU1DDOD9IdI4vyU"
           },
           {
             "role": "actor",
@@ -2373,13 +2373,13 @@
             "role": "playwright",
             "name": "马美萍",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2FT1yKXfOj4pSGrFjJjetm"
           },
           {
             "role": "playwright",
             "name": "邓景生",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2fMaL63gO6EN4VucjqKdJA"
           }
         ]
       },
@@ -2887,7 +2887,7 @@
             "role": "actor",
             "name": "金仁宇",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0wW1cffW2w6kzeYaOkbabZ"
           },
           {
             "role": "actor",
@@ -3155,7 +3155,7 @@
             "role": "actor",
             "name": "埃莉诺·汤姆林森",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2ONiDeC2AQHaHQIPwuigNb"
           },
           {
             "role": "actor",
@@ -3215,7 +3215,7 @@
             "role": "playwright",
             "name": "丹·斯塔德尼",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3qjZELjyntkCsbHV8xU7an"
           },
           {
             "role": "playwright",
@@ -3333,7 +3333,7 @@
             "role": "actor",
             "name": "吴辰君",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5Em3Yh8Ho0NfWiIc5HZOKA"
           },
           {
             "role": "actor",
@@ -3630,13 +3630,13 @@
             "role": "actor",
             "name": "雷蒙德·奥乔亚",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1rUOIy9LkhthqUyiw7WDQj"
           },
           {
             "role": "actor",
             "name": "杰克·布赖特",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0vtAuWW0mSwfbaV3F97yXq"
           },
           {
             "role": "actor",
@@ -3654,7 +3654,7 @@
             "role": "actor",
             "name": "A·J·巴克利",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1kBuSZDwEjb5ggR0xwKsjL"
           },
           {
             "role": "actor",
@@ -3678,7 +3678,7 @@
             "role": "actor",
             "name": "马库斯·斯克里布纳",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/445th5LagbXvnhsBr1RyFZ"
           },
           {
             "role": "actor",
@@ -3726,7 +3726,7 @@
             "role": "playwright",
             "name": "彼得·赫奇斯",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4AMhK24JtQjh8Wa4UBVDct"
           },
           {
             "role": "playwright",
@@ -3853,19 +3853,19 @@
             "role": "actor",
             "name": "张世",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0wkB3sqKM83wpHdxCAT8qP"
           },
           {
             "role": "actor",
             "name": "王馥荔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4pIlhlT25WzXl5XRLukQXc"
           },
           {
             "role": "actor",
             "name": "王澜",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7N1msBIwt2YvulViv7E0ES"
           },
           {
             "role": "actor",
@@ -3895,7 +3895,7 @@
             "role": "playwright",
             "name": "杨争光",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6VGlzx2LWf0KBZvp5qOhV7"
           }
         ]
       },
@@ -4110,7 +4110,7 @@
             "role": "actor",
             "name": "严翔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7hOUGGVOz6DdQoeS8G7nDx"
           },
           {
             "role": "director",
@@ -4227,13 +4227,13 @@
             "role": "director",
             "name": "海涛",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6chJNgBFOokpEF41WMZael"
           },
           {
             "role": "playwright",
             "name": "冉甲男",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5UhmXJxxV8Mej2uXSqfyHz"
           }
         ]
       },
@@ -4437,7 +4437,7 @@
             "role": "actor",
             "name": "梁静",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6RXrjC14FGu6n0KZ5ogq45"
           },
           {
             "role": "actor",
@@ -4931,7 +4931,7 @@
             "role": "actor",
             "name": "王德顺",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2LUVwurtV9fm7y8dcIDNSx"
           },
           {
             "role": "actor",
@@ -4943,7 +4943,7 @@
             "role": "actor",
             "name": "李南",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/63oWLXzihpjCrRC826cZvs"
           },
           {
             "role": "actor",
@@ -4967,13 +4967,13 @@
             "role": "actor",
             "name": "张运气",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1EKj3Xr83Pc85dJqtkJ4cx"
           },
           {
             "role": "actor",
             "name": "杏林儿",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3I7nwfvIuhYMev6QmZcIJj"
           },
           {
             "role": "actor",
@@ -4991,7 +4991,7 @@
             "role": "actor",
             "name": "良生",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/435R5Unw5OLybK6GiXlYrt"
           },
           {
             "role": "actor",
@@ -5003,7 +5003,7 @@
             "role": "actor",
             "name": "零柒",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3o2g0R1Oz3cpS1qGSKymgl"
           },
           {
             "role": "actor",
@@ -5163,7 +5163,7 @@
             "role": "actor",
             "name": "孙艺洲",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4sdhBAYcLhe0BvRya7dczv"
           },
           {
             "role": "actor",
@@ -5187,7 +5187,7 @@
             "role": "actor",
             "name": "何政军",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1BQegGZmSAQ1g7qlxRqxA9"
           },
           {
             "role": "actor",
@@ -5378,7 +5378,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/05/8722487d-911a-4260-8589-4ea0626eb134.jpg",
         "rating": 5.8,
-        "rating_count": 373,
+        "rating_count": 374,
         "rating_distribution": [
           8,
           21,
@@ -5441,13 +5441,13 @@
             "role": "actor",
             "name": "金晨",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2bC7zvZw53uRPhDzGlILYg"
           },
           {
             "role": "actor",
             "name": "咏梅",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0XuZpZpJGIg1Lmik8Akd47"
           },
           {
             "role": "actor",
@@ -5459,7 +5459,7 @@
             "role": "actor",
             "name": "王大陆",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2TuinwxhzkhJ0ecWwkeiTS"
           },
           {
             "role": "actor",
@@ -5477,25 +5477,25 @@
             "role": "actor",
             "name": "邓萃雯",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6A2HJ8GiriRXWwzDclH09V"
           },
           {
             "role": "actor",
             "name": "李东海",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7dqs00eqHRppi173NUYsPo"
           },
           {
             "role": "director",
             "name": "申奥",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2GrRZv4eJZdOaVXEiRBoIO"
           },
           {
             "role": "playwright",
             "name": "申奥",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2GrRZv4eJZdOaVXEiRBoIO"
           },
           {
             "role": "playwright",
@@ -6271,7 +6271,7 @@
             "role": "actor",
             "name": "张竣杰",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1Rw0lYZQYvKKJgcbw8zTOK"
           },
           {
             "role": "actor",
@@ -6283,7 +6283,7 @@
             "role": "actor",
             "name": "谭小环",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/386oh8tCDqgyRHfp6KzEpC"
           },
           {
             "role": "director",
@@ -6560,7 +6560,7 @@
             "role": "actor",
             "name": "范晓萱",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5wFPi3xEFbASCgnUvocFz9"
           },
           {
             "role": "actor",
@@ -6584,7 +6584,7 @@
             "role": "actor",
             "name": "张馨予",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2gKX1OmvjuQa6sUx5o9Kww"
           },
           {
             "role": "actor",
@@ -6608,7 +6608,7 @@
             "role": "actor",
             "name": "韩飞行",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6tbSvgRfkfmGkfhSAPWyhM"
           },
           {
             "role": "actor",
@@ -6704,7 +6704,7 @@
             "role": "actor",
             "name": "石占杰",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2pz8yBouQlcmKsrOqB6ckG"
           },
           {
             "role": "actor",
@@ -7035,13 +7035,13 @@
             "role": "actor",
             "name": "彼得·塞拉菲诺威茨",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3Wq5zWILHHQTKsp8UF3iZr"
           },
           {
             "role": "actor",
             "name": "马特·狄龙",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4AMPfbj9ij3pWz8MbathlI"
           },
           {
             "role": "actor",
@@ -7065,7 +7065,7 @@
             "role": "actor",
             "name": "基南·汤普森",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3nvWAV4YSZyXPKd7o0uLxg"
           },
           {
             "role": "actor",
@@ -7461,7 +7461,7 @@
             "role": "actor",
             "name": "莱恩·库德里亚维斯基",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6Y3nhjHsNAc1scu5tdioHb"
           },
           {
             "role": "actor",
@@ -7503,7 +7503,7 @@
             "role": "actor",
             "name": "马克·比肖夫",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1mXvC9FkIbh1PLbhl1WeO9"
           },
           {
             "role": "actor",
@@ -8078,7 +8078,7 @@
             "role": "director",
             "name": "汤姆·沙迪亚克",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4hmRLs2Hv7yFBMeUN0W80A"
           },
           {
             "role": "playwright",
@@ -8418,7 +8418,7 @@
             "role": "actor",
             "name": "莫莉·西姆斯",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/57ILsDC1xsFcyWRIr9f6hS"
           },
           {
             "role": "actor",
@@ -8430,7 +8430,7 @@
             "role": "actor",
             "name": "洛奇·卡罗尔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0QQl4eDQDFg6pOqHvtIgi4"
           },
           {
             "role": "director",
@@ -8448,13 +8448,13 @@
             "role": "playwright",
             "name": "贾拉德·保罗",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/489mhKv0oXipVSysytyIpb"
           },
           {
             "role": "playwright",
             "name": "Andrew Mogel",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3DQGFiPp9YwtUqow8lpFuc"
           },
           {
             "role": "playwright",
@@ -8619,7 +8619,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1547b89f8e-94c0-435e-8c7f-6b4513db2842.jpg",
         "rating": 7.1,
-        "rating_count": 1272,
+        "rating_count": 1273,
         "rating_distribution": [
           1,
           6,
@@ -8862,7 +8862,7 @@
             "role": "playwright",
             "name": "凯利·玛斯特森",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/51MZcEqzlUpBF1CmqKQgLX"
           },
           {
             "role": "playwright",
@@ -9288,7 +9288,7 @@
             "role": "actor",
             "name": "芭芭拉·伊芙·哈里斯",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0aJ69HMNiA96b0d8hmWmk8"
           },
           {
             "role": "actor",
@@ -9384,7 +9384,7 @@
             "role": "actor",
             "name": "Ethan Cohn",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1wwmrV2rtkeTGjre4lsAyC"
           },
           {
             "role": "actor",
@@ -10523,7 +10523,7 @@
             "role": "actor",
             "name": "藤原龙也",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/48oXBA6GV2jDzfeU3Kqsgl"
           },
           {
             "role": "actor",
@@ -10559,7 +10559,7 @@
             "role": "actor",
             "name": "松尾铃木",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4a0Tgqjkyo4hebTkFbiw1f"
           },
           {
             "role": "actor",
@@ -10577,19 +10577,19 @@
             "role": "director",
             "name": "佐藤东弥",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/488Pge1RgRg003KNjuyoyi"
           },
           {
             "role": "playwright",
             "name": "大森美香",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0kgPerxHKfIbN4Gg8WU9hw"
           },
           {
             "role": "playwright",
             "name": "福本伸行",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0Lc34b38iisuWpPNmYhIiG"
           }
         ]
       },
@@ -10756,7 +10756,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/162e094de9-a053-42fe-93d8-a2916a0bc1d5.jpg",
         "rating": 7.7,
-        "rating_count": 356,
+        "rating_count": 357,
         "rating_distribution": [
           0,
           2,
@@ -10861,7 +10861,7 @@
             "role": "actor",
             "name": "汤姆·布里特尼",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7kMFRtfJIlUm3cC8KQrb5Y"
           },
           {
             "role": "actor",
@@ -10885,7 +10885,7 @@
             "role": "actor",
             "name": "戴文·德鲁伊",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3VUQig4o3ueP9A7MZirCvJ"
           },
           {
             "role": "actor",
@@ -10903,7 +10903,7 @@
             "role": "actor",
             "name": "乔什·维金斯",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6KwllRVGtBvjybTylX2ZbP"
           },
           {
             "role": "actor",
@@ -10945,7 +10945,7 @@
             "role": "actor",
             "name": "切特·汉克斯",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5VwEk7rkCt5QcLHoArvhnb"
           },
           {
             "role": "actor",
@@ -10957,7 +10957,7 @@
             "role": "actor",
             "name": "马修·祖克",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5CdEnJ2tp8Z6E31ILOHnMK"
           },
           {
             "role": "actor",
@@ -11174,7 +11174,7 @@
             "role": "actor",
             "name": "曹政奭",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6WuhK0uArfNfFCZKxaB6Pk"
           },
           {
             "role": "actor",
@@ -11600,7 +11600,7 @@
             "role": "actor",
             "name": "萧芳芳",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0ieuKHPS3YuJnSTCEq0NoT"
           },
           {
             "role": "actor",
@@ -11624,7 +11624,7 @@
             "role": "actor",
             "name": "赵文卓",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1i0pZ0baUKWkLqW5X0O5pS"
           },
           {
             "role": "actor",
@@ -11654,7 +11654,7 @@
             "role": "actor",
             "name": "刘金山",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/332yuAb9PEQJRFx2nuTu9S"
           },
           {
             "role": "actor",
@@ -11672,13 +11672,13 @@
             "role": "actor",
             "name": "杨青",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0fQtt8BYmfsf4UYb3TnZz2"
           },
           {
             "role": "actor",
             "name": "潘粤明",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6xoYpYvOztnXrMJR5BCNfP"
           },
           {
             "role": "director",
@@ -11702,7 +11702,7 @@
             "role": "playwright",
             "name": "蔡康永",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1kxzCv0WdZZsd4k4ol8G0D"
           }
         ]
       },
@@ -11974,7 +11974,7 @@
             "role": "actor",
             "name": "劳拉·哈灵顿",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4DbMEzDk5OlSxf3U5kvvr5"
           },
           {
             "role": "actor",
@@ -11992,7 +11992,7 @@
             "role": "actor",
             "name": "克里斯·鲍尔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5a7FwJQ3OYOekAK9VsCifk"
           },
           {
             "role": "director",
@@ -12187,7 +12187,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/05/14/c6b6a72c-2a26-487c-9c3f-54c23cf4ca9e.webp",
         "rating": 8.8,
-        "rating_count": 2615,
+        "rating_count": 2617,
         "rating_distribution": [
           0,
           2,
@@ -12352,7 +12352,7 @@
             "role": "actor",
             "name": "胡明",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3iELc4IfvwV4MFznzZj9ju"
           },
           {
             "role": "actor",
@@ -12640,7 +12640,7 @@
             "role": "actor",
             "name": "钱明",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5WCmTR8NwBziL2DKQeZtel"
           },
           {
             "role": "actor",
@@ -12670,7 +12670,7 @@
             "role": "playwright",
             "name": "陈剑雨",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1j6HONy6n0fLRpgxRWr8SA"
           },
           {
             "role": "playwright",
@@ -12982,7 +12982,7 @@
             "role": "actor",
             "name": "阿米尔·米勒",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0YdsuCyRLFYPw3SxYry1uH"
           },
           {
             "role": "actor",
@@ -12994,25 +12994,25 @@
             "role": "actor",
             "name": "泰·奥尔森",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7kS5knP2IGC8Fj6smqftLZ"
           },
           {
             "role": "actor",
             "name": "迈克尔·亚当思韦特",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2G0vzsGR2VTrlpcbdU5Rfu"
           },
           {
             "role": "actor",
             "name": "托比·凯贝尔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2i9lIQulXnXW5KNQpYjI5T"
           },
           {
             "role": "actor",
             "name": "加布里埃尔·查瓦里亚",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3xSTByQu1gBBwTDElUUiJ1"
           },
           {
             "role": "actor",
@@ -13356,13 +13356,13 @@
             "url": "https://movie.douban.com/subject/7046723/"
           },
           {
-            "url": "https://www.themoviedb.org/movie/119450"
-          },
-          {
             "url": "https://minreol.dk/movie/31kcLbzKgUsxs1aUMyX4nm"
           },
           {
             "url": "https://www.imdb.com/title/tt2103281/"
+          },
+          {
+            "url": "https://www.themoviedb.org/movie/119450"
           },
           {
             "url": "https://bgm.tv/subject/533984"
@@ -13382,7 +13382,7 @@
             "role": "actor",
             "name": "杰森·克拉克",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7QNieWMkUbV8Us54vEd3k5"
           },
           {
             "role": "actor",
@@ -13400,7 +13400,7 @@
             "role": "actor",
             "name": "托比·凯贝尔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2i9lIQulXnXW5KNQpYjI5T"
           },
           {
             "role": "actor",
@@ -13418,7 +13418,7 @@
             "role": "actor",
             "name": "尼克·瑟斯顿",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2lg1pjbYJLJAIMQTDy3QZj"
           },
           {
             "role": "actor",
@@ -14050,7 +14050,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ef885c05-3eb7-48f9-8a51-ffc98674447b.jpg",
         "rating": 8.1,
-        "rating_count": 777,
+        "rating_count": 778,
         "rating_distribution": [
           0,
           2,
@@ -14125,13 +14125,13 @@
             "role": "actor",
             "name": "吴伟",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0beH4FphVcEXSuUWRHcQks"
           },
           {
             "role": "actor",
             "name": "江佳奇",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1g4rE2HdhEip0Qi8RMia7w"
           },
           {
             "role": "actor",
@@ -14521,13 +14521,13 @@
             "role": "director",
             "name": "金成洙",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4A7wCI8S1tWzoAibcgn6vN"
           },
           {
             "role": "playwright",
             "name": "金成洙",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4A7wCI8S1tWzoAibcgn6vN"
           }
         ]
       },
@@ -14727,7 +14727,7 @@
             "role": "actor",
             "name": "王琳",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7moyp5F4PvUNo76HIZoVEw"
           },
           {
             "role": "actor",
@@ -14757,7 +14757,7 @@
             "role": "actor",
             "name": "包文婧",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0GUqOp2j6j7EoVAMnhCRwt"
           },
           {
             "role": "actor",
@@ -14793,7 +14793,7 @@
             "role": "actor",
             "name": "刘宏禄",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0rhnp6Ow1KUz177YciKOg9"
           },
           {
             "role": "actor",
@@ -14817,7 +14817,7 @@
             "role": "actor",
             "name": "郭宇鹏",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/27uIYz34fzZgVAnBbbKFQk"
           },
           {
             "role": "actor",
@@ -14925,7 +14925,7 @@
             "role": "playwright",
             "name": "刘宏禄",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0rhnp6Ow1KUz177YciKOg9"
           },
           {
             "role": "playwright",
@@ -14937,7 +14937,7 @@
             "role": "playwright",
             "name": "郭宇鹏",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/27uIYz34fzZgVAnBbbKFQk"
           }
         ]
       },
@@ -15132,7 +15132,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/138d1723f9-e106-4e8e-b490-3cd2ed271cae.jpg",
         "rating": 8.2,
-        "rating_count": 1833,
+        "rating_count": 1834,
         "rating_distribution": [
           0,
           1,
@@ -15409,13 +15409,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15e76bca99-667d-4bc2-a4ba-140d9ac4572d.jpg",
         "rating": 7.2,
-        "rating_count": 737,
+        "rating_count": 738,
         "rating_distribution": [
           1,
-          4,
+          5,
           38,
           44,
-          13
+          12
         ],
         "tags": [
           "2010s",
@@ -15468,7 +15468,7 @@
             "role": "actor",
             "name": "伊万·马萨格",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/63tjT6YXe4HukGK5nDk6vK"
           },
           {
             "role": "actor",
@@ -15480,25 +15480,25 @@
             "role": "actor",
             "name": "安东尼亚·圣胡安",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1nBgCxqAUJrkdJuSYp3QJy"
           },
           {
             "role": "actor",
             "name": "埃米利奥·布阿勒",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2KvDUTKiZzUNjFQvNp7iUI"
           },
           {
             "role": "actor",
             "name": "亚历山德拉·玛桑凯",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5fVGk0qlmYsytt8IFxTegk"
           },
           {
             "role": "actor",
             "name": "马里奥·帕尔多",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/11f1mPMiMqir3YL2WWHzA3"
           },
           {
             "role": "actor",
@@ -15516,19 +15516,19 @@
             "role": "actor",
             "name": "Zihara Llana",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7MGf6gJIHsxGrOnZP7eHhd"
           },
           {
             "role": "actor",
             "name": "Txubio Fernández de Jáuregui",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5oozwlLkoBGK4osiP1zes6"
           },
           {
             "role": "actor",
             "name": "Eric Goode",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1PmENAa4oDMUN8Thah5jlk"
           },
           {
             "role": "actor",
@@ -15558,19 +15558,19 @@
             "role": "director",
             "name": "加尔德·加兹特鲁·乌鲁蒂亚",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2DMYW0oCR4wHbPwItADTcz"
           },
           {
             "role": "playwright",
             "name": "大卫·德索拉",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3oweEWKeWAzmKeD8xH3hVE"
           },
           {
             "role": "playwright",
             "name": "佩德罗·里韦罗",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1CObwAoTtjAjhF9tTkGVq0"
           }
         ]
       },
@@ -15761,7 +15761,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/156bbc2ea2-fc09-440a-bb29-83dd0339574a.jpg",
         "rating": 6.7,
-        "rating_count": 1426,
+        "rating_count": 1427,
         "rating_distribution": [
           3,
           10,
@@ -15905,13 +15905,13 @@
             "role": "actor",
             "name": "林暐恒",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3AKmbuey2XFmQGV8h1zZGT"
           },
           {
             "role": "actor",
             "name": "邢峰",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2CAFA2vMEXwzpQxbu5Nkp1"
           },
           {
             "role": "actor",
@@ -16026,7 +16026,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/07/01/f929217a-3c36-4a6e-8885-64fc07476424.webp",
         "rating": 6.2,
-        "rating_count": 399,
+        "rating_count": 401,
         "rating_distribution": [
           7,
           13,
@@ -16094,13 +16094,13 @@
             "role": "actor",
             "name": "史彭元",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5fqMzVN7QHUVLlRrJW4QiX"
           },
           {
             "role": "actor",
             "name": "萨日娜",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0S4wmbnX6LepQj9RtjYrGP"
           },
           {
             "role": "actor",
@@ -16226,31 +16226,31 @@
             "role": "director",
             "name": "闫非",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/09Tb4RbKwCVFcGEcEKuR3M"
           },
           {
             "role": "director",
             "name": "彭大魔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6rlEUyC1a7kE4caZ6DKjwq"
           },
           {
             "role": "playwright",
             "name": "彭大魔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6rlEUyC1a7kE4caZ6DKjwq"
           },
           {
             "role": "playwright",
             "name": "闫非",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/09Tb4RbKwCVFcGEcEKuR3M"
           },
           {
             "role": "playwright",
             "name": "林炳宝",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3JfrDeGtKDM7bUj9qdsfwe"
           }
         ]
       },
@@ -16369,7 +16369,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15a2f45055-f7fd-4e4c-ba2b-c9438595671d.jpg",
         "rating": 8.0,
-        "rating_count": 836,
+        "rating_count": 837,
         "rating_distribution": [
           0,
           2,
@@ -16492,7 +16492,7 @@
             "role": "playwright",
             "name": "毕飞宇",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6lI4XnRUYvzL765kHhQqPp"
           }
         ]
       },
@@ -16688,7 +16688,7 @@
             "role": "actor",
             "name": "恬妮",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0vSzHzq5s26OKH77g1JHOg"
           },
           {
             "role": "actor",
@@ -16712,7 +16712,7 @@
             "role": "playwright",
             "name": "司徒安",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5bd5mGnd9UTK5nEfB4Uu8P"
           }
         ]
       },
@@ -16972,7 +16972,7 @@
             "role": "actor",
             "name": "李·奥克斯",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/20i6cnIWtd1h8ZskpkHwnR"
           },
           {
             "role": "director",
@@ -16984,7 +16984,7 @@
             "role": "playwright",
             "name": "查尔斯·爱德华·波格",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3u3UezbBNmxwW51G6fYFN3"
           },
           {
             "role": "playwright",
@@ -17181,13 +17181,13 @@
             "role": "actor",
             "name": "徐小飒",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4oJszmL6fZR7YsuHyN9wDS"
           },
           {
             "role": "actor",
             "name": "王飞",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/63RmmQJzU7DDmnsdWw2W8k"
           },
           {
             "role": "director",
@@ -17504,7 +17504,7 @@
             "role": "actor",
             "name": "彼得·塞拉菲诺威茨",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3Wq5zWILHHQTKsp8UF3iZr"
           },
           {
             "role": "actor",
@@ -17831,7 +17831,7 @@
             "role": "actor",
             "name": "艾丽·坎伯尔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4pUZjp5uo6w3BUPYbueJg5"
           },
           {
             "role": "actor",
@@ -17849,7 +17849,7 @@
             "role": "actor",
             "name": "达纳·卡维",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/13V3wIeH6uvHr78ubPPs6R"
           },
           {
             "role": "actor",
@@ -17867,7 +17867,7 @@
             "role": "actor",
             "name": "蕾克·贝尔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4aH9hClybbHXAWs95WVCPk"
           },
           {
             "role": "actor",
@@ -17885,7 +17885,7 @@
             "role": "actor",
             "name": "迈克尔·贝亚蒂",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0fwVgNs9KxWrhzg2YCntyG"
           },
           {
             "role": "actor",
@@ -17915,7 +17915,7 @@
             "role": "playwright",
             "name": "辛科·保罗",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7gMjW1U0oZU4D6GBA2EnUe"
           },
           {
             "role": "playwright",
@@ -18362,7 +18362,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13676fe4c9-0bb8-4ba4-88d9-109f12d316f1.jpg",
         "rating": 9.5,
-        "rating_count": 1507,
+        "rating_count": 1509,
         "rating_distribution": [
           0,
           0,
@@ -18671,7 +18671,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ce6a4ea1-e930-4890-857f-95f944cf49c8.jpg",
         "rating": 8.8,
-        "rating_count": 1610,
+        "rating_count": 1611,
         "rating_distribution": [
           0,
           0,
@@ -18923,7 +18923,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/159f8910db-b66d-47a4-bfe2-681b9b942ab5.jpg",
         "rating": 7.6,
-        "rating_count": 1142,
+        "rating_count": 1144,
         "rating_distribution": [
           1,
           4,
@@ -19016,7 +19016,7 @@
             "role": "actor",
             "name": "赵宝刚",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6jd0xRSbe9mMLN46sdePqd"
           },
           {
             "role": "actor",
@@ -19040,13 +19040,13 @@
             "role": "actor",
             "name": "霍思燕",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/34i0RKs7TQQeZq8OJ4JP9r"
           },
           {
             "role": "actor",
             "name": "杜江",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4q3mBOyY4FJRKP23VgySJg"
           },
           {
             "role": "actor",
@@ -19064,7 +19064,7 @@
             "role": "actor",
             "name": "马晓伟",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2SfWm2e8WH6UK91zv0W6Fy"
           },
           {
             "role": "actor",
@@ -19136,7 +19136,7 @@
             "role": "actor",
             "name": "郭晓小",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0fmXXKVVjAbMAZFgvbvhTN"
           },
           {
             "role": "actor",
@@ -19281,7 +19281,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/141ac4ecd0-60a1-4b48-9c43-a1fb3a42f224.jpg",
         "rating": 8.3,
-        "rating_count": 1717,
+        "rating_count": 1718,
         "rating_distribution": [
           0,
           1,
@@ -19443,7 +19443,7 @@
             "role": "actor",
             "name": "波茜娅·道布尔戴",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3whNPtjJPM4d0Krn8YsaKm"
           },
           {
             "role": "actor",
@@ -19998,7 +19998,7 @@
             "role": "actor",
             "name": "李哲民",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2NPSSRyLcfSENmwbXp3trK"
           },
           {
             "role": "actor",
@@ -20294,7 +20294,7 @@
             "role": "actor",
             "name": "艾米·德·毕罕",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2K9y4MwJWAfIp3XATqXxgi"
           },
           {
             "role": "director",
@@ -20557,7 +20557,7 @@
             "role": "actor",
             "name": "斯泰西·基齐",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1BIplQlM9k9VBM34Kz3UJU"
           },
           {
             "role": "actor",
@@ -21209,7 +21209,7 @@
             "role": "actor",
             "name": "Tom Gallop",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0eOsE3k1Mz1Z5ne0xhKjTi"
           },
           {
             "role": "actor",
@@ -21571,7 +21571,7 @@
             "role": "actor",
             "name": "弗朗卡·波滕特",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0fU0pyGfOJl5RoGWeVtQQ3"
           },
           {
             "role": "actor",
@@ -21583,7 +21583,7 @@
             "role": "actor",
             "name": "加布里埃尔·曼",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5MUefno0dqB1FsqCVgLzNO"
           },
           {
             "role": "actor",
@@ -21601,7 +21601,7 @@
             "role": "actor",
             "name": "约翰·贝德福德·劳埃德",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0WcRxpOT5aWjnt6GXxjcMt"
           },
           {
             "role": "actor",
@@ -21625,7 +21625,7 @@
             "role": "actor",
             "name": "托马斯·阿拉纳",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6yh24PWSeCJi4NGWWWtSEW"
           },
           {
             "role": "actor",
@@ -22030,7 +22030,7 @@
             "role": "actor",
             "name": "弗朗卡·波滕特",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0fU0pyGfOJl5RoGWeVtQQ3"
           },
           {
             "role": "actor",
@@ -22042,7 +22042,7 @@
             "role": "actor",
             "name": "克里夫·欧文",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0eGVcCckeaD7CbsSTnCUHl"
           },
           {
             "role": "actor",
@@ -22066,7 +22066,7 @@
             "role": "actor",
             "name": "加布里埃尔·曼",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5MUefno0dqB1FsqCVgLzNO"
           },
           {
             "role": "actor",
@@ -22315,7 +22315,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/133604f9b2-b434-4aa8-92c0-e8f88336e4db.jpg",
         "rating": 9.3,
-        "rating_count": 2740,
+        "rating_count": 2741,
         "rating_distribution": [
           0,
           0,
@@ -22611,7 +22611,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14151af899-4ee7-4466-87a9-4f9f993aa929.jpg",
         "rating": 7.0,
-        "rating_count": 254,
+        "rating_count": 255,
         "rating_distribution": [
           1,
           10,
@@ -22677,7 +22677,7 @@
             "role": "actor",
             "name": "克里斯·克莱因",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0K4lnzSD4fkCuDwri3d64E"
           },
           {
             "role": "actor",
@@ -22689,7 +22689,7 @@
             "role": "actor",
             "name": "托马斯·伊恩·尼古拉斯",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0sCPEGYKaW8C9qwKGE9hvJ"
           },
           {
             "role": "actor",
@@ -22719,7 +22719,7 @@
             "role": "actor",
             "name": "尤金·列维",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/16gjY4LY8XmyReDTHxJJ2w"
           },
           {
             "role": "actor",
@@ -22743,7 +22743,7 @@
             "role": "actor",
             "name": "克里斯·欧文",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0a5ea50ddPNmuPLaYEW0L5"
           },
           {
             "role": "actor",
@@ -22773,7 +22773,7 @@
             "role": "playwright",
             "name": "亚当·赫兹",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4o75x305GV15TqTqAahQUu"
           }
         ]
       },
@@ -22944,13 +22944,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/151cae5e9d-01ae-4f83-a66e-da7e4a2e4923.jpg",
         "rating": 8.2,
-        "rating_count": 304,
+        "rating_count": 305,
         "rating_distribution": [
           0,
           2,
-          13,
+          12,
           57,
-          28
+          29
         ],
         "tags": [
           "1990s",
@@ -23025,7 +23025,7 @@
             "role": "actor",
             "name": "约翰·斯宾塞",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7isomgGsoH4jjOYASAGtAL"
           },
           {
             "role": "actor",
@@ -23049,13 +23049,13 @@
             "role": "actor",
             "name": "雷吉娜·泰勒",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2DA4Z9Xk0bCqzmJRJxAxVl"
           },
           {
             "role": "actor",
             "name": "Bruce Beatty",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/74qJ6Q99Kfk7oxSVcwiqfR"
           },
           {
             "role": "actor",
@@ -23067,13 +23067,13 @@
             "role": "actor",
             "name": "卡洛斯·戈麦斯",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1ZoISrfMtrldunqJqm8Xd4"
           },
           {
             "role": "actor",
             "name": "蒂姆·科勒赫",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1X2hGXrJipz0iKbBZGXtpH"
           },
           {
             "role": "actor",
@@ -23085,7 +23085,7 @@
             "role": "actor",
             "name": "内斯特·塞拉诺",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/284sc3IdvwPBRpfx4AkGRT"
           },
           {
             "role": "actor",
@@ -23241,7 +23241,7 @@
             "role": "playwright",
             "name": "Kevin Fox",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0hYguKCXo8OwKMNe0fNIJp"
           }
         ]
       },
@@ -23428,7 +23428,7 @@
             "role": "actor",
             "name": "范湉湉",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3wuopmGOyzPceGCidSvSTr"
           },
           {
             "role": "actor",
@@ -23488,19 +23488,19 @@
             "role": "actor",
             "name": "王子川",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2XqB8h5E4MdCB8VXm7jOtq"
           },
           {
             "role": "director",
             "name": "王子川",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2XqB8h5E4MdCB8VXm7jOtq"
           },
           {
             "role": "playwright",
             "name": "王子川",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2XqB8h5E4MdCB8VXm7jOtq"
           }
         ]
       },
@@ -23784,7 +23784,7 @@
             "role": "director",
             "name": "李惠民",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5YRhJTpF1ypvga7j1LU08i"
           },
           {
             "role": "playwright",
@@ -23802,7 +23802,7 @@
             "role": "playwright",
             "name": "吕晓禾",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5Qcm8wzxnTX5CVGJBTAPzU"
           },
           {
             "role": "playwright",
@@ -24003,13 +24003,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16bb45fc78-01bd-4c6d-88f2-4b6b4135eeec.jpg",
         "rating": 7.0,
-        "rating_count": 80,
+        "rating_count": 81,
         "rating_distribution": [
           0,
           4,
           46,
-          42,
-          8
+          43,
+          7
         ],
         "tags": [
           "2020",
@@ -24072,7 +24072,7 @@
             "role": "actor",
             "name": "加布里埃尔·巴索",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7L5PNSdjsEWi1oRhJcf1OU"
           },
           {
             "role": "actor",
@@ -24126,7 +24126,7 @@
             "role": "actor",
             "name": "桑妮·马布雷",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/45LMX5xzSOrVfDsAWRsW7h"
           },
           {
             "role": "actor",
@@ -24424,7 +24424,7 @@
             "role": "actor",
             "name": "安志杰",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4Si48JCQtc9VEX1N4jKRim"
           },
           {
             "role": "actor",
@@ -24442,7 +24442,7 @@
             "role": "actor",
             "name": "李国麟",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0c84GaNTipIg9p7j4oQBne"
           },
           {
             "role": "actor",
@@ -24731,7 +24731,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/156963fe1b-b7c5-48eb-bd54-03d23c3d8c01.jpg",
         "rating": 8.7,
-        "rating_count": 2055,
+        "rating_count": 2056,
         "rating_distribution": [
           0,
           1,
@@ -24800,13 +24800,13 @@
             "role": "actor",
             "name": "沙梅克·摩尔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1juimv3S9UKVvzq8U2ZoEb"
           },
           {
             "role": "actor",
             "name": "杰克·约翰逊",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0Xxd6KBThZMONMobvsrF3K"
           },
           {
             "role": "actor",
@@ -24920,7 +24920,7 @@
             "role": "actor",
             "name": "蕾克·贝尔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4aH9hClybbHXAWs95WVCPk"
           },
           {
             "role": "actor",
@@ -24980,7 +24980,7 @@
             "role": "actor",
             "name": "斯科特·门维尔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/46kRd3Lo3Lh4VjaRMwep6R"
           },
           {
             "role": "actor",
@@ -25004,7 +25004,7 @@
             "role": "actor",
             "name": "克里斯蒂·法瑞斯",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4oGEKplwJPxLyELdaNjBSi"
           },
           {
             "role": "actor",
@@ -25028,19 +25028,19 @@
             "role": "director",
             "name": "鲍勃·佩尔西凯蒂",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6NOOxQ6N0LQZgTdecAkfAW"
           },
           {
             "role": "director",
             "name": "彼得·拉姆齐",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1sH0cJAueUL3msHkBmdJ04"
           },
           {
             "role": "director",
             "name": "罗德尼·罗斯曼",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0QdBcZPNt8qJ9ZjGzuMaDY"
           },
           {
             "role": "playwright",
@@ -25052,7 +25052,7 @@
             "role": "playwright",
             "name": "罗德尼·罗斯曼",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0QdBcZPNt8qJ9ZjGzuMaDY"
           },
           {
             "role": "playwright",
@@ -25373,25 +25373,25 @@
             "role": "actor",
             "name": "本·贝尔特",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0b2iky7eHp0ynksdYPSuaY"
           },
           {
             "role": "actor",
             "name": "艾丽莎·奈特",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/37q6fBTrTkHOhtR1tQwXLw"
           },
           {
             "role": "actor",
             "name": "杰夫·格尔林",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/75o9rABdCRyEG9TBXbfUUD"
           },
           {
             "role": "actor",
             "name": "佛莱德·威拉特",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7D1sL2Fd7DvbiMidWcXCZ6"
           },
           {
             "role": "actor",
@@ -25415,19 +25415,19 @@
             "role": "actor",
             "name": "洛瑞·艾伦",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6FihQIuM1vPhuEmrtpVwCB"
           },
           {
             "role": "actor",
             "name": "鲍伯·伯根",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/61aSub6QXFIv1bP6IMQeym"
           },
           {
             "role": "actor",
             "name": "John Cygan",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2oJWbOV5HgIBKzy4sO2zGz"
           },
           {
             "role": "actor",
@@ -25457,7 +25457,7 @@
             "role": "actor",
             "name": "杰斯·哈梅尔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7F4RWPZkMQMopvPwPRpCQE"
           },
           {
             "role": "actor",
@@ -25781,7 +25781,7 @@
             "role": "actor",
             "name": "杰米·肯尼迪",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/65mS7M7Plm82gCSqgBRYKS"
           },
           {
             "role": "actor",
@@ -25871,7 +25871,7 @@
             "role": "director",
             "name": "劳伦斯·哥特曼",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7A2xM1A7sbYixU1QpecM0R"
           },
           {
             "role": "playwright",
@@ -26012,7 +26012,7 @@
             "role": "actor",
             "name": "周依然",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/06Jd2HhWKDObjmQ8NI0iBe"
           },
           {
             "role": "actor",
@@ -26036,19 +26036,19 @@
             "role": "actor",
             "name": "孙安可",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5wurvVqjCYwYTYjxmzzBjG"
           },
           {
             "role": "actor",
             "name": "阿部力",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3uYv1HgnAyHQEx4cOONzvL"
           },
           {
             "role": "actor",
             "name": "施诗",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0A1m1a2B4M1DoGJKHXLEeH"
           },
           {
             "role": "actor",
@@ -26245,7 +26245,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/9c60c854-c003-4fde-8112-218faee891da.jpg",
         "rating": 8.8,
-        "rating_count": 1133,
+        "rating_count": 1132,
         "rating_distribution": [
           0,
           0,
@@ -26473,12 +26473,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/02/11/279d76f8-a2a0-4bca-8893-0e040c0f673e.jpg",
         "rating": 6.7,
-        "rating_count": 203,
+        "rating_count": 204,
         "rating_distribution": [
           1,
           7,
-          47,
-          36,
+          48,
+          35,
           9
         ],
         "tags": [
@@ -26542,13 +26542,13 @@
             "role": "actor",
             "name": "曹炳琨",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3iuTICB2ONZEwIHJWDgliP"
           },
           {
             "role": "actor",
             "name": "王骁",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/75eQvHF7G4F9AW7pqlH306"
           },
           {
             "role": "actor",
@@ -26572,7 +26572,7 @@
             "role": "director",
             "name": "戴墨",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2KyIbrKubcH1GDDqs0OaE9"
           },
           {
             "role": "playwright",
@@ -26757,7 +26757,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1342c2c8f4-6447-4008-9f51-2fcd641c4799.jpg",
         "rating": 7.8,
-        "rating_count": 1852,
+        "rating_count": 1853,
         "rating_distribution": [
           1,
           2,
@@ -26883,7 +26883,7 @@
             "role": "actor",
             "name": "张赫镇",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/42ZARCp2xD2ffY0IdVkzMB"
           },
           {
             "role": "actor",
@@ -27090,11 +27090,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/07/5c08ca37-111a-4d69-847a-6590365d31e7.jpg",
         "rating": 6.4,
-        "rating_count": 868,
+        "rating_count": 870,
         "rating_distribution": [
           5,
-          14,
-          37,
+          13,
+          38,
           36,
           8
         ],
@@ -27153,7 +27153,7 @@
             "role": "actor",
             "name": "费翔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/73ZunoXGDrIrrfgvIIdYUK"
           },
           {
             "role": "actor",
@@ -27171,19 +27171,19 @@
             "role": "actor",
             "name": "于适",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1JSvtrWLuQ6cIbZ4zQ2FOo"
           },
           {
             "role": "actor",
             "name": "陈牧驰",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1CN2Ly71RqKeqjUgJKa12Z"
           },
           {
             "role": "actor",
             "name": "娜然",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0lzxG2gYabGZiXAAn7B8u2"
           },
           {
             "role": "actor",
@@ -27207,7 +27207,7 @@
             "role": "actor",
             "name": "此沙",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5SE6bE54XXjOB4n9RfQUpA"
           },
           {
             "role": "actor",
@@ -27243,7 +27243,7 @@
             "role": "actor",
             "name": "高曙光",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7YYYXzo5fvRvHAnh9uNqEK"
           },
           {
             "role": "actor",
@@ -27273,13 +27273,13 @@
             "role": "actor",
             "name": "高冬平",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7mYpOvmCx1T9NUp34oQ32n"
           },
           {
             "role": "actor",
             "name": "杨玏",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3TTiWHeoXSi0VRp4Y0wQPI"
           },
           {
             "role": "actor",
@@ -27357,7 +27357,7 @@
             "role": "actor",
             "name": "黄涛",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0s8RkzDt1fPg4Nmnz8JZyh"
           },
           {
             "role": "actor",
@@ -27381,7 +27381,7 @@
             "role": "actor",
             "name": "米铁增",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5IPCQPPdjAtLiMXJc5Xq3V"
           },
           {
             "role": "actor",
@@ -27429,7 +27429,7 @@
             "role": "actor",
             "name": "宋宁峰",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2GN2svXtd5LghEZiLaXgpF"
           },
           {
             "role": "actor",
@@ -27441,7 +27441,7 @@
             "role": "actor",
             "name": "吴超",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/33rTA5OS8G5U2rCmGWnRTM"
           },
           {
             "role": "actor",
@@ -27477,7 +27477,7 @@
             "role": "actor",
             "name": "图门巴雅尔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/26pumEEZErgz5FrPuY1OWl"
           },
           {
             "role": "actor",
@@ -27507,7 +27507,7 @@
             "role": "actor",
             "name": "钱波",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3c80Q19Bp4AmoLyZlG2Dqx"
           },
           {
             "role": "actor",
@@ -27597,31 +27597,31 @@
             "role": "director",
             "name": "乌尔善",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6gcp36KP2LWXoQvxDyqrNF"
           },
           {
             "role": "playwright",
             "name": "冉平",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3ZzuzN9T9JRPzPCWULINYw"
           },
           {
             "role": "playwright",
             "name": "冉甲男",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5UhmXJxxV8Mej2uXSqfyHz"
           },
           {
             "role": "playwright",
             "name": "乌尔善",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6gcp36KP2LWXoQvxDyqrNF"
           },
           {
             "role": "playwright",
             "name": "曹升",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4Cs1ycFAF02YkUnHA5ReL1"
           }
         ]
       },
@@ -27961,7 +27961,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/07/be012b58-ed0a-4750-b71d-03b0f59276a6.jpg",
         "rating": 7.8,
-        "rating_count": 1188,
+        "rating_count": 1189,
         "rating_distribution": [
           3,
           3,
@@ -28277,7 +28277,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16d55ba3c5-3088-4dd0-a0b8-13546996ebb8.jpg",
         "rating": 7.7,
-        "rating_count": 654,
+        "rating_count": 655,
         "rating_distribution": [
           1,
           2,
@@ -28372,7 +28372,7 @@
             "role": "actor",
             "name": "蒂姆·巴格来",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0YpFSoVCOki7ry6VmUe1mZ"
           },
           {
             "role": "actor",
@@ -28450,7 +28450,7 @@
             "role": "actor",
             "name": "Robert Keith",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7FG0MdfMSW4t2jSZxt7NyM"
           },
           {
             "role": "actor",
@@ -28486,7 +28486,7 @@
             "role": "actor",
             "name": "梅多·威廉姆斯",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3Nu9DHVSzKxNo5QYuYZyTa"
           },
           {
             "role": "actor",
@@ -28809,7 +28809,7 @@
             "role": "actor",
             "name": "杰森·克拉克",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7QNieWMkUbV8Us54vEd3k5"
           },
           {
             "role": "actor",
@@ -28983,7 +28983,7 @@
             "role": "actor",
             "name": "盖·布耐特",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2aP9L7C10aEWVuT60wCBiN"
           },
           {
             "role": "actor",
@@ -28995,7 +28995,7 @@
             "role": "actor",
             "name": "路易丝·隆巴德",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1UyxRx567OrFOJOBS93sNK"
           },
           {
             "role": "actor",
@@ -29013,13 +29013,13 @@
             "role": "actor",
             "name": "奥利·哈斯基维",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1cHbZcRscDVDvrRd4rtaT7"
           },
           {
             "role": "actor",
             "name": "大卫·里达尔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0LHatdeUelzNGteJor5dOb"
           },
           {
             "role": "actor",
@@ -29031,7 +29031,7 @@
             "role": "actor",
             "name": "杰克·奎德",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1dRKUs2G8hJrSnu00TiCSJ"
           },
           {
             "role": "actor",
@@ -29067,7 +29067,7 @@
             "role": "actor",
             "name": "Danny Deferrari",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/56WNMMU81y0voaSxftM56k"
           },
           {
             "role": "actor",
@@ -29364,7 +29364,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/12/0838bda30b-4624-44fc-a506-fe2dec0f453c.jpg",
         "rating": 8.1,
-        "rating_count": 1114,
+        "rating_count": 1116,
         "rating_distribution": [
           1,
           3,
@@ -29809,7 +29809,7 @@
             "role": "actor",
             "name": "沙梅克·摩尔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1juimv3S9UKVvzq8U2ZoEb"
           },
           {
             "role": "actor",
@@ -29833,7 +29833,7 @@
             "role": "actor",
             "name": "杰克·约翰逊",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0Xxd6KBThZMONMobvsrF3K"
           },
           {
             "role": "actor",
@@ -29875,7 +29875,7 @@
             "role": "actor",
             "name": "格蕾塔·李",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2igWSTavLAvPer1ESEtf34"
           },
           {
             "role": "actor",
@@ -29893,7 +29893,7 @@
             "role": "actor",
             "name": "Jharrel Jerome",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/36xwaoqyPcBiH2UDhjj6jT"
           },
           {
             "role": "actor",
@@ -29905,19 +29905,19 @@
             "role": "actor",
             "name": "杰克·奎德",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1dRKUs2G8hJrSnu00TiCSJ"
           },
           {
             "role": "actor",
             "name": "Rachel Dratch",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5strn3bxpBj54yvCJmZbv7"
           },
           {
             "role": "actor",
             "name": "Ziggy Marley",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1MdwowT5pxT3ndVE1HAaGt"
           },
           {
             "role": "actor",
@@ -29941,7 +29941,7 @@
             "role": "actor",
             "name": "伊丽莎白·帕金斯",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6DBGFQKpupi0JAOVmOJSyp"
           },
           {
             "role": "actor",
@@ -30001,7 +30001,7 @@
             "role": "actor",
             "name": "Taran Killam",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/23qdZ4sKg22flqIOvpnWmu"
           },
           {
             "role": "actor",
@@ -30013,7 +30013,7 @@
             "role": "actor",
             "name": "乔什·基顿",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7gkuIeNA4Gr4WAI6MbB8sy"
           },
           {
             "role": "actor",
@@ -30103,7 +30103,7 @@
             "role": "actor",
             "name": "克里斯蒂·法瑞斯",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4oGEKplwJPxLyELdaNjBSi"
           },
           {
             "role": "actor",
@@ -30247,7 +30247,7 @@
             "role": "actor",
             "name": "琼·克里斯托弗",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3vV3ytHj6dIO3R7jQ8p2WW"
           },
           {
             "role": "actor",
@@ -30271,7 +30271,7 @@
             "role": "actor",
             "name": "Lex Lang",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2bgvynYF0MNRC6p2Wepe9j"
           },
           {
             "role": "actor",
@@ -30433,7 +30433,7 @@
             "role": "actor",
             "name": "金科·格伦",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3mqaGcvON5je9zPvLADWCq"
           },
           {
             "role": "actor",
@@ -30451,13 +30451,13 @@
             "role": "director",
             "name": "贾斯汀·K·汤普森",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/65KqovxRMqX2EPajG43wVH"
           },
           {
             "role": "director",
             "name": "乔伊姆·多斯·桑托斯",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3vBBFnpqBGyAxhyiOMWKEi"
           },
           {
             "role": "playwright",
@@ -30631,7 +30631,7 @@
             "role": "actor",
             "name": "吴俊全",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/54oDpg3jXYurPkFxrFFuPA"
           },
           {
             "role": "actor",
@@ -30643,13 +30643,13 @@
             "role": "actor",
             "name": "卢力峰",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0QzcnHEPafectmOK952n7i"
           },
           {
             "role": "actor",
             "name": "孙路路",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1QYiCFCeCbJMfSsToyUBJu"
           },
           {
             "role": "actor",
@@ -30661,7 +30661,7 @@
             "role": "actor",
             "name": "路熙然",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6v4gTVDScuFPnHDJP2wGLH"
           },
           {
             "role": "actor",
@@ -30685,7 +30685,7 @@
             "role": "actor",
             "name": "徐佳琦",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/02EVY8VdjfW7pG6dPJZxIs"
           },
           {
             "role": "actor",
@@ -30697,7 +30697,7 @@
             "role": "actor",
             "name": "商虹",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/12yEA4qgs1nH8NlkQvly0j"
           },
           {
             "role": "actor",
@@ -30769,13 +30769,13 @@
             "role": "director",
             "name": "谢君伟",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/30o7GHKlgLymIkXqe5ir22"
           },
           {
             "role": "director",
             "name": "邹靖",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4HeAShIyM9Sfk4WN53QvWF"
           },
           {
             "role": "playwright",
@@ -30922,7 +30922,7 @@
             "role": "actor",
             "name": "李雪琴",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/688nCwRBuLOH9b3OFSpl9m"
           },
           {
             "role": "actor",
@@ -30940,7 +30940,7 @@
             "role": "actor",
             "name": "王圣迪",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3GeYXEXOI1NSkAm5psbvbw"
           },
           {
             "role": "actor",
@@ -30952,13 +30952,13 @@
             "role": "actor",
             "name": "白宇",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0XLBLwty6LLG2KJpJ374ru"
           },
           {
             "role": "actor",
             "name": "宋茜",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5uuGCao2aw7mEyxSHi9Y19"
           },
           {
             "role": "actor",
@@ -30970,7 +30970,7 @@
             "role": "actor",
             "name": "杨迪",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3P2I6h7WsLJVMWZZHftR3G"
           },
           {
             "role": "actor",
@@ -31000,13 +31000,13 @@
             "role": "actor",
             "name": "刘金山",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/332yuAb9PEQJRFx2nuTu9S"
           },
           {
             "role": "actor",
             "name": "曹炳琨",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3iuTICB2ONZEwIHJWDgliP"
           },
           {
             "role": "actor",
@@ -31024,7 +31024,7 @@
             "role": "playwright",
             "name": "苏彪",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1YuRPuwrKDVzIuhu4kZu9O"
           },
           {
             "role": "playwright",
@@ -31109,7 +31109,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/12/01ee3e9dc1-74b7-4420-ad90-84759f7092e4.webp",
         "rating": 5.8,
-        "rating_count": 496,
+        "rating_count": 497,
         "rating_distribution": [
           8,
           19,
@@ -31532,7 +31532,7 @@
             "role": "actor",
             "name": "Yoshino Aoyama",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4nJ6xm06qUGUuQoyXI6vwK"
           },
           {
             "role": "actor",
@@ -31918,7 +31918,7 @@
             "role": "actor",
             "name": "Åke Fridell",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4E4EHz7kzGPRQxnGrpkf8e"
           },
           {
             "role": "actor",
@@ -32228,7 +32228,7 @@
             "role": "actor",
             "name": "刘晓庆",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7k6psLDL1fAkgdVLHJvDlK"
           },
           {
             "role": "actor",
@@ -32240,13 +32240,13 @@
             "role": "actor",
             "name": "郑在石",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5jJ6bbo3VZTAOPFtIQYEFV"
           },
           {
             "role": "actor",
             "name": "张光北",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4l3sC5RXF4TjAjSr9zpW3c"
           },
           {
             "role": "actor",
@@ -32258,31 +32258,31 @@
             "role": "actor",
             "name": "祝士彬",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0pcRUvSSjDc2n7G1v1Mt5P"
           },
           {
             "role": "actor",
             "name": "刘利年",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0boazInXtvWFw73SuR7bGn"
           },
           {
             "role": "director",
             "name": "谢晋",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2xUJpBBOn546rlTYDDfGmB"
           },
           {
             "role": "playwright",
             "name": "阿城",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1PZAUXbliIs1QCsJLWkxMH"
           },
           {
             "role": "playwright",
             "name": "谢晋",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2xUJpBBOn546rlTYDDfGmB"
           }
         ]
       },
@@ -32469,7 +32469,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/05/08ce26bdb6-eb1d-4b5d-8baf-559ae723b8cd.jpg",
         "rating": 5.4,
-        "rating_count": 689,
+        "rating_count": 690,
         "rating_distribution": [
           8,
           27,
@@ -32616,7 +32616,7 @@
             "role": "actor",
             "name": "亚历山大·库兹涅佐夫",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1pMG2kLWxq1RsVkG6BKXJH"
           },
           {
             "role": "actor",
@@ -32652,7 +32652,7 @@
             "role": "actor",
             "name": "菲奥娜·格拉斯科特",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/34DxXL9on6ePlUS3JwVEzd"
           },
           {
             "role": "actor",
@@ -32664,7 +32664,7 @@
             "role": "actor",
             "name": "彼得·西蒙尼舍克",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7dIhblzmacc9SI6nPuCAWz"
           },
           {
             "role": "actor",
@@ -32943,7 +32943,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/152e6e9667-35c2-499e-b909-50b6c5601160.jpg",
         "rating": 6.8,
-        "rating_count": 1529,
+        "rating_count": 1530,
         "rating_distribution": [
           2,
           10,
@@ -33081,7 +33081,7 @@
             "role": "actor",
             "name": "卡门·艾乔戈",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0iEMFhgQX1DC5QGOfdtjxc"
           },
           {
             "role": "actor",
@@ -33165,13 +33165,13 @@
             "role": "actor",
             "name": "菲奥娜·格拉斯科特",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/34DxXL9on6ePlUS3JwVEzd"
           },
           {
             "role": "actor",
             "name": "杰米·坎贝尔·鲍尔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0kc9aIgoMNLLy2jDhFMQTJ"
           },
           {
             "role": "actor",
@@ -33624,7 +33624,7 @@
             "role": "actor",
             "name": "卡门·艾乔戈",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0iEMFhgQX1DC5QGOfdtjxc"
           },
           {
             "role": "actor",
@@ -33861,7 +33861,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/05/09/93138ddf-92a7-4fda-9d04-92f9b197d65c.webp",
         "rating": 7.6,
-        "rating_count": 550,
+        "rating_count": 551,
         "rating_distribution": [
           1,
           2,
@@ -34524,7 +34524,7 @@
             "role": "actor",
             "name": "Paul Sloan",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5vmENhieh8tI8V7NgEGUez"
           },
           {
             "role": "actor",
@@ -34656,7 +34656,7 @@
             "role": "actor",
             "name": "Geraldine Singer",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6voQS1oKZZ5cONyFVbCM7p"
           },
           {
             "role": "actor",
@@ -34680,7 +34680,7 @@
             "role": "actor",
             "name": "Gralen Bryant Banks",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7ZiUW2SqDZVlqtbUQNujwW"
           },
           {
             "role": "actor",
@@ -34698,7 +34698,7 @@
             "role": "actor",
             "name": "David Kallaway",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6aLUPf3M62pKgEpMrhumk6"
           },
           {
             "role": "actor",
@@ -34752,7 +34752,7 @@
             "role": "actor",
             "name": "Daniel Greene",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4kArWAjlKucVhfJzQJQoDA"
           },
           {
             "role": "actor",
@@ -34782,13 +34782,13 @@
             "role": "actor",
             "name": "David Simpson",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6hD7kXcScz7ZcWSCf3lPCt"
           },
           {
             "role": "actor",
             "name": "Jim Klock",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7hWhSrjyoJxktXEd0htl9V"
           },
           {
             "role": "actor",
@@ -34806,7 +34806,7 @@
             "role": "actor",
             "name": "Brian Stepanek",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5LBJu4UeakQq6pyMFmyLAQ"
           },
           {
             "role": "actor",
@@ -35081,7 +35081,7 @@
             "role": "actor",
             "name": "王静莹",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/19QuwneN3KtRUorp1JU8l0"
           },
           {
             "role": "actor",
@@ -35105,7 +35105,7 @@
             "role": "actor",
             "name": "李家鼎",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/09CCmOmVWkqYvsYFsqLDAd"
           },
           {
             "role": "actor",
@@ -35123,7 +35123,7 @@
             "role": "director",
             "name": "李惠民",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5YRhJTpF1ypvga7j1LU08i"
           },
           {
             "role": "director",
@@ -35531,7 +35531,7 @@
             "role": "actor",
             "name": "杰米·坎贝尔·鲍尔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0kc9aIgoMNLLy2jDhFMQTJ"
           },
           {
             "role": "director",
@@ -35897,7 +35897,7 @@
             "role": "actor",
             "name": "海伦·麦克洛瑞",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3TMIxM2vsWcxjvv6m16hVd"
           },
           {
             "role": "actor",
@@ -35909,7 +35909,7 @@
             "role": "actor",
             "name": "梁佩诗",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2ygf9wJ5bN61JKa8HdjdNx"
           },
           {
             "role": "actor",
@@ -36164,7 +36164,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15b71e1380-9ed2-4ac2-bf49-d2e2b3c92156.jpg",
         "rating": 7.7,
-        "rating_count": 1615,
+        "rating_count": 1616,
         "rating_distribution": [
           0,
           3,
@@ -36313,7 +36313,7 @@
             "role": "actor",
             "name": "梁佩诗",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2ygf9wJ5bN61JKa8HdjdNx"
           },
           {
             "role": "actor",
@@ -36645,7 +36645,7 @@
             "role": "actor",
             "name": "沙鲁巴·舒克拉",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/194cqr5v0MG2MZ5EJGNBqS"
           },
           {
             "role": "actor",
@@ -36693,7 +36693,7 @@
             "role": "actor",
             "name": "马赫什·曼杰瑞卡",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3lFWKco7oc8yGSR9xjrf26"
           },
           {
             "role": "actor",
@@ -36705,7 +36705,7 @@
             "role": "director",
             "name": "丹尼·博伊尔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5tWnAuchjnFRg7txsk7NN2"
           },
           {
             "role": "director",
@@ -36717,7 +36717,7 @@
             "role": "playwright",
             "name": "西蒙·博福伊",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0lCuNBUAzLRqczchNN5OP0"
           },
           {
             "role": "playwright",
@@ -37661,7 +37661,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/145f861699-f73a-4881-8146-9f775950635b.jpg",
         "rating": 9.0,
-        "rating_count": 1401,
+        "rating_count": 1402,
         "rating_distribution": [
           0,
           1,
@@ -37760,7 +37760,7 @@
             "role": "actor",
             "name": "肖聪",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5A63JIcy35AFEqZBjuk3Xu"
           },
           {
             "role": "actor",
@@ -37778,7 +37778,7 @@
             "role": "actor",
             "name": "董立范",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5hDpWrZ2auUBtTOwLSwKys"
           },
           {
             "role": "actor",
@@ -37790,7 +37790,7 @@
             "role": "actor",
             "name": "刘燕瑾",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6KQcS1g2GzvfrrCejHjUSX"
           },
           {
             "role": "actor",
@@ -38155,7 +38155,7 @@
             "role": "actor",
             "name": "弗兰克·西维罗",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5GIYZ1KyJh8nmQwdnMLmsr"
           },
           {
             "role": "actor",
@@ -38185,7 +38185,7 @@
             "role": "actor",
             "name": "多米尼克·查尼斯",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4XNthRzzf3fEBLjgUSp2us"
           },
           {
             "role": "actor",
@@ -38209,7 +38209,7 @@
             "role": "actor",
             "name": "乔·斯皮内尔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4R8bja9dqRfj9v87RsExig"
           },
           {
             "role": "actor",
@@ -38269,7 +38269,7 @@
             "role": "actor",
             "name": "卡门·阿尔根齐亚诺",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4HqamvNBEkVKC7z98jRobd"
           },
           {
             "role": "actor",
@@ -38305,7 +38305,7 @@
             "role": "actor",
             "name": "彼得·多纳特",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4kv9YPtETEIb9lhbzrzeyV"
           },
           {
             "role": "actor",
@@ -38660,13 +38660,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/153c3015b5-9fa5-4673-a6d0-49abd1664fa9.jpg",
         "rating": 7.4,
-        "rating_count": 1577,
+        "rating_count": 1578,
         "rating_distribution": [
           1,
           4,
-          34,
+          33,
           46,
-          15
+          16
         ],
         "tags": [
           "2010s",
@@ -38747,7 +38747,7 @@
             "role": "actor",
             "name": "艾拉·菲舍尔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4qOu5gYECA6Bvm9UhEaRL4"
           },
           {
             "role": "actor",
@@ -38759,7 +38759,7 @@
             "role": "actor",
             "name": "杰森·克拉克",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7QNieWMkUbV8Us54vEd3k5"
           },
           {
             "role": "actor",
@@ -38795,13 +38795,13 @@
             "role": "actor",
             "name": "理查德·卡特",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7AKw5krJB4qHBHX7B5fdhX"
           },
           {
             "role": "actor",
             "name": "阿德莱德·克莱蒙丝",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7LTSETYISGOg4NnrYYZXWl"
           },
           {
             "role": "actor",
@@ -38855,7 +38855,7 @@
             "role": "actor",
             "name": "戈兰·D·克鲁特",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1ZGhKsEnv0Jbm4B6nIY1bD"
           },
           {
             "role": "actor",
@@ -38873,7 +38873,7 @@
             "role": "actor",
             "name": "凯特·马尔瓦尼",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4n5dRGMFyDpIgFy9A6BGvE"
           },
           {
             "role": "actor",
@@ -39111,7 +39111,7 @@
             "role": "actor",
             "name": "张杰",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5OHVBWwVlQoKwt7SqYWXj7"
           },
           {
             "role": "actor",
@@ -39147,7 +39147,7 @@
             "role": "director",
             "name": "周洁",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6e1JnUXMsKsuO3kwpiWOFf"
           },
           {
             "role": "playwright",
@@ -39330,7 +39330,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2025/11/08/de56cc98-9602-4826-8a7e-fcc31915efef.webp",
         "rating": 7.1,
-        "rating_count": 1855,
+        "rating_count": 1856,
         "rating_distribution": [
           1,
           7,
@@ -39462,13 +39462,13 @@
             "role": "actor",
             "name": "Camille Kostek",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/30J9YYrXZpHRUTIbtaVzJv"
           },
           {
             "role": "actor",
             "name": "Britne Oldford",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/16d4vuMkgJhjL9Uy9T9bD2"
           },
           {
             "role": "actor",
@@ -39492,7 +39492,7 @@
             "role": "actor",
             "name": "Matthew Cardarople",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0b8XN3Wvh8ADOVBSUVd9wY"
           },
           {
             "role": "actor",
@@ -39522,7 +39522,7 @@
             "role": "actor",
             "name": "Owen Burke",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/21P9B1BUMP9WTUKGHF1zVk"
           },
           {
             "role": "actor",
@@ -39576,13 +39576,13 @@
             "role": "actor",
             "name": "Aaron W Reed",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2UjVGusC1I9zWZmpRSbT7v"
           },
           {
             "role": "actor",
             "name": "Sophie Levy",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3iTWyw63PCEtcAq5LExtiW"
           },
           {
             "role": "actor",
@@ -39594,7 +39594,7 @@
             "role": "actor",
             "name": "Naheem Garcia",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1lx3FpYrui9AmVNHZ5IDFY"
           },
           {
             "role": "director",
@@ -39606,7 +39606,7 @@
             "role": "playwright",
             "name": "Matt Lieberman",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3ct9DEQKLiKOwSGe0YYZzq"
           },
           {
             "role": "playwright",
@@ -40109,13 +40109,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1540ca6a04-7e73-4d51-bf03-5e75bb63a8de.jpg",
         "rating": 8.0,
-        "rating_count": 1160,
+        "rating_count": 1161,
         "rating_distribution": [
           0,
           4,
-          21,
+          20,
           46,
-          29
+          30
         ],
         "tags": [
           "2010s",
@@ -40217,7 +40217,7 @@
             "role": "actor",
             "name": "李璐",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4O5SnMOjadSAsyFEeSVUFg"
           },
           {
             "role": "actor",
@@ -40265,7 +40265,7 @@
             "role": "actor",
             "name": "叶知秋",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/44ICpPGjvoC79MjcrbwaP0"
           },
           {
             "role": "actor",
@@ -40434,7 +40434,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/imdb/2025/11/07/a33756a3-308e-45aa-b653-b3682080a021.jpg",
         "rating": 8.1,
-        "rating_count": 1694,
+        "rating_count": 1695,
         "rating_distribution": [
           0,
           1,
@@ -40553,7 +40553,7 @@
             "role": "actor",
             "name": "普里德拉格·比耶拉克",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6NYvGBWLrifaeVdmMPv0F5"
           },
           {
             "role": "actor",
@@ -40739,7 +40739,7 @@
             "role": "actor",
             "name": "David Sterne",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7mftsmGThQpwHLqUj2CuUX"
           },
           {
             "role": "actor",
@@ -40769,7 +40769,7 @@
             "role": "actor",
             "name": "梁佩诗",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2ygf9wJ5bN61JKa8HdjdNx"
           },
           {
             "role": "actor",
@@ -40859,19 +40859,19 @@
             "role": "actor",
             "name": "Henry Lloyd-Hughes",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3gr0lmtmiEFmYTDXNULLBR"
           },
           {
             "role": "actor",
             "name": "贾维斯·科克尔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1ntfG3Mss1n3yB7h4zWi0u"
           },
           {
             "role": "actor",
             "name": "强尼·格林伍德",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/40XZ7XaSSAgMWGDhSmOqyJ"
           },
           {
             "role": "actor",
@@ -40907,13 +40907,13 @@
             "role": "actor",
             "name": "阿德里安·罗林斯",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4BL9bqsHMx0PmYdcTguV0Y"
           },
           {
             "role": "actor",
             "name": "杰拉丁·萨莫维尔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1yOWy7vEJehtYJUaEi8O5D"
           },
           {
             "role": "actor",
@@ -41124,7 +41124,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1342d14337-0e7e-42e2-b3f5-d92f0903d33f.jpg",
         "rating": 8.5,
-        "rating_count": 1844,
+        "rating_count": 1845,
         "rating_distribution": [
           0,
           1,
@@ -41504,7 +41504,7 @@
             "role": "actor",
             "name": "宋阳",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2kSFMOxU91g6xa7FSVERUM"
           },
           {
             "role": "actor",
@@ -41516,7 +41516,7 @@
             "role": "actor",
             "name": "李萍",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6MD8JzLop6F4HpAC2r9VHx"
           },
           {
             "role": "actor",
@@ -41732,7 +41732,7 @@
             "role": "actor",
             "name": "王军",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/17hx4h0cVsGNgeUIeRHAZK"
           },
           {
             "role": "actor",
@@ -41906,25 +41906,25 @@
             "role": "director",
             "name": "闫非",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/09Tb4RbKwCVFcGEcEKuR3M"
           },
           {
             "role": "director",
             "name": "彭大魔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6rlEUyC1a7kE4caZ6DKjwq"
           },
           {
             "role": "playwright",
             "name": "闫非",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/09Tb4RbKwCVFcGEcEKuR3M"
           },
           {
             "role": "playwright",
             "name": "彭大魔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6rlEUyC1a7kE4caZ6DKjwq"
           }
         ]
       },
@@ -42131,7 +42131,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15f3e99e45-6b26-4747-a8f2-09f292b8f332.jpg",
         "rating": 8.3,
-        "rating_count": 1843,
+        "rating_count": 1844,
         "rating_distribution": [
           0,
           1,
@@ -42280,7 +42280,7 @@
             "role": "actor",
             "name": "肖恩·比格斯代夫",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5miPExLMwzyGLSX2pgO0IU"
           },
           {
             "role": "actor",
@@ -42493,7 +42493,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/154d17b8a4-2b9e-4a69-8f43-7eb6894ffbc5.jpg",
         "rating": 7.5,
-        "rating_count": 815,
+        "rating_count": 814,
         "rating_distribution": [
           0,
           3,
@@ -42667,13 +42667,13 @@
             "role": "director",
             "name": "保罗·金",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0PrH6w6W9RDlMq0rGZOZJE"
           },
           {
             "role": "playwright",
             "name": "保罗·金",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0PrH6w6W9RDlMq0rGZOZJE"
           },
           {
             "role": "playwright",
@@ -42908,7 +42908,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/fedi/2024/10/23/a22a5764-cfb6-4e2f-bbd6-254d0a241f3d.jpg",
         "rating": 8.3,
-        "rating_count": 2729,
+        "rating_count": 2730,
         "rating_distribution": [
           1,
           2,
@@ -43064,13 +43064,13 @@
             "role": "actor",
             "name": "Mckenna Grace",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2dqq2DAjTe2vYEcjEGxjLB"
           },
           {
             "role": "actor",
             "name": "Lulu Wilson",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7Mh6lkas3RPPMnBRoyNG8i"
           },
           {
             "role": "actor",
@@ -43136,7 +43136,7 @@
             "role": "actor",
             "name": "Michael Wildman",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6VnVaCEpTpC2w2RaE64dA1"
           },
           {
             "role": "actor",
@@ -43172,13 +43172,13 @@
             "role": "actor",
             "name": "Britain Dalton",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7etHrmPZ30YlZopJsYFLQM"
           },
           {
             "role": "actor",
             "name": "Jacob Bertrand",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/62quiC9Eoow77qMVI4NAkn"
           },
           {
             "role": "actor",
@@ -43214,7 +43214,7 @@
             "role": "actor",
             "name": "Daniel Eghan",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3WHohFYS7kLh5gy55I0VkY"
           },
           {
             "role": "actor",
@@ -43238,7 +43238,7 @@
             "role": "actor",
             "name": "James Dryden",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5SNuUITzKDSJiNIVtzwaqr"
           },
           {
             "role": "actor",
@@ -43250,7 +43250,7 @@
             "role": "actor",
             "name": "Jayden Fowora-Knight",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0DX69JED4nmftDaoKYIXLc"
           },
           {
             "role": "actor",
@@ -43274,7 +43274,7 @@
             "role": "actor",
             "name": "Asan N'Jie",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/58ZTelXT2AMnKZaAJc7tLb"
           },
           {
             "role": "actor",
@@ -43292,7 +43292,7 @@
             "role": "actor",
             "name": "Sandra Dickinson",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0FDr8AlxcGfGyvoOWcWFKc"
           },
           {
             "role": "actor",
@@ -43664,9 +43664,9 @@
         "rating_count": 2303,
         "rating_distribution": [
           0,
-          0,
+          1,
           11,
-          38,
+          37,
           51
         ],
         "tags": [
@@ -43798,7 +43798,7 @@
             "role": "actor",
             "name": "肖恩·比格斯代夫",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5miPExLMwzyGLSX2pgO0IU"
           },
           {
             "role": "director",
@@ -44080,7 +44080,7 @@
             "role": "actor",
             "name": "艾拉·菲舍尔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4qOu5gYECA6Bvm9UhEaRL4"
           },
           {
             "role": "actor",
@@ -44134,7 +44134,7 @@
             "role": "actor",
             "name": "伊安·艾伯克龙比",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1ZjIe5cDz6L4MRBVjDIzTe"
           },
           {
             "role": "actor",
@@ -44152,7 +44152,7 @@
             "role": "actor",
             "name": "克劳迪娅·布莱克",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7cAS6BlawOG1kFfzylpGAn"
           },
           {
             "role": "actor",
@@ -44188,19 +44188,19 @@
             "role": "actor",
             "name": "查尔斯·弗莱舍",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2gFPIvpZAg43uUlnMWupYi"
           },
           {
             "role": "actor",
             "name": "贝丝·格兰特",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5Xxr9iosqb5KrG2cEk6A71"
           },
           {
             "role": "actor",
             "name": "瑞恩·赫斯特",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1ywB9AkbSRskii4TvqKCXV"
           },
           {
             "role": "actor",
@@ -44212,7 +44212,7 @@
             "role": "actor",
             "name": "赫米基·马德拉",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5TjmGAyagI5r0TJg3ZyE1T"
           },
           {
             "role": "actor",
@@ -44230,7 +44230,7 @@
             "role": "actor",
             "name": "乔·努内斯",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3upFyQ5S21Dp319Cm8zBb1"
           },
           {
             "role": "actor",
@@ -44401,7 +44401,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/135717365f-c912-4679-9f01-b05fcca43095.jpg",
         "rating": 8.4,
-        "rating_count": 1831,
+        "rating_count": 1830,
         "rating_distribution": [
           0,
           2,
@@ -44581,7 +44581,7 @@
             "role": "actor",
             "name": "任珈锐",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5heqm60APR8H53NldVy5iy"
           },
           {
             "role": "actor",
@@ -44885,7 +44885,7 @@
             "role": "director",
             "name": "李惠民",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5YRhJTpF1ypvga7j1LU08i"
           },
           {
             "role": "director",
@@ -44909,7 +44909,7 @@
             "role": "playwright",
             "name": "戴富浩",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6ylKFXQSGLAjEquJx7CWZj"
           },
           {
             "role": "playwright",
@@ -44927,13 +44927,13 @@
             "role": "playwright",
             "name": "关文亮",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3SVhv2E3k2eBuIEYjtvKKx"
           },
           {
             "role": "playwright",
             "name": "金庸",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2AxSdxJmOX3D1RXfbsVMEp"
           }
         ]
       },
@@ -45607,7 +45607,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15d98dd5bd-46e9-45de-91c8-57ae7cb4a7da.jpg",
         "rating": 8.2,
-        "rating_count": 547,
+        "rating_count": 548,
         "rating_distribution": [
           1,
           1,
@@ -45742,7 +45742,7 @@
             "role": "playwright",
             "name": "陈天璇",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2vHLSfGExS2YMvw01onI0b"
           }
         ]
       },
@@ -46084,7 +46084,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/133ed46be4-3fc4-4a59-9639-21a4c9b06bf1.jpg",
         "rating": 7.5,
-        "rating_count": 1361,
+        "rating_count": 1362,
         "rating_distribution": [
           1,
           5,
@@ -46466,7 +46466,7 @@
             "role": "actor",
             "name": "张杰",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5OHVBWwVlQoKwt7SqYWXj7"
           },
           {
             "role": "actor",
@@ -46520,7 +46520,7 @@
             "role": "playwright",
             "name": "李嘉",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6m2eHmjFfC90J1s1zy5LsA"
           },
           {
             "role": "playwright",
@@ -46846,13 +46846,13 @@
             "role": "actor",
             "name": "琳娜·海蒂",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4nDwaaoaNXlpWLIvVvN2EN"
           },
           {
             "role": "actor",
             "name": "多米尼克·韦斯特",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4iRwtfoYWK1Qu21QprTND2"
           },
           {
             "role": "actor",
@@ -46894,7 +46894,7 @@
             "role": "actor",
             "name": "罗德里戈·桑托罗",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3Sveb4IMQJs1bk8V6a0qzW"
           },
           {
             "role": "actor",
@@ -47026,7 +47026,7 @@
             "role": "actor",
             "name": "Stephen McHattie",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1EVeCE2UCwF13bDPa9dKlC"
           },
           {
             "role": "actor",
@@ -47379,7 +47379,7 @@
             "role": "actor",
             "name": "陈晓",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7Oi6THPxa58A7v82EOciMy"
           },
           {
             "role": "actor",
@@ -47391,7 +47391,7 @@
             "role": "actor",
             "name": "吴旭东",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7HVCOgmIUthi20YgajxRbS"
           },
           {
             "role": "actor",
@@ -47409,7 +47409,7 @@
             "role": "actor",
             "name": "张立",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0zBqe6IUlzvj1s8GvnFwvs"
           },
           {
             "role": "actor",
@@ -47451,7 +47451,7 @@
             "role": "actor",
             "name": "杨一威",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/02QWmJD9xqejwnJxbFXoTW"
           },
           {
             "role": "director",
@@ -47964,7 +47964,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15c4f70789-2434-4625-b9ea-fe2a2ff6e621.jpg",
         "rating": 8.3,
-        "rating_count": 1232,
+        "rating_count": 1233,
         "rating_distribution": [
           1,
           3,
@@ -48021,7 +48021,7 @@
             "role": "actor",
             "name": "大卫·李·史密斯",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1VmGn51XDNTPsmLHEkaQbs"
           },
           {
             "role": "actor",
@@ -48039,13 +48039,13 @@
             "role": "actor",
             "name": "安妮卡·彼得森",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2vhavJcpHjIgM13VB0qbv1"
           },
           {
             "role": "actor",
             "name": "阿丽西丝·索普",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7KIrw7gYLuQnka4LYqshNT"
           },
           {
             "role": "actor",
@@ -48063,7 +48063,7 @@
             "role": "actor",
             "name": "艾伦·克劳福德",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0ZDD5vgMsOpYrbnSXrsxbd"
           },
           {
             "role": "actor",
@@ -48087,7 +48087,7 @@
             "role": "playwright",
             "name": "杰罗姆·比克斯比",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/28pF9OBBg1Z324blaxiJjb"
           }
         ]
       },
@@ -48487,7 +48487,7 @@
             "role": "actor",
             "name": "阿方索·弗里曼",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4xMas6S5LF3VoANHX3JMKx"
           },
           {
             "role": "actor",
@@ -48722,7 +48722,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13d1567d07-417b-4b7b-8356-5d0b87f43128.jpg",
         "rating": 9.1,
-        "rating_count": 2547,
+        "rating_count": 2548,
         "rating_distribution": [
           0,
           1,
@@ -49245,7 +49245,7 @@
             "role": "actor",
             "name": "Tom McGrath",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/79FVc2OvtYW1WvEbs8EWYw"
           },
           {
             "role": "actor",
@@ -49257,7 +49257,7 @@
             "role": "actor",
             "name": "Christopher Knights",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0xn1CQha3EMp79dPricSlp"
           },
           {
             "role": "actor",
@@ -49287,7 +49287,7 @@
             "role": "actor",
             "name": "Annet Mahendru",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0uRXACZ3y4kbuQudl2E9ZG"
           },
           {
             "role": "actor",
@@ -49305,7 +49305,7 @@
             "role": "director",
             "name": "Eric Darnell",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4QojFwYkaeOSb522rubJXy"
           },
           {
             "role": "director",
@@ -49317,25 +49317,25 @@
             "role": "playwright",
             "name": "John Aboud",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1bmB2QB30N5frL7Hpa4rXW"
           },
           {
             "role": "playwright",
             "name": "Michael Colton",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/32nXkkcmEAcEqyW94O4OCw"
           },
           {
             "role": "playwright",
             "name": "Eric Darnell",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4QojFwYkaeOSb522rubJXy"
           },
           {
             "role": "playwright",
             "name": "Brandon Sawyer",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3QtZueGq9a2uKRxBeJUPMA"
           }
         ]
       },
@@ -49506,7 +49506,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157eee4ad4-84de-4e92-8fc4-aa4ff42da48f.jpg",
         "rating": 7.9,
-        "rating_count": 1626,
+        "rating_count": 1625,
         "rating_distribution": [
           1,
           4,
@@ -49896,7 +49896,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155c04dbf9-a5ea-49f7-807c-8f46e3fda242.jpg",
         "rating": 7.8,
-        "rating_count": 1192,
+        "rating_count": 1191,
         "rating_distribution": [
           1,
           4,
@@ -50043,7 +50043,7 @@
             "role": "actor",
             "name": "村田太志",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/14YOKwxvygsIiDcOvaogs9"
           },
           {
             "role": "actor",
@@ -50366,7 +50366,7 @@
             "role": "director",
             "name": "大友启史",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1CqerVAFdnxodctYgy91WE"
           },
           {
             "role": "playwright",
@@ -50378,7 +50378,7 @@
             "role": "playwright",
             "name": "大友启史",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1CqerVAFdnxodctYgy91WE"
           },
           {
             "role": "playwright",
@@ -50396,5 +50396,5 @@
   ],
   "count": 145,
   "category": "movie",
-  "updated_at": "2026-04-19T01:54:20.500441"
+  "updated_at": "2026-04-20T01:55:56.560506"
 }
