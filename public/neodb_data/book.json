@@ -2325,11 +2325,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2022/03/13255f8b5f-8f72-4b6f-8f0b-c15346e9cad1.jpg",
         "rating": 8.6,
-        "rating_count": 191,
+        "rating_count": 192,
         "rating_distribution": [
           0,
-          1,
-          8,
+          0,
+          9,
           51,
           40
         ],
@@ -2928,5 +2928,5 @@
   ],
   "count": 36,
   "category": "book",
-  "updated_at": "2026-04-20T01:56:08.044994"
+  "updated_at": "2026-04-21T01:51:19.333381"
 }
