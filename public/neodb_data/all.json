@@ -154,7 +154,7 @@
             "role": "actor",
             "name": "文俊辉",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6UFY3DVwIeBWmySVoSpzOF"
           },
           {
             "role": "actor",
@@ -5434,7 +5434,7 @@
             "role": "actor",
             "name": "沈洁",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3THsOR37tKJEkj06LLfj9T"
           },
           {
             "role": "actor",
@@ -5470,7 +5470,7 @@
             "role": "playwright",
             "name": "伊明",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2k8LmsNFqzSkNFDZDKMsCv"
           },
           {
             "role": "playwright",
@@ -7027,7 +7027,7 @@
             "role": "director",
             "name": "杰克·本德",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7dfnLRFkfqZG6tEgj5ZYBw"
           },
           {
             "role": "director",
@@ -9350,7 +9350,7 @@
             "role": "director",
             "name": "格雷格·艾坦尼斯",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1HYv2EovNO1srJ4QYGlc8J"
           },
           {
             "role": "director",
@@ -10000,7 +10000,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/02/02/d801edae-d1f3-499d-8a73-123ce9669780.jpg",
         "rating": 6.7,
-        "rating_count": 612,
+        "rating_count": 613,
         "rating_distribution": [
           7,
           9,
@@ -12900,7 +12900,7 @@
             "role": "actor",
             "name": "안영미",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4NU1zCZEvirtxurPoij9Xm"
           },
           {
             "role": "actor",
@@ -24020,7 +24020,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15a5cb7008-acae-4a3b-8d5d-581355037dcf.jpg",
         "rating": 7.4,
-        "rating_count": 1571,
+        "rating_count": 1572,
         "rating_distribution": [
           1,
           6,
@@ -28132,7 +28132,7 @@
             "role": "actor",
             "name": "宋家腾",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3COjOgMXLbg4gpjA4Dk8qC"
           },
           {
             "role": "actor",
@@ -28335,7 +28335,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/12/10782d8b03-2b0f-4060-9db2-3052133ef3fe.jpg",
         "rating": 5.3,
-        "rating_count": 64,
+        "rating_count": 65,
         "rating_distribution": [
           11,
           31,
@@ -32513,7 +32513,7 @@
             "role": "actor",
             "name": "伊丸冈笃",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5hPBh9vqYNGICMX0ZEeDDJ"
           },
           {
             "role": "actor",
@@ -32573,7 +32573,7 @@
             "role": "actor",
             "name": "斧笃",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5wvF9xEPbBIJ2whvBYT7cx"
           },
           {
             "role": "actor",
@@ -33013,7 +33013,7 @@
             "role": "actor",
             "name": "Yevgeni Sitokhin",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5s9skKXu3O6JeQp0k2UD3P"
           },
           {
             "role": "actor",
@@ -33338,12 +33338,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/02/09/521f8674-8810-46f3-9a78-a22145369684.webp",
         "rating": 8.1,
-        "rating_count": 1119,
+        "rating_count": 1120,
         "rating_distribution": [
           0,
           1,
-          20,
-          51,
+          19,
+          52,
           28
         ],
         "tags": [
@@ -37185,7 +37185,7 @@
             "role": "actor",
             "name": "爱美",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2CmSseWH9ife0YxUW3GCFX"
           },
           {
             "role": "actor",
@@ -39081,7 +39081,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/01/e4b2048e-6b85-4488-9859-7c519e74dc60.jpg",
         "rating": 9.2,
-        "rating_count": 2151,
+        "rating_count": 2152,
         "rating_distribution": [
           0,
           0,
@@ -39141,31 +39141,31 @@
         "credits": [
           {
             "role": "actor",
-            "name": "本·贝尔特",
+            "name": "Ben Burtt",
             "character_name": "",
             "person_url": "/api/person/0b2iky7eHp0ynksdYPSuaY"
           },
           {
             "role": "actor",
-            "name": "艾丽莎·奈特",
+            "name": "Elissa Knight",
             "character_name": "",
             "person_url": "/api/person/37q6fBTrTkHOhtR1tQwXLw"
           },
           {
             "role": "actor",
-            "name": "杰夫·格尔林",
+            "name": "Jeff Garlin",
             "character_name": "",
             "person_url": "/api/person/75o9rABdCRyEG9TBXbfUUD"
           },
           {
             "role": "actor",
-            "name": "佛莱德·威拉特",
+            "name": "Fred Willard",
             "character_name": "",
             "person_url": "/api/person/7D1sL2Fd7DvbiMidWcXCZ6"
           },
           {
             "role": "actor",
-            "name": "约翰·拉岑伯格",
+            "name": "John Ratzenberger",
             "character_name": "",
             "person_url": "/api/person/2GFPIJpa00VO48ORWObdkY"
           },
@@ -39177,19 +39177,19 @@
           },
           {
             "role": "actor",
-            "name": "西格妮·韦弗",
+            "name": "Sigourney Weaver",
             "character_name": "",
             "person_url": "/api/person/794SVMeIeXZ81UF7yQsAy9"
           },
           {
             "role": "actor",
-            "name": "洛瑞·艾伦",
+            "name": "Lori Alan",
             "character_name": "",
             "person_url": "/api/person/6FihQIuM1vPhuEmrtpVwCB"
           },
           {
             "role": "actor",
-            "name": "鲍伯·伯根",
+            "name": "Bob Bergen",
             "character_name": "",
             "person_url": "/api/person/61aSub6QXFIv1bP6IMQeym"
           },
@@ -39201,7 +39201,7 @@
           },
           {
             "role": "actor",
-            "name": "皮特·多克特",
+            "name": "Pete Docter",
             "character_name": "",
             "person_url": "/api/person/1XQUrEOxjwiOKwxkxqJnlf"
           },
@@ -39225,7 +39225,7 @@
           },
           {
             "role": "actor",
-            "name": "杰斯·哈梅尔",
+            "name": "Jess Harnell",
             "character_name": "",
             "person_url": "/api/person/7F4RWPZkMQMopvPwPRpCQE"
           },
@@ -39249,13 +39249,13 @@
           },
           {
             "role": "actor",
-            "name": "泰迪·牛顿",
+            "name": "Theodore Newton",
             "character_name": "",
             "person_url": "/api/person/6aWvYGvfcEEAqxKkLEDWc3"
           },
           {
             "role": "actor",
-            "name": "杰夫·皮金",
+            "name": "Jeff Pidgeon",
             "character_name": "",
             "person_url": "/api/person/22FEEEtFaEDT5lgkZSUjvu"
           },
@@ -39273,7 +39273,7 @@
           },
           {
             "role": "actor",
-            "name": "安德鲁·斯坦顿",
+            "name": "Andrew Stanton",
             "character_name": "",
             "person_url": "/api/person/2A7YDcSAGQXp5CENxUM7ea"
           },
@@ -39315,19 +39315,19 @@
           },
           {
             "role": "director",
-            "name": "安德鲁·斯坦顿",
+            "name": "Andrew Stanton",
             "character_name": "",
             "person_url": "/api/person/2A7YDcSAGQXp5CENxUM7ea"
           },
           {
             "role": "playwright",
-            "name": "吉姆·里尔登",
+            "name": "Jim Reardon",
             "character_name": "",
             "person_url": "/api/person/33Z5OTwpP6qfkujHbmcpsb"
           },
           {
             "role": "playwright",
-            "name": "安德鲁·斯坦顿",
+            "name": "Andrew Stanton",
             "character_name": "",
             "person_url": "/api/person/2A7YDcSAGQXp5CENxUM7ea"
           }
@@ -41377,7 +41377,7 @@
             "role": "actor",
             "name": "傅迦",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4a31REe1IjbeXrWyMOG9L3"
           },
           {
             "role": "actor",
@@ -45211,7 +45211,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15f440c10b-6210-43ff-860d-907297628e18.jpg",
         "rating": 7.4,
-        "rating_count": 2415,
+        "rating_count": 2416,
         "rating_distribution": [
           2,
           6,
@@ -47991,7 +47991,7 @@
             "role": "actor",
             "name": "索菲亚·巴克莱",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2WxG9JpEfn4TSdpdEIEyFH"
           },
           {
             "role": "actor",
@@ -49055,7 +49055,7 @@
             "role": "director",
             "name": "彼得·霍尔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3RyUriJMZIegfFAdMmnGqa"
           },
           {
             "role": "director",
@@ -50484,7 +50484,7 @@
             "role": "director",
             "name": "迈克尔·赫斯特",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5bTUGh4v8YwBpd1SfExQHa"
           },
           {
             "role": "director",
@@ -51254,7 +51254,7 @@
             "role": "actor",
             "name": "景向谁依",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4GQ92bJUwih7DygfxrrqyG"
           },
           {
             "role": "actor",
@@ -52060,7 +52060,7 @@
             "role": "actor",
             "name": "Aimi",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2CmSseWH9ife0YxUW3GCFX"
           },
           {
             "role": "actor",
@@ -53765,7 +53765,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/05/08ce26bdb6-eb1d-4b5d-8baf-559ae723b8cd.jpg",
         "rating": 5.4,
-        "rating_count": 690,
+        "rating_count": 691,
         "rating_distribution": [
           8,
           27,
@@ -55636,7 +55636,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2026/02/08/3fa19f1a-44f8-4649-ab2f-9d7ab10f0e37.jpeg",
         "rating": 7.6,
-        "rating_count": 1873,
+        "rating_count": 1874,
         "rating_distribution": [
           0,
           4,
@@ -56163,7 +56163,7 @@
             "role": "actor",
             "name": "伊恩·汉摩尔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4MhyI2nX3lMOZSujjvQlj5"
           },
           {
             "role": "actor",
@@ -56900,7 +56900,7 @@
             "role": "actor",
             "name": "Iqbal Theba",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4XdlbPJ4tcwui8KpvNUsci"
           },
           {
             "role": "actor",
@@ -57680,7 +57680,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13a47e43fe-9ea3-43ca-a9e2-808483a6598b.jpg",
         "rating": 7.9,
-        "rating_count": 1621,
+        "rating_count": 1622,
         "rating_distribution": [
           0,
           2,
@@ -58133,7 +58133,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15dcceff27-b10e-4149-9673-022b83f75410.jpg",
         "rating": 8.6,
-        "rating_count": 1871,
+        "rating_count": 1872,
         "rating_distribution": [
           0,
           1,
@@ -58549,7 +58549,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15b71e1380-9ed2-4ac2-bf49-d2e2b3c92156.jpg",
         "rating": 7.7,
-        "rating_count": 1616,
+        "rating_count": 1617,
         "rating_distribution": [
           0,
           3,
@@ -60650,13 +60650,13 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/161a7faff7-0091-4c27-8f0f-06fa5bd3e7b1.jpg",
-        "rating": 8.9,
-        "rating_count": 202,
+        "rating": 8.8,
+        "rating_count": 203,
         "rating_distribution": [
           0,
-          1,
+          2,
           5,
-          43,
+          42,
           51
         ],
         "tags": [
@@ -61859,7 +61859,7 @@
             "role": "actor",
             "name": "威廉·鲍尔斯",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3rceIM9Nco3jOtyBmZ9Ref"
           },
           {
             "role": "actor",
@@ -61955,7 +61955,7 @@
             "role": "actor",
             "name": "Italia Coppola",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1zJiz4zPa3JWQCnp44JTjW"
           },
           {
             "role": "actor",
@@ -61979,7 +61979,7 @@
             "role": "actor",
             "name": "George Holmes",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4WbxBa3EfDTIULOxl7qRFG"
           },
           {
             "role": "actor",
@@ -64748,7 +64748,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/imdb/2025/11/07/a33756a3-308e-45aa-b653-b3682080a021.jpg",
         "rating": 8.1,
-        "rating_count": 1695,
+        "rating_count": 1696,
         "rating_distribution": [
           0,
           1,
@@ -65251,7 +65251,7 @@
             "role": "actor",
             "name": "Charlotte Ritchie",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3Cg9UyHBLUBEYf7QFWNKnE"
           },
           {
             "role": "director",
@@ -65438,7 +65438,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1342d14337-0e7e-42e2-b3f5-d92f0903d33f.jpg",
         "rating": 8.5,
-        "rating_count": 1845,
+        "rating_count": 1846,
         "rating_distribution": [
           0,
           1,
@@ -66445,7 +66445,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15f3e99e45-6b26-4747-a8f2-09f292b8f332.jpg",
         "rating": 8.3,
-        "rating_count": 1844,
+        "rating_count": 1845,
         "rating_distribution": [
           0,
           1,
@@ -66493,10 +66493,10 @@
             "url": "https://www.imdb.com/title/tt0295297/"
           },
           {
-            "url": "https://movie.douban.com/subject/1296996/"
+            "url": "https://www.wikidata.org/wiki/Q102244"
           },
           {
-            "url": "https://www.wikidata.org/wiki/Q102244"
+            "url": "https://movie.douban.com/subject/1296996/"
           }
         ],
         "credits": [
@@ -66962,7 +66962,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/154d17b8a4-2b9e-4a69-8f43-7eb6894ffbc5.jpg",
         "rating": 7.5,
-        "rating_count": 814,
+        "rating_count": 815,
         "rating_distribution": [
           0,
           3,
@@ -67545,7 +67545,7 @@
             "role": "actor",
             "name": "Cara Pifko",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3krt7ybY3JnQAuJ7WbJTdT"
           },
           {
             "role": "actor",
@@ -67725,7 +67725,7 @@
             "role": "actor",
             "name": "Turlough Convery",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5cEEMdNBzupiKK0g2sqM4z"
           },
           {
             "role": "actor",
@@ -67905,7 +67905,7 @@
             "role": "actor",
             "name": "Ian Davies",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1xwZXMBQx5D6MJkFH22vu5"
           },
           {
             "role": "actor",
@@ -68051,7 +68051,7 @@
             "role": "actor",
             "name": "焦晃",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6ZWgbEE5dvGZERnAeGOFBx"
           },
           {
             "role": "actor",
@@ -68489,7 +68489,7 @@
             "role": "director",
             "name": "胡玫",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/00k9WGGWFIxgaJ1vSgo0MY"
           },
           {
             "role": "playwright",
@@ -68776,12 +68776,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/152bbd9498-8051-4931-afbf-4eddc7f9150c.jpg",
         "rating": 8.7,
-        "rating_count": 2303,
+        "rating_count": 2304,
         "rating_distribution": [
           0,
-          1,
+          0,
           11,
-          37,
+          38,
           51
         ],
         "tags": [
@@ -69279,7 +69279,7 @@
             "role": "actor",
             "name": "小约翰·科思伦",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7khxGYLRFInGx487VK0gf6"
           },
           {
             "role": "actor",
@@ -69525,7 +69525,7 @@
             "role": "actor",
             "name": "贺文潇",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/28FZfTUSDhJc7fWf88IOJO"
           },
           {
             "role": "actor",
@@ -70022,7 +70022,7 @@
             "role": "actor",
             "name": "焦晃",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6ZWgbEE5dvGZERnAeGOFBx"
           },
           {
             "role": "actor",
@@ -70867,7 +70867,7 @@
             "role": "actor",
             "name": "崔岱",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3cIDvKh0RQlq4XDbJ52BbG"
           },
           {
             "role": "actor",
@@ -73859,7 +73859,7 @@
             "role": "actor",
             "name": "林栋甫",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6Zv7Gvlo4k6rCC7qrcvvdh"
           },
           {
             "role": "actor",
@@ -76525,7 +76525,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/164196bd4a-d9ca-472f-b930-3c9951369ccc.jpg",
         "rating": 9.0,
-        "rating_count": 101,
+        "rating_count": 102,
         "rating_distribution": [
           0,
           0,
@@ -77144,7 +77144,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2025/11/24/9f5a0527-41bb-4308-a536-f3928922c690.jpg",
         "rating": 7.2,
-        "rating_count": 416,
+        "rating_count": 417,
         "rating_distribution": [
           0,
           5,
@@ -78012,7 +78012,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155c04dbf9-a5ea-49f7-807c-8f46e3fda242.jpg",
         "rating": 7.8,
-        "rating_count": 1191,
+        "rating_count": 1192,
         "rating_distribution": [
           1,
           4,
@@ -79904,8 +79904,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/150ef62a14-2640-4819-8fd2-4d573fca17df.jpg",
-        "rating": 8.1,
-        "rating_count": 117,
+        "rating": 8.0,
+        "rating_count": 118,
         "rating_distribution": [
           2,
           2,
@@ -80225,7 +80225,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/139d724fe4-c423-4a7b-8d56-6d81dff61afc.jpg",
         "rating": 9.5,
-        "rating_count": 689,
+        "rating_count": 690,
         "rating_distribution": [
           0,
           0,
@@ -80739,7 +80739,7 @@
             "role": "actor",
             "name": "Yui Kano",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5V9yAtAe3YIjjKGCdqbCZn"
           },
           {
             "role": "actor",
@@ -81728,7 +81728,7 @@
             "role": "actor",
             "name": "平田薰",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/05LBbwvgQHTaoM91vkpLcn"
           },
           {
             "role": "director",
@@ -82498,36 +82498,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2026-04-23T01:54:04.080059",
+  "updated_at": "2026-04-24T01:54:35.875284",
   "stats": {
     "movie": {
       "count": 145,
-      "time": 12.6
+      "time": 13.18
     },
     "tv": {
       "count": 115,
-      "time": 8.23
+      "time": 8.29
     },
     "book": {
       "count": 36,
-      "time": 1.92
+      "time": 2.0
     },
     "music": {
       "count": 4,
-      "time": 0.17
+      "time": 0.23
     },
     "podcast": {
       "count": 0,
-      "time": 0.14
+      "time": 0.21
     },
     "game": {
       "count": 1,
-      "time": 0.15
+      "time": 0.18
     },
     "performance": {
       "count": 2,
       "time": 0.17
     }
   },
-  "total_time": 23.38
+  "total_time": 24.27
 }
