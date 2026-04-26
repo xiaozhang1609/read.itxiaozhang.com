@@ -7214,7 +7214,7 @@
             "role": "actor",
             "name": "比利·詹金斯",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3EltgWn4omDqxiHzPR47id"
           },
           {
             "role": "actor",
@@ -9930,7 +9930,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/22/a170513d-27d1-4a66-b415-83bcc178b78b.webp",
         "rating": 7.6,
-        "rating_count": 161,
+        "rating_count": 162,
         "rating_distribution": [
           2,
           6,
@@ -10357,7 +10357,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/12/09/e349737a-1ad1-4118-ab72-3f8fd067cf4d.webp",
         "rating": 8.7,
-        "rating_count": 347,
+        "rating_count": 348,
         "rating_distribution": [
           0,
           1,
@@ -11678,7 +11678,7 @@
             "role": "director",
             "name": "筑紫大介",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3jBiQB7ylxbOSOV1igj6gJ"
           },
           {
             "role": "director",
@@ -12680,7 +12680,7 @@
             "role": "actor",
             "name": "张小婉",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0VkBxhTh3Ot5UQH8jWpFPD"
           },
           {
             "role": "actor",
@@ -12770,7 +12770,7 @@
             "role": "actor",
             "name": "六兽",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/104dEBQScj7zjNcdacI0M2"
           },
           {
             "role": "actor",
@@ -18394,7 +18394,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1543e536b3-fcc3-44d0-a4da-96eacc5607bf.jpg",
         "rating": 9.6,
-        "rating_count": 516,
+        "rating_count": 517,
         "rating_distribution": [
           0,
           0,
@@ -26690,7 +26690,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/139d724fe4-c423-4a7b-8d56-6d81dff61afc.jpg",
         "rating": 9.5,
-        "rating_count": 690,
+        "rating_count": 691,
         "rating_distribution": [
           0,
           0,
@@ -28632,5 +28632,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-04-25T01:45:19.346715"
+  "updated_at": "2026-04-26T01:57:31.536786"
 }
