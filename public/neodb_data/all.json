@@ -568,7 +568,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15d11df79d-e135-4b40-92fb-908b367c3558.jpg",
         "rating": 8.1,
-        "rating_count": 855,
+        "rating_count": 856,
         "rating_distribution": [
           0,
           3,
@@ -2807,13 +2807,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/17e87d71d8-4180-48dd-a05b-4214217d40e0.jpg",
         "rating": 6.6,
-        "rating_count": 112,
+        "rating_count": 113,
         "rating_distribution": [
           0,
           9,
           56,
-          31,
-          4
+          32,
+          3
         ],
         "tags": [
           "2020",
@@ -22880,7 +22880,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ef885c05-3eb7-48f9-8a51-ffc98674447b.jpg",
         "rating": 8.1,
-        "rating_count": 780,
+        "rating_count": 781,
         "rating_distribution": [
           0,
           2,
@@ -23576,7 +23576,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/05/05/ff4458fb-b949-416c-833f-def4a33e1a74.webp",
         "rating": 8.1,
-        "rating_count": 563,
+        "rating_count": 564,
         "rating_distribution": [
           0,
           1,
@@ -67869,7 +67869,7 @@
             "role": "actor",
             "name": "Robert Gilbert",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5eSCBRhI06gTTZpgeFCdDe"
           },
           {
             "role": "actor",
@@ -76233,7 +76233,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13d1567d07-417b-4b7b-8356-5d0b87f43128.jpg",
         "rating": 9.1,
-        "rating_count": 2551,
+        "rating_count": 2552,
         "rating_distribution": [
           0,
           1,
@@ -82570,23 +82570,23 @@
     "game",
     "performance"
   ],
-  "updated_at": "2026-04-26T01:57:33.849393",
+  "updated_at": "2026-04-27T02:00:29.191706",
   "stats": {
     "movie": {
       "count": 145,
-      "time": 11.83
+      "time": 11.85
     },
     "tv": {
       "count": 115,
-      "time": 7.53
+      "time": 7.89
     },
     "book": {
       "count": 36,
-      "time": 1.71
+      "time": 1.72
     },
     "music": {
       "count": 4,
-      "time": 0.16
+      "time": 0.17
     },
     "podcast": {
       "count": 0,
@@ -82594,12 +82594,12 @@
     },
     "game": {
       "count": 1,
-      "time": 0.14
+      "time": 0.16
     },
     "performance": {
       "count": 2,
       "time": 0.15
     }
   },
-  "total_time": 21.64
+  "total_time": 22.06
 }
