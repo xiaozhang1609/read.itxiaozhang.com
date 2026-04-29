@@ -14964,7 +14964,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/03/14/e0cc80de-58b3-4a0c-ba0b-cb1ed25f326a.webp",
         "rating": 8.8,
-        "rating_count": 573,
+        "rating_count": 574,
         "rating_distribution": [
           1,
           0,
@@ -21755,7 +21755,7 @@
             "role": "actor",
             "name": "音匣老鬼",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6ScOjcAT2Dff7VidUZTfej"
           },
           {
             "role": "actor",
@@ -28632,5 +28632,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-04-28T02:06:51.759082"
+  "updated_at": "2026-04-29T02:08:28.150979"
 }

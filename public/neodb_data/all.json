@@ -33410,7 +33410,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/02/09/521f8674-8810-46f3-9a78-a22145369684.webp",
         "rating": 8.1,
-        "rating_count": 1121,
+        "rating_count": 1122,
         "rating_distribution": [
           0,
           1,
@@ -48900,7 +48900,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/03/14/e0cc80de-58b3-4a0c-ba0b-cb1ed25f326a.webp",
         "rating": 8.8,
-        "rating_count": 573,
+        "rating_count": 574,
         "rating_distribution": [
           1,
           0,
@@ -63551,7 +63551,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2025/11/08/de56cc98-9602-4826-8a7e-fcc31915efef.webp",
         "rating": 7.1,
-        "rating_count": 1857,
+        "rating_count": 1858,
         "rating_distribution": [
           1,
           7,
@@ -64492,7 +64492,7 @@
             "role": "actor",
             "name": "张恩泽",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/59AzYXR1M4qYb1QHdbYNjX"
           },
           {
             "role": "actor",
@@ -69591,7 +69591,7 @@
             "role": "actor",
             "name": "音匣老鬼",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6ScOjcAT2Dff7VidUZTfej"
           },
           {
             "role": "actor",
@@ -73346,7 +73346,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/133ed46be4-3fc4-4a59-9639-21a4c9b06bf1.jpg",
         "rating": 7.5,
-        "rating_count": 1362,
+        "rating_count": 1363,
         "rating_distribution": [
           1,
           5,
@@ -82570,36 +82570,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2026-04-28T02:06:54.878077",
+  "updated_at": "2026-04-29T02:08:31.168366",
   "stats": {
     "movie": {
       "count": 145,
-      "time": 11.89
+      "time": 13.94
     },
     "tv": {
       "count": 115,
-      "time": 7.69
+      "time": 8.83
     },
     "book": {
       "count": 36,
-      "time": 2.46
+      "time": 2.07
     },
     "music": {
       "count": 4,
-      "time": 0.19
+      "time": 0.25
     },
     "podcast": {
       "count": 0,
-      "time": 0.12
+      "time": 0.19
     },
     "game": {
       "count": 1,
-      "time": 0.16
+      "time": 0.22
     },
     "performance": {
       "count": 2,
-      "time": 0.16
+      "time": 0.25
     }
   },
-  "total_time": 22.66
+  "total_time": 25.75
 }

@@ -22034,7 +22034,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/02/09/521f8674-8810-46f3-9a78-a22145369684.webp",
         "rating": 8.1,
-        "rating_count": 1121,
+        "rating_count": 1122,
         "rating_distribution": [
           0,
           1,
@@ -39402,7 +39402,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2025/11/08/de56cc98-9602-4826-8a7e-fcc31915efef.webp",
         "rating": 7.1,
-        "rating_count": 1857,
+        "rating_count": 1858,
         "rating_distribution": [
           1,
           7,
@@ -40343,7 +40343,7 @@
             "role": "actor",
             "name": "张恩泽",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/59AzYXR1M4qYb1QHdbYNjX"
           },
           {
             "role": "actor",
@@ -46156,7 +46156,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/133ed46be4-3fc4-4a59-9639-21a4c9b06bf1.jpg",
         "rating": 7.5,
-        "rating_count": 1362,
+        "rating_count": 1363,
         "rating_distribution": [
           1,
           5,
@@ -50468,5 +50468,5 @@
   ],
   "count": 145,
   "category": "movie",
-  "updated_at": "2026-04-28T02:06:44.038555"
+  "updated_at": "2026-04-29T02:08:19.293672"
 }
