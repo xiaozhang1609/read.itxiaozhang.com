@@ -580,7 +580,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15972032e2-9c87-4328-baa9-21c0395470bf.jpg",
         "rating": 8.5,
-        "rating_count": 1336,
+        "rating_count": 1335,
         "rating_distribution": [
           1,
           1,
@@ -9136,13 +9136,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13de2367b3-cbe1-4669-996e-e3ef1f5ae43b.jpg",
         "rating": 8.9,
-        "rating_count": 322,
+        "rating_count": 321,
         "rating_distribution": [
           0,
-          3,
+          2,
           7,
           31,
-          59
+          60
         ],
         "tags": [
           "2007",
@@ -12638,7 +12638,7 @@
             "role": "actor",
             "name": "詹鑫",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6rwh7jXBzJXoPYDnkGVyjI"
           },
           {
             "role": "actor",
@@ -12746,7 +12746,7 @@
             "role": "actor",
             "name": "杨雨光",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2dYoop25nSkjSgLZwBmYvJ"
           },
           {
             "role": "actor",
@@ -24925,7 +24925,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ff05449c-d8e8-4a87-a939-e48f28f1d8d3.jpg",
         "rating": 7.4,
-        "rating_count": 330,
+        "rating_count": 329,
         "rating_distribution": [
           2,
           6,
@@ -27933,7 +27933,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155c5cd599-d9ed-4144-b6dd-f450ec1edd27.jpg",
         "rating": 9.4,
-        "rating_count": 618,
+        "rating_count": 617,
         "rating_distribution": [
           0,
           0,
@@ -28632,5 +28632,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-05-01T02:12:21.155815"
+  "updated_at": "2026-05-02T01:59:34.904690"
 }

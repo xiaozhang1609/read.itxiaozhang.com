@@ -70,7 +70,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/08/26/1e4d6296-5462-47f4-a745-b2975b78507b.jpg",
         "rating": 7.1,
-        "rating_count": 260,
+        "rating_count": 261,
         "rating_distribution": [
           2,
           5,
@@ -81,23 +81,23 @@
         "tags": [
           "2020s",
           "2025",
-          "amcempire25",
           "t",
           "中国",
           "中国大陆",
-          "中国电影",
-          "内地",
           "剧情",
           "动作",
           "大陆",
           "悬疑",
           "成龙",
+          "杨子",
           "梁家辉",
+          "此沙",
+          "武打",
           "港片",
           "犯罪",
           "电影",
+          "翻拍",
           "警匪",
-          "院线",
           "香港"
         ],
         "brief": "一伙天才盗匪劫走数亿资产，却凭借超强反侦察能力全身而退，戏耍警方“天眼”系统。一筹莫展之际，澳门司警局请回了隐退多年的跟踪专家黄德忠（成龙 饰），他培养年轻司警何秋果（张子枫 饰）等人，重组“神秘跟踪队”，最终锁定了盗匪团的幕后狼王傅隆生（梁家辉 饰）。当警方布下天罗地网之时，盗匪团也设下局中局，斗智斗勇斗心眼，一场高端猫鼠局拉开帷幕......",
@@ -19353,7 +19353,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/141ac4ecd0-60a1-4b48-9c43-a1fb3a42f224.jpg",
         "rating": 8.3,
-        "rating_count": 1721,
+        "rating_count": 1720,
         "rating_distribution": [
           0,
           1,
@@ -19364,12 +19364,12 @@
         "tags": [
           "2010s",
           "2013",
-          "amyadams",
           "joaquinphoenix",
           "scarlettjohansson",
           "spikejonze",
           "人工智能",
           "人性",
+          "人生",
           "剧情",
           "孤独",
           "心理",
@@ -19764,7 +19764,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/08/09/d546187f-bf96-4341-a492-99bc987de142.jpg",
         "rating": 7.5,
-        "rating_count": 281,
+        "rating_count": 282,
         "rating_distribution": [
           3,
           3,
@@ -22441,10 +22441,10 @@
             "url": "https://www.wikidata.org/wiki/Q214801"
           },
           {
-            "url": "https://movie.douban.com/subject/1292064/"
+            "url": "https://bgm.tv/subject/303548"
           },
           {
-            "url": "https://bgm.tv/subject/303548"
+            "url": "https://movie.douban.com/subject/1292064/"
           }
         ],
         "credits": [
@@ -26317,7 +26317,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/9c60c854-c003-4fde-8112-218faee891da.jpg",
         "rating": 8.8,
-        "rating_count": 1133,
+        "rating_count": 1132,
         "rating_distribution": [
           0,
           0,
@@ -37733,7 +37733,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/145f861699-f73a-4881-8146-9f775950635b.jpg",
         "rating": 9.0,
-        "rating_count": 1404,
+        "rating_count": 1405,
         "rating_distribution": [
           0,
           1,
@@ -47511,7 +47511,7 @@
             "role": "actor",
             "name": "肖轶",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/03BKhat8cmZuUxpi4z5CR7"
           },
           {
             "role": "actor",
@@ -49578,7 +49578,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157eee4ad4-84de-4e92-8fc4-aa4ff42da48f.jpg",
         "rating": 7.9,
-        "rating_count": 1630,
+        "rating_count": 1629,
         "rating_distribution": [
           1,
           4,
@@ -49968,7 +49968,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155c04dbf9-a5ea-49f7-807c-8f46e3fda242.jpg",
         "rating": 7.8,
-        "rating_count": 1195,
+        "rating_count": 1194,
         "rating_distribution": [
           1,
           4,
@@ -50468,5 +50468,5 @@
   ],
   "count": 145,
   "category": "movie",
-  "updated_at": "2026-05-01T02:12:13.828893"
+  "updated_at": "2026-05-02T01:59:27.338809"
 }

@@ -70,7 +70,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/08/26/1e4d6296-5462-47f4-a745-b2975b78507b.jpg",
         "rating": 7.1,
-        "rating_count": 260,
+        "rating_count": 261,
         "rating_distribution": [
           2,
           5,
@@ -81,23 +81,23 @@
         "tags": [
           "2020s",
           "2025",
-          "amcempire25",
           "t",
           "中国",
           "中国大陆",
-          "中国电影",
-          "内地",
           "剧情",
           "动作",
           "大陆",
           "悬疑",
           "成龙",
+          "杨子",
           "梁家辉",
+          "此沙",
+          "武打",
           "港片",
           "犯罪",
           "电影",
+          "翻拍",
           "警匪",
-          "院线",
           "香港"
         ],
         "brief": "一伙天才盗匪劫走数亿资产，却凭借超强反侦察能力全身而退，戏耍警方“天眼”系统。一筹莫展之际，澳门司警局请回了隐退多年的跟踪专家黄德忠（成龙 饰），他培养年轻司警何秋果（张子枫 饰）等人，重组“神秘跟踪队”，最终锁定了盗匪团的幕后狼王傅隆生（梁家辉 饰）。当警方布下天罗地网之时，盗匪团也设下局中局，斗智斗勇斗心眼，一场高端猫鼠局拉开帷幕......",
@@ -1114,7 +1114,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15972032e2-9c87-4328-baa9-21c0395470bf.jpg",
         "rating": 8.5,
-        "rating_count": 1336,
+        "rating_count": 1335,
         "rating_distribution": [
           1,
           1,
@@ -30006,7 +30006,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/141ac4ecd0-60a1-4b48-9c43-a1fb3a42f224.jpg",
         "rating": 8.3,
-        "rating_count": 1721,
+        "rating_count": 1720,
         "rating_distribution": [
           0,
           1,
@@ -30017,12 +30017,12 @@
         "tags": [
           "2010s",
           "2013",
-          "amyadams",
           "joaquinphoenix",
           "scarlettjohansson",
           "spikejonze",
           "人工智能",
           "人性",
+          "人生",
           "剧情",
           "孤独",
           "心理",
@@ -30587,7 +30587,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/08/09/d546187f-bf96-4341-a492-99bc987de142.jpg",
         "rating": 7.5,
-        "rating_count": 281,
+        "rating_count": 282,
         "rating_distribution": [
           3,
           3,
@@ -32380,13 +32380,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13de2367b3-cbe1-4669-996e-e3ef1f5ae43b.jpg",
         "rating": 8.9,
-        "rating_count": 322,
+        "rating_count": 321,
         "rating_distribution": [
           0,
-          3,
+          2,
           7,
           31,
-          59
+          60
         ],
         "tags": [
           "2007",
@@ -34211,10 +34211,10 @@
             "url": "https://www.wikidata.org/wiki/Q214801"
           },
           {
-            "url": "https://movie.douban.com/subject/1292064/"
+            "url": "https://bgm.tv/subject/303548"
           },
           {
-            "url": "https://bgm.tv/subject/303548"
+            "url": "https://movie.douban.com/subject/1292064/"
           }
         ],
         "credits": [
@@ -41371,7 +41371,7 @@
             "role": "actor",
             "name": "詹鑫",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6rwh7jXBzJXoPYDnkGVyjI"
           },
           {
             "role": "actor",
@@ -41479,7 +41479,7 @@
             "role": "actor",
             "name": "杨雨光",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2dYoop25nSkjSgLZwBmYvJ"
           },
           {
             "role": "actor",
@@ -43018,7 +43018,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/9c60c854-c003-4fde-8112-218faee891da.jpg",
         "rating": 8.8,
-        "rating_count": 1133,
+        "rating_count": 1132,
         "rating_distribution": [
           0,
           0,
@@ -61335,7 +61335,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/145f861699-f73a-4881-8146-9f775950635b.jpg",
         "rating": 9.0,
-        "rating_count": 1404,
+        "rating_count": 1405,
         "rating_distribution": [
           0,
           1,
@@ -74874,7 +74874,7 @@
             "role": "actor",
             "name": "肖轶",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/03BKhat8cmZuUxpi4z5CR7"
           },
           {
             "role": "actor",
@@ -77540,7 +77540,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157eee4ad4-84de-4e92-8fc4-aa4ff42da48f.jpg",
         "rating": 7.9,
-        "rating_count": 1630,
+        "rating_count": 1629,
         "rating_distribution": [
           1,
           4,
@@ -78084,7 +78084,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155c04dbf9-a5ea-49f7-807c-8f46e3fda242.jpg",
         "rating": 7.8,
-        "rating_count": 1195,
+        "rating_count": 1194,
         "rating_distribution": [
           1,
           4,
@@ -78532,7 +78532,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ff05449c-d8e8-4a87-a939-e48f28f1d8d3.jpg",
         "rating": 7.4,
-        "rating_count": 330,
+        "rating_count": 329,
         "rating_distribution": [
           2,
           6,
@@ -81863,7 +81863,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155c5cd599-d9ed-4144-b6dd-f450ec1edd27.jpg",
         "rating": 9.4,
-        "rating_count": 618,
+        "rating_count": 617,
         "rating_distribution": [
           0,
           0,
@@ -82570,23 +82570,23 @@
     "game",
     "performance"
   ],
-  "updated_at": "2026-05-01T02:12:23.426761",
+  "updated_at": "2026-05-02T01:59:37.202255",
   "stats": {
     "movie": {
       "count": 145,
-      "time": 11.54
+      "time": 12.35
     },
     "tv": {
       "count": 115,
-      "time": 7.3
+      "time": 7.54
     },
     "book": {
       "count": 36,
-      "time": 1.65
+      "time": 1.67
     },
     "music": {
       "count": 4,
-      "time": 0.15
+      "time": 0.16
     },
     "podcast": {
       "count": 0,
@@ -82594,12 +82594,12 @@
     },
     "game": {
       "count": 1,
-      "time": 0.15
+      "time": 0.16
     },
     "performance": {
       "count": 2,
       "time": 0.16
     }
   },
-  "total_time": 21.07
+  "total_time": 22.14
 }
