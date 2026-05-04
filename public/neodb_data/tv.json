@@ -9136,13 +9136,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13de2367b3-cbe1-4669-996e-e3ef1f5ae43b.jpg",
         "rating": 8.9,
-        "rating_count": 321,
+        "rating_count": 322,
         "rating_distribution": [
           0,
-          2,
+          3,
           7,
           31,
-          60
+          59
         ],
         "tags": [
           "2007",
@@ -14129,7 +14129,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/01/0601fef99c-a667-460e-bebd-99e45fb92e8a.webp",
         "rating": 9.7,
-        "rating_count": 653,
+        "rating_count": 654,
         "rating_distribution": [
           0,
           0,
@@ -18394,7 +18394,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1543e536b3-fcc3-44d0-a4da-96eacc5607bf.jpg",
         "rating": 9.6,
-        "rating_count": 517,
+        "rating_count": 518,
         "rating_distribution": [
           0,
           0,
@@ -22472,7 +22472,7 @@
             "role": "actor",
             "name": "薛亦伦",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4s57DPyvSNfXyqMnngapWH"
           },
           {
             "role": "actor",
@@ -25485,7 +25485,7 @@
             "role": "actor",
             "name": "石原夏织",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7OglAp23PYZDkmHZYBVK9G"
           },
           {
             "role": "actor",
@@ -28632,5 +28632,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-05-03T02:04:03.115365"
+  "updated_at": "2026-05-04T02:03:52.132319"
 }

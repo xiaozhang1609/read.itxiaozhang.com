@@ -1270,12 +1270,6 @@
             "person_url": "/api/person/1P5z5YUaVSVJDOHP5mi2Lq"
           },
           {
-            "role": "imprint",
-            "name": "博集天卷",
-            "character_name": "",
-            "person_url": null
-          },
-          {
             "role": "publisher",
             "name": "湖南文艺出版社",
             "character_name": "",
@@ -1707,12 +1701,6 @@
             "person_url": null
           },
           {
-            "role": "imprint",
-            "name": "后浪",
-            "character_name": "",
-            "person_url": null
-          },
-          {
             "role": "publisher",
             "name": "后浪丨海峡文艺出版社",
             "character_name": "",
@@ -1780,12 +1768,6 @@
             "name": "苏童",
             "character_name": "",
             "person_url": "/api/person/5iHKvF49Dayv9cDwu23Pwk"
-          },
-          {
-            "role": "imprint",
-            "name": "99读书人",
-            "character_name": "",
-            "person_url": null
           },
           {
             "role": "publisher",
@@ -1946,12 +1928,6 @@
             "name": "金庸",
             "character_name": "",
             "person_url": "/api/person/2AxSdxJmOX3D1RXfbsVMEp"
-          },
-          {
-            "role": "imprint",
-            "name": "朗声图书",
-            "character_name": "",
-            "person_url": null
           },
           {
             "role": "publisher",
@@ -2378,12 +2354,6 @@
             "person_url": "/api/person/1P5z5YUaVSVJDOHP5mi2Lq"
           },
           {
-            "role": "imprint",
-            "name": "博集天卷",
-            "character_name": "",
-            "person_url": null
-          },
-          {
             "role": "publisher",
             "name": "湖南文艺出版社",
             "character_name": "",
@@ -2723,12 +2693,6 @@
             "person_url": "/api/person/1P5z5YUaVSVJDOHP5mi2Lq"
           },
           {
-            "role": "imprint",
-            "name": "博集天卷",
-            "character_name": "",
-            "person_url": null
-          },
-          {
             "role": "publisher",
             "name": "湖南文艺出版社",
             "character_name": "",
@@ -2820,12 +2784,6 @@
             "name": "刘震云",
             "character_name": "",
             "person_url": "/api/person/3ixn1fExhcqY25hcaLa2rQ"
-          },
-          {
-            "role": "imprint",
-            "name": "长江新世纪",
-            "character_name": "",
-            "person_url": null
           },
           {
             "role": "publisher",
@@ -2928,5 +2886,5 @@
   ],
   "count": 36,
   "category": "book",
-  "updated_at": "2026-05-03T02:04:05.199334"
+  "updated_at": "2026-05-04T02:03:53.833585"
 }
