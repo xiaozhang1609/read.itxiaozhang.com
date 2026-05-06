@@ -8694,13 +8694,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13f0f1086d-2dd2-4f8b-a1a8-fff29ef19e35.jpg",
         "rating": 9.3,
-        "rating_count": 1359,
+        "rating_count": 1360,
         "rating_distribution": [
           0,
           0,
-          3,
+          4,
           26,
-          71
+          70
         ],
         "tags": [
           "2010s",
@@ -10073,7 +10073,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/02/02/d801edae-d1f3-499d-8a73-123ce9669780.jpg",
         "rating": 6.7,
-        "rating_count": 614,
+        "rating_count": 615,
         "rating_distribution": [
           7,
           9,
@@ -12714,7 +12714,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/153f250f04-06a2-4a3d-88b0-f28cca4e9b3b.jpg",
         "rating": 8.7,
-        "rating_count": 510,
+        "rating_count": 511,
         "rating_distribution": [
           0,
           1,
@@ -44806,7 +44806,7 @@
             "role": "actor",
             "name": "吴汉坤",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2qEzXF6yus2Xxy2xiNuo9s"
           },
           {
             "role": "actor",
@@ -51212,7 +51212,7 @@
             "role": "actor",
             "name": "陈张太康",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1oDVSqf2lBh98QqLFmhtWA"
           },
           {
             "role": "actor",
@@ -51955,7 +51955,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2023/07/20/8206c5c4-0d6d-46f6-a08c-7a7d3af84393.jpg",
         "rating": 7.0,
-        "rating_count": 875,
+        "rating_count": 876,
         "rating_distribution": [
           1,
           7,
@@ -61643,7 +61643,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14f252245f-7496-4c2e-80d3-be5538201552.jpg",
         "rating": 9.1,
-        "rating_count": 1155,
+        "rating_count": 1156,
         "rating_distribution": [
           0,
           0,
@@ -63954,7 +63954,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1324f7bdb2-898a-450b-95ca-73c4d1b92011.jpg",
         "rating": 9.1,
-        "rating_count": 1831,
+        "rating_count": 1832,
         "rating_distribution": [
           0,
           1,
@@ -65468,7 +65468,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1342d14337-0e7e-42e2-b3f5-d92f0903d33f.jpg",
         "rating": 8.5,
-        "rating_count": 1850,
+        "rating_count": 1851,
         "rating_distribution": [
           0,
           1,
@@ -81821,7 +81821,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155c5cd599-d9ed-4144-b6dd-f450ec1edd27.jpg",
         "rating": 9.4,
-        "rating_count": 619,
+        "rating_count": 620,
         "rating_distribution": [
           0,
           0,
@@ -82528,36 +82528,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2026-05-05T02:03:37.341929",
+  "updated_at": "2026-05-06T02:02:52.511256",
   "stats": {
     "movie": {
       "count": 145,
-      "time": 11.92
+      "time": 12.87
     },
     "tv": {
       "count": 115,
-      "time": 7.41
+      "time": 8.3
     },
     "book": {
       "count": 36,
-      "time": 1.68
+      "time": 1.87
     },
     "music": {
       "count": 4,
-      "time": 0.15
+      "time": 0.22
     },
     "podcast": {
       "count": 0,
-      "time": 0.13
+      "time": 0.18
     },
     "game": {
       "count": 1,
-      "time": 0.15
+      "time": 0.25
     },
     "performance": {
       "count": 2,
-      "time": 0.18
+      "time": 0.29
     }
   },
-  "total_time": 21.61
+  "total_time": 23.99
 }
