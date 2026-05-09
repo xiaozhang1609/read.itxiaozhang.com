@@ -4973,7 +4973,7 @@
             "role": "actor",
             "name": "山下七海",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2P8xNpU6vSyzkNp35gistC"
           },
           {
             "role": "actor",
@@ -5864,7 +5864,7 @@
             "role": "actor",
             "name": "山下七海",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2P8xNpU6vSyzkNp35gistC"
           },
           {
             "role": "actor",
@@ -28635,5 +28635,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-05-08T02:12:15.409170"
+  "updated_at": "2026-05-09T02:06:10.769974"
 }
