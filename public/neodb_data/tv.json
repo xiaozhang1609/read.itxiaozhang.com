@@ -3820,13 +3820,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13f0f1086d-2dd2-4f8b-a1a8-fff29ef19e35.jpg",
         "rating": 9.3,
-        "rating_count": 1360,
+        "rating_count": 1361,
         "rating_distribution": [
           0,
           0,
-          4,
+          3,
           26,
-          70
+          71
         ],
         "tags": [
           "2010s",
@@ -18949,7 +18949,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158b2b635b-d04a-41b9-a36b-c5af7dfc3f2a.jpg",
         "rating": 9.4,
-        "rating_count": 1074,
+        "rating_count": 1075,
         "rating_distribution": [
           0,
           1,
@@ -28635,5 +28635,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-05-09T02:06:10.769974"
+  "updated_at": "2026-05-10T02:07:19.704317"
 }
