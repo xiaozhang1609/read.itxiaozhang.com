@@ -17518,7 +17518,7 @@
             "role": "playwright",
             "name": "柳勇在",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5yvM9V9Dcae7UyZBJqP40L"
           }
         ]
       },
@@ -28635,5 +28635,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-05-13T02:26:18.221242"
+  "updated_at": "2026-05-14T02:28:06.653071"
 }

@@ -32156,7 +32156,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/02/09/ff5b5d50-1e64-423a-b992-6880be257d62.webp",
         "rating": 8.7,
-        "rating_count": 949,
+        "rating_count": 950,
         "rating_distribution": [
           0,
           0,
@@ -32926,7 +32926,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/02/09/4b06c21f-3439-4a71-a88d-3a62ee8d8f3e.webp",
         "rating": 8.3,
-        "rating_count": 878,
+        "rating_count": 879,
         "rating_distribution": [
           0,
           1,
@@ -33400,7 +33400,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/02/09/521f8674-8810-46f3-9a78-a22145369684.webp",
         "rating": 8.1,
-        "rating_count": 1122,
+        "rating_count": 1123,
         "rating_distribution": [
           0,
           1,
@@ -53066,7 +53066,7 @@
             "role": "playwright",
             "name": "柳勇在",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5yvM9V9Dcae7UyZBJqP40L"
           }
         ]
       },
@@ -75794,7 +75794,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14e5043627-8e2d-43c0-a6cc-a8e05d8115d3.jpg",
         "rating": 9.4,
-        "rating_count": 2872,
+        "rating_count": 2873,
         "rating_distribution": [
           0,
           0,
@@ -78045,7 +78045,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155c04dbf9-a5ea-49f7-807c-8f46e3fda242.jpg",
         "rating": 7.8,
-        "rating_count": 1196,
+        "rating_count": 1197,
         "rating_distribution": [
           1,
           4,
@@ -82531,23 +82531,23 @@
     "game",
     "performance"
   ],
-  "updated_at": "2026-05-13T02:26:20.516716",
+  "updated_at": "2026-05-14T02:28:08.897349",
   "stats": {
     "movie": {
       "count": 145,
-      "time": 11.88
+      "time": 12.1
     },
     "tv": {
       "count": 115,
-      "time": 8.44
+      "time": 7.4
     },
     "book": {
       "count": 36,
-      "time": 1.65
+      "time": 1.61
     },
     "music": {
       "count": 4,
-      "time": 0.17
+      "time": 0.16
     },
     "podcast": {
       "count": 0,
@@ -82555,12 +82555,12 @@
     },
     "game": {
       "count": 1,
-      "time": 0.15
+      "time": 0.14
     },
     "performance": {
       "count": 2,
-      "time": 0.17
+      "time": 0.18
     }
   },
-  "total_time": 22.58
+  "total_time": 21.71
 }
