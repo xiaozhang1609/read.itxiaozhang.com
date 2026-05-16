@@ -6710,7 +6710,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/131b46667b-3905-4bdb-a7ec-441f1126be6d.jpg",
         "rating": 9.0,
-        "rating_count": 1232,
+        "rating_count": 1233,
         "rating_distribution": [
           0,
           0,
@@ -6866,7 +6866,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14138f068a-33d6-4cb0-a556-1112c79ede52.jpg",
         "rating": 9.3,
-        "rating_count": 1725,
+        "rating_count": 1726,
         "rating_distribution": [
           0,
           1,
@@ -8288,7 +8288,7 @@
             "role": "playwright",
             "name": "Mick Herron",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0dl0qjfq9aUYW7SYWrJ9lM"
           }
         ]
       },
@@ -12039,7 +12039,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
         "rating": 9.0,
-        "rating_count": 644,
+        "rating_count": 646,
         "rating_distribution": [
           0,
           1,
@@ -13573,7 +13573,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/16/f28d5972-1708-4dd1-a655-d75431e32c33.webp",
         "rating": 9.0,
-        "rating_count": 818,
+        "rating_count": 819,
         "rating_distribution": [
           0,
           0,
@@ -15265,7 +15265,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/2775557ce8-06f5-4882-a7e4-a3293ba16d3a.jpg",
         "rating": 8.9,
-        "rating_count": 1138,
+        "rating_count": 1139,
         "rating_distribution": [
           0,
           1,
@@ -17921,7 +17921,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/17/18d1616a-20a3-4c95-9694-b8b225b56ffa.jpg",
         "rating": 8.5,
-        "rating_count": 363,
+        "rating_count": 364,
         "rating_distribution": [
           1,
           1,
@@ -18264,13 +18264,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1373cde94d-7ce8-4f88-9d1e-adcf85e9d479.jpg",
         "rating": 8.1,
-        "rating_count": 244,
+        "rating_count": 245,
         "rating_distribution": [
           1,
           3,
-          20,
+          21,
           37,
-          39
+          38
         ],
         "tags": [
           "2010s",
@@ -23923,7 +23923,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/07/05c276ff7d-f4a2-4b7c-aadb-77ea19192448.jpg",
         "rating": 7.2,
-        "rating_count": 221,
+        "rating_count": 222,
         "rating_distribution": [
           9,
           8,
@@ -26693,7 +26693,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/139d724fe4-c423-4a7b-8d56-6d81dff61afc.jpg",
         "rating": 9.5,
-        "rating_count": 692,
+        "rating_count": 693,
         "rating_distribution": [
           0,
           0,
@@ -28635,5 +28635,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-05-15T02:26:40.884790"
+  "updated_at": "2026-05-16T02:08:47.315162"
 }
