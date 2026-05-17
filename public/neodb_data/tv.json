@@ -581,7 +581,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15972032e2-9c87-4328-baa9-21c0395470bf.jpg",
         "rating": 8.5,
-        "rating_count": 1337,
+        "rating_count": 1338,
         "rating_distribution": [
           1,
           1,
@@ -10359,7 +10359,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/12/09/e349737a-1ad1-4118-ab72-3f8fd067cf4d.webp",
         "rating": 8.7,
-        "rating_count": 350,
+        "rating_count": 351,
         "rating_distribution": [
           0,
           1,
@@ -11206,7 +11206,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/08/69d304f8-1a0f-4f06-9a4a-b1d870f43864.webp",
         "rating": 8.0,
-        "rating_count": 233,
+        "rating_count": 235,
         "rating_distribution": [
           1,
           2,
@@ -12049,16 +12049,17 @@
         ],
         "tags": [
           "2021",
+          "anime",
           "netflix",
           "tv",
+          "剧",
           "剧情",
           "动作",
           "动画",
-          "動畫",
           "奇幻",
           "拳头",
           "法国",
-          "游戏改",
+          "游戏",
           "游戏改编",
           "电视剧",
           "科幻",
@@ -12724,7 +12725,7 @@
             "role": "actor",
             "name": "李川",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2CUkAQgqhlMYOL7bGUncfS"
           },
           {
             "role": "actor",
@@ -17747,12 +17748,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13fad64691-a76f-489b-a7d7-ea2a222066c6.jpg",
         "rating": 8.3,
-        "rating_count": 157,
+        "rating_count": 158,
         "rating_distribution": [
           1,
           2,
-          20,
-          34,
+          19,
+          35,
           43
         ],
         "tags": [
@@ -23466,14 +23467,14 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/163da055cd-66a1-4ab7-8a59-1d0b78d8fb3d.jpg",
-        "rating": 8.5,
-        "rating_count": 117,
+        "rating": 8.4,
+        "rating_count": 118,
         "rating_distribution": [
           3,
           3,
           6,
-          40,
-          48
+          41,
+          47
         ],
         "tags": [
           "2000s",
@@ -28635,5 +28636,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-05-16T02:08:47.315162"
+  "updated_at": "2026-05-17T02:13:59.438853"
 }
