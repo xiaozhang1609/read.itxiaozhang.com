@@ -28033,7 +28033,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/07/be012b58-ed0a-4750-b71d-03b0f59276a6.jpg",
         "rating": 7.8,
-        "rating_count": 1197,
+        "rating_count": 1198,
         "rating_distribution": [
           3,
           3,
@@ -49496,6 +49496,10 @@
           {
             "lang": "pt",
             "text": "5 Centimeters per Second"
+          },
+          {
+            "lang": "en",
+            "text": "a chain of short stories about their distance"
           }
         ],
         "localized_description": [
@@ -49574,11 +49578,15 @@
           {
             "lang": "ko",
             "text": "2007년 신카이 마코토 감독의 일본의 애니메이션 영화"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "时间是1990年代的日本，远野贵树与筱原明里原本是同班同学的好朋友，自从小学毕业之后，两人都没有再见一次面。分隔两地的两个人，靠着书信往来保持联络，直到贵树知道即将跟随家人搬到鹿儿岛，距离明里更远的地方，于是两人约定了再见面的时间。计划好的行程，却遇上了暴风雪……。"
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157eee4ad4-84de-4e92-8fc4-aa4ff42da48f.jpg",
         "rating": 7.9,
-        "rating_count": 1635,
+        "rating_count": 1637,
         "rating_distribution": [
           1,
           4,
@@ -49628,6 +49636,9 @@
           },
           {
             "url": "https://www.wikidata.org/wiki/Q143513"
+          },
+          {
+            "url": "https://bgm.tv/subject/927"
           }
         ],
         "credits": [
@@ -49750,6 +49761,12 @@
             "name": "斋藤由香子",
             "character_name": "",
             "person_url": null
+          },
+          {
+            "role": "director",
+            "name": "新海誠",
+            "character_name": "",
+            "person_url": "/api/person/6NhT9elQ9Rm8lOOMu1Xemx"
           },
           {
             "role": "director",
@@ -50468,5 +50485,5 @@
   ],
   "count": 145,
   "category": "movie",
-  "updated_at": "2026-05-17T02:13:51.389631"
+  "updated_at": "2026-05-18T02:33:59.235908"
 }

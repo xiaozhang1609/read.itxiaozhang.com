@@ -8190,13 +8190,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/04/15b785f2f1-4e5a-4ab8-8344-90049e5ac6fb.jpg",
         "rating": 8.3,
-        "rating_count": 396,
+        "rating_count": 397,
         "rating_distribution": [
-          0,
+          1,
           1,
           8,
           57,
-          34
+          33
         ],
         "tags": [
           "2020s",
@@ -12049,17 +12049,16 @@
         ],
         "tags": [
           "2021",
-          "anime",
           "netflix",
           "tv",
-          "剧",
           "剧情",
           "动作",
           "动画",
+          "動畫",
           "奇幻",
           "拳头",
           "法国",
-          "游戏",
+          "游戏改",
           "游戏改编",
           "电视剧",
           "科幻",
@@ -18329,19 +18328,19 @@
             "role": "director",
             "name": "Álex Pina",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2HnuEhfudVY18tSuVxXUeQ"
           },
           {
             "role": "playwright",
             "name": "Esther Martínez Lobato",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6g4GfSOjbY4vpK6uEOiwid"
           },
           {
             "role": "playwright",
             "name": "Álex Pina",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2HnuEhfudVY18tSuVxXUeQ"
           },
           {
             "role": "playwright",
@@ -18398,7 +18397,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1543e536b3-fcc3-44d0-a4da-96eacc5607bf.jpg",
         "rating": 9.6,
-        "rating_count": 521,
+        "rating_count": 522,
         "rating_distribution": [
           0,
           0,
@@ -28636,5 +28635,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-05-17T02:13:59.438853"
+  "updated_at": "2026-05-18T02:34:09.003617"
 }
