@@ -6342,7 +6342,7 @@
             "role": "actor",
             "name": "保罗·程",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6zUam3AR4Ec3NOSkd8TRta"
           },
           {
             "role": "actor",
@@ -27559,7 +27559,7 @@
             "role": "actor",
             "name": "Christopher Sabat",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4Z8AEBbA2c6Y3p81JkNlR8"
           },
           {
             "role": "actor",
@@ -28646,5 +28646,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-05-23T02:12:24.211960"
+  "updated_at": "2026-05-24T02:31:14.196901"
 }
