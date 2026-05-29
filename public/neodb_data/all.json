@@ -25641,7 +25641,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/156bbc2ea2-fc09-440a-bb29-83dd0339574a.jpg",
         "rating": 6.7,
-        "rating_count": 1433,
+        "rating_count": 1434,
         "rating_distribution": [
           3,
           10,
@@ -29995,7 +29995,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/141ac4ecd0-60a1-4b48-9c43-a1fb3a42f224.jpg",
         "rating": 8.3,
-        "rating_count": 1729,
+        "rating_count": 1730,
         "rating_distribution": [
           0,
           1,
@@ -37318,7 +37318,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1753171f5c-835e-4836-a246-2d5a8fc253ad.jpg",
         "rating": 8.2,
-        "rating_count": 118,
+        "rating_count": 119,
         "rating_distribution": [
           0,
           1,
@@ -49997,13 +49997,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2024/02/16/ebc8a989-7250-4d9a-bc87-f0015d90a64b.jpg",
         "rating": 8.7,
-        "rating_count": 114,
+        "rating_count": 115,
         "rating_distribution": [
           1,
-          2,
+          3,
           14,
           24,
-          59
+          58
         ],
         "tags": [
           "2021",
@@ -51434,7 +51434,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/3162443ce4-c901-4bcc-b518-2ded04071051.jpg",
         "rating": 8.5,
-        "rating_count": 126,
+        "rating_count": 127,
         "rating_distribution": [
           0,
           1,
@@ -52740,12 +52740,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/275e2658ad-2aae-4ba2-9d91-73860d948fa3.webp",
         "rating": 8.6,
-        "rating_count": 135,
+        "rating_count": 136,
         "rating_distribution": [
           0,
           0,
-          16,
-          36,
+          15,
+          37,
           48
         ],
         "tags": [
@@ -76326,7 +76326,7 @@
             "role": "actor",
             "name": "迈克尔·康纳·亨弗里斯",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6aG8qPfYtq0xNV1Jzx2lSS"
           },
           {
             "role": "actor",
@@ -76350,7 +76350,7 @@
             "role": "actor",
             "name": "彼得·道博森",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1pl8WpgeeNCrPAGgMibwUn"
           },
           {
             "role": "actor",
@@ -76542,7 +76542,7 @@
             "role": "playwright",
             "name": "艾瑞克·罗斯",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2y9FIJw5H67tlU5bIeuHnq"
           },
           {
             "role": "playwright",
@@ -82593,36 +82593,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2026-05-28T02:25:47.986555",
+  "updated_at": "2026-05-29T02:30:42.435547",
   "stats": {
     "movie": {
       "count": 145,
-      "time": 14.63
+      "time": 12.24
     },
     "tv": {
       "count": 115,
-      "time": 9.37
+      "time": 7.78
     },
     "book": {
       "count": 36,
-      "time": 2.2
+      "time": 1.74
     },
     "music": {
       "count": 4,
-      "time": 0.25
+      "time": 0.18
     },
     "podcast": {
       "count": 0,
-      "time": 0.2
+      "time": 0.13
     },
     "game": {
       "count": 1,
-      "time": 0.24
+      "time": 0.19
     },
     "performance": {
       "count": 2,
-      "time": 0.31
+      "time": 0.22
     }
   },
-  "total_time": 27.2
+  "total_time": 22.47
 }

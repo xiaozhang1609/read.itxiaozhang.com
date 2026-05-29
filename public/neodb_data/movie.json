@@ -15833,7 +15833,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/156bbc2ea2-fc09-440a-bb29-83dd0339574a.jpg",
         "rating": 6.7,
-        "rating_count": 1433,
+        "rating_count": 1434,
         "rating_distribution": [
           3,
           10,
@@ -19353,7 +19353,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/141ac4ecd0-60a1-4b48-9c43-a1fb3a42f224.jpg",
         "rating": 8.3,
-        "rating_count": 1729,
+        "rating_count": 1730,
         "rating_distribution": [
           0,
           1,
@@ -48927,7 +48927,7 @@
             "role": "actor",
             "name": "迈克尔·康纳·亨弗里斯",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6aG8qPfYtq0xNV1Jzx2lSS"
           },
           {
             "role": "actor",
@@ -48951,7 +48951,7 @@
             "role": "actor",
             "name": "彼得·道博森",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1pl8WpgeeNCrPAGgMibwUn"
           },
           {
             "role": "actor",
@@ -49143,7 +49143,7 @@
             "role": "playwright",
             "name": "艾瑞克·罗斯",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2y9FIJw5H67tlU5bIeuHnq"
           },
           {
             "role": "playwright",
@@ -50519,5 +50519,5 @@
   ],
   "count": 145,
   "category": "movie",
-  "updated_at": "2026-05-28T02:25:35.358278"
+  "updated_at": "2026-05-29T02:30:32.140932"
 }
