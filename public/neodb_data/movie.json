@@ -70,7 +70,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/08/26/1e4d6296-5462-47f4-a745-b2975b78507b.jpg",
         "rating": 7.1,
-        "rating_count": 273,
+        "rating_count": 274,
         "rating_distribution": [
           2,
           5,
@@ -3756,13 +3756,13 @@
             "role": "actor",
             "name": "彼得·孙",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5JGpfeZX1zaqFDuR9vbZOY"
           },
           {
             "role": "director",
             "name": "彼得·孙",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5JGpfeZX1zaqFDuR9vbZOY"
           },
           {
             "role": "playwright",
@@ -3774,7 +3774,7 @@
             "role": "playwright",
             "name": "彼得·孙",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5JGpfeZX1zaqFDuR9vbZOY"
           },
           {
             "role": "playwright",
@@ -9918,10 +9918,10 @@
             "url": "https://www.themoviedb.org/movie/352173"
           },
           {
-            "url": "https://www.imdb.com/title/tt4430212/"
+            "url": "https://www.wikidata.org/wiki/Q19824636"
           },
           {
-            "url": "https://www.wikidata.org/wiki/Q19824636"
+            "url": "https://www.imdb.com/title/tt4430212/"
           }
         ],
         "credits": [
@@ -10868,9 +10868,6 @@
         "display_title": "灰猎犬号",
         "external_resources": [
           {
-            "url": "https://www.wikidata.org/wiki/Q50404285"
-          },
-          {
             "url": "https://www.imdb.com/title/tt6048922/"
           },
           {
@@ -10878,6 +10875,9 @@
           },
           {
             "url": "https://www.themoviedb.org/movie/516486"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q50404285"
           }
         ],
         "credits": [
@@ -11023,7 +11023,7 @@
             "role": "actor",
             "name": "卡尔·格洛斯曼",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5A8z2KPjsEHdLJzkvjAHGv"
           },
           {
             "role": "actor",
@@ -13156,7 +13156,7 @@
             "role": "playwright",
             "name": "阿曼达·斯尔沃",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1gRZB1d3E52egiyQ5THd1j"
           },
           {
             "role": "playwright",
@@ -13556,7 +13556,7 @@
             "role": "playwright",
             "name": "阿曼达·斯尔沃",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1gRZB1d3E52egiyQ5THd1j"
           },
           {
             "role": "playwright",
@@ -13949,7 +13949,7 @@
             "role": "director",
             "name": "鲁伯特·瓦耶特",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3FpNyQt62fID1sxxVZDQbZ"
           },
           {
             "role": "playwright",
@@ -13961,7 +13961,7 @@
             "role": "playwright",
             "name": "阿曼达·斯尔沃",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1gRZB1d3E52egiyQ5THd1j"
           },
           {
             "role": "playwright",
@@ -16098,7 +16098,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/07/01/f929217a-3c36-4a6e-8885-64fc07476424.webp",
         "rating": 6.2,
-        "rating_count": 415,
+        "rating_count": 416,
         "rating_distribution": [
           6,
           13,
@@ -16137,16 +16137,16 @@
         "display_title": "抓娃娃",
         "external_resources": [
           {
-            "url": "https://www.wikidata.org/wiki/Q126942991"
+            "url": "https://movie.douban.com/subject/36653918/"
           },
           {
-            "url": "https://movie.douban.com/subject/36653918/"
+            "url": "https://www.themoviedb.org/movie/1299537"
           },
           {
             "url": "https://www.imdb.com/title/tt32613601/"
           },
           {
-            "url": "https://www.themoviedb.org/movie/1299537"
+            "url": "https://www.wikidata.org/wiki/Q126942991"
           }
         ],
         "credits": [
@@ -17032,7 +17032,7 @@
             "role": "actor",
             "name": "詹森·艾萨克",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5nENov2m3TYH981uf8I8xq"
           },
           {
             "role": "actor",
@@ -18500,13 +18500,13 @@
             "role": "actor",
             "name": "马丁·鲍尔萨姆",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3AtKlwaoWbiDJC499CuwKE"
           },
           {
             "role": "actor",
             "name": "约翰·菲德勒",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3FsSFQE0UjOUWfVPFI4NmM"
           },
           {
             "role": "actor",
@@ -18536,19 +18536,19 @@
             "role": "actor",
             "name": "杰克·瓦尔登",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5tDo7k2Qi4h64o0PxdOQdX"
           },
           {
             "role": "actor",
             "name": "约瑟夫·史威尼",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2SXAmPlRSZanLg7SblsM8i"
           },
           {
             "role": "actor",
             "name": "埃德·贝格利",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7AEHHM9jOSh88vfFxBDr9G"
           },
           {
             "role": "actor",
@@ -21276,7 +21276,7 @@
             "role": "actor",
             "name": "帕迪·康斯戴恩",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2YNUXgvFSIFf9I8kXNjFFw"
           },
           {
             "role": "actor",
@@ -22169,7 +22169,7 @@
             "role": "actor",
             "name": "约什·汉密尔顿",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3xurNxYZmxCf36qSQXblQB"
           },
           {
             "role": "actor",
@@ -24927,7 +24927,7 @@
             "role": "actor",
             "name": "劳伦·维勒斯",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5av3oGap8wxImMbrE6H8xq"
           },
           {
             "role": "actor",
@@ -24939,7 +24939,7 @@
             "role": "actor",
             "name": "约翰·木兰尼",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6fIgRgSlmWq6Y1uRzhynRJ"
           },
           {
             "role": "actor",
@@ -25137,7 +25137,7 @@
             "role": "playwright",
             "name": "菲尔·罗德",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1Qq1Ckku2pbRUMISTQNLbk"
           },
           {
             "role": "playwright",
@@ -26914,7 +26914,7 @@
             "role": "actor",
             "name": "郑有美",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6ms2s8viBnR5MllgbWofv3"
           },
           {
             "role": "actor",
@@ -28840,7 +28840,7 @@
             "role": "actor",
             "name": "基利安·墨菲",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0sArhwHnrXCyZ52EpWciPI"
           },
           {
             "role": "actor",
@@ -30554,7 +30554,7 @@
             "role": "playwright",
             "name": "菲尔·罗德",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1Qq1Ckku2pbRUMISTQNLbk"
           },
           {
             "role": "playwright",
@@ -33130,13 +33130,13 @@
             "role": "actor",
             "name": "丹·福勒",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7Xd5mk5plcZCzXgHZM3z8U"
           },
           {
             "role": "actor",
             "name": "艾莉森·萨多尔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3GlFOVq3fhto2NB3MMtm1q"
           },
           {
             "role": "actor",
@@ -33667,13 +33667,13 @@
             "role": "actor",
             "name": "丹·福勒",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7Xd5mk5plcZCzXgHZM3z8U"
           },
           {
             "role": "actor",
             "name": "艾莉森·萨多尔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3GlFOVq3fhto2NB3MMtm1q"
           },
           {
             "role": "actor",
@@ -33697,7 +33697,7 @@
             "role": "actor",
             "name": "强·沃特",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6zHload1hybd3MHPD8Osc9"
           },
           {
             "role": "actor",
@@ -34933,19 +34933,19 @@
             "role": "playwright",
             "name": "尼克·瓦莱隆加",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5KmwIFUZT4Ay1vZRFUCIFb"
           },
           {
             "role": "playwright",
             "name": "布莱恩·库瑞",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4y9WwosHXBybvjGr1dNk3h"
           },
           {
             "role": "playwright",
             "name": "彼得·法雷里",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0nog6p4ZBPbUmZEdbMX26V"
           }
         ]
       },
@@ -37511,7 +37511,7 @@
             "role": "actor",
             "name": "塔莉娅·夏尔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6SEqxRjs4yGQ45PtuYvFjW"
           },
           {
             "role": "actor",
@@ -37529,7 +37529,7 @@
             "role": "actor",
             "name": "乔·曼特纳",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5VjvVvZ04OmnZkwNPR7Gge"
           },
           {
             "role": "actor",
@@ -37589,7 +37589,7 @@
             "role": "director",
             "name": "弗朗西斯·福特·科波拉",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6Vk7Gm7r9WFAmHXrSrO647"
           },
           {
             "role": "playwright",
@@ -37601,7 +37601,7 @@
             "role": "playwright",
             "name": "弗朗西斯·福特·科波拉",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6Vk7Gm7r9WFAmHXrSrO647"
           }
         ]
       },
@@ -38145,9 +38145,6 @@
             "url": "https://eggplant.place/movie/2TsEskTOqoEBmBSJNNrBQb"
           },
           {
-            "url": "https://www.imdb.com/title/tt0071562/"
-          },
-          {
             "url": "https://movie.douban.com/subject/1299131/"
           },
           {
@@ -38158,6 +38155,9 @@
           },
           {
             "url": "https://bgm.tv/subject/96295"
+          },
+          {
+            "url": "https://www.imdb.com/title/tt0071562/"
           },
           {
             "url": "https://www.wikidata.org/wiki/Q184768"
@@ -38198,7 +38198,7 @@
             "role": "actor",
             "name": "塔莉娅·夏尔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6SEqxRjs4yGQ45PtuYvFjW"
           },
           {
             "role": "actor",
@@ -38540,13 +38540,13 @@
             "role": "director",
             "name": "弗朗西斯·福特·科波拉",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6Vk7Gm7r9WFAmHXrSrO647"
           },
           {
             "role": "playwright",
             "name": "弗朗西斯·福特·科波拉",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6Vk7Gm7r9WFAmHXrSrO647"
           },
           {
             "role": "playwright",
@@ -39995,7 +39995,7 @@
             "role": "actor",
             "name": "塔莉娅·夏尔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6SEqxRjs4yGQ45PtuYvFjW"
           },
           {
             "role": "actor",
@@ -40025,7 +40025,7 @@
             "role": "director",
             "name": "弗朗西斯·福特·科波拉",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6Vk7Gm7r9WFAmHXrSrO647"
           },
           {
             "role": "playwright",
@@ -40037,7 +40037,7 @@
             "role": "playwright",
             "name": "弗朗西斯·福特·科波拉",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6Vk7Gm7r9WFAmHXrSrO647"
           }
         ]
       },
@@ -42335,7 +42335,7 @@
             "role": "actor",
             "name": "詹森·艾萨克",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/5nENov2m3TYH981uf8I8xq"
           },
           {
             "role": "actor",
@@ -44627,7 +44627,7 @@
             "role": "actor",
             "name": "释彦能",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/27NX0kc5QrBFkcd5bFnxBz"
           },
           {
             "role": "actor",
@@ -45170,16 +45170,16 @@
         "display_title": "盲井",
         "external_resources": [
           {
-            "url": "https://www.imdb.com/title/tt0351299/"
-          },
-          {
-            "url": "https://www.wikidata.org/wiki/Q851284"
-          },
-          {
             "url": "https://movie.douban.com/subject/1307528/"
           },
           {
             "url": "https://www.themoviedb.org/movie/11492"
+          },
+          {
+            "url": "https://www.imdb.com/title/tt0351299/"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q851284"
           }
         ],
         "credits": [
@@ -46935,10 +46935,10 @@
             "url": "https://minreol.dk/movie/38ULQMrOGG1zOKDY8QE7tl"
           },
           {
-            "url": "https://www.wikidata.org/wiki/Q131390"
+            "url": "https://www.themoviedb.org/movie/1271"
           },
           {
-            "url": "https://www.themoviedb.org/movie/1271"
+            "url": "https://www.wikidata.org/wiki/Q131390"
           }
         ],
         "credits": [
@@ -47192,7 +47192,7 @@
             "role": "playwright",
             "name": "弗兰克·米勒",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7frlvjp03CJchBHQSLeVJy"
           },
           {
             "role": "playwright",
@@ -47521,7 +47521,7 @@
             "role": "actor",
             "name": "释彦能",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/27NX0kc5QrBFkcd5bFnxBz"
           },
           {
             "role": "actor",
@@ -47802,9 +47802,6 @@
         "display_title": "摔跤吧！爸爸",
         "external_resources": [
           {
-            "url": "https://www.wikidata.org/wiki/Q20762668"
-          },
-          {
             "url": "https://eggplant.place/movie/6IApLgC7PB98SQE3aNdTHM"
           },
           {
@@ -47818,6 +47815,9 @@
           },
           {
             "url": "https://www.imdb.com/title/tt5074352/"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q20762668"
           }
         ],
         "credits": [
@@ -48110,13 +48110,13 @@
         "display_title": "这个男人来自地球",
         "external_resources": [
           {
-            "url": "https://www.imdb.com/title/tt0756683/"
-          },
-          {
             "url": "https://movie.douban.com/subject/2300586/"
           },
           {
             "url": "https://www.themoviedb.org/movie/13363"
+          },
+          {
+            "url": "https://www.imdb.com/title/tt0756683/"
           },
           {
             "url": "https://www.wikidata.org/wiki/Q93701"
@@ -50519,5 +50519,5 @@
   ],
   "count": 145,
   "category": "movie",
-  "updated_at": "2026-06-05T02:38:15.274233"
+  "updated_at": "2026-06-06T02:26:16.703524"
 }

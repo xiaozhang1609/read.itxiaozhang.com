@@ -3820,13 +3820,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13f0f1086d-2dd2-4f8b-a1a8-fff29ef19e35.jpg",
         "rating": 9.3,
-        "rating_count": 1365,
+        "rating_count": 1366,
         "rating_distribution": [
           0,
           0,
-          3,
+          4,
           26,
-          71
+          70
         ],
         "tags": [
           "2010s",
@@ -12912,7 +12912,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/13/d643b437-3391-4e50-8c8e-22f26228aa04.jpg",
         "rating": 8.1,
-        "rating_count": 250,
+        "rating_count": 251,
         "rating_distribution": [
           0,
           2,
@@ -28646,5 +28646,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-06-05T02:38:25.764846"
+  "updated_at": "2026-06-06T02:26:25.573861"
 }
