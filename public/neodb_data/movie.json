@@ -8377,12 +8377,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/160e018b2d-fa80-44b2-bc46-8e8da412d3c9.jpg",
         "rating": 7.4,
-        "rating_count": 299,
+        "rating_count": 300,
         "rating_distribution": [
           0,
           4,
-          35,
-          45,
+          36,
+          44,
           16
         ],
         "tags": [
@@ -19764,13 +19764,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/08/09/d546187f-bf96-4341-a492-99bc987de142.jpg",
         "rating": 7.5,
-        "rating_count": 291,
+        "rating_count": 292,
         "rating_distribution": [
           3,
-          3,
+          4,
           22,
           45,
-          27
+          26
         ],
         "tags": [
           "2020s",
@@ -28780,7 +28780,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/c50f391f-f017-4478-ae8c-ff4cd460e2c2.jpg",
         "rating": 8.0,
-        "rating_count": 1287,
+        "rating_count": 1286,
         "rating_distribution": [
           1,
           2,
@@ -30951,7 +30951,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/05/13c80ca032-f642-4ed2-86c0-94704a240cf0.jpg",
         "rating": 6.9,
-        "rating_count": 309,
+        "rating_count": 310,
         "rating_distribution": [
           2,
           6,
@@ -32262,7 +32262,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/131f51610c-f166-4ba3-a734-bf089151525e.jpg",
         "rating": 9.2,
-        "rating_count": 551,
+        "rating_count": 552,
         "rating_distribution": [
           0,
           0,
@@ -32560,7 +32560,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/05/08ce26bdb6-eb1d-4b5d-8baf-559ae723b8cd.jpg",
         "rating": 5.4,
-        "rating_count": 695,
+        "rating_count": 696,
         "rating_distribution": [
           8,
           27,
@@ -32635,13 +32635,13 @@
             "role": "actor",
             "name": "丹·福勒",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7Xd5mk5plcZCzXgHZM3z8U"
           },
           {
             "role": "actor",
             "name": "艾莉森·萨多尔",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3GlFOVq3fhto2NB3MMtm1q"
           },
           {
             "role": "actor",
@@ -33034,7 +33034,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/152e6e9667-35c2-499e-b909-50b6c5601160.jpg",
         "rating": 6.8,
-        "rating_count": 1536,
+        "rating_count": 1537,
         "rating_distribution": [
           2,
           10,
@@ -34477,7 +34477,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/fedi/2025/01/20/9af3d23c-62c9-4794-a514-bd3f69ed9f76.jpg",
         "rating": 8.5,
-        "rating_count": 2629,
+        "rating_count": 2630,
         "rating_distribution": [
           0,
           1,
@@ -50519,5 +50519,5 @@
   ],
   "count": 145,
   "category": "movie",
-  "updated_at": "2026-06-06T02:26:16.703524"
+  "updated_at": "2026-06-07T02:44:00.619782"
 }
