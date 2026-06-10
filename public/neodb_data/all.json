@@ -554,6 +554,34 @@
           {
             "lang": "en",
             "text": "Stranger Things Season 3"
+          },
+          {
+            "lang": "it",
+            "text": "Stagione 3"
+          },
+          {
+            "lang": "da",
+            "text": "Stranger Things 3"
+          },
+          {
+            "lang": "pt",
+            "text": "Stranger Things 3"
+          },
+          {
+            "lang": "de",
+            "text": "Stranger Things 3"
+          },
+          {
+            "lang": "fr",
+            "text": "Stranger Things 3"
+          },
+          {
+            "lang": "es",
+            "text": "Stranger Things 3"
+          },
+          {
+            "lang": "en",
+            "text": "Stranger Things 3"
           }
         ],
         "localized_description": [
@@ -564,16 +592,40 @@
           {
             "lang": "en",
             "text": "Budding romance. A brand-new mall. And rabid rats running toward danger. It's the summer of 1985 in Hawkins ... and one summer can change everything."
+          },
+          {
+            "lang": "it",
+            "text": "Nuovi amori, un moderno centro commerciale e ratti con la rabbia che corrono verso il pericolo. Hawkins, 1985: è arrivata l'estate. E in una stagione tutto può cambiare."
+          },
+          {
+            "lang": "da",
+            "text": "Spirende romantik, et helt nyt storcenter, og vilde rotter i fare. Det er sommeren 1985 i Hawkins – og én sommer kan ændre alt."
+          },
+          {
+            "lang": "pt",
+            "text": "Hawkins é a prova de que um verão pode mudar tudo: entre romances e o novo centro comercial, a cidade passa por grandes modificações na estação quente de 1985."
+          },
+          {
+            "lang": "de",
+            "text": "Aufblühende Romanzen. Eine brandneue Mall. Tollwütige Ratten, die vor der Gefahr fliehen. Es ist 1985 … und ein Sommer in Hawkins, der alles verändern kann."
+          },
+          {
+            "lang": "fr",
+            "text": "L'amour qui éclot. Un centre commercial flambant neuf qui ouvre. Et des rats enragés qui se ruent vers le danger... L'été 1985 à Hawkins s'annonce chaud !"
+          },
+          {
+            "lang": "es",
+            "text": "Un romance en ciernes. Un nuevo centro comercial. Ratas rabiosas que corren hacia el peligro. Es el verano de 1985 en Hawkins. Y un verano puede cambiarlo todo."
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15d11df79d-e135-4b40-92fb-908b367c3558.jpg",
         "rating": 8.1,
-        "rating_count": 862,
+        "rating_count": 863,
         "rating_distribution": [
-          1,
+          0,
           3,
           16,
-          46,
+          47,
           34
         ],
         "tags": [
@@ -614,6 +666,9 @@
           },
           {
             "url": "https://www.themoviedb.org/tv/66732/season/3"
+          },
+          {
+            "url": "https://neodb.mauve.haus/tv/season/2wBFDuCNY5rKhNXl2ITjFO"
           }
         ],
         "credits": [
@@ -866,6 +921,34 @@
           {
             "lang": "en",
             "text": "Stranger Things Season 2"
+          },
+          {
+            "lang": "it",
+            "text": "Stagione 2"
+          },
+          {
+            "lang": "da",
+            "text": "Stranger Things 2"
+          },
+          {
+            "lang": "pt",
+            "text": "Stranger Things 2"
+          },
+          {
+            "lang": "de",
+            "text": "Stranger Things 2"
+          },
+          {
+            "lang": "fr",
+            "text": "Stranger Things 2"
+          },
+          {
+            "lang": "es",
+            "text": "Stranger Things 2"
+          },
+          {
+            "lang": "en",
+            "text": "Stranger Things 2"
           }
         ],
         "localized_description": [
@@ -876,14 +959,38 @@
           {
             "lang": "en",
             "text": "It's been nearly a year since Will's strange disappearance. But life's hardly back to normal in Hawkins. Not even close."
+          },
+          {
+            "lang": "it",
+            "text": "È trascorso un anno dalla strana scomparsa di Will, ma a Hawkins la vita non è ancora tornata alla normalità... neanche lontanamente."
+          },
+          {
+            "lang": "da",
+            "text": "Der er næsten gået et år, siden Will forsvandt på mystisk vis. Men dagligdagen i Hawkins er ikke blevet normal igen. Slet ikke."
+          },
+          {
+            "lang": "pt",
+            "text": "Passou quase um ano desde o estranho desaparecimento de Will. Mas a vida em Hawkins não voltou à normalidade. Nem sombra disso."
+          },
+          {
+            "lang": "de",
+            "text": "Seit Wills rätselhaftem Verschwinden ist fast ein Jahr vergangen. Doch Hawkins ist noch immer nicht annähernd zur Normalität zurückgekehrt."
+          },
+          {
+            "lang": "fr",
+            "text": "Un an est passé depuis l'étrange disparition de Will. Pourtant, on ne peut pas dire que la vie ait repris son cours à Hawkins. Vraiment pas."
+          },
+          {
+            "lang": "es",
+            "text": "Ha pasado casi un año desde la misteriosa desaparición de Will. Pero la vida no ha vuelto a la normalidad en Hawkins. Ni por asomo."
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/154b044d00-d0d8-4d95-84fc-3562fddcdaaa.jpg",
         "rating": 8.3,
-        "rating_count": 1000,
+        "rating_count": 1001,
         "rating_distribution": [
-          0,
-          2,
+          1,
+          1,
           15,
           46,
           37
@@ -929,6 +1036,9 @@
           },
           {
             "url": "https://bgm.tv/subject/208783"
+          },
+          {
+            "url": "https://neodb.mauve.haus/tv/season/4nJza0fFGgXvLPowjXZNUJ"
           }
         ],
         "credits": [
@@ -1097,6 +1207,70 @@
           {
             "lang": "en",
             "text": "Stranger Things Season 1"
+          },
+          {
+            "lang": "it",
+            "text": "Stagione 1"
+          },
+          {
+            "lang": "da",
+            "text": "Stranger Things"
+          },
+          {
+            "lang": "pt",
+            "text": "Stranger Things"
+          },
+          {
+            "lang": "de",
+            "text": "Stranger Things"
+          },
+          {
+            "lang": "fr",
+            "text": "Stranger Things"
+          },
+          {
+            "lang": "es",
+            "text": "Stranger Things"
+          },
+          {
+            "lang": "en",
+            "text": "Season 1"
+          },
+          {
+            "lang": "en",
+            "text": "Stranger Things, season 1"
+          },
+          {
+            "lang": "zh",
+            "text": "怪奇物語第一季"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "怪奇物語第一季"
+          },
+          {
+            "lang": "zh-hant",
+            "text": "怪奇物語第一季"
+          },
+          {
+            "lang": "es",
+            "text": "Primera temporada de Stranger Things"
+          },
+          {
+            "lang": "fr",
+            "text": "saison 1 de Stranger Things"
+          },
+          {
+            "lang": "de",
+            "text": "Stranger Things/Staffel 1"
+          },
+          {
+            "lang": "pt",
+            "text": "Stranger Things (1.ª temporada)"
+          },
+          {
+            "lang": "ja",
+            "text": "ストレンジャー・シングス 未知の世界"
           }
         ],
         "localized_description": [
@@ -1111,11 +1285,59 @@
           {
             "lang": "zh-cn",
             "text": "　　故事发生在1985年的印第安纳州霍金斯镇，正值炎夏，学校放假了，镇上新开了一家购物中心，霍金斯小组成员也即将成年。情窦初开的同时，也使小组成员的动态变得更加复杂，他们必须找出一起长大的方法。与此同时，危险迫在眉睫。当小镇受到新旧敌人的威胁时，小十一和她的朋友们意识到 ，邪恶永远不会结束，它会一直存在。现在，他们必须团结一致才能活下来，并牢记友谊的力量永远比恐惧更强大。"
+          },
+          {
+            "lang": "da",
+            "text": "Der sker sære ting i Hawkins, Indiana, hvor en drengs pludselige forsvinden åbenbarer en pige med overjordiske kræfter."
+          },
+          {
+            "lang": "pt",
+            "text": "Coisas estranhas acontecem em Hawkins, Indiana, onde o desaparecimento súbito de um rapaz revela uma jovem rapariga com poderes do outro mundo."
+          },
+          {
+            "lang": "de",
+            "text": "In Hawkins, Indiana, spielen sich merkwürdige Dinge ab; so taucht nach dem Verschwinden eines kleinen Jungen plötzlich ein Mädchen mit übermenschlichen Kräften auf."
+          },
+          {
+            "lang": "fr",
+            "text": "Il se passe des choses très étranges à Hawkins où la disparition soudaine d'un enfant coïncide avec l'apparition d'une jeune fille aux pouvoirs surnaturels."
+          },
+          {
+            "lang": "es",
+            "text": "En Hawkins (Indiana) ocurren cosas extrañas. La desaparición de un niño saca a la luz a una niña con poderes sobrenaturales."
+          },
+          {
+            "lang": "en",
+            "text": "first season of Netflix series Stranger Things"
+          },
+          {
+            "lang": "zh",
+            "text": "Netflix原创电视剧《怪奇物语》的首季"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "Netflix原創電視劇《怪奇物語》的首季"
+          },
+          {
+            "lang": "zh-hant",
+            "text": "Netflix原創電視劇《怪奇物語》的首季"
+          },
+          {
+            "lang": "fr",
+            "text": "première saison de la série télévisée Stranger Things"
+          },
+          {
+            "lang": "de",
+            "text": "Staffel von Stranger Things"
+          },
+          {
+            "lang": "pt",
+            "text": "temporada de telessérie estadunidense"
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15972032e2-9c87-4328-baa9-21c0395470bf.jpg",
         "rating": 8.5,
-        "rating_count": 1343,
+        "rating_count": 1344,
         "rating_distribution": [
           0,
           1,
@@ -1164,6 +1386,12 @@
           },
           {
             "url": "https://bgm.tv/subject/187187"
+          },
+          {
+            "url": "https://neodb.mauve.haus/tv/season/6rSmK0UsiSPJu1xaqkw5gM"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q28678769"
           }
         ],
         "credits": [
@@ -82593,36 +82821,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2026-06-09T02:14:43.844723",
+  "updated_at": "2026-06-10T02:38:44.353721",
   "stats": {
     "movie": {
       "count": 145,
-      "time": 13.56
+      "time": 24.2
     },
     "tv": {
       "count": 115,
-      "time": 8.96
+      "time": 10.52
     },
     "book": {
       "count": 36,
-      "time": 2.15
+      "time": 2.76
     },
     "music": {
       "count": 4,
-      "time": 0.25
+      "time": 0.44
     },
     "podcast": {
       "count": 0,
-      "time": 0.21
+      "time": 0.15
     },
     "game": {
       "count": 1,
-      "time": 0.24
+      "time": 0.18
     },
     "performance": {
       "count": 2,
-      "time": 0.24
+      "time": 0.21
     }
   },
-  "total_time": 25.62
+  "total_time": 38.46
 }
