@@ -12967,13 +12967,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16813dc7bf-5580-4d43-8f61-197bf9df97db.jpg",
         "rating": 6.7,
-        "rating_count": 561,
+        "rating_count": 562,
         "rating_distribution": [
           2,
           8,
-          46,
+          47,
           38,
-          6
+          5
         ],
         "tags": [
           "2010s",
@@ -26019,7 +26019,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/10/20/1da820fd-8dfc-40c4-95b4-84aaa71ee443.webp",
         "rating": 6.6,
-        "rating_count": 467,
+        "rating_count": 468,
         "rating_distribution": [
           4,
           10,
@@ -35524,9 +35524,6 @@
         "display_title": "哈利·波特与死亡圣器(上)",
         "external_resources": [
           {
-            "url": "https://movie.douban.com/subject/2051007/"
-          },
-          {
             "url": "https://www.themoviedb.org/movie/12444"
           },
           {
@@ -35537,6 +35534,9 @@
           },
           {
             "url": "https://www.wikidata.org/wiki/Q161678"
+          },
+          {
+            "url": "https://movie.douban.com/subject/2051007/"
           }
         ],
         "credits": [
@@ -38102,7 +38102,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14f252245f-7496-4c2e-80d3-be5538201552.jpg",
         "rating": 9.1,
-        "rating_count": 1162,
+        "rating_count": 1163,
         "rating_distribution": [
           0,
           0,
@@ -39866,7 +39866,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1324f7bdb2-898a-450b-95ca-73c4d1b92011.jpg",
         "rating": 9.1,
-        "rating_count": 1841,
+        "rating_count": 1842,
         "rating_distribution": [
           0,
           1,
@@ -50519,5 +50519,5 @@
   ],
   "count": 145,
   "category": "movie",
-  "updated_at": "2026-06-10T02:38:30.025391"
+  "updated_at": "2026-06-11T02:47:49.025178"
 }
