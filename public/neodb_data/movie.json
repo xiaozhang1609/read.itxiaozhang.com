@@ -1459,13 +1459,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/17e87d71d8-4180-48dd-a05b-4214217d40e0.jpg",
         "rating": 6.6,
-        "rating_count": 117,
+        "rating_count": 118,
         "rating_distribution": [
           0,
           9,
           56,
-          32,
-          3
+          31,
+          4
         ],
         "tags": [
           "2020",
@@ -2476,6 +2476,10 @@
           {
             "lang": "fr",
             "text": "Minuscule - La Vallée des fourmis perdues"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "昆蟲 LIFE 秀電影版"
           }
         ],
         "localized_description": [
@@ -2542,6 +2546,10 @@
           {
             "lang": "fr",
             "text": "Dans une paisible forêt, les reliefs d’un pique-nique déclenchent une guerre sans merci entre deux bandes rivales de fourmis convoitant le même butin : une boîte de sucres ! C’est dans cette tourmente qu’une jeune coccinelle va se lier d’amitié avec une fourmi noire et l’aider à sauver son peuple des terribles fourmis rouges…"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "本片榮獲 2015 法國凱薩獎最佳動畫片。一隻剛出生的小瓢蟲，受到一群惡劣蒼蠅的欺負被弄斷了翅膀，但是充滿勇氣的她並不氣餒，在她尋找家人的路上遇見了一群想要把方糖搬回巢穴的黑蟻們，黑螞蟻完全沒有種族歧視，接納了小瓢蟲，。而小瓢蟲也用她的智慧和小小力量，幫助黑螞蟻抵抗想要爭奪方糖而大軍壓境的邪惡紅蟻軍團…"
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16183d5838-71e9-4738-8eed-0750fa76d1ad.jpg",
@@ -2586,13 +2594,16 @@
         "display_title": "昆虫总动员",
         "external_resources": [
           {
-            "url": "https://www.wikidata.org/wiki/Q15621765"
-          },
-          {
             "url": "https://www.imdb.com/title/tt2368672/"
           },
           {
             "url": "https://movie.douban.com/subject/23048775/"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q15621765"
+          },
+          {
+            "url": "https://www.themoviedb.org/movie/140870"
           }
         ],
         "credits": [
@@ -2600,7 +2611,7 @@
             "role": "actor",
             "name": "John DeCantis",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6lHn8y1lELMN2egufpn1da"
           },
           {
             "role": "actor",
@@ -2631,6 +2642,12 @@
             "name": "海琳·吉罗",
             "character_name": "",
             "person_url": null
+          },
+          {
+            "role": "producer",
+            "name": "Philippe Delarue",
+            "character_name": "",
+            "person_url": "/api/person/1OvNp5dOymN2QfWOsL8bLo"
           }
         ]
       },
@@ -3135,10 +3152,10 @@
             "url": "https://www.wikidata.org/wiki/Q27513"
           },
           {
-            "url": "https://www.imdb.com/title/tt1351685/"
+            "url": "https://movie.douban.com/subject/3415993/"
           },
           {
-            "url": "https://movie.douban.com/subject/3415993/"
+            "url": "https://www.imdb.com/title/tt1351685/"
           },
           {
             "url": "https://www.themoviedb.org/movie/81005"
@@ -3221,7 +3238,7 @@
             "role": "playwright",
             "name": "大卫·道金",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/6GSFoHVQxUjzpJTKe2Clah"
           }
         ]
       },
@@ -3682,6 +3699,9 @@
         "display_title": "恐龙当家",
         "external_resources": [
           {
+            "url": "https://www.wikidata.org/wiki/Q7737199"
+          },
+          {
             "url": "https://minreol.dk/movie/58OucrsBDHUX69WvGGT7SA"
           },
           {
@@ -3692,9 +3712,6 @@
           },
           {
             "url": "https://www.themoviedb.org/movie/105864"
-          },
-          {
-            "url": "https://www.wikidata.org/wiki/Q7737199"
           }
         ],
         "credits": [
@@ -4895,7 +4912,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/02/02/d801edae-d1f3-499d-8a73-123ce9669780.jpg",
         "rating": 6.7,
-        "rating_count": 634,
+        "rating_count": 635,
         "rating_distribution": [
           7,
           9,
@@ -5774,7 +5791,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/153f250f04-06a2-4a3d-88b0-f28cca4e9b3b.jpg",
         "rating": 8.7,
-        "rating_count": 515,
+        "rating_count": 516,
         "rating_distribution": [
           0,
           1,
@@ -8100,10 +8117,10 @@
             "url": "https://eggplant.place/movie/5UxFqNtasrjLgMecMhhUWT"
           },
           {
-            "url": "https://www.imdb.com/title/tt0119528/"
+            "url": "https://movie.douban.com/subject/1295318/"
           },
           {
-            "url": "https://movie.douban.com/subject/1295318/"
+            "url": "https://www.imdb.com/title/tt0119528/"
           },
           {
             "url": "https://minreol.dk/movie/0JNnyAYf6EY6pcZu6RKnVS"
@@ -11925,7 +11942,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14e13c0daf-a37b-44be-90ba-9c071890a000.jpg",
         "rating": 7.9,
-        "rating_count": 492,
+        "rating_count": 493,
         "rating_distribution": [
           0,
           3,
@@ -14494,13 +14511,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/05/05/ff4458fb-b949-416c-833f-def4a33e1a74.webp",
         "rating": 8.1,
-        "rating_count": 574,
+        "rating_count": 575,
         "rating_distribution": [
           0,
           1,
           14,
-          53,
-          32
+          54,
+          31
         ],
         "tags": [
           "2020s",
@@ -15204,7 +15221,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/138d1723f9-e106-4e8e-b490-3cd2ed271cae.jpg",
         "rating": 8.2,
-        "rating_count": 1849,
+        "rating_count": 1850,
         "rating_distribution": [
           0,
           1,
@@ -15481,7 +15498,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15e76bca99-667d-4bc2-a4ba-140d9ac4572d.jpg",
         "rating": 7.3,
-        "rating_count": 746,
+        "rating_count": 747,
         "rating_distribution": [
           1,
           4,
@@ -15911,7 +15928,7 @@
             "role": "actor",
             "name": "阿马尔·维克德",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2x7xHlNu2BCTVZHm7y9qzd"
           },
           {
             "role": "actor",
@@ -16098,7 +16115,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/07/01/f929217a-3c36-4a6e-8885-64fc07476424.webp",
         "rating": 6.2,
-        "rating_count": 416,
+        "rating_count": 417,
         "rating_distribution": [
           6,
           13,
@@ -18434,7 +18451,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13676fe4c9-0bb8-4ba4-88d9-109f12d316f1.jpg",
         "rating": 9.5,
-        "rating_count": 1528,
+        "rating_count": 1529,
         "rating_distribution": [
           0,
           0,
@@ -18743,7 +18760,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ce6a4ea1-e930-4890-857f-95f944cf49c8.jpg",
         "rating": 8.8,
-        "rating_count": 1620,
+        "rating_count": 1621,
         "rating_distribution": [
           0,
           0,
@@ -18783,6 +18800,9 @@
         "display_title": "罗马假日",
         "external_resources": [
           {
+            "url": "https://www.wikidata.org/wiki/Q201293"
+          },
+          {
             "url": "https://www.themoviedb.org/movie/804"
           },
           {
@@ -18790,9 +18810,6 @@
           },
           {
             "url": "https://www.imdb.com/title/tt0046250/"
-          },
-          {
-            "url": "https://www.wikidata.org/wiki/Q201293"
           }
         ],
         "credits": [
@@ -19353,7 +19370,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/141ac4ecd0-60a1-4b48-9c43-a1fb3a42f224.jpg",
         "rating": 8.3,
-        "rating_count": 1734,
+        "rating_count": 1735,
         "rating_distribution": [
           0,
           1,
@@ -22406,13 +22423,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/133604f9b2-b434-4aa8-92c0-e8f88336e4db.jpg",
         "rating": 9.2,
-        "rating_count": 2770,
+        "rating_count": 2772,
         "rating_distribution": [
           0,
           0,
-          4,
+          5,
           27,
-          69
+          68
         ],
         "tags": [
           "1990s",
@@ -22702,7 +22719,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14151af899-4ee7-4466-87a9-4f9f993aa929.jpg",
         "rating": 7.0,
-        "rating_count": 261,
+        "rating_count": 262,
         "rating_distribution": [
           2,
           10,
@@ -24452,7 +24469,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155f176840-2af9-4da9-b94b-9ff31d1f45b3.jpg",
         "rating": 8.5,
-        "rating_count": 844,
+        "rating_count": 845,
         "rating_distribution": [
           0,
           1,
@@ -24822,7 +24839,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/156963fe1b-b7c5-48eb-bd54-03d23c3d8c01.jpg",
         "rating": 8.7,
-        "rating_count": 2070,
+        "rating_count": 2071,
         "rating_distribution": [
           0,
           1,
@@ -24945,7 +24962,7 @@
             "role": "actor",
             "name": "贵美子·格伦",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3mqaGcvON5je9zPvLADWCq"
           },
           {
             "role": "actor",
@@ -26019,12 +26036,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/10/20/1da820fd-8dfc-40c4-95b4-84aaa71ee443.webp",
         "rating": 6.6,
-        "rating_count": 468,
+        "rating_count": 469,
         "rating_distribution": [
           4,
           10,
-          39,
-          39,
+          40,
+          38,
           8
         ],
         "tags": [
@@ -26564,7 +26581,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/02/11/279d76f8-a2a0-4bca-8893-0e040c0f673e.jpg",
         "rating": 6.7,
-        "rating_count": 212,
+        "rating_count": 213,
         "rating_distribution": [
           1,
           8,
@@ -26578,6 +26595,7 @@
           "2024",
           "中国",
           "中国大陆",
+          "中国电影",
           "中國",
           "人生",
           "刑侦",
@@ -26588,7 +26606,6 @@
           "国产",
           "国内电影",
           "大陆",
-          "戴墨",
           "正义",
           "犯罪",
           "电影",
@@ -27181,7 +27198,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/07/5c08ca37-111a-4d69-847a-6590365d31e7.jpg",
         "rating": 6.4,
-        "rating_count": 884,
+        "rating_count": 885,
         "rating_distribution": [
           5,
           14,
@@ -28052,7 +28069,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/07/be012b58-ed0a-4750-b71d-03b0f59276a6.jpg",
         "rating": 7.8,
-        "rating_count": 1207,
+        "rating_count": 1208,
         "rating_distribution": [
           2,
           3,
@@ -28780,7 +28797,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/c50f391f-f017-4478-ae8c-ff4cd460e2c2.jpg",
         "rating": 8.0,
-        "rating_count": 1289,
+        "rating_count": 1291,
         "rating_distribution": [
           1,
           2,
@@ -29832,7 +29849,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/7a48ff6e-aae2-458e-9b35-523ece2badfb.jpg",
         "rating": 8.3,
-        "rating_count": 1010,
+        "rating_count": 1012,
         "rating_distribution": [
           0,
           3,
@@ -31416,7 +31433,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2023/07/20/8206c5c4-0d6d-46f6-a08c-7a7d3af84393.jpg",
         "rating": 7.0,
-        "rating_count": 885,
+        "rating_count": 886,
         "rating_distribution": [
           1,
           7,
@@ -31872,7 +31889,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/imdb/2023/09/24/81ccb741-f4e2-4ab3-a957-5f99e5e605f5.jpg",
         "rating": 8.9,
-        "rating_count": 556,
+        "rating_count": 557,
         "rating_distribution": [
           0,
           1,
@@ -32560,7 +32577,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/05/08ce26bdb6-eb1d-4b5d-8baf-559ae723b8cd.jpg",
         "rating": 5.4,
-        "rating_count": 696,
+        "rating_count": 697,
         "rating_distribution": [
           8,
           27,
@@ -38751,7 +38768,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/153c3015b5-9fa5-4673-a6d0-49abd1664fa9.jpg",
         "rating": 7.4,
-        "rating_count": 1596,
+        "rating_count": 1597,
         "rating_distribution": [
           0,
           5,
@@ -41502,7 +41519,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15d0883f9f-f849-4054-9b49-e021f380f73b.jpg",
         "rating": 6.5,
-        "rating_count": 1456,
+        "rating_count": 1457,
         "rating_distribution": [
           6,
           15,
@@ -46190,7 +46207,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/133ed46be4-3fc4-4a59-9639-21a4c9b06bf1.jpg",
         "rating": 7.5,
-        "rating_count": 1373,
+        "rating_count": 1374,
         "rating_distribution": [
           1,
           5,
@@ -49161,298 +49178,6 @@
     {
       "shelf_type": "complete",
       "visibility": 0,
-      "post_id": 6590595608874792,
-      "item": {
-        "type": "Movie",
-        "title": "马达加斯加的企鹅",
-        "description": "为了给最疼爱的小老弟菜鸟（克里斯多夫·奈茨 Christopher Knights 配音）庆生，老大（汤姆·麦格拉思 Tom McGrath 配音）带领菜鸟以及好搭档科斯基（克里斯·米勒 Chris Miller 配音）、瑞哥闯入了防守最严密的美国黄金储备中心，只为找到金库尽头仅有的那台销售炸薯条的自动贩卖机。谁知他们刚刚完成任务没多久，便被长着触角的贩卖机吞了进去，随后被运到一个神秘的所在。在全封闭的设施内，四只企鹅见到了伪装成基因遗传科学家的章鱼戴夫（约翰·马尔科维奇 John Malkovich 配音）。原来戴夫曾是动物园一只明星章鱼，但随着萌态十足的企鹅们的到来，他便跌入了绝望的深谷。因此戴夫潜心研制了可怕的血清，发誓要向所有他曾待过的动物园中的企鹅展开报复。\n老大和伙伴们在逃亡途中得到北风特工队的救助，而他们和这些高傲的特工队员将分别阻止戴夫的阴谋……",
-        "localized_title": [
-          {
-            "lang": "id",
-            "text": "Penguins of Madagascar"
-          },
-          {
-            "lang": "fr",
-            "text": "Les Pingouins de Madagascar"
-          },
-          {
-            "lang": "de",
-            "text": "Die Pinguine aus Madagascar"
-          },
-          {
-            "lang": "no",
-            "text": "Madagaskarpingvinene"
-          },
-          {
-            "lang": "sv",
-            "text": "Pingvinerna från Madagaskar"
-          },
-          {
-            "lang": "en",
-            "text": "Penguins of Madagascar"
-          },
-          {
-            "lang": "da",
-            "text": "Pingvinerne fra Madagascar"
-          },
-          {
-            "lang": "zh-cn",
-            "text": "马达加斯加的企鹅"
-          },
-          {
-            "lang": "zh-tw",
-            "text": "馬達加斯加爆走企鵝"
-          },
-          {
-            "lang": "zh-hk",
-            "text": "荒失失企鵝"
-          },
-          {
-            "lang": "zh-hant",
-            "text": "馬達加斯加爆走企鵝"
-          },
-          {
-            "lang": "zh-sg",
-            "text": "荒失失企鹅"
-          },
-          {
-            "lang": "es",
-            "text": "Los pingüinos de Madagascar"
-          },
-          {
-            "lang": "pt",
-            "text": "Os Pinguins de Madagascar: O filme"
-          },
-          {
-            "lang": "ko",
-            "text": "마다가스카의 펭귄"
-          },
-          {
-            "lang": "ja",
-            "text": "ペンギンズ FROM マダガスカル ザ・ムービー"
-          }
-        ],
-        "localized_description": [
-          {
-            "lang": "zh-cn",
-            "text": "为了给最疼爱的小老弟菜鸟（克里斯多夫·奈茨 Christopher Knights 配音）庆生，老大（汤姆·麦格拉思 Tom McGrath 配音）带领菜鸟以及好搭档科斯基（克里斯·米勒 Chris Miller 配音）、瑞哥闯入了防守最严密的美国黄金储备中心，只为找到金库尽头仅有的那台销售炸薯条的自动贩卖机。谁知他们刚刚完成任务没多久，便被长着触角的贩卖机吞了进去，随后被运到一个神秘的所在。在全封闭的设施内，四只企鹅见到了伪装成基因遗传科学家的章鱼戴夫（约翰·马尔科维奇 John Malkovich 配音）。原来戴夫曾是动物园一只明星章鱼，但随着萌态十足的企鹅们的到来，他便跌入了绝望的深谷。因此戴夫潜心研制了可怕的血清，发誓要向所有他曾待过的动物园中的企鹅展开报复。\n老大和伙伴们在逃亡途中得到北风特工队的救助，而他们和这些高傲的特工队员将分别阻止戴夫的阴谋……"
-          },
-          {
-            "lang": "fr",
-            "text": "Vous pensiez connaître les Pingouins de Madagascar ? Pourtant, les quatre frères cachent un lourd secret. Ils sont en fait… agents secrets ! Pour sauver le monde du terrible Docteur Octavius, les pingouins devront s’associer à la très chic organisation de la North Wind menée par le superbe husky au nom classé secret."
-          },
-          {
-            "lang": "de",
-            "text": "Zehn Jahre, nachdem Skipper, Kowalski, Rico und Private Spaß und abenteuerliche Spezialeinsätze als Lebensziel ausgerufen haben, stehen die vier Pinguine aus dem New Yorker Zoo vor ihrer größten Herausforderung. Oktopus Dave will sich an allen Pinguinen rächen, sie in monströse Kreaturen verwandeln, weil ihm die niedlichen Vögel in jedem Tierpark die Schau stahlen. Doch Dave rechnet nicht mit der souveränen Coolness der Frackträger und der Unterstützung, die sie durch die Superprofis vom Agententeam \"Nordwind\" erhalten."
-          },
-          {
-            "lang": "no",
-            "text": "Superspioner blir ikke født... de klekkes! Oppdag hemmelighetene bak de beste og morsomste pingvinene i hele spionbransjen: Skipper, Kowalski, Rico og Menig. Denne elitegruppen slår seg sammen med den hemmelige organisasjonen, Nordavinden, som ledes av Agent Hemmelig (Vi kunne ha fortalt deg hans virkelige navn, men da... ja du vet). Sammen må de stoppe den skurken Dr. Oktavius Blekk fra å ødelegge verden slik vi kjenner den!"
-          },
-          {
-            "lang": "sv",
-            "text": "Pingvinerna Skepparn, Kowalski, Rico och Basse ger sig ut på ett superhemligt uppdrag för  att stoppa den ondskefulle dr Octavius Bläcks planer på världsherravälde. De samarbetar med underrättelsetjänsten Nordanvinden, som leds av agent Hemlig (vi kan säga hans namn men då måste vi... ja, ni vet)."
-          },
-          {
-            "lang": "en",
-            "text": "Skipper, Kowalski, Rico and Private join forces with undercover organization The North Wind to stop the villainous Dr. Octavius Brine from destroying the world as we know it."
-          },
-          {
-            "lang": "da",
-            "text": "Blæksprutten dr. Octavius Brine nærer et indædt had til den langt mere nuttede pingvinrace. Forklædt som forsker vil Brine kidnappe alle pingviner i verden og forvandle dem til frastødende mutanter! Men de fire pingvinagenter Skipper, Kowalski, Rico og Rekrut er på sagen, og de får hjælp af indsatsstyrken Nordenvind, der består af en ulv, en sæl, en isbjørn og en ugle."
-          },
-          {
-            "lang": "ko",
-            "text": "넘치는 유머, 감쪽 같은 위장술, 똑소리 나는 브레인! 날 때부터 남달랐던 악동 펭귄 스키퍼, 코왈스키, 리코, 프라이빗! 어느 날 그들 앞에 복수심에 불타는 문어박사 옥토브레인이 나타나고, 그의 거대한 음모를 알게 된 펭귄 4총사는 비밀 조직 ‘노스윈드’와 함께 세상을 구할 사상 최대의 작전을 펼치는데…!"
-          },
-          {
-            "lang": "ja",
-            "text": "キュートな外見とは裏腹にエリートスパイとして活躍するペンギンズは秘密の潜入捜査中、かつて動物園で彼らに人気を奪われたことを恨むタコのデーブに誘拐される。デーブが人間の姿をしたオクト博士に姿を変え、世界中のペンギンへの復讐（ふくしゅう）を計画していることを知ったペンギンズは、スパイ軍団「ノース・ウィンド」と手を組み邪悪な陰謀に立ち向かう。"
-          },
-          {
-            "lang": "pt",
-            "text": "Equipas de super espiões não nascem assim... são chocados. Descobre os segredos das mais espetaculares e mais hilariantes aves secretas da espionagem mundial: Capitão, Kowalski, Rico e Soldado. Estes top da elite irão unir forças com uma organização de intervenção secreta, Vento do Norte, que protege os animais. Liderados pelo engraçado Agente Secreto (poderíamos dizer o nome dele, mas depois... tu sabes), com a voz de Benedict Cumberbatch. Juntos, eles têm de evitar que o vilão Dr. Octavius."
-          },
-          {
-            "lang": "es",
-            "text": "Skypper, Kowalsky, Rico y Cabo, los superagentes pingüinos, tienen que salvar el mundo en una misión para la que llevan prepárandose toda la vida. Dicha misión tendrán que realizarla junto al denominado equipo \"Viento del norte\", un comando de élite especializado en salvar animales que no pueden defenderse por si solos."
-          },
-          {
-            "lang": "zh-hk",
-            "text": "瘋狂企鵝團隊,包括隊長、高華斯基、力高、卒仔,首度擔任主角,觀眾們肯定驚喜萬分!這四隻黑白相間彷如穿著「踢死兔禮服」的鬼馬企鵝仔,為了捍衛族群存亡,竟然踏上史無前例的刺激間諜冒險旅程。"
-          },
-          {
-            "lang": "zh-tw",
-            "text": "章魚戴夫最初在水族館裡受到不少遊客的喜愛，可是漸漸地遊客都喜愛上了企鵝，這讓戴夫受到很大的冷落，自尊心得到嚴重打擊的他從此對企鵝們懷恨在心。後來戴夫開始實施他的報仇計劃，他決心發明一種藥水，它能讓企鵝都變成醜陋的怪物以便受到人類的討厭。隨著越來越多的企鵝都遭到戴夫成員的綁架，四位企鵝：老大、卡哇伊、涼快和菜鳥，聯手以灰狼為首的「放風所」四成員，與邪惡的章魚們展開了一次激烈較量"
-          }
-        ],
-        "cover_image_url": "https://neodb.social/m/item/movie/2025/11/24/9f5a0527-41bb-4308-a536-f3928922c690.jpg",
-        "rating": 7.2,
-        "rating_count": 421,
-        "rating_distribution": [
-          0,
-          5,
-          41,
-          45,
-          9
-        ],
-        "tags": [
-          "2010s",
-          "2014",
-          "3d",
-          "benedictcumberbatch",
-          "企鹅",
-          "冒险",
-          "动物",
-          "动画",
-          "动画片",
-          "动画电影",
-          "喜剧",
-          "搞笑",
-          "梦工厂",
-          "电影",
-          "美国",
-          "美国动画",
-          "美国电影",
-          "萌",
-          "西蒙 j 史密斯",
-          "马达加斯加"
-        ],
-        "brief": "为了给最疼爱的小老弟菜鸟（克里斯多夫·奈茨 Christopher Knights 配音）庆生，老大（汤姆·麦格拉思 Tom McGrath 配音）带领菜鸟以及好搭档科斯基（克里斯·米勒 Chris Miller 配音）、瑞哥闯入了防守最严密的美国黄金储备中心，只为找到金库尽头仅有的那台销售炸薯条的自动贩卖机。谁知他们刚刚完成任务没多久，便被长着触角的贩卖机吞了进去，随后被运到一个神秘的所在。在全封闭的设施内，四只企鹅见到了伪装成基因遗传科学家的章鱼戴夫（约翰·马尔科维奇 John Malkovich 配音）。原来戴夫曾是动物园一只明星章鱼，但随着萌态十足的企鹅们的到来，他便跌入了绝望的深谷。因此戴夫潜心研制了可怕的血清，发誓要向所有他曾待过的动物园中的企鹅展开报复。\n老大和伙伴们在逃亡途中得到北风特工队的救助，而他们和这些高傲的特工队员将分别阻止戴夫的阴谋……",
-        "id": "https://neodb.social/movie/0Yxx81A14ZVEVjOuemHS96",
-        "uuid": "0Yxx81A14ZVEVjOuemHS96",
-        "url": "/movie/0Yxx81A14ZVEVjOuemHS96",
-        "api_url": "/api/movie/0Yxx81A14ZVEVjOuemHS96",
-        "category": "movie",
-        "parent_uuid": null,
-        "display_title": "马达加斯加的企鹅",
-        "external_resources": [
-          {
-            "url": "https://eggplant.place/movie/3sn1XtyAhswUXiq2DgdNRr"
-          },
-          {
-            "url": "https://www.imdb.com/title/tt1911658/"
-          },
-          {
-            "url": "https://movie.douban.com/subject/11810348/"
-          },
-          {
-            "url": "https://www.themoviedb.org/movie/270946"
-          },
-          {
-            "url": "https://minreol.dk/movie/5oV4fR8IWPxiaDnbU5QeUg"
-          },
-          {
-            "url": "https://www.wikidata.org/wiki/Q15616479"
-          }
-        ],
-        "credits": [
-          {
-            "role": "actor",
-            "name": "Tom McGrath",
-            "character_name": "",
-            "person_url": "/api/person/79FVc2OvtYW1WvEbs8EWYw"
-          },
-          {
-            "role": "actor",
-            "name": "Chris Miller",
-            "character_name": "",
-            "person_url": "/api/person/7mqcOa9Os3194QNkdSJs7v"
-          },
-          {
-            "role": "actor",
-            "name": "Christopher Knights",
-            "character_name": "",
-            "person_url": "/api/person/0xn1CQha3EMp79dPricSlp"
-          },
-          {
-            "role": "actor",
-            "name": "Conrad Vernon",
-            "character_name": "",
-            "person_url": "/api/person/0faKSzFodfIXiYRrUfoKQ1"
-          },
-          {
-            "role": "actor",
-            "name": "John Malkovich",
-            "character_name": "",
-            "person_url": "/api/person/1uLAQhYgqLkS2VkrXsFmvi"
-          },
-          {
-            "role": "actor",
-            "name": "Benedict Cumberbatch",
-            "character_name": "",
-            "person_url": "/api/person/5IZruGwoV0h3PRITyodr0Z"
-          },
-          {
-            "role": "actor",
-            "name": "Ken Jeong",
-            "character_name": "",
-            "person_url": "/api/person/3YGRQazGkCl3uK3iHfhf7F"
-          },
-          {
-            "role": "actor",
-            "name": "Annet Mahendru",
-            "character_name": "",
-            "person_url": "/api/person/0uRXACZ3y4kbuQudl2E9ZG"
-          },
-          {
-            "role": "actor",
-            "name": "Peter Stormare",
-            "character_name": "",
-            "person_url": "/api/person/0zLDxxSrLJV4RON2nCYfVs"
-          },
-          {
-            "role": "actor",
-            "name": "Werner Herzog",
-            "character_name": "",
-            "person_url": "/api/person/5hDH09NXVgCf62bXoeVaAi"
-          },
-          {
-            "role": "director",
-            "name": "Eric Darnell",
-            "character_name": "",
-            "person_url": "/api/person/4QojFwYkaeOSb522rubJXy"
-          },
-          {
-            "role": "director",
-            "name": "Simon J. Smith",
-            "character_name": "",
-            "person_url": "/api/person/2jhT4HmWFAgt9X9N05byau"
-          },
-          {
-            "role": "playwright",
-            "name": "John Aboud",
-            "character_name": "",
-            "person_url": "/api/person/1bmB2QB30N5frL7Hpa4rXW"
-          },
-          {
-            "role": "playwright",
-            "name": "Michael Colton",
-            "character_name": "",
-            "person_url": "/api/person/32nXkkcmEAcEqyW94O4OCw"
-          },
-          {
-            "role": "playwright",
-            "name": "Eric Darnell",
-            "character_name": "",
-            "person_url": "/api/person/4QojFwYkaeOSb522rubJXy"
-          },
-          {
-            "role": "playwright",
-            "name": "Brandon Sawyer",
-            "character_name": "",
-            "person_url": "/api/person/3QtZueGq9a2uKRxBeJUPMA"
-          }
-        ]
-      },
-      "created_time": "2019-10-17T13:54:00Z",
-      "comment_text": null,
-      "rating_grade": 8,
-      "tags": []
-    },
-    {
-      "shelf_type": "complete",
-      "visibility": 0,
       "post_id": 6590595607528512,
       "item": {
         "type": "Movie",
@@ -49813,6 +49538,298 @@
             "name": "新海诚",
             "character_name": "",
             "person_url": "/api/person/389Zo9NZuJjSZT7koGKFcF"
+          }
+        ]
+      },
+      "created_time": "2019-10-17T13:54:00Z",
+      "comment_text": null,
+      "rating_grade": 8,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
+      "post_id": 6590595608874792,
+      "item": {
+        "type": "Movie",
+        "title": "马达加斯加的企鹅",
+        "description": "为了给最疼爱的小老弟菜鸟（克里斯多夫·奈茨 Christopher Knights 配音）庆生，老大（汤姆·麦格拉思 Tom McGrath 配音）带领菜鸟以及好搭档科斯基（克里斯·米勒 Chris Miller 配音）、瑞哥闯入了防守最严密的美国黄金储备中心，只为找到金库尽头仅有的那台销售炸薯条的自动贩卖机。谁知他们刚刚完成任务没多久，便被长着触角的贩卖机吞了进去，随后被运到一个神秘的所在。在全封闭的设施内，四只企鹅见到了伪装成基因遗传科学家的章鱼戴夫（约翰·马尔科维奇 John Malkovich 配音）。原来戴夫曾是动物园一只明星章鱼，但随着萌态十足的企鹅们的到来，他便跌入了绝望的深谷。因此戴夫潜心研制了可怕的血清，发誓要向所有他曾待过的动物园中的企鹅展开报复。\n老大和伙伴们在逃亡途中得到北风特工队的救助，而他们和这些高傲的特工队员将分别阻止戴夫的阴谋……",
+        "localized_title": [
+          {
+            "lang": "id",
+            "text": "Penguins of Madagascar"
+          },
+          {
+            "lang": "fr",
+            "text": "Les Pingouins de Madagascar"
+          },
+          {
+            "lang": "de",
+            "text": "Die Pinguine aus Madagascar"
+          },
+          {
+            "lang": "no",
+            "text": "Madagaskarpingvinene"
+          },
+          {
+            "lang": "sv",
+            "text": "Pingvinerna från Madagaskar"
+          },
+          {
+            "lang": "en",
+            "text": "Penguins of Madagascar"
+          },
+          {
+            "lang": "da",
+            "text": "Pingvinerne fra Madagascar"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "马达加斯加的企鹅"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "馬達加斯加爆走企鵝"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "荒失失企鵝"
+          },
+          {
+            "lang": "zh-hant",
+            "text": "馬達加斯加爆走企鵝"
+          },
+          {
+            "lang": "zh-sg",
+            "text": "荒失失企鹅"
+          },
+          {
+            "lang": "es",
+            "text": "Los pingüinos de Madagascar"
+          },
+          {
+            "lang": "pt",
+            "text": "Os Pinguins de Madagascar: O filme"
+          },
+          {
+            "lang": "ko",
+            "text": "마다가스카의 펭귄"
+          },
+          {
+            "lang": "ja",
+            "text": "ペンギンズ FROM マダガスカル ザ・ムービー"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "为了给最疼爱的小老弟菜鸟（克里斯多夫·奈茨 Christopher Knights 配音）庆生，老大（汤姆·麦格拉思 Tom McGrath 配音）带领菜鸟以及好搭档科斯基（克里斯·米勒 Chris Miller 配音）、瑞哥闯入了防守最严密的美国黄金储备中心，只为找到金库尽头仅有的那台销售炸薯条的自动贩卖机。谁知他们刚刚完成任务没多久，便被长着触角的贩卖机吞了进去，随后被运到一个神秘的所在。在全封闭的设施内，四只企鹅见到了伪装成基因遗传科学家的章鱼戴夫（约翰·马尔科维奇 John Malkovich 配音）。原来戴夫曾是动物园一只明星章鱼，但随着萌态十足的企鹅们的到来，他便跌入了绝望的深谷。因此戴夫潜心研制了可怕的血清，发誓要向所有他曾待过的动物园中的企鹅展开报复。\n老大和伙伴们在逃亡途中得到北风特工队的救助，而他们和这些高傲的特工队员将分别阻止戴夫的阴谋……"
+          },
+          {
+            "lang": "fr",
+            "text": "Vous pensiez connaître les Pingouins de Madagascar ? Pourtant, les quatre frères cachent un lourd secret. Ils sont en fait… agents secrets ! Pour sauver le monde du terrible Docteur Octavius, les pingouins devront s’associer à la très chic organisation de la North Wind menée par le superbe husky au nom classé secret."
+          },
+          {
+            "lang": "de",
+            "text": "Zehn Jahre, nachdem Skipper, Kowalski, Rico und Private Spaß und abenteuerliche Spezialeinsätze als Lebensziel ausgerufen haben, stehen die vier Pinguine aus dem New Yorker Zoo vor ihrer größten Herausforderung. Oktopus Dave will sich an allen Pinguinen rächen, sie in monströse Kreaturen verwandeln, weil ihm die niedlichen Vögel in jedem Tierpark die Schau stahlen. Doch Dave rechnet nicht mit der souveränen Coolness der Frackträger und der Unterstützung, die sie durch die Superprofis vom Agententeam \"Nordwind\" erhalten."
+          },
+          {
+            "lang": "no",
+            "text": "Superspioner blir ikke født... de klekkes! Oppdag hemmelighetene bak de beste og morsomste pingvinene i hele spionbransjen: Skipper, Kowalski, Rico og Menig. Denne elitegruppen slår seg sammen med den hemmelige organisasjonen, Nordavinden, som ledes av Agent Hemmelig (Vi kunne ha fortalt deg hans virkelige navn, men da... ja du vet). Sammen må de stoppe den skurken Dr. Oktavius Blekk fra å ødelegge verden slik vi kjenner den!"
+          },
+          {
+            "lang": "sv",
+            "text": "Pingvinerna Skepparn, Kowalski, Rico och Basse ger sig ut på ett superhemligt uppdrag för  att stoppa den ondskefulle dr Octavius Bläcks planer på världsherravälde. De samarbetar med underrättelsetjänsten Nordanvinden, som leds av agent Hemlig (vi kan säga hans namn men då måste vi... ja, ni vet)."
+          },
+          {
+            "lang": "en",
+            "text": "Skipper, Kowalski, Rico and Private join forces with undercover organization The North Wind to stop the villainous Dr. Octavius Brine from destroying the world as we know it."
+          },
+          {
+            "lang": "da",
+            "text": "Blæksprutten dr. Octavius Brine nærer et indædt had til den langt mere nuttede pingvinrace. Forklædt som forsker vil Brine kidnappe alle pingviner i verden og forvandle dem til frastødende mutanter! Men de fire pingvinagenter Skipper, Kowalski, Rico og Rekrut er på sagen, og de får hjælp af indsatsstyrken Nordenvind, der består af en ulv, en sæl, en isbjørn og en ugle."
+          },
+          {
+            "lang": "ko",
+            "text": "넘치는 유머, 감쪽 같은 위장술, 똑소리 나는 브레인! 날 때부터 남달랐던 악동 펭귄 스키퍼, 코왈스키, 리코, 프라이빗! 어느 날 그들 앞에 복수심에 불타는 문어박사 옥토브레인이 나타나고, 그의 거대한 음모를 알게 된 펭귄 4총사는 비밀 조직 ‘노스윈드’와 함께 세상을 구할 사상 최대의 작전을 펼치는데…!"
+          },
+          {
+            "lang": "ja",
+            "text": "キュートな外見とは裏腹にエリートスパイとして活躍するペンギンズは秘密の潜入捜査中、かつて動物園で彼らに人気を奪われたことを恨むタコのデーブに誘拐される。デーブが人間の姿をしたオクト博士に姿を変え、世界中のペンギンへの復讐（ふくしゅう）を計画していることを知ったペンギンズは、スパイ軍団「ノース・ウィンド」と手を組み邪悪な陰謀に立ち向かう。"
+          },
+          {
+            "lang": "pt",
+            "text": "Equipas de super espiões não nascem assim... são chocados. Descobre os segredos das mais espetaculares e mais hilariantes aves secretas da espionagem mundial: Capitão, Kowalski, Rico e Soldado. Estes top da elite irão unir forças com uma organização de intervenção secreta, Vento do Norte, que protege os animais. Liderados pelo engraçado Agente Secreto (poderíamos dizer o nome dele, mas depois... tu sabes), com a voz de Benedict Cumberbatch. Juntos, eles têm de evitar que o vilão Dr. Octavius."
+          },
+          {
+            "lang": "es",
+            "text": "Skypper, Kowalsky, Rico y Cabo, los superagentes pingüinos, tienen que salvar el mundo en una misión para la que llevan prepárandose toda la vida. Dicha misión tendrán que realizarla junto al denominado equipo \"Viento del norte\", un comando de élite especializado en salvar animales que no pueden defenderse por si solos."
+          },
+          {
+            "lang": "zh-hk",
+            "text": "瘋狂企鵝團隊,包括隊長、高華斯基、力高、卒仔,首度擔任主角,觀眾們肯定驚喜萬分!這四隻黑白相間彷如穿著「踢死兔禮服」的鬼馬企鵝仔,為了捍衛族群存亡,竟然踏上史無前例的刺激間諜冒險旅程。"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "章魚戴夫最初在水族館裡受到不少遊客的喜愛，可是漸漸地遊客都喜愛上了企鵝，這讓戴夫受到很大的冷落，自尊心得到嚴重打擊的他從此對企鵝們懷恨在心。後來戴夫開始實施他的報仇計劃，他決心發明一種藥水，它能讓企鵝都變成醜陋的怪物以便受到人類的討厭。隨著越來越多的企鵝都遭到戴夫成員的綁架，四位企鵝：老大、卡哇伊、涼快和菜鳥，聯手以灰狼為首的「放風所」四成員，與邪惡的章魚們展開了一次激烈較量"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/movie/2025/11/24/9f5a0527-41bb-4308-a536-f3928922c690.jpg",
+        "rating": 7.2,
+        "rating_count": 421,
+        "rating_distribution": [
+          0,
+          5,
+          41,
+          45,
+          9
+        ],
+        "tags": [
+          "2010s",
+          "2014",
+          "3d",
+          "benedictcumberbatch",
+          "企鹅",
+          "冒险",
+          "动物",
+          "动画",
+          "动画片",
+          "动画电影",
+          "喜剧",
+          "搞笑",
+          "梦工厂",
+          "电影",
+          "美国",
+          "美国动画",
+          "美国电影",
+          "萌",
+          "西蒙 j 史密斯",
+          "马达加斯加"
+        ],
+        "brief": "为了给最疼爱的小老弟菜鸟（克里斯多夫·奈茨 Christopher Knights 配音）庆生，老大（汤姆·麦格拉思 Tom McGrath 配音）带领菜鸟以及好搭档科斯基（克里斯·米勒 Chris Miller 配音）、瑞哥闯入了防守最严密的美国黄金储备中心，只为找到金库尽头仅有的那台销售炸薯条的自动贩卖机。谁知他们刚刚完成任务没多久，便被长着触角的贩卖机吞了进去，随后被运到一个神秘的所在。在全封闭的设施内，四只企鹅见到了伪装成基因遗传科学家的章鱼戴夫（约翰·马尔科维奇 John Malkovich 配音）。原来戴夫曾是动物园一只明星章鱼，但随着萌态十足的企鹅们的到来，他便跌入了绝望的深谷。因此戴夫潜心研制了可怕的血清，发誓要向所有他曾待过的动物园中的企鹅展开报复。\n老大和伙伴们在逃亡途中得到北风特工队的救助，而他们和这些高傲的特工队员将分别阻止戴夫的阴谋……",
+        "id": "https://neodb.social/movie/0Yxx81A14ZVEVjOuemHS96",
+        "uuid": "0Yxx81A14ZVEVjOuemHS96",
+        "url": "/movie/0Yxx81A14ZVEVjOuemHS96",
+        "api_url": "/api/movie/0Yxx81A14ZVEVjOuemHS96",
+        "category": "movie",
+        "parent_uuid": null,
+        "display_title": "马达加斯加的企鹅",
+        "external_resources": [
+          {
+            "url": "https://eggplant.place/movie/3sn1XtyAhswUXiq2DgdNRr"
+          },
+          {
+            "url": "https://www.imdb.com/title/tt1911658/"
+          },
+          {
+            "url": "https://movie.douban.com/subject/11810348/"
+          },
+          {
+            "url": "https://www.themoviedb.org/movie/270946"
+          },
+          {
+            "url": "https://minreol.dk/movie/5oV4fR8IWPxiaDnbU5QeUg"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q15616479"
+          }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "Tom McGrath",
+            "character_name": "",
+            "person_url": "/api/person/79FVc2OvtYW1WvEbs8EWYw"
+          },
+          {
+            "role": "actor",
+            "name": "Chris Miller",
+            "character_name": "",
+            "person_url": "/api/person/7mqcOa9Os3194QNkdSJs7v"
+          },
+          {
+            "role": "actor",
+            "name": "Christopher Knights",
+            "character_name": "",
+            "person_url": "/api/person/0xn1CQha3EMp79dPricSlp"
+          },
+          {
+            "role": "actor",
+            "name": "Conrad Vernon",
+            "character_name": "",
+            "person_url": "/api/person/0faKSzFodfIXiYRrUfoKQ1"
+          },
+          {
+            "role": "actor",
+            "name": "John Malkovich",
+            "character_name": "",
+            "person_url": "/api/person/1uLAQhYgqLkS2VkrXsFmvi"
+          },
+          {
+            "role": "actor",
+            "name": "Benedict Cumberbatch",
+            "character_name": "",
+            "person_url": "/api/person/5IZruGwoV0h3PRITyodr0Z"
+          },
+          {
+            "role": "actor",
+            "name": "Ken Jeong",
+            "character_name": "",
+            "person_url": "/api/person/3YGRQazGkCl3uK3iHfhf7F"
+          },
+          {
+            "role": "actor",
+            "name": "Annet Mahendru",
+            "character_name": "",
+            "person_url": "/api/person/0uRXACZ3y4kbuQudl2E9ZG"
+          },
+          {
+            "role": "actor",
+            "name": "Peter Stormare",
+            "character_name": "",
+            "person_url": "/api/person/0zLDxxSrLJV4RON2nCYfVs"
+          },
+          {
+            "role": "actor",
+            "name": "Werner Herzog",
+            "character_name": "",
+            "person_url": "/api/person/5hDH09NXVgCf62bXoeVaAi"
+          },
+          {
+            "role": "director",
+            "name": "Eric Darnell",
+            "character_name": "",
+            "person_url": "/api/person/4QojFwYkaeOSb522rubJXy"
+          },
+          {
+            "role": "director",
+            "name": "Simon J. Smith",
+            "character_name": "",
+            "person_url": "/api/person/2jhT4HmWFAgt9X9N05byau"
+          },
+          {
+            "role": "playwright",
+            "name": "John Aboud",
+            "character_name": "",
+            "person_url": "/api/person/1bmB2QB30N5frL7Hpa4rXW"
+          },
+          {
+            "role": "playwright",
+            "name": "Michael Colton",
+            "character_name": "",
+            "person_url": "/api/person/32nXkkcmEAcEqyW94O4OCw"
+          },
+          {
+            "role": "playwright",
+            "name": "Eric Darnell",
+            "character_name": "",
+            "person_url": "/api/person/4QojFwYkaeOSb522rubJXy"
+          },
+          {
+            "role": "playwright",
+            "name": "Brandon Sawyer",
+            "character_name": "",
+            "person_url": "/api/person/3QtZueGq9a2uKRxBeJUPMA"
           }
         ]
       },
@@ -50519,5 +50536,5 @@
   ],
   "count": 145,
   "category": "movie",
-  "updated_at": "2026-06-13T02:37:11.858408"
+  "updated_at": "2026-06-14T02:48:31.187132"
 }
