@@ -803,7 +803,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15972032e2-9c87-4328-baa9-21c0395470bf.jpg",
         "rating": 8.5,
-        "rating_count": 1344,
+        "rating_count": 1345,
         "rating_distribution": [
           0,
           1,
@@ -7064,6 +7064,10 @@
           {
             "lang": "en",
             "text": "Season 1"
+          },
+          {
+            "lang": "en",
+            "text": "Black Mirror (Series 1)"
           }
         ],
         "localized_description": [
@@ -7090,6 +7094,10 @@
           {
             "lang": "en",
             "text": "Season one of this sci-fi anthology series imagines realities in which people are forced to power their own existence, receive memory implants and more."
+          },
+          {
+            "lang": "en",
+            "text": "本剧是由Charlie Brooker所创作的3集迷你剧。\r\nCharlie Brooker explained the series' title to The Guardian, noting: \"If technology is a drug – and it does feel like a drug – then what, precisely, are the side-effects? This area – between delight and discomfort – is where Black Mirror, my new drama series, is set. The \"black mirror\" of the title is the one you'll find on every wall, on every desk, in the palm of every hand: the cold, shiny screen of a TV, a monitor, a smartphone.\""
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14138f068a-33d6-4cb0-a556-1112c79ede52.jpg",
@@ -7140,6 +7148,9 @@
           },
           {
             "url": "https://neodb.mastodon.work/tv/season/68msL4QzL3ylq9598W6FVI"
+          },
+          {
+            "url": "https://bgm.tv/subject/30310"
           },
           {
             "url": "https://www.themoviedb.org/tv/42009/season/1"
@@ -7196,7 +7207,7 @@
           },
           {
             "role": "director",
-            "name": "Otto Bathurst",
+            "name": "奥托·巴瑟斯特",
             "character_name": "",
             "person_url": "/api/person/47c1nv77ea7aO7P5AlsdU4"
           },
@@ -11710,7 +11721,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157c78ce20-44be-4128-85cd-0cfdc73ebb0a.jpg",
         "rating": 8.0,
-        "rating_count": 735,
+        "rating_count": 736,
         "rating_distribution": [
           2,
           2,
@@ -11755,13 +11766,13 @@
             "url": "https://movie.douban.com/subject/34895145/"
           },
           {
+            "url": "https://www.themoviedb.org/tv/95479/season/1"
+          },
+          {
             "url": "https://eggplant.place/tv/season/5CpLQ9SEWXLDz8gv2jetvS"
           },
           {
             "url": "https://bgm.tv/subject/294993"
-          },
-          {
-            "url": "https://www.themoviedb.org/tv/95479/season/1"
           }
         ],
         "credits": [
@@ -11996,7 +12007,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/06/1012f10cab-8842-442a-bd65-75dc2723a36b.jpg",
         "rating": 7.8,
-        "rating_count": 659,
+        "rating_count": 660,
         "rating_distribution": [
           2,
           5,
@@ -13140,7 +13151,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/13/d643b437-3391-4e50-8c8e-22f26228aa04.jpg",
         "rating": 8.1,
-        "rating_count": 251,
+        "rating_count": 252,
         "rating_distribution": [
           0,
           2,
@@ -17974,12 +17985,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13fad64691-a76f-489b-a7d7-ea2a222066c6.jpg",
         "rating": 8.3,
-        "rating_count": 160,
+        "rating_count": 161,
         "rating_distribution": [
           1,
           2,
-          19,
-          36,
+          20,
+          35,
           42
         ],
         "tags": [
@@ -28874,5 +28885,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-06-15T02:53:44.838299"
+  "updated_at": "2026-06-16T02:54:55.055959"
 }
