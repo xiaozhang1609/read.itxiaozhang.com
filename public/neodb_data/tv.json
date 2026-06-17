@@ -4048,7 +4048,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13f0f1086d-2dd2-4f8b-a1a8-fff29ef19e35.jpg",
         "rating": 9.3,
-        "rating_count": 1366,
+        "rating_count": 1365,
         "rating_distribution": [
           0,
           0,
@@ -12277,13 +12277,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
         "rating": 9.0,
-        "rating_count": 651,
+        "rating_count": 650,
         "rating_distribution": [
           0,
           1,
           7,
-          31,
-          61
+          30,
+          62
         ],
         "tags": [
           "2021",
@@ -13151,7 +13151,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/13/d643b437-3391-4e50-8c8e-22f26228aa04.jpg",
         "rating": 8.1,
-        "rating_count": 252,
+        "rating_count": 251,
         "rating_distribution": [
           0,
           2,
@@ -13797,6 +13797,10 @@
           {
             "lang": "fi",
             "text": "Shingeki no Kyojin Season 2"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "自由之翼"
           }
         ],
         "localized_description": [
@@ -13807,11 +13811,15 @@
           {
             "lang": "zh-cn",
             "text": "自从超大型巨人出现，人类的和平与幻想被打破的那天开始，艾伦·耶格尔无尽战斗的日子就未曾中断……。\n毫无抵抗之力，眼睁睁看着母亲成为巨人的饵食，发誓将巨人一个不剩地从世上驱逐的艾伦。\n但，在残酷战斗的途中，他自己也变成了巨人的姿态——。\n为了夺回人类的自由而驱使巨人之力的艾伦，在席纳之墙的史托黑斯区与“女巨人”交锋。这场巨人之间的激烈战斗，由艾伦艰难地取得了胜利。\n即使如此，艾伦以及人类也没有休息的时间。下一场战斗已经宣告开幕。面对逼近罗塞之墙的大群巨人，人类将如何对敌！？"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "自从人类的和平被超大型巨人打破的那天起，艾伦·耶格尔便每天持续着没有尽头的战斗...。因为眼睁睁看著母亲被巨人撕裂，艾伦发誓要将世间的巨人一只不留地杀灭。但是，在严酷的战斗中，艾伦自身也会变成巨人的姿态——为了人类的自由，艾伦施展著巨人的力量，并和女人型的巨人发生了冲突。巨人间的战斗中艾伦最终得以胜出。巨人不断地造访，下一轮的战斗已经宣告开始。对于接连而来的巨人，人类将如何去面对！？"
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/16/f28d5972-1708-4dd1-a655-d75431e32c33.webp",
         "rating": 9.0,
-        "rating_count": 824,
+        "rating_count": 825,
         "rating_distribution": [
           0,
           0,
@@ -13854,6 +13862,9 @@
           },
           {
             "url": "https://www.themoviedb.org/tv/1429/season/2"
+          },
+          {
+            "url": "https://bgm.tv/subject/118335"
           },
           {
             "url": "https://eggplant.place/tv/season/7CoVbWQoSDMiNDFwqO3u0c"
@@ -17205,13 +17216,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/3162443ce4-c901-4bcc-b518-2ded04071051.jpg",
         "rating": 8.5,
-        "rating_count": 127,
+        "rating_count": 128,
         "rating_distribution": [
           0,
           1,
-          21,
+          22,
           28,
-          50
+          49
         ],
         "tags": [
           "2020",
@@ -17412,7 +17423,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/275e2658ad-2aae-4ba2-9d91-73860d948fa3.webp",
         "rating": 8.6,
-        "rating_count": 136,
+        "rating_count": 137,
         "rating_distribution": [
           0,
           0,
@@ -23005,12 +23016,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16e988f47f-a6ae-4875-b1f2-dde3529b88ff.jpg",
         "rating": 7.9,
-        "rating_count": 213,
+        "rating_count": 212,
         "rating_distribution": [
-          2,
+          1,
           3,
           19,
-          49,
+          50,
           27
         ],
         "tags": [
@@ -28885,5 +28896,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-06-16T02:54:55.055959"
+  "updated_at": "2026-06-17T02:51:25.415350"
 }
