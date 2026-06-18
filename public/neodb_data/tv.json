@@ -8939,6 +8939,74 @@
           {
             "lang": "en",
             "text": "Pachinko Season 1"
+          },
+          {
+            "lang": "ko",
+            "text": "시즌 1"
+          },
+          {
+            "lang": "ja",
+            "text": "シーズン1"
+          },
+          {
+            "lang": "pt",
+            "text": "Temporada 1"
+          },
+          {
+            "lang": "de",
+            "text": "Staffel 1"
+          },
+          {
+            "lang": "fr",
+            "text": "Saison 1"
+          },
+          {
+            "lang": "es",
+            "text": "Temporada 1"
+          },
+          {
+            "lang": "en",
+            "text": "Season 1"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "第 1 季"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "第 1 季"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "第 1 季"
+          },
+          {
+            "lang": "en",
+            "text": "Pachinko season 1"
+          },
+          {
+            "lang": "fr",
+            "text": "saison 1 de Pachinko"
+          },
+          {
+            "lang": "de",
+            "text": "Pachinko – Ein einfaches Leben/Staffel 1"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "弹子球游戏 第二季"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "柏青哥 第二季"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "弹珠人生 第二季"
+          },
+          {
+            "lang": "en",
+            "text": "Pachinko Season 2"
           }
         ],
         "localized_description": [
@@ -8949,6 +9017,38 @@
           {
             "lang": "zh-cn",
             "text": "　　该剧讲述了历经四代的韩国移民家庭的故事。故事始于一段禁忌的爱恋，并扩展为跨越韩国、日本与美国三地，关于希望与梦想、和平、爱与失落、胜利与算计的史诗传奇。 \r\n　　从朝鲜到日本，四代移民家庭的恩怨纠葛，大时代的巨光照在每一个小人物的身上，都留下了一道崎岖的阴影，生生地拖着他们的躯体前行。从1920年日本殖民时期的韩国渔村，到日本大阪，经历了二战和朝鲜战争，一直到90年代末日本泡沫经济时代的横滨和东京乃至纽约。在这样复杂的历史背景下，全剧着重描绘了几代人在家族与故乡、融入与归属、金钱与信仰等一系列问题上的关系与矛盾。"
+          },
+          {
+            "lang": "ko",
+            "text": "뉴욕 타임스 베스트셀러가 원작인 이 대하드라마는 고국을 떠나 억척스럽게 생존과 번영을 추구하는 한인 이민 가족 4대의 꿈과 희망을 기록한다."
+          },
+          {
+            "lang": "en",
+            "text": "Based on the best-selling novel, this sweeping show follows a Korean family in an indomitable quest to survive."
+          },
+          {
+            "lang": "zh-hk",
+            "text": "改編自《紐約時報》暢銷書，這部風靡全球的長篇小説記述了一個韓國移民家庭的故事，四代人懷抱著希望與夢想離開家鄉，在異地不屈不撓地尋求生存與茁壯。"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "改編自《紐約時報》暢銷書，這部風靡全球的長篇小說記述了一個韓國移民家庭的故事，四代人懷抱著希望與夢想離開家鄉，在異地不屈不撓地尋求生存與茁壯。"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "改编自《纽约时报》畅销书，这部风靡全球的长篇小说记述了一个韩国移民家庭的故事，四代人怀抱着希望与梦想离开家乡，在异地不屈不挠地寻求生存与茁壮。"
+          },
+          {
+            "lang": "en",
+            "text": "season of Pachinko"
+          },
+          {
+            "lang": "fr",
+            "text": "saison de série télévisée"
+          },
+          {
+            "lang": "de",
+            "text": "Staffel von Pachinko – Ein einfaches Leben"
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/02/24bdbed50e-f9d6-4444-aadb-20c719aa716f.jpg",
@@ -8993,6 +9093,15 @@
         "external_resources": [
           {
             "url": "https://movie.douban.com/subject/30489824/"
+          },
+          {
+            "url": "https://www.themoviedb.org/tv/110382/season/1"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q125099643"
+          },
+          {
+            "url": "https://bgm.tv/subject/497538"
           },
           {
             "url": "https://bgm.tv/subject/377414"
@@ -9160,6 +9269,66 @@
             "name": "Min Jin Lee",
             "character_name": "",
             "person_url": "/api/person/1QwRghis4qCDrUKdUtV6ba"
+          },
+          {
+            "role": "producer",
+            "name": "Lynne Bespflug",
+            "character_name": "",
+            "person_url": "/api/person/08jXVa90UEmRXl8ljZjiIm"
+          },
+          {
+            "role": "producer",
+            "name": "Jordan Murcia",
+            "character_name": "",
+            "person_url": "/api/person/3KHjlv6BHDlEk9mdr7xyN3"
+          },
+          {
+            "role": "producer",
+            "name": "Brian Sherwin",
+            "character_name": "",
+            "person_url": "/api/person/4GUhC2Bojh9RizmoRL7DqZ"
+          },
+          {
+            "role": "producer",
+            "name": "Richard Middleton",
+            "character_name": "",
+            "person_url": "/api/person/5GiuffYdyQQbbv6KplOQsp"
+          },
+          {
+            "role": "producer",
+            "name": "全知泰",
+            "character_name": "",
+            "person_url": "/api/person/3lXLjPTsalUM4mJQvyarcv"
+          },
+          {
+            "role": "producer",
+            "name": "Michael Ellenberg",
+            "character_name": "",
+            "person_url": "/api/person/08AsIRXr4O2fMrhQRz2Rt2"
+          },
+          {
+            "role": "producer",
+            "name": "Theresa Kang-Lowe",
+            "character_name": "",
+            "person_url": "/api/person/4vdEl9X0hUBVRLMMWOiPDr"
+          },
+          {
+            "role": "producer",
+            "name": "Lindsey Springer",
+            "character_name": "",
+            "person_url": "/api/person/6MBeJBoNaz8GqZ7BLY5vkX"
+          },
+          {
+            "role": "producer",
+            "name": "郭共达",
+            "character_name": "",
+            "person_url": "/api/person/0Ojd6Zp7N36SCz6gKxDy7w"
+          },
+          {
+            "role": "producer",
+            "name": "Soo Hugh",
+            "character_name": "",
+            "person_url": "/api/person/5GDQdqwe5TfJdrtQFcSXUA"
           }
         ]
       },
@@ -12277,13 +12446,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
         "rating": 9.0,
-        "rating_count": 650,
+        "rating_count": 649,
         "rating_distribution": [
           0,
-          1,
+          2,
           7,
           30,
-          62
+          61
         ],
         "tags": [
           "2021",
@@ -28896,5 +29065,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-06-17T02:51:25.415350"
+  "updated_at": "2026-06-18T02:46:51.122925"
 }
