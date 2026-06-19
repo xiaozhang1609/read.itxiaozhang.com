@@ -12176,7 +12176,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/06/1012f10cab-8842-442a-bd65-75dc2723a36b.jpg",
         "rating": 7.8,
-        "rating_count": 660,
+        "rating_count": 662,
         "rating_distribution": [
           2,
           5,
@@ -12855,7 +12855,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/bangumi/2024/02/24/721c8a8b-f563-4994-b35f-940327755105.jpg",
         "rating": 8.4,
-        "rating_count": 175,
+        "rating_count": 176,
         "rating_distribution": [
           1,
           2,
@@ -16503,7 +16503,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2024/02/16/ebc8a989-7250-4d9a-bc87-f0015d90a64b.jpg",
         "rating": 8.7,
-        "rating_count": 116,
+        "rating_count": 117,
         "rating_distribution": [
           1,
           2,
@@ -29065,5 +29065,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-06-18T02:46:51.122925"
+  "updated_at": "2026-06-19T03:31:46.945127"
 }
