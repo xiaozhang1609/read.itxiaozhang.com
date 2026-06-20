@@ -5791,7 +5791,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/153f250f04-06a2-4a3d-88b0-f28cca4e9b3b.jpg",
         "rating": 8.7,
-        "rating_count": 516,
+        "rating_count": 517,
         "rating_distribution": [
           0,
           1,
@@ -8708,7 +8708,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1547b89f8e-94c0-435e-8c7f-6b4513db2842.jpg",
         "rating": 7.1,
-        "rating_count": 1285,
+        "rating_count": 1286,
         "rating_distribution": [
           1,
           6,
@@ -20613,7 +20613,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/02/09/a0bfb9c4-f0fd-4101-830d-0c1b988c93b7.webp",
         "rating": 6.4,
-        "rating_count": 465,
+        "rating_count": 466,
         "rating_distribution": [
           2,
           12,
@@ -43129,9 +43129,6 @@
         "display_title": "头号玩家",
         "external_resources": [
           {
-            "url": "https://movie.douban.com/subject/4920389/"
-          },
-          {
             "url": "https://www.imdb.com/title/tt1677720/"
           },
           {
@@ -43142,6 +43139,9 @@
           },
           {
             "url": "https://eggplant.place/movie/4kaF9Vj6H2BaTDUj7ygmGn"
+          },
+          {
+            "url": "https://movie.douban.com/subject/4920389/"
           },
           {
             "url": "https://neodb.kevga.de/movie/1sOLexrDH1ZFlOt48rOr05"
@@ -50597,5 +50597,5 @@
   ],
   "count": 145,
   "category": "movie",
-  "updated_at": "2026-06-19T03:31:38.115134"
+  "updated_at": "2026-06-20T02:36:10.015573"
 }
