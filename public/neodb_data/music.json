@@ -25,11 +25,7 @@
           0,
           0
         ],
-        "tags": [
-          "1996",
-          "italy",
-          "pop"
-        ],
+        "tags": null,
         "brief": "",
         "id": "https://neodb.social/album/6l08TZcbgCJ7PnF95QDuL1",
         "uuid": "6l08TZcbgCJ7PnF95QDuL1",
@@ -88,10 +84,7 @@
           0,
           0
         ],
-        "tags": [
-          "heist",
-          "money"
-        ],
+        "tags": null,
         "brief": "",
         "id": "https://neodb.social/album/5XtXNn5ErnYg4S2DQTayTX",
         "uuid": "5XtXNn5ErnYg4S2DQTayTX",
@@ -156,16 +149,7 @@
           29,
           57
         ],
-        "tags": [
-          "pop",
-          "流行",
-          "童年",
-          "笑看风云",
-          "粤语",
-          "经典",
-          "郑少秋",
-          "香港"
-        ],
+        "tags": null,
         "brief": "",
         "id": "https://neodb.social/album/58tsaoYG4CU6iPmtpNWPjM",
         "uuid": "58tsaoYG4CU6iPmtpNWPjM",
@@ -233,15 +217,7 @@
           23,
           69
         ],
-        "tags": [
-          "1980",
-          "上海滩",
-          "叶丽仪",
-          "流行",
-          "粤语",
-          "葉麗儀",
-          "香港"
-        ],
+        "tags": null,
         "brief": "叶丽仪凭参加无线电视的《声宝之夜》歌唱比赛夺得冠军而晋身乐坛，早期以唱欧西歌曲为主，七十年代在粤语流行曲方面发展不大，至主唱无线电视剧主题曲《上海滩》，到叫人意外的成功，一跃而成一线女歌手。她继后为《上海滩续集》唱的《万般情》、《上海滩龙虎斗》亦承着《上海滩》的余威而有不错的成绩，而其他歌曲则以《那天将心交给你》、《愿你待我真的好》、《爱是无涯》和无线电视剧主题曲《笑傲江湖》较为流行。",
         "id": "https://neodb.social/album/2pfP33RX1f8dkUOUNCV98Q",
         "uuid": "2pfP33RX1f8dkUOUNCV98Q",
@@ -278,5 +254,5 @@
   ],
   "count": 4,
   "category": "music",
-  "updated_at": "2026-06-20T02:36:21.339018"
+  "updated_at": "2026-06-21T02:52:22.919622"
 }
