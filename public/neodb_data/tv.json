@@ -23482,7 +23482,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_tv/2025/12/27/7b07470a-13ce-4058-8aec-7ad10a4524ed.jpg",
         "rating": 8.0,
-        "rating_count": 676,
+        "rating_count": 678,
         "rating_distribution": [
           1,
           4,
@@ -27068,5 +27068,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-06-21T02:52:20.749878"
+  "updated_at": "2026-06-22T02:54:47.193455"
 }

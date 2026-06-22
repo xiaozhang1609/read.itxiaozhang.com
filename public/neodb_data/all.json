@@ -17422,7 +17422,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/162e094de9-a053-42fe-93d8-a2916a0bc1d5.jpg",
         "rating": 7.7,
-        "rating_count": 358,
+        "rating_count": 359,
         "rating_distribution": [
           0,
           2,
@@ -20485,13 +20485,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16813dc7bf-5580-4d43-8f61-197bf9df97db.jpg",
         "rating": 6.7,
-        "rating_count": 563,
+        "rating_count": 562,
         "rating_distribution": [
           2,
           8,
           47,
-          37,
-          6
+          38,
+          5
         ],
         "tags": null,
         "brief": "凯撒（安迪·瑟金斯 饰）领导的猿族将被迫与残暴的Colonel（伍迪·哈里森 饰）领导的人类军队上演一场生死大战。猿族在战斗中遭遇了前所未有的重创，由此激发了凯撒内心中黑暗的一面，心中燃起复仇的烈火。最终，凯撒与Colonel面对面进行了一场关乎猿族和人类命运的终极之战。",
@@ -20882,7 +20882,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16576eaa1d-477c-4067-8214-d0a4169e7018.jpg",
         "rating": 7.3,
-        "rating_count": 725,
+        "rating_count": 724,
         "rating_distribution": [
           1,
           3,
@@ -33854,7 +33854,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/15e852899b-0b52-41b1-b8e5-772c8e13f739.jpg",
         "rating": 9.2,
-        "rating_count": 458,
+        "rating_count": 459,
         "rating_distribution": [
           0,
           1,
@@ -40111,7 +40111,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/10/20/1da820fd-8dfc-40c4-95b4-84aaa71ee443.webp",
         "rating": 6.6,
-        "rating_count": 469,
+        "rating_count": 470,
         "rating_distribution": [
           4,
           10,
@@ -73769,7 +73769,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_tv/2025/12/27/7b07470a-13ce-4058-8aec-7ad10a4524ed.jpg",
         "rating": 8.0,
-        "rating_count": 676,
+        "rating_count": 678,
         "rating_distribution": [
           1,
           4,
@@ -77665,36 +77665,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2026-06-21T02:52:23.395952",
+  "updated_at": "2026-06-22T02:54:49.674992",
   "stats": {
     "movie": {
       "count": 145,
-      "time": 13.14
+      "time": 12.42
     },
     "tv": {
       "count": 115,
-      "time": 7.99
+      "time": 8.03
     },
     "book": {
       "count": 36,
-      "time": 1.95
+      "time": 1.83
     },
     "music": {
       "count": 4,
-      "time": 0.19
+      "time": 0.18
     },
     "podcast": {
       "count": 0,
-      "time": 0.13
+      "time": 0.12
     },
     "game": {
       "count": 1,
-      "time": 0.16
+      "time": 0.15
     },
     "performance": {
       "count": 2,
-      "time": 0.18
+      "time": 0.16
     }
   },
-  "total_time": 23.75
+  "total_time": 22.89
 }
