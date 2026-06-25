@@ -77665,36 +77665,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2026-06-24T02:31:00.108248",
+  "updated_at": "2026-06-25T02:32:53.418665",
   "stats": {
     "movie": {
       "count": 145,
-      "time": 12.05
+      "time": 12.12
     },
     "tv": {
       "count": 115,
-      "time": 8.12
+      "time": 7.68
     },
     "book": {
       "count": 36,
-      "time": 1.92
+      "time": 1.73
     },
     "music": {
       "count": 4,
-      "time": 0.36
+      "time": 0.19
     },
     "podcast": {
       "count": 0,
-      "time": 0.16
+      "time": 0.17
     },
     "game": {
       "count": 1,
-      "time": 0.19
+      "time": 0.16
     },
     "performance": {
       "count": 2,
-      "time": 0.21
+      "time": 0.22
     }
   },
-  "total_time": 23.01
+  "total_time": 22.27
 }
