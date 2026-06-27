@@ -763,12 +763,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15972032e2-9c87-4328-baa9-21c0395470bf.jpg",
         "rating": 8.5,
-        "rating_count": 1345,
+        "rating_count": 1346,
         "rating_distribution": [
-          0,
+          1,
           1,
           10,
-          47,
+          46,
           42
         ],
         "tags": null,
@@ -3566,7 +3566,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15230a44b5-d9e7-4ed0-9dca-f56d188b2e65.jpg",
         "rating": 9.3,
-        "rating_count": 1047,
+        "rating_count": 1048,
         "rating_distribution": [
           0,
           0,
@@ -3848,7 +3848,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13f0f1086d-2dd2-4f8b-a1a8-fff29ef19e35.jpg",
         "rating": 9.3,
-        "rating_count": 1365,
+        "rating_count": 1366,
         "rating_distribution": [
           0,
           0,
@@ -5398,7 +5398,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158cac42e4-74fb-472f-afd5-78984be19315.jpg",
         "rating": 8.2,
-        "rating_count": 852,
+        "rating_count": 853,
         "rating_distribution": [
           1,
           2,
@@ -9900,13 +9900,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/22/a170513d-27d1-4a66-b415-83bcc178b78b.webp",
         "rating": 7.5,
-        "rating_count": 167,
+        "rating_count": 168,
         "rating_distribution": [
           3,
           6,
           18,
-          47,
-          26
+          48,
+          25
         ],
         "tags": null,
         "brief": "最强2人，回不去的青春。2017年12月，乙骨忧太解除了祈本里香的诅咒。追溯到2006年（春天），高专时代的五条悟与夏油杰。作为咒术师活跃着，所向披靡的2人，接受来自咒术界拥有不死术式的要·天元的委托。委托有两个，天元的的适合者——被选中成为“星浆体”的天内理子，对那个少女的“护卫”和“抹去”两人为了维持咒术界而进行护卫任务，在那里自称伏黑的“术师杀手”以暗杀“星浆体”为目标介入。在之后被称为最强的咒术师和最恶的咒术师，五条与夏油，两人的过去被揭开…",
@@ -11429,7 +11429,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/08/69d304f8-1a0f-4f06-9a4a-b1d870f43864.webp",
         "rating": 8.0,
-        "rating_count": 238,
+        "rating_count": 239,
         "rating_distribution": [
           1,
           2,
@@ -11685,7 +11685,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157c78ce20-44be-4128-85cd-0cfdc73ebb0a.jpg",
         "rating": 8.0,
-        "rating_count": 738,
+        "rating_count": 739,
         "rating_distribution": [
           2,
           2,
@@ -11951,7 +11951,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/06/1012f10cab-8842-442a-bd65-75dc2723a36b.jpg",
         "rating": 7.8,
-        "rating_count": 662,
+        "rating_count": 663,
         "rating_distribution": [
           2,
           5,
@@ -12201,12 +12201,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
         "rating": 9.0,
-        "rating_count": 649,
+        "rating_count": 651,
         "rating_distribution": [
           0,
-          2,
+          1,
           7,
-          30,
+          31,
           61
         ],
         "tags": null,
@@ -13182,8 +13182,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/10/22/061fa0ce-5b93-4b37-a162-d488e100d05d.jpg",
-        "rating": 8.1,
-        "rating_count": 183,
+        "rating": 8.2,
+        "rating_count": 184,
         "rating_distribution": [
           1,
           3,
@@ -13407,13 +13407,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/09/04cbcb6fd5-268a-485b-ac86-17ebb9e1ecd8.jpg",
         "rating": 8.2,
-        "rating_count": 444,
+        "rating_count": 445,
         "rating_distribution": [
           0,
-          0,
+          1,
           19,
           44,
-          37
+          36
         ],
         "tags": null,
         "brief": "A young woman begins receiving messages from an unknown number that claims to be her deceased father. Trying to uncover the truth, she stumbles upon a larger conspiracy involving the singularity.",
@@ -13618,7 +13618,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/16/f28d5972-1708-4dd1-a655-d75431e32c33.webp",
         "rating": 9.0,
-        "rating_count": 825,
+        "rating_count": 826,
         "rating_distribution": [
           0,
           0,
@@ -13879,7 +13879,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/24/a9688316-76fe-4704-add5-ab62c18e523f.webp",
         "rating": 9.3,
-        "rating_count": 748,
+        "rating_count": 749,
         "rating_distribution": [
           0,
           0,
@@ -14137,7 +14137,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/01/0601fef99c-a667-460e-bebd-99e45fb92e8a.webp",
         "rating": 9.7,
-        "rating_count": 662,
+        "rating_count": 663,
         "rating_distribution": [
           0,
           0,
@@ -14402,7 +14402,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/19/368cf45a-631c-4500-9ec0-c814f93efe6f.jpg",
         "rating": 7.8,
-        "rating_count": 366,
+        "rating_count": 367,
         "rating_distribution": [
           0,
           6,
@@ -14910,7 +14910,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/03/14/e0cc80de-58b3-4a0c-ba0b-cb1ed25f326a.webp",
         "rating": 8.8,
-        "rating_count": 581,
+        "rating_count": 582,
         "rating_distribution": [
           1,
           0,
@@ -15190,7 +15190,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/2775557ce8-06f5-4882-a7e4-a3293ba16d3a.jpg",
         "rating": 8.9,
-        "rating_count": 1145,
+        "rating_count": 1147,
         "rating_distribution": [
           0,
           1,
@@ -17663,7 +17663,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/17/18d1616a-20a3-4c95-9694-b8b225b56ffa.jpg",
         "rating": 8.5,
-        "rating_count": 366,
+        "rating_count": 367,
         "rating_distribution": [
           1,
           1,
@@ -18099,7 +18099,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1543e536b3-fcc3-44d0-a4da-96eacc5607bf.jpg",
         "rating": 9.6,
-        "rating_count": 527,
+        "rating_count": 528,
         "rating_distribution": [
           0,
           0,
@@ -23540,13 +23540,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/154f5b96b2-9167-480b-81e7-40688604ecb8.jpg",
         "rating": 7.7,
-        "rating_count": 403,
+        "rating_count": 405,
         "rating_distribution": [
-          1,
+          2,
           5,
           23,
           45,
-          26
+          25
         ],
         "tags": null,
         "brief": "连当个值日生也能酷到迷死人，县立学文高中一年二班。这里，有个一入学就引起瞩目的学生，名叫坂本。其举手投足都蕴含着一股酷劲，不对，根本酷过头了。因为成为校园焦点，眼前出现了各项威胁。 坂本最新潮、最流行的校园生活，自此揭幕。",
@@ -24265,7 +24265,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ff05449c-d8e8-4a87-a939-e48f28f1d8d3.jpg",
         "rating": 7.4,
-        "rating_count": 331,
+        "rating_count": 332,
         "rating_distribution": [
           2,
           6,
@@ -27651,5 +27651,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-06-26T02:35:13.059758"
+  "updated_at": "2026-06-27T02:28:06.885958"
 }
