@@ -10054,7 +10054,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/12eb1ffdd9-8769-429d-9b4a-a2a3a7bd3764.jpg",
         "rating": 8.9,
-        "rating_count": 425,
+        "rating_count": 426,
         "rating_distribution": [
           0,
           1,
@@ -39933,11 +39933,7 @@
         "category": "tv",
         "parent_uuid": "4wiLSlVO5QHiKIGpFGXsMN",
         "display_title": "超异能族",
-        "external_resources": [
-          {
-            "url": "https://www.themoviedb.org/tv/126485/season/1"
-          }
-        ],
+        "external_resources": [],
         "credits": [
           {
             "role": "actor",
@@ -78255,36 +78251,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2026-06-27T02:28:09.459026",
+  "updated_at": "2026-06-28T02:40:44.056679",
   "stats": {
     "movie": {
       "count": 145,
-      "time": 10.81
+      "time": 11.41
     },
     "tv": {
       "count": 115,
-      "time": 7.45
+      "time": 7.54
     },
     "book": {
       "count": 36,
-      "time": 1.81
+      "time": 1.67
     },
     "music": {
       "count": 4,
-      "time": 0.22
+      "time": 0.17
     },
     "podcast": {
       "count": 0,
-      "time": 0.12
+      "time": 0.13
     },
     "game": {
       "count": 1,
-      "time": 0.15
+      "time": 0.16
     },
     "performance": {
       "count": 2,
-      "time": 0.24
+      "time": 0.16
     }
   },
-  "total_time": 20.8
+  "total_time": 21.23
 }
