@@ -4175,9 +4175,9 @@
           },
           {
             "role": "actor",
-            "name": "米莉·阿尔柯克",
+            "name": "米莉·阿尔科克",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1jqh9XZBmUZwkFGNzjJxLb"
           },
           {
             "role": "actor",
@@ -4511,7 +4511,7 @@
           },
           {
             "role": "actor",
-            "name": "Afolabi Alli",
+            "name": "阿弗拉比·阿里",
             "character_name": "",
             "person_url": "/api/person/1qYtVOlOEpIrDv9F0hgQCG"
           },
@@ -8825,6 +8825,10 @@
           {
             "lang": "zh-cn",
             "text": "第 6 季"
+          },
+          {
+            "lang": "en",
+            "text": "Peaky Blinders Season 6"
           }
         ],
         "localized_description": [
@@ -8898,6 +8902,9 @@
           },
           {
             "url": "https://www.themoviedb.org/tv/60574/season/6"
+          },
+          {
+            "url": "https://bgm.tv/subject/372243"
           }
         ],
         "credits": [
@@ -9425,6 +9432,10 @@
           {
             "lang": "zh-cn",
             "text": "第 5 季"
+          },
+          {
+            "lang": "en",
+            "text": "Peaky Blinders Season 5"
           }
         ],
         "localized_description": [
@@ -9498,6 +9509,9 @@
           },
           {
             "url": "https://www.themoviedb.org/tv/60574/season/5"
+          },
+          {
+            "url": "https://bgm.tv/subject/183955"
           }
         ],
         "credits": [
@@ -10121,6 +10135,10 @@
           {
             "lang": "zh-cn",
             "text": "第 4 季"
+          },
+          {
+            "lang": "en",
+            "text": "Peaky Blinders Season 4"
           }
         ],
         "localized_description": [
@@ -10194,6 +10212,9 @@
           },
           {
             "url": "https://www.themoviedb.org/tv/60574/season/4"
+          },
+          {
+            "url": "https://bgm.tv/subject/183954"
           }
         ],
         "credits": [
@@ -10555,6 +10576,10 @@
           {
             "lang": "zh-cn",
             "text": "第 3 季"
+          },
+          {
+            "lang": "en",
+            "text": "Peaky Blinders Season 3"
           }
         ],
         "localized_description": [
@@ -10601,6 +10626,10 @@
           {
             "lang": "zh-cn",
             "text": "时间来到 1924 年，距离赛马会已经过去了两年。汤米表面上经营赛马场，销售汽车。其实他暗地里在为丘吉尔工作。"
+          },
+          {
+            "lang": "en",
+            "text": "It is Thomas Shelby's long-awaited wedding day. a mysterious visitor imperils the entire Shelby family, and Tommy finds himself pulled into a web of intrigue more lethal than anything he has yet encountered."
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/166b5ad5c7-a449-4956-afb3-cad395d9d614.jpg",
@@ -10628,6 +10657,9 @@
           },
           {
             "url": "https://www.themoviedb.org/tv/60574/season/3"
+          },
+          {
+            "url": "https://bgm.tv/subject/183515"
           }
         ],
         "credits": [
@@ -10760,6 +10792,10 @@
           {
             "lang": "zh-cn",
             "text": "第 2 季"
+          },
+          {
+            "lang": "en",
+            "text": "Peaky Blinders (Season 2)"
           }
         ],
         "localized_description": [
@@ -10836,6 +10872,9 @@
           },
           {
             "url": "https://www.themoviedb.org/tv/60574/season/2"
+          },
+          {
+            "url": "https://bgm.tv/subject/114864"
           }
         ],
         "credits": [
@@ -11094,6 +11133,10 @@
           {
             "lang": "de",
             "text": "Peaky Blinders – Gangs of Birmingham/Staffel 1"
+          },
+          {
+            "lang": "en",
+            "text": "Peaky Blinders (Season 1)"
           }
         ],
         "localized_description": [
@@ -11189,6 +11232,9 @@
           },
           {
             "url": "https://www.wikidata.org/wiki/Q21185920"
+          },
+          {
+            "url": "https://bgm.tv/subject/83574"
           }
         ],
         "credits": [
@@ -11410,7 +11456,7 @@
       "item": {
         "type": "TVSeason",
         "title": "辐射 第一季",
-        "description": "Based on one of the greatest video game series of all time, Fallout is the story of haves and have-nots in a world in which there’s almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird and highly violent universe waiting for them.",
+        "description": "　　该剧改编自同名游戏，讲述了在一个艺术、科技和文化风格为1950年代的复古未来主义的架空世界，一场核战争在2077年10月23日爆发后所带来的后末日废土世界的故事。",
         "localized_title": [
           {
             "lang": "zh-cn",
@@ -11425,6 +11471,10 @@
           {
             "lang": "en",
             "text": "Based on one of the greatest video game series of all time, Fallout is the story of haves and have-nots in a world in which there’s almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird and highly violent universe waiting for them."
+          },
+          {
+            "lang": "zh-cn",
+            "text": "　　该剧改编自同名游戏，讲述了在一个艺术、科技和文化风格为1950年代的复古未来主义的架空世界，一场核战争在2077年10月23日爆发后所带来的后末日废土世界的故事。"
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/08/69d304f8-1a0f-4f06-9a4a-b1d870f43864.webp",
@@ -11438,7 +11488,7 @@
           35
         ],
         "tags": null,
-        "brief": "Based on one of the greatest video game series of all time, Fallout is the story of haves and have-nots in a world in which there’s almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird and highly violent universe waiting for them.",
+        "brief": "　　该剧改编自同名游戏，讲述了在一个艺术、科技和文化风格为1950年代的复古未来主义的架空世界，一场核战争在2077年10月23日爆发后所带来的后末日废土世界的故事。",
         "id": "https://neodb.social/tv/season/5FyXt7D9AV5ieWNoDj7OPV",
         "uuid": "5FyXt7D9AV5ieWNoDj7OPV",
         "url": "/tv/season/5FyXt7D9AV5ieWNoDj7OPV",
@@ -11455,6 +11505,9 @@
           },
           {
             "url": "https://movie.douban.com/subject/35128081/"
+          },
+          {
+            "url": "https://bgm.tv/subject/390202"
           }
         ],
         "credits": [
@@ -11526,7 +11579,7 @@
           },
           {
             "role": "actor",
-            "name": "Annabel O'Hagan",
+            "name": "安娜贝尔·奥哈根",
             "character_name": "",
             "person_url": "/api/person/53DGQgdgwRbFC71Su6mxXI"
           },
@@ -27647,5 +27700,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-06-28T02:40:41.728793"
+  "updated_at": "2026-06-29T02:41:12.270105"
 }
