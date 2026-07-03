@@ -1514,7 +1514,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15f11cb17e-28ef-4bfa-aeff-392988e0b7e4.jpg",
         "rating": 8.4,
-        "rating_count": 856,
+        "rating_count": 857,
         "rating_distribution": [
           1,
           2,
@@ -11972,28 +11972,28 @@
       "post_id": 325528489822572224,
       "item": {
         "type": "TVSeason",
-        "title": "赛博朋克：边缘跑手",
+        "title": "赛博朋克：边缘行者",
         "description": "开放世界角色扮演游戏《赛博朋克2077》将拍衍生动画剧集《Cyberpunk: Edgerunners》，2022年在Netflix上线，Studio Trigger和CD Projekt Red制作，今石洋之执导，共10集。动画剧聚焦一个街头成长的孩子在科技泛滥的城市中挣扎求生，成为了一个雇佣兵即edgerunner/cyberpunk。",
         "localized_title": [
           {
-            "lang": "zh-cn",
-            "text": "赛博朋克：边缘跑手"
+            "lang": "ja",
+            "text": "サイバーパンク: エッジランナーズ"
           },
           {
-            "lang": "da",
+            "lang": "en",
             "text": "Cyberpunk: Edgerunners"
-          },
-          {
-            "lang": "zh-cn",
-            "text": "赛博朋克：命运之轮"
           },
           {
             "lang": "zh-cn",
             "text": "赛博朋克：边缘行者"
           },
           {
-            "lang": "ja",
-            "text": "サイバーパンク: エッジランナーズ"
+            "lang": "zh-cn",
+            "text": "赛博朋克：边缘跑手"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "赛博朋克：命运之轮"
           }
         ],
         "localized_description": [
@@ -12020,7 +12020,7 @@
         "api_url": "/api/tv/season/7PYVkySEYW8aKkOxFALUHy",
         "category": "tv",
         "parent_uuid": "3Dqn1qPiRZqmZqUQ0v1GXT",
-        "display_title": "赛博朋克：边缘跑手",
+        "display_title": "赛博朋克：边缘行者",
         "external_resources": [
           {
             "url": "https://eggplant.place/tv/season/4sAFSnrk6a4gksKQ4lpUsB"
@@ -12428,7 +12428,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/05/08/b1302e71-dc78-444c-b77c-7c9963751aef.jpg",
         "rating": 8.0,
-        "rating_count": 287,
+        "rating_count": 286,
         "rating_distribution": [
           1,
           1,
@@ -27700,5 +27700,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-07-02T02:31:03.438289"
+  "updated_at": "2026-07-03T02:06:36.768333"
 }
