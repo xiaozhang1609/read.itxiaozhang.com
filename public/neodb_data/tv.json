@@ -4120,7 +4120,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/02/16/1c296bee-5d49-4208-b11b-f7f0f949bc64.jpg",
         "rating": 8.4,
-        "rating_count": 293,
+        "rating_count": 294,
         "rating_distribution": [
           1,
           2,
@@ -6024,6 +6024,18 @@
           {
             "lang": "zh-cn",
             "text": "第 1 季"
+          },
+          {
+            "lang": "id",
+            "text": "Shōgun 将軍"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "将军"
+          },
+          {
+            "lang": "id",
+            "text": "Shōgun"
           }
         ],
         "localized_description": [
@@ -6038,6 +6050,10 @@
           {
             "lang": "es",
             "text": "Japón, año 1600, en los albores de una guerra civil que definirá un siglo. Lord Yoshii Toranaga lucha por mantenerse con vida mientras sus enemigos del Consejo de Regentes conspiran contra él. Cuando en un pueblo pesquero cercano aparece un misterioso barco europeo abandonado, el destino de Toranaga se unirá al de John Blackthorne, el patrón de nacionalidad inglesa de este barco.\n\nBlackthorne llega cargado de secretos que podrían ayudar a Toranaga, e inclinar así la balanza del poder. Juntos tienen la oportunidad de acabar con la enorme influencia de los enemigos de Toranaga, que son los mismos que los de Blackthorne: los sacerdotes jesuitas y los mercaderes portugueses. Como traductora de ambos juega un papel esencial Lady Toda Mariko, la última de un linaje caído en desgracia que debe compaginar su reciente amistad con Blackthorne y su lealtad hacia su difunto padre en mitad de este tenso panorama político."
+          },
+          {
+            "lang": "zh-cn",
+            "text": "       该剧根据1975年James Clavell的同名畅销小说改编。故事背景为1600年的日本，当时正值一场世纪内战的黎明，即关原合战。面对五大老中的敌人联合起来对抗自己，吉井虎永大名（真田广之 饰）必须为性命而战。\r\n　　当一艘神秘的欧洲船只被发现困在附近的一个渔村后，船上的英国引航员John Blackthorne（柯斯莫·贾维斯 饰）带来了可能帮助Toranaga颠覆权力天平的秘密，这些秘密也可能摧毁Blackthorne自己的敌人——耶稣会教士和葡萄牙商人拥有的强大影响力。\r\n　　虎永和Blackthorne的命运与他们的翻译戸田鞠子（泽井杏奈 饰）变得密不可分。鞠子是一位神秘的基督教女子，来自没落贵族血脉的最后一位家族成员。在政治局势动荡的时代，鞠子不仅要为她的大名服务，还必须在自己与Blackthorne建立的新关系、对信仰和先父遗愿的使命感之间找到平衡点。\r\n　　原著通过西方和日本两个角度来讲述，背景设置在日本的江户幕府时代，原型是德川家康和三浦按针。"
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2024/04/20/7448d3b5-249e-40c0-b76d-daed7a64157f.webp",
@@ -6068,6 +6084,9 @@
           },
           {
             "url": "https://www.themoviedb.org/tv/126308/season/1"
+          },
+          {
+            "url": "https://bgm.tv/subject/463995"
           }
         ],
         "credits": [
@@ -6109,7 +6128,7 @@
           },
           {
             "role": "actor",
-            "name": "平岳大",
+            "name": "平岳大平",
             "character_name": "",
             "person_url": "/api/person/2xEEbBBwctBwp64xcpmomw"
           },
@@ -6229,7 +6248,7 @@
           },
           {
             "role": "playwright",
-            "name": "Justin Marks",
+            "name": "贾斯汀·马克斯",
             "character_name": "",
             "person_url": "/api/person/3NiF0A9ZSKyLXOWGU7zn4O"
           },
@@ -24114,13 +24133,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_tv/2025/12/27/7b07470a-13ce-4058-8aec-7ad10a4524ed.jpg",
         "rating": 8.0,
-        "rating_count": 678,
+        "rating_count": 679,
         "rating_distribution": [
           1,
           4,
-          17,
+          18,
           46,
-          32
+          31
         ],
         "tags": null,
         "brief": "主人公·张楚岚，某天在墓地遭遇僵尸的袭击。在万分危急的时刻，一个少女出现在了他的面前手里拿着的菜刀将敌人击倒对着放心了得楚岚说道“现在这里有些困境，你就自己面对吧”留下了有着深意的话，离开了。过了几天，在大学上学的张楚岚的面前，又出现了少女的身影。自从那个瞬间，张楚岚激荡的命运便开始向前推进了。",
@@ -27700,5 +27719,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-07-03T02:06:36.768333"
+  "updated_at": "2026-07-04T02:04:23.864114"
 }
