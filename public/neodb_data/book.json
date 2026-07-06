@@ -278,7 +278,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/16609aecd9-deea-4669-baab-c417dfb13ac3.jpg",
         "rating": 8.2,
-        "rating_count": 161,
+        "rating_count": 162,
         "rating_distribution": [
           0,
           0,
@@ -1947,12 +1947,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2022/03/13255f8b5f-8f72-4b6f-8f0b-c15346e9cad1.jpg",
         "rating": 8.6,
-        "rating_count": 193,
+        "rating_count": 194,
         "rating_distribution": [
           0,
-          0,
+          1,
           9,
-          51,
+          50,
           40
         ],
         "tags": null,
@@ -2368,13 +2368,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/book/2021/09/1624e4d141-0ad0-4ddb-bcef-9d93ac4f3bfe.jpg",
         "rating": 8.2,
-        "rating_count": 83,
+        "rating_count": 84,
         "rating_distribution": [
           0,
           1,
           13,
-          59,
-          27
+          58,
+          28
         ],
         "tags": null,
         "brief": "被誉为“最了解女性的男性作家”的毕飞宇首次涉足盲人题材的写作，摒弃了同情与关爱，本着对盲人群体最大的尊重与理解，描述了一群盲人按摩师独特的生活，细微而彻底，真正深入到了这部分人群的心灵。\n书中强调，和正常人一样，残疾人、盲人有着和我们一样的爱恨情仇和酸甜苦辣，有着同样需要尊重和关注的精神世界和生活世界。《推拿》最大的意义在于，写出了残疾人的快乐、忧伤、爱情、欲望、性、野心、狂想、颓唐，打破了我们对残疾人认知的情感牢笼。 由此引发读者对于盲人这一特殊群体、对于我们正常人人生的深刻反思。",
@@ -2413,5 +2413,5 @@
   ],
   "count": 36,
   "category": "book",
-  "updated_at": "2026-07-05T02:13:05.879298"
+  "updated_at": "2026-07-06T02:24:44.596385"
 }
