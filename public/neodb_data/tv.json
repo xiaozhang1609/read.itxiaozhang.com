@@ -3566,7 +3566,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15230a44b5-d9e7-4ed0-9dca-f56d188b2e65.jpg",
         "rating": 9.3,
-        "rating_count": 1049,
+        "rating_count": 1050,
         "rating_distribution": [
           0,
           0,
@@ -6730,7 +6730,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14138f068a-33d6-4cb0-a556-1112c79ede52.jpg",
         "rating": 9.3,
-        "rating_count": 1729,
+        "rating_count": 1730,
         "rating_distribution": [
           0,
           1,
@@ -27719,5 +27719,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-07-08T01:53:49.064034"
+  "updated_at": "2026-07-09T02:06:54.723794"
 }
