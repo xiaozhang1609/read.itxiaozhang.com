@@ -2930,7 +2930,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15c334a558-9307-41cf-a344-9f8fb889cd27.jpg",
         "rating": 9.4,
-        "rating_count": 914,
+        "rating_count": 915,
         "rating_distribution": [
           0,
           1,
@@ -4120,7 +4120,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/02/16/1c296bee-5d49-4208-b11b-f7f0f949bc64.jpg",
         "rating": 8.4,
-        "rating_count": 295,
+        "rating_count": 296,
         "rating_distribution": [
           1,
           2,
@@ -5236,7 +5236,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/91aef100-a4ff-4866-8e5e-a6b1af1bc754.jpg",
         "rating": 8.5,
-        "rating_count": 287,
+        "rating_count": 288,
         "rating_distribution": [
           0,
           1,
@@ -5398,7 +5398,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158cac42e4-74fb-472f-afd5-78984be19315.jpg",
         "rating": 8.2,
-        "rating_count": 855,
+        "rating_count": 857,
         "rating_distribution": [
           1,
           2,
@@ -12023,7 +12023,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/06/1012f10cab-8842-442a-bd65-75dc2723a36b.jpg",
         "rating": 7.8,
-        "rating_count": 666,
+        "rating_count": 667,
         "rating_distribution": [
           2,
           5,
@@ -12273,13 +12273,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
         "rating": 9.0,
-        "rating_count": 654,
+        "rating_count": 655,
         "rating_distribution": [
           0,
-          1,
+          2,
           7,
           30,
-          62
+          61
         ],
         "tags": null,
         "brief": "在积怨深重的孪生城市皮尔特沃夫和祖安，一场因魔法技术与信念冲突而引发的战争拉开序幕，分属敌对阵营的两姐妹展开对抗。",
@@ -13686,7 +13686,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/16/f28d5972-1708-4dd1-a655-d75431e32c33.webp",
         "rating": 9.0,
-        "rating_count": 828,
+        "rating_count": 829,
         "rating_distribution": [
           0,
           0,
@@ -13947,7 +13947,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/24/a9688316-76fe-4704-add5-ab62c18e523f.webp",
         "rating": 9.3,
-        "rating_count": 750,
+        "rating_count": 751,
         "rating_distribution": [
           0,
           0,
@@ -14205,7 +14205,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/01/0601fef99c-a667-460e-bebd-99e45fb92e8a.webp",
         "rating": 9.7,
-        "rating_count": 664,
+        "rating_count": 665,
         "rating_distribution": [
           0,
           0,
@@ -14668,7 +14668,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/21/156627ec-4352-454a-a41e-6a1a5ae83070.jpg",
         "rating": 9.2,
-        "rating_count": 622,
+        "rating_count": 623,
         "rating_distribution": [
           1,
           0,
@@ -15258,7 +15258,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/2775557ce8-06f5-4882-a7e4-a3293ba16d3a.jpg",
         "rating": 8.9,
-        "rating_count": 1149,
+        "rating_count": 1150,
         "rating_distribution": [
           0,
           1,
@@ -15804,7 +15804,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/24/7b6ac0a9-1096-4531-a7b5-3dbb05ca776e.webp",
         "rating": 9.1,
-        "rating_count": 370,
+        "rating_count": 371,
         "rating_distribution": [
           0,
           1,
@@ -24333,7 +24333,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ff05449c-d8e8-4a87-a939-e48f28f1d8d3.jpg",
         "rating": 7.4,
-        "rating_count": 335,
+        "rating_count": 336,
         "rating_distribution": [
           2,
           6,
@@ -27112,7 +27112,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155c5cd599-d9ed-4144-b6dd-f450ec1edd27.jpg",
         "rating": 9.4,
-        "rating_count": 626,
+        "rating_count": 627,
         "rating_distribution": [
           0,
           0,
@@ -27719,5 +27719,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-07-16T01:50:30.272224"
+  "updated_at": "2026-07-17T01:54:23.606706"
 }

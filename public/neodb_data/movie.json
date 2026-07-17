@@ -70,12 +70,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2025/08/26/1e4d6296-5462-47f4-a745-b2975b78507b.jpg",
         "rating": 7.1,
-        "rating_count": 282,
+        "rating_count": 283,
         "rating_distribution": [
-          1,
+          2,
           5,
           29,
-          53,
+          52,
           12
         ],
         "tags": null,
@@ -745,7 +745,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15cce2b25c-b1c4-4c7d-b69f-7ee205e70534.jpg",
         "rating": 7.5,
-        "rating_count": 539,
+        "rating_count": 540,
         "rating_distribution": [
           0,
           4,
@@ -1432,11 +1432,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/17e87d71d8-4180-48dd-a05b-4214217d40e0.jpg",
         "rating": 6.6,
-        "rating_count": 118,
+        "rating_count": 119,
         "rating_distribution": [
           0,
-          8,
-          57,
+          9,
+          56,
           31,
           4
         ],
@@ -1458,6 +1458,9 @@
           },
           {
             "url": "https://movie.douban.com/subject/21349338/"
+          },
+          {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt2222042"
           },
           {
             "url": "https://www.themoviedb.org/movie/590223"
@@ -1502,7 +1505,7 @@
           },
           {
             "role": "actor",
-            "name": "特雷·黑尔",
+            "name": "特雷 黑尔",
             "character_name": "",
             "person_url": "/api/person/7JQlJNPEseI2HLcZXoVT5u"
           },
@@ -1850,9 +1853,6 @@
             "url": "https://movie.douban.com/subject/1291586/"
           },
           {
-            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt0266543"
-          },
-          {
             "url": "https://www.themoviedb.org/movie/12"
           },
           {
@@ -1863,6 +1863,9 @@
           },
           {
             "url": "https://www.wikidata.org/wiki/Q132863"
+          },
+          {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt0266543"
           }
         ],
         "credits": [
@@ -5469,7 +5472,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/153f250f04-06a2-4a3d-88b0-f28cca4e9b3b.jpg",
         "rating": 8.7,
-        "rating_count": 520,
+        "rating_count": 521,
         "rating_distribution": [
           0,
           1,
@@ -5498,6 +5501,9 @@
           },
           {
             "url": "https://www.imdb.com/title/tt0072890/"
+          },
+          {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt0072890"
           },
           {
             "url": "https://www.wikidata.org/wiki/Q458656"
@@ -12246,13 +12252,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16813dc7bf-5580-4d43-8f61-197bf9df97db.jpg",
         "rating": 6.7,
-        "rating_count": 562,
+        "rating_count": 563,
         "rating_distribution": [
           2,
           8,
           47,
-          38,
-          5
+          37,
+          6
         ],
         "tags": null,
         "brief": "凯撒（安迪·瑟金斯 饰）领导的猿族将被迫与残暴的Colonel（伍迪·哈里森 饰）领导的人类军队上演一场生死大战。猿族在战斗中遭遇了前所未有的重创，由此激发了凯撒内心中黑暗的一面，心中燃起复仇的烈火。最终，凯撒与Colonel面对面进行了一场关乎猿族和人类命运的终极之战。",
@@ -14343,13 +14349,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/138d1723f9-e106-4e8e-b490-3cd2ed271cae.jpg",
         "rating": 8.2,
-        "rating_count": 1854,
+        "rating_count": 1855,
         "rating_distribution": [
           0,
           1,
           17,
-          53,
-          29
+          54,
+          28
         ],
         "tags": null,
         "brief": "在阿富汗执行任务的美国空军飞行员科特史蒂文斯上尉（杰克·吉伦哈尔 Jake Gyllenhaal 饰）突然惊醒，发现自己在一辆高速行驶的列车上，而他的身边坐着一个素不相识的女子克里斯蒂安（米歇尔·莫娜汉 Michelle Monaghan 饰）正在与自己讲话。科尔不知自己为什么会在这辆车上，而且他发现自己居然是以另一个人的身份存在，正当他迷惑不解的时候，列车上忽然发生爆炸……\n科特又一次惊醒，发现自己身处一个密闭的太空仓里，有一位女军官古德温（维拉·法米加 Vera Farmiga 饰）正在通过视频和自己对话，并要求自己报告列车上发生的事情。一头雾水的科特还没搞明白是怎么回事时，他又一次被送上那辆列车。这次之后，科特终于明白自己在执行一件任务，负责调察芝加哥火车爆炸案找到恐怖份子并查出他的下一个目标。科特被一次又一次的送上那辆高速列车，每次只有八分钟的时间调察，调察过程中，科特发现自己已在一周前去世，原来他正在参与是一项“脑波原代码”的秘密任务，这项任务通过已经死亡的科特尚未完全死亡的脑细胞影像来还原事件，调查事情的真相。最终，科特顺利完成了任务，但是他却决定再一次返回列车，拯救列车上那些无辜的生命……",
@@ -14378,6 +14384,9 @@
           },
           {
             "url": "https://www.imdb.com/title/tt0945513/"
+          },
+          {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt0945513"
           },
           {
             "url": "https://www.wikidata.org/wiki/Q266209"
@@ -14931,13 +14940,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/156bbc2ea2-fc09-440a-bb29-83dd0339574a.jpg",
         "rating": 6.7,
-        "rating_count": 1442,
+        "rating_count": 1443,
         "rating_distribution": [
           3,
           10,
           45,
-          31,
-          11
+          30,
+          12
         ],
         "tags": null,
         "brief": "被恶德男友强迫帮人送货的年轻女子露西（斯嘉丽·约翰逊 Scarlett Johansson 饰），遭遇了穷凶恶极的黑帮头目张先生（崔岷植 饰）一伙。她连同三个男人被张先生在腹部缝入了代号为CPH4的神秘药品，以此将药品偷偷带入不同国家。在台北盘桓期间，露西遭到恶男暴打，以致药品破裂进入血液之中。谁知令人难以置信的事情就此发生，药品激发了露西大脑的潜力，令人脑中约90%的神经元相继苏醒。伴随着身体的飞快进化，露西掌握了越来越多人们所谓的超能力。她清楚地了解到CPH4所拥有的强大威力，于是想方设法要阻止其他三袋药品落入张先生一伙手中。\n期间她试图与大脑研究方面的资深教授塞缪尔·诺曼（摩根·弗里曼 Morgan Freeman 饰）取得联系，在后者的见证下，露西将迎来大脑100%苏醒的历史性时刻……",
@@ -14959,10 +14968,10 @@
             "url": "https://minreol.dk/movie/1o4lNEBM7k6NSQR5PKLufY"
           },
           {
-            "url": "https://www.imdb.com/title/tt2872732/"
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt2872732"
           },
           {
-            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt2872732"
+            "url": "https://www.imdb.com/title/tt2872732/"
           },
           {
             "url": "https://www.wikidata.org/wiki/Q15624215"
@@ -16803,7 +16812,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1545970c8e-eab8-44ee-bed4-95852c1226c8.jpg",
         "rating": 7.0,
-        "rating_count": 812,
+        "rating_count": 813,
         "rating_distribution": [
           0,
           5,
@@ -16835,6 +16844,9 @@
           },
           {
             "url": "https://www.wikidata.org/wiki/Q18844656"
+          },
+          {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt2709768"
           }
         ],
         "credits": [
@@ -16882,7 +16894,7 @@
           },
           {
             "role": "actor",
-            "name": "鲍比·莫尼汉",
+            "name": "鲍比·莫伊尼汉",
             "character_name": "",
             "person_url": "/api/person/4qvFa601X3E8i0hLczpnRM"
           },
@@ -17370,7 +17382,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13676fe4c9-0bb8-4ba4-88d9-109f12d316f1.jpg",
         "rating": 9.5,
-        "rating_count": 1536,
+        "rating_count": 1537,
         "rating_distribution": [
           0,
           0,
@@ -18229,7 +18241,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/141ac4ecd0-60a1-4b48-9c43-a1fb3a42f224.jpg",
         "rating": 8.3,
-        "rating_count": 1741,
+        "rating_count": 1742,
         "rating_distribution": [
           0,
           1,
@@ -18258,6 +18270,9 @@
           },
           {
             "url": "https://www.themoviedb.org/movie/152601"
+          },
+          {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt1798709"
           },
           {
             "url": "https://www.wikidata.org/wiki/Q788822"
@@ -19061,13 +19076,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/02/09/99387773-4bce-49ab-97a8-142495cdbcb7.webp",
         "rating": 7.1,
-        "rating_count": 653,
+        "rating_count": 654,
         "rating_distribution": [
           1,
           4,
-          43,
+          44,
           41,
-          11
+          10
         ],
         "tags": null,
         "brief": "后斯诺登时代，中情局系统被黑客入侵， 多项特工计划可能泄露。与此同时，中情局还发现了杰森·伯恩和好搭档尼基·帕森斯的踪迹。年轻的网络专家海瑟·李自告奋勇追踪伯恩，而伯恩也在寻找着关于自己身世的惊天黑幕。中情局高官杜威是知晓一切幕后秘密的人，他、海瑟·李和伯恩之间的角力让故事充满悬念，不到最后一刻，就无法了解真正的结局。",
@@ -19090,6 +19105,9 @@
           },
           {
             "url": "https://www.themoviedb.org/movie/324668"
+          },
+          {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt4196776"
           },
           {
             "url": "https://www.wikidata.org/wiki/Q19481099"
@@ -19116,7 +19134,7 @@
           },
           {
             "role": "actor",
-            "name": "文森特·卡索",
+            "name": "文森特·卡塞尔",
             "character_name": "",
             "person_url": "/api/person/0Jx8DVXD7U39XlZBbaztv9"
           },
@@ -21192,7 +21210,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/133604f9b2-b434-4aa8-92c0-e8f88336e4db.jpg",
         "rating": 9.2,
-        "rating_count": 2776,
+        "rating_count": 2777,
         "rating_distribution": [
           0,
           0,
@@ -21493,9 +21511,6 @@
             "url": "https://www.imdb.com/title/tt0163651/"
           },
           {
-            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt0163651"
-          },
-          {
             "url": "https://movie.douban.com/subject/1295253/"
           },
           {
@@ -21503,6 +21518,9 @@
           },
           {
             "url": "https://minreol.dk/movie/0gXXIEIykkE31MD0CN3CFw"
+          },
+          {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt0163651"
           },
           {
             "url": "https://www.wikidata.org/wiki/Q220713"
@@ -21786,7 +21804,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/151cae5e9d-01ae-4f83-a66e-da7e4a2e4923.jpg",
         "rating": 8.2,
-        "rating_count": 308,
+        "rating_count": 309,
         "rating_distribution": [
           0,
           2,
@@ -22782,12 +22800,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16bb45fc78-01bd-4c6d-88f2-4b6b4135eeec.jpg",
         "rating": 7.0,
-        "rating_count": 82,
+        "rating_count": 83,
         "rating_distribution": [
           0,
-          4,
+          5,
           45,
-          44,
+          43,
           7
         ],
         "tags": null,
@@ -22801,9 +22819,6 @@
         "display_title": "乡下人的悲歌",
         "external_resources": [
           {
-            "url": "https://www.wikidata.org/wiki/Q65090738"
-          },
-          {
             "url": "https://www.imdb.com/title/tt6772802/"
           },
           {
@@ -22811,6 +22826,9 @@
           },
           {
             "url": "https://www.themoviedb.org/movie/592984"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q65090738"
           }
         ],
         "credits": [
@@ -22836,7 +22854,7 @@
             "role": "actor",
             "name": "海莉·贝内特",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/1b27k9qo9UEBP69ZDwuY8r"
           },
           {
             "role": "actor",
@@ -22866,7 +22884,7 @@
             "role": "actor",
             "name": "史蒂芬·坤肯",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/66VvxkvjlszO93wHQEcSm2"
           },
           {
             "role": "actor",
@@ -23468,7 +23486,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/156963fe1b-b7c5-48eb-bd54-03d23c3d8c01.jpg",
         "rating": 8.7,
-        "rating_count": 2077,
+        "rating_count": 2079,
         "rating_distribution": [
           0,
           1,
@@ -23503,6 +23521,9 @@
           },
           {
             "url": "https://neodb.kevga.de/movie/5KzVF81mpH5fFawsyZQ7CY"
+          },
+          {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt4633694"
           },
           {
             "url": "https://bgm.tv/subject/232067"
@@ -23550,25 +23571,25 @@
           },
           {
             "role": "actor",
-            "name": "劳伦·维勒斯",
+            "name": "劳伦·贝莱斯",
             "character_name": "",
             "person_url": "/api/person/5av3oGap8wxImMbrE6H8xq"
           },
           {
             "role": "actor",
-            "name": "佐伊·克罗维兹",
+            "name": "佐伊·克拉维茨",
             "character_name": "",
             "person_url": "/api/person/46nfuYWmXFa0iDwyFOrlYs"
           },
           {
             "role": "actor",
-            "name": "约翰·木兰尼",
+            "name": "约翰·穆拉尼",
             "character_name": "",
             "person_url": "/api/person/6fIgRgSlmWq6Y1uRzhynRJ"
           },
           {
             "role": "actor",
-            "name": "贵美子·格伦",
+            "name": "金科·格伦",
             "character_name": "",
             "person_url": "/api/person/3mqaGcvON5je9zPvLADWCq"
           },
@@ -23760,7 +23781,7 @@
           },
           {
             "role": "playwright",
-            "name": "菲尔·罗德",
+            "name": "菲尔·洛德",
             "character_name": "",
             "person_url": "/api/person/1Qq1Ckku2pbRUMISTQNLbk"
           },
@@ -24062,36 +24083,39 @@
           },
           {
             "url": "https://www.themoviedb.org/movie/10681"
+          },
+          {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt0910970"
           }
         ],
         "credits": [
           {
             "role": "actor",
-            "name": "Ben Burtt",
+            "name": "本·贝尔特",
             "character_name": "",
             "person_url": "/api/person/0b2iky7eHp0ynksdYPSuaY"
           },
           {
             "role": "actor",
-            "name": "Elissa Knight",
+            "name": "艾丽莎·奈特",
             "character_name": "",
             "person_url": "/api/person/37q6fBTrTkHOhtR1tQwXLw"
           },
           {
             "role": "actor",
-            "name": "Jeff Garlin",
+            "name": "杰夫·格尔林",
             "character_name": "",
             "person_url": "/api/person/75o9rABdCRyEG9TBXbfUUD"
           },
           {
             "role": "actor",
-            "name": "Fred Willard",
+            "name": "佛莱德·威拉特",
             "character_name": "",
             "person_url": "/api/person/7D1sL2Fd7DvbiMidWcXCZ6"
           },
           {
             "role": "actor",
-            "name": "John Ratzenberger",
+            "name": "约翰·拉岑伯格",
             "character_name": "",
             "person_url": "/api/person/2GFPIJpa00VO48ORWObdkY"
           },
@@ -24103,19 +24127,19 @@
           },
           {
             "role": "actor",
-            "name": "Sigourney Weaver",
+            "name": "西格妮·韦弗",
             "character_name": "",
             "person_url": "/api/person/794SVMeIeXZ81UF7yQsAy9"
           },
           {
             "role": "actor",
-            "name": "Lori Alan",
+            "name": "洛瑞·艾伦",
             "character_name": "",
             "person_url": "/api/person/6FihQIuM1vPhuEmrtpVwCB"
           },
           {
             "role": "actor",
-            "name": "Bob Bergen",
+            "name": "鲍伯·伯根",
             "character_name": "",
             "person_url": "/api/person/61aSub6QXFIv1bP6IMQeym"
           },
@@ -24127,7 +24151,7 @@
           },
           {
             "role": "actor",
-            "name": "Pete Docter",
+            "name": "皮特·多克特",
             "character_name": "",
             "person_url": "/api/person/1XQUrEOxjwiOKwxkxqJnlf"
           },
@@ -24151,7 +24175,7 @@
           },
           {
             "role": "actor",
-            "name": "Jess Harnell",
+            "name": "杰斯·哈梅尔",
             "character_name": "",
             "person_url": "/api/person/7F4RWPZkMQMopvPwPRpCQE"
           },
@@ -24169,19 +24193,19 @@
           },
           {
             "role": "actor",
-            "name": "Laraine Newman",
+            "name": "拉瑞尼·纽曼",
             "character_name": "",
             "person_url": "/api/person/6i2F3soop5QaHalJBo7eH7"
           },
           {
             "role": "actor",
-            "name": "Theodore Newton",
+            "name": "泰迪·牛顿",
             "character_name": "",
             "person_url": "/api/person/6aWvYGvfcEEAqxKkLEDWc3"
           },
           {
             "role": "actor",
-            "name": "Jeff Pidgeon",
+            "name": "杰夫·皮金",
             "character_name": "",
             "person_url": "/api/person/22FEEEtFaEDT5lgkZSUjvu"
           },
@@ -24199,13 +24223,13 @@
           },
           {
             "role": "actor",
-            "name": "Andrew Stanton",
+            "name": "安德鲁·斯坦顿",
             "character_name": "",
             "person_url": "/api/person/2A7YDcSAGQXp5CENxUM7ea"
           },
           {
             "role": "actor",
-            "name": "Jim Ward",
+            "name": "吉姆·瓦德",
             "character_name": "",
             "person_url": "/api/person/1DDOVjwd2y5u39rwA78Lsz"
           },
@@ -24223,7 +24247,7 @@
           },
           {
             "role": "actor",
-            "name": "Angus MacLane",
+            "name": "安格斯·麦克莱恩",
             "character_name": "",
             "person_url": "/api/person/1wZ9lGM4G40fE8rDHFW3R3"
           },
@@ -24241,19 +24265,19 @@
           },
           {
             "role": "director",
-            "name": "Andrew Stanton",
+            "name": "安德鲁·斯坦顿",
             "character_name": "",
             "person_url": "/api/person/2A7YDcSAGQXp5CENxUM7ea"
           },
           {
             "role": "playwright",
-            "name": "Jim Reardon",
+            "name": "吉姆·里尔登",
             "character_name": "",
             "person_url": "/api/person/33Z5OTwpP6qfkujHbmcpsb"
           },
           {
             "role": "playwright",
-            "name": "Andrew Stanton",
+            "name": "安德鲁·斯坦顿",
             "character_name": "",
             "person_url": "/api/person/2A7YDcSAGQXp5CENxUM7ea"
           }
@@ -25371,7 +25395,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1342c2c8f4-6447-4008-9f51-2fcd641c4799.jpg",
         "rating": 7.8,
-        "rating_count": 1875,
+        "rating_count": 1877,
         "rating_distribution": [
           1,
           2,
@@ -25402,6 +25426,9 @@
             "url": "https://www.themoviedb.org/movie/396535"
           },
           {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt5700672"
+          },
+          {
             "url": "https://www.wikidata.org/wiki/Q20948236"
           }
         ],
@@ -25414,7 +25441,7 @@
           },
           {
             "role": "actor",
-            "name": "郑有美",
+            "name": "郑裕美",
             "character_name": "",
             "person_url": "/api/person/6ms2s8viBnR5MllgbWofv3"
           },
@@ -25683,7 +25710,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/07/5c08ca37-111a-4d69-847a-6590365d31e7.jpg",
         "rating": 6.4,
-        "rating_count": 886,
+        "rating_count": 887,
         "rating_distribution": [
           5,
           14,
@@ -27199,7 +27226,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/c50f391f-f017-4478-ae8c-ff4cd460e2c2.jpg",
         "rating": 8.0,
-        "rating_count": 1299,
+        "rating_count": 1303,
         "rating_distribution": [
           1,
           2,
@@ -28236,12 +28263,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/7a48ff6e-aae2-458e-9b35-523ece2badfb.jpg",
         "rating": 8.3,
-        "rating_count": 1022,
+        "rating_count": 1026,
         "rating_distribution": [
           0,
-          3,
+          2,
           14,
-          41,
+          42,
           42
         ],
         "tags": null,
@@ -28277,6 +28304,9 @@
           },
           {
             "url": "https://www.wikidata.org/wiki/Q76448600"
+          },
+          {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt9362722"
           }
         ],
         "credits": [
@@ -28366,7 +28396,7 @@
           },
           {
             "role": "actor",
-            "name": "Jharrel Jerome",
+            "name": "贾雷尔·杰罗姆",
             "character_name": "",
             "person_url": "/api/person/36xwaoqyPcBiH2UDhjj6jT"
           },
@@ -28384,13 +28414,13 @@
           },
           {
             "role": "actor",
-            "name": "Rachel Dratch",
+            "name": "瑞秋·德拉彻",
             "character_name": "",
             "person_url": "/api/person/5strn3bxpBj54yvCJmZbv7"
           },
           {
             "role": "actor",
-            "name": "Ziggy Marley",
+            "name": "齐吉·马利",
             "character_name": "",
             "person_url": "/api/person/1MdwowT5pxT3ndVE1HAaGt"
           },
@@ -28474,7 +28504,7 @@
           },
           {
             "role": "actor",
-            "name": "Taran Killam",
+            "name": "塔兰·基拉姆",
             "character_name": "",
             "person_url": "/api/person/23qdZ4sKg22flqIOvpnWmu"
           },
@@ -28738,7 +28768,7 @@
           },
           {
             "role": "actor",
-            "name": "Rez Kempton",
+            "name": "雷兹·肯普顿",
             "character_name": "",
             "person_url": "/api/person/47JgIUu3hTrp1f9hK8vvna"
           },
@@ -28936,7 +28966,7 @@
           },
           {
             "role": "playwright",
-            "name": "菲尔·罗德",
+            "name": "菲尔·洛德",
             "character_name": "",
             "person_url": "/api/person/1Qq1Ckku2pbRUMISTQNLbk"
           },
@@ -29738,7 +29768,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2023/07/20/8206c5c4-0d6d-46f6-a08c-7a7d3af84393.jpg",
         "rating": 7.0,
-        "rating_count": 894,
+        "rating_count": 895,
         "rating_distribution": [
           1,
           7,
@@ -31807,7 +31837,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2026/02/08/3fa19f1a-44f8-4649-ab2f-9d7ab10f0e37.jpeg",
         "rating": 7.6,
-        "rating_count": 1891,
+        "rating_count": 1892,
         "rating_distribution": [
           0,
           4,
@@ -31844,6 +31874,9 @@
             "url": "https://www.imdb.com/title/tt3183660/"
           },
           {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt3183660"
+          },
+          {
             "url": "https://www.wikidata.org/wiki/Q18199330"
           }
         ],
@@ -31862,13 +31895,13 @@
           },
           {
             "role": "actor",
-            "name": "丹·福勒",
+            "name": "丹·福格勒",
             "character_name": "",
             "person_url": "/api/person/7Xd5mk5plcZCzXgHZM3z8U"
           },
           {
             "role": "actor",
-            "name": "艾莉森·萨多尔",
+            "name": "艾莉森·苏多尔",
             "character_name": "",
             "person_url": "/api/person/3GlFOVq3fhto2NB3MMtm1q"
           },
@@ -31892,7 +31925,7 @@
           },
           {
             "role": "actor",
-            "name": "强·沃特",
+            "name": "乔恩·沃伊特",
             "character_name": "",
             "person_url": "/api/person/6zHload1hybd3MHPD8Osc9"
           },
@@ -32149,7 +32182,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2023/05/09/93138ddf-92a7-4fda-9d04-92f9b197d65c.webp",
         "rating": 7.6,
-        "rating_count": 558,
+        "rating_count": 561,
         "rating_distribution": [
           0,
           2,
@@ -32180,10 +32213,10 @@
             "url": "https://bgm.tv/subject/392919"
           },
           {
-            "url": "https://www.wikidata.org/wiki/Q105554572"
+            "url": "https://www.imdb.com/title/tt2906216/"
           },
           {
-            "url": "https://www.imdb.com/title/tt2906216/"
+            "url": "https://www.wikidata.org/wiki/Q105554572"
           }
         ],
         "credits": [
@@ -32419,13 +32452,13 @@
             "role": "director",
             "name": "乔纳森·戈尔茨坦",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7RLR3aF1329AEEimnGyvy6"
           },
           {
             "role": "playwright",
             "name": "乔纳森·戈尔茨坦",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/7RLR3aF1329AEEimnGyvy6"
           },
           {
             "role": "playwright",
@@ -33961,7 +33994,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15dcceff27-b10e-4149-9673-022b83f75410.jpg",
         "rating": 8.6,
-        "rating_count": 1893,
+        "rating_count": 1894,
         "rating_distribution": [
           0,
           2,
@@ -35578,7 +35611,7 @@
             "role": "actor",
             "name": "雷夫·瓦朗",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3iLiJxk2b5axthlF3bUOFB"
           },
           {
             "role": "actor",
@@ -36106,7 +36139,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14f252245f-7496-4c2e-80d3-be5538201552.jpg",
         "rating": 9.1,
-        "rating_count": 1164,
+        "rating_count": 1165,
         "rating_distribution": [
           0,
           0,
@@ -37363,7 +37396,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2025/11/08/de56cc98-9602-4826-8a7e-fcc31915efef.webp",
         "rating": 7.1,
-        "rating_count": 1875,
+        "rating_count": 1877,
         "rating_distribution": [
           1,
           7,
@@ -37394,79 +37427,82 @@
             "url": "https://www.imdb.com/title/tt6264654/"
           },
           {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt6264654"
+          },
+          {
             "url": "https://www.wikidata.org/wiki/Q38685497"
           }
         ],
         "credits": [
           {
             "role": "actor",
-            "name": "Ryan Reynolds",
+            "name": "瑞安·雷诺兹",
             "character_name": "",
             "person_url": "/api/person/0SY5ki8dT65SrwQERZZgWP"
           },
           {
             "role": "actor",
-            "name": "Jodie Comer",
+            "name": "朱迪·科默",
             "character_name": "",
             "person_url": "/api/person/6Btvv5mRmwOqL5DAauDcsz"
           },
           {
             "role": "actor",
-            "name": "Joe Keery",
+            "name": "乔·基瑞",
             "character_name": "",
             "person_url": "/api/person/0mn38CFpnnSH5uKSr254Ot"
           },
           {
             "role": "actor",
-            "name": "Lil Rel Howery",
+            "name": "里尔·莱尔·哈瓦瑞",
             "character_name": "",
             "person_url": "/api/person/0x2IFXhkGOPRvPNH26mwWh"
           },
           {
             "role": "actor",
-            "name": "Taika Waititi",
+            "name": "塔伊加·维迪提",
             "character_name": "",
             "person_url": "/api/person/4awrabNbV9Q1adcvoaMbzn"
           },
           {
             "role": "actor",
-            "name": "Utkarsh Ambudkar",
+            "name": "乌特卡什·安邦德卡尔",
             "character_name": "",
             "person_url": "/api/person/4RrMxoh8PDUyJpq6Oj3Qs8"
           },
           {
             "role": "actor",
-            "name": "Channing Tatum",
+            "name": "查宁·塔图姆",
             "character_name": "",
             "person_url": "/api/person/7gl5nNN62MLAXTSGjuozZ9"
           },
           {
             "role": "actor",
-            "name": "Hugh Jackman",
+            "name": "休·杰克曼",
             "character_name": "",
             "person_url": "/api/person/5rgifHpd0hayQwiBrgIHOq"
           },
           {
             "role": "actor",
-            "name": "Dwayne Johnson",
+            "name": "道恩·强森",
             "character_name": "",
             "person_url": "/api/person/6WsmmeNF2OH74p8CqvsDzF"
           },
           {
             "role": "actor",
-            "name": "Chris Evans",
+            "name": "克里斯·埃文斯",
             "character_name": "",
             "person_url": "/api/person/0ZdssAbCl7RLAZ62cmwWLO"
           },
           {
             "role": "actor",
-            "name": "John Krasinski",
+            "name": "约翰·卡拉辛斯基",
             "character_name": "",
             "person_url": "/api/person/2yvBrhlQOe3JVn73jOOVmx"
           },
           {
             "role": "actor",
-            "name": "Tina Fey",
+            "name": "蒂娜·菲",
             "character_name": "",
             "person_url": "/api/person/6crEI2lStcz2ekqJs2qWZJ"
           },
@@ -37478,7 +37514,7 @@
           },
           {
             "role": "actor",
-            "name": "Britne Oldford",
+            "name": "布丽特妮·欧德福特",
             "character_name": "",
             "person_url": "/api/person/16d4vuMkgJhjL9Uy9T9bD2"
           },
@@ -37532,7 +37568,7 @@
           },
           {
             "role": "actor",
-            "name": "Owen Burke",
+            "name": "欧文·伯克",
             "character_name": "",
             "person_url": "/api/person/21P9B1BUMP9WTUKGHF1zVk"
           },
@@ -37556,7 +37592,7 @@
           },
           {
             "role": "actor",
-            "name": "Tait Fletcher",
+            "name": "泰特·弗莱彻",
             "character_name": "",
             "person_url": "/api/person/1GOGpmCCErzsrfSux0AC7D"
           },
@@ -37586,13 +37622,13 @@
           },
           {
             "role": "actor",
-            "name": "Aaron W Reed",
+            "name": "亚伦·W·里德",
             "character_name": "",
             "person_url": "/api/person/2UjVGusC1I9zWZmpRSbT7v"
           },
           {
             "role": "actor",
-            "name": "Sophie Levy",
+            "name": "索菲·利维",
             "character_name": "",
             "person_url": "/api/person/3iTWyw63PCEtcAq5LExtiW"
           },
@@ -37610,19 +37646,19 @@
           },
           {
             "role": "director",
-            "name": "Shawn Levy",
+            "name": "肖恩·利维",
             "character_name": "",
             "person_url": "/api/person/1iI5bBPoZVN3MFupR2EQHZ"
           },
           {
             "role": "playwright",
-            "name": "Matt Lieberman",
+            "name": "马特·利伯曼",
             "character_name": "",
             "person_url": "/api/person/3ct9DEQKLiKOwSGe0YYZzq"
           },
           {
             "role": "playwright",
-            "name": "Zak Penn",
+            "name": "塞克·潘",
             "character_name": "",
             "person_url": "/api/person/1b3ErIklbsNzkloy1FNtPR"
           }
@@ -37787,7 +37823,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1324f7bdb2-898a-450b-95ca-73c4d1b92011.jpg",
         "rating": 9.1,
-        "rating_count": 1848,
+        "rating_count": 1849,
         "rating_distribution": [
           0,
           1,
@@ -40393,7 +40429,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/154d17b8a4-2b9e-4a69-8f43-7eb6894ffbc5.jpg",
         "rating": 7.5,
-        "rating_count": 819,
+        "rating_count": 821,
         "rating_distribution": [
           0,
           3,
@@ -40425,6 +40461,9 @@
           },
           {
             "url": "https://www.wikidata.org/wiki/Q15055478"
+          },
+          {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt1109624"
           }
         ],
         "credits": [
@@ -40799,7 +40838,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/fedi/2024/10/23/a22a5764-cfb6-4e2f-bbd6-254d0a241f3d.jpg",
         "rating": 8.3,
-        "rating_count": 2759,
+        "rating_count": 2761,
         "rating_distribution": [
           1,
           2,
@@ -40840,6 +40879,9 @@
           },
           {
             "url": "https://bgm.tv/subject/231993"
+          },
+          {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt1677720"
           }
         ],
         "credits": [
@@ -40869,7 +40911,7 @@
           },
           {
             "role": "actor",
-            "name": "T.J. Miller",
+            "name": "T·J·米勒 T.J. Miller",
             "character_name": "",
             "person_url": "/api/person/328tpqFJrsjpi4UwVnNMMV"
           },
@@ -40899,7 +40941,7 @@
           },
           {
             "role": "actor",
-            "name": "Hannah John-Kamen",
+            "name": "汉娜·乔恩-卡门 Hannah John-Kamen",
             "character_name": "",
             "person_url": "/api/person/5VwllDnvkvAyMAkKRhrRp4"
           },
@@ -41534,7 +41576,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/152bbd9498-8051-4931-afbf-4eddc7f9150c.jpg",
         "rating": 8.7,
-        "rating_count": 2326,
+        "rating_count": 2327,
         "rating_distribution": [
           0,
           1,
@@ -42237,7 +42279,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/135717365f-c912-4679-9f01-b05fcca43095.jpg",
         "rating": 8.4,
-        "rating_count": 1853,
+        "rating_count": 1854,
         "rating_distribution": [
           0,
           2,
@@ -43796,7 +43838,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/133ed46be4-3fc4-4a59-9639-21a4c9b06bf1.jpg",
         "rating": 7.5,
-        "rating_count": 1378,
+        "rating_count": 1379,
         "rating_distribution": [
           1,
           5,
@@ -45291,7 +45333,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1502c1ffd2-6210-4a80-b843-27465766fc86.jpg",
         "rating": 8.6,
-        "rating_count": 2031,
+        "rating_count": 2032,
         "rating_distribution": [
           0,
           1,
@@ -45578,7 +45620,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15c4f70789-2434-4625-b9ea-fe2a2ff6e621.jpg",
         "rating": 8.3,
-        "rating_count": 1247,
+        "rating_count": 1248,
         "rating_distribution": [
           1,
           3,
@@ -45918,7 +45960,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14e5043627-8e2d-43c0-a6cc-a8e05d8115d3.jpg",
         "rating": 9.4,
-        "rating_count": 2908,
+        "rating_count": 2909,
         "rating_distribution": [
           0,
           0,
@@ -46319,9 +46361,6 @@
         "display_title": "阿甘正传",
         "external_resources": [
           {
-            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt0109830"
-          },
-          {
             "url": "https://www.themoviedb.org/movie/13"
           },
           {
@@ -46338,6 +46377,9 @@
           },
           {
             "url": "https://www.wikidata.org/wiki/Q134773"
+          },
+          {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt0109830"
           }
         ],
         "credits": [
@@ -47053,7 +47095,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157eee4ad4-84de-4e92-8fc4-aa4ff42da48f.jpg",
         "rating": 7.9,
-        "rating_count": 1650,
+        "rating_count": 1652,
         "rating_distribution": [
           1,
           4,
@@ -47079,6 +47121,9 @@
           },
           {
             "url": "https://www.imdb.com/title/tt0983213/"
+          },
+          {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt0983213"
           },
           {
             "url": "https://bgm.tv/subject/927"
@@ -47207,12 +47252,6 @@
             "name": "斋藤由香子",
             "character_name": "",
             "person_url": null
-          },
-          {
-            "role": "director",
-            "name": "新海誠",
-            "character_name": "",
-            "person_url": "/api/person/6NhT9elQ9Rm8lOOMu1Xemx"
           },
           {
             "role": "director",
@@ -47431,7 +47470,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155c04dbf9-a5ea-49f7-807c-8f46e3fda242.jpg",
         "rating": 7.8,
-        "rating_count": 1206,
+        "rating_count": 1207,
         "rating_distribution": [
           1,
           4,
@@ -47892,5 +47931,5 @@
   ],
   "count": 145,
   "category": "movie",
-  "updated_at": "2026-07-16T01:50:21.738122"
+  "updated_at": "2026-07-17T01:54:14.847989"
 }
