@@ -29152,6 +29152,9 @@
           },
           {
             "url": "https://www.wikidata.org/wiki/Q126595889"
+          },
+          {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt26548265"
           }
         ],
         "credits": [
@@ -29169,19 +29172,19 @@
           },
           {
             "role": "actor",
-            "name": "Abhirami",
+            "name": "纳蒂",
             "character_name": "",
             "person_url": "/api/person/0z6BRr5oxdGhmNWRcWtRab"
           },
           {
             "role": "director",
-            "name": "Nithilan Swaminathan",
+            "name": "尼蒂兰·萨米纳坦",
             "character_name": "",
             "person_url": "/api/person/0tkk8qXpc5cNIegd1Lcfrm"
           },
           {
             "role": "playwright",
-            "name": "Nithilan Swaminathan",
+            "name": "尼蒂兰·萨米纳坦",
             "character_name": "",
             "person_url": "/api/person/0tkk8qXpc5cNIegd1Lcfrm"
           }
@@ -36239,7 +36242,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/156963fe1b-b7c5-48eb-bd54-03d23c3d8c01.jpg",
         "rating": 8.7,
-        "rating_count": 2079,
+        "rating_count": 2080,
         "rating_distribution": [
           0,
           1,
@@ -37730,7 +37733,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/01/e4b2048e-6b85-4488-9859-7c519e74dc60.jpg",
         "rating": 9.2,
-        "rating_count": 2171,
+        "rating_count": 2172,
         "rating_distribution": [
           0,
           0,
@@ -43778,7 +43781,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/07/be012b58-ed0a-4750-b71d-03b0f59276a6.jpg",
         "rating": 7.8,
-        "rating_count": 1221,
+        "rating_count": 1222,
         "rating_distribution": [
           2,
           3,
@@ -44691,7 +44694,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/c50f391f-f017-4478-ae8c-ff4cd460e2c2.jpg",
         "rating": 8.0,
-        "rating_count": 1303,
+        "rating_count": 1304,
         "rating_distribution": [
           1,
           2,
@@ -49713,66 +49716,69 @@
           },
           {
             "url": "https://www.wikidata.org/wiki/Q110126272"
+          },
+          {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt16428256"
           }
         ],
         "credits": [
           {
             "role": "actor",
-            "name": "Nanoka Hara",
+            "name": "原菜乃华",
             "character_name": "",
             "person_url": "/api/person/0ELQ2dGvAo8PyBCPc9NPWA"
           },
           {
             "role": "actor",
-            "name": "Hokuto Matsumura",
+            "name": "松村北斗",
             "character_name": "",
             "person_url": "/api/person/2a9qKuXqCOgKGTZElASodj"
           },
           {
             "role": "actor",
-            "name": "Eri Fukatsu",
+            "name": "深津绘里",
             "character_name": "",
             "person_url": "/api/person/0MLVEQ9GfxOjXvrS4KPlpv"
           },
           {
             "role": "actor",
-            "name": "Shota Sometani",
+            "name": "染谷将太",
             "character_name": "",
             "person_url": "/api/person/3DY9GZtMZOx79CHUmVXFp7"
           },
           {
             "role": "actor",
-            "name": "Sairi Ito",
+            "name": "伊藤沙莉",
             "character_name": "",
             "person_url": "/api/person/7fRfaI2iIuSn8mAZJWmiJl"
           },
           {
             "role": "actor",
-            "name": "Kotone Hanase",
+            "name": "花濑琴音",
             "character_name": "",
             "person_url": "/api/person/1xi0NSn1iXa20UZaRgQ20X"
           },
           {
             "role": "actor",
-            "name": "Kana Hanazawa",
+            "name": "花泽香菜",
             "character_name": "",
             "person_url": "/api/person/6vyMgfSjPBYm9NdEawLHu3"
           },
           {
             "role": "actor",
-            "name": "Matsumoto Hakuō II",
+            "name": "松本白鹦",
             "character_name": "",
             "person_url": "/api/person/25gjdox468tvSKmEZRmMq4"
           },
           {
             "role": "actor",
-            "name": "Ryunosuke Kamiki",
+            "name": "神木隆之介",
             "character_name": "",
             "person_url": "/api/person/5Lixl2bWkfJSnAHFJoTJcq"
           },
           {
             "role": "actor",
-            "name": "Ann Yamane",
+            "name": "山根馅",
             "character_name": "",
             "person_url": "/api/person/6hQzbaCPhZWANBmssHRHZe"
           },
@@ -49784,13 +49790,13 @@
           },
           {
             "role": "actor",
-            "name": "Yoji Ueda",
+            "name": "上田耀司",
             "character_name": "",
             "person_url": "/api/person/5luvuxbl5EA94umVqkfloL"
           },
           {
             "role": "actor",
-            "name": "Aimi",
+            "name": "爱美",
             "character_name": "",
             "person_url": "/api/person/2CmSseWH9ife0YxUW3GCFX"
           },
@@ -49808,7 +49814,7 @@
           },
           {
             "role": "actor",
-            "name": "Ryoko Nagata",
+            "name": "永田亮子",
             "character_name": "",
             "person_url": "/api/person/5idztGkU1w6dmrgSxadZ4A"
           },
@@ -49856,13 +49862,13 @@
           },
           {
             "role": "actor",
-            "name": "Tomomichi Nishimura",
+            "name": "西村知道",
             "character_name": "",
             "person_url": "/api/person/0Lu9rfLOh4vk99RipTSDDA"
           },
           {
             "role": "actor",
-            "name": "Yoshino Aoyama",
+            "name": "青山吉能",
             "character_name": "",
             "person_url": "/api/person/4nJ6xm06qUGUuQoyXI6vwK"
           },
@@ -49910,7 +49916,7 @@
           },
           {
             "role": "actor",
-            "name": "Genta Nakamura",
+            "name": "中村源太",
             "character_name": "",
             "person_url": "/api/person/4AeQ0sCxwaQrwHd33e0MVD"
           },
@@ -49946,13 +49952,13 @@
           },
           {
             "role": "director",
-            "name": "Makoto Shinkai",
+            "name": "新海诚",
             "character_name": "",
             "person_url": "/api/person/389Zo9NZuJjSZT7koGKFcF"
           },
           {
             "role": "playwright",
-            "name": "Makoto Shinkai",
+            "name": "新海诚",
             "character_name": "",
             "person_url": "/api/person/389Zo9NZuJjSZT7koGKFcF"
           }
@@ -52669,6 +52675,9 @@
           },
           {
             "url": "https://www.wikidata.org/wiki/Q18199331"
+          },
+          {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt4123430"
           }
         ],
         "credits": [
@@ -52704,13 +52713,13 @@
           },
           {
             "role": "actor",
-            "name": "丹·福勒",
+            "name": "丹·福格勒",
             "character_name": "",
             "person_url": "/api/person/7Xd5mk5plcZCzXgHZM3z8U"
           },
           {
             "role": "actor",
-            "name": "艾莉森·萨多尔",
+            "name": "艾莉森·苏多尔",
             "character_name": "",
             "person_url": "/api/person/3GlFOVq3fhto2NB3MMtm1q"
           },
@@ -53165,7 +53174,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2026/02/08/3fa19f1a-44f8-4649-ab2f-9d7ab10f0e37.jpeg",
         "rating": 7.6,
-        "rating_count": 1892,
+        "rating_count": 1893,
         "rating_distribution": [
           0,
           4,
@@ -71628,6 +71637,9 @@
             "url": "https://minreol.dk/movie/1WWDpHtcc6zJyYugT0VaXe"
           },
           {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt5074352"
+          },
+          {
             "url": "https://www.wikidata.org/wiki/Q20762668"
           },
           {
@@ -78558,36 +78570,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2026-07-18T01:44:36.232441",
+  "updated_at": "2026-07-19T01:52:59.217356",
   "stats": {
     "movie": {
       "count": 145,
-      "time": 11.92
+      "time": 10.53
     },
     "tv": {
       "count": 115,
-      "time": 8.08
+      "time": 7.25
     },
     "book": {
       "count": 36,
-      "time": 1.91
+      "time": 1.61
     },
     "music": {
       "count": 4,
-      "time": 0.23
+      "time": 0.15
     },
     "podcast": {
       "count": 0,
-      "time": 0.19
+      "time": 0.1
     },
     "game": {
       "count": 1,
-      "time": 0.22
+      "time": 0.16
     },
     "performance": {
       "count": 2,
-      "time": 0.23
+      "time": 0.14
     }
   },
-  "total_time": 22.78
+  "total_time": 19.95
 }
