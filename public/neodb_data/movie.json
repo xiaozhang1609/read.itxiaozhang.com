@@ -1451,9 +1451,6 @@
         "display_title": "爱与怪物",
         "external_resources": [
           {
-            "url": "https://www.wikidata.org/wiki/Q62761126"
-          },
-          {
             "url": "https://www.imdb.com/title/tt2222042/"
           },
           {
@@ -1464,6 +1461,9 @@
           },
           {
             "url": "https://www.themoviedb.org/movie/590223"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q62761126"
           }
         ],
         "credits": [
@@ -5568,7 +5568,7 @@
             "role": "actor",
             "name": "卡罗尔·凯恩",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0rcuiDyDWBrjtOurdyfdRd"
           },
           {
             "role": "actor",
@@ -10243,7 +10243,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/162e094de9-a053-42fe-93d8-a2916a0bc1d5.jpg",
         "rating": 7.7,
-        "rating_count": 359,
+        "rating_count": 360,
         "rating_distribution": [
           0,
           2,
@@ -24632,7 +24632,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/10/20/1da820fd-8dfc-40c4-95b4-84aaa71ee443.webp",
         "rating": 6.6,
-        "rating_count": 473,
+        "rating_count": 474,
         "rating_distribution": [
           3,
           10,
@@ -24928,7 +24928,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/9c60c854-c003-4fde-8112-218faee891da.jpg",
         "rating": 8.8,
-        "rating_count": 1141,
+        "rating_count": 1142,
         "rating_distribution": [
           0,
           0,
@@ -29070,7 +29070,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/02/0877652c-19db-4f9b-8be5-e8645b18db8b.jpg",
         "rating": 7.0,
-        "rating_count": 399,
+        "rating_count": 400,
         "rating_distribution": [
           4,
           12,
@@ -30579,13 +30579,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/131f51610c-f166-4ba3-a734-bf089151525e.jpg",
         "rating": 9.2,
-        "rating_count": 555,
+        "rating_count": 556,
         "rating_distribution": [
           0,
-          1,
+          0,
           5,
           28,
-          66
+          67
         ],
         "tags": null,
         "brief": "本片分上下两集，讲述了位于湘、粤、桂三省交界处的芙蓉镇上，人称“芙蓉姐”的漂亮女人胡玉音（刘晓庆）在“四清运动”及“文化大革命”中的遭遇。\n1963年，凭着热情周到的服务，胡玉音与丈夫桂桂（刘利年）经营的米豆腐摊子前渐渐成为早市上最热闹的一道风景，加上夫妻俩省吃俭用，手中积攒了一 笔数目可观的财富。镇党支书也是胡玉音干哥的黎满庚（张光北）、粮站主任谷燕山（郑在石）及乡邻们都为他们高兴。当他们盖好新房准备日子更上一层楼时，迎上“四清运动”，一直嫉妒胡玉音的原国营饮食店经理、今县商业局科长李国香（徐松子）与二流子王秋赦（祝士彬）联手，趁机将她定性为“反革命五类分子”中的“富农婆”，将之派去与原县文化馆馆长、今被人称作“秦癫子”的“右派”秦书田（姜文）一起清扫大街，桂桂身亡。运动中黎满庚昧着良心将胡玉音背叛，谷燕山则一直以老革命军人的标准诚实做人。\n1966年，“文化大革命”开始，世道的荒谬从不停调换角色的李国香与王秋赦两人身上便可窥见。一起扫街时，胡玉音将自己的悲惨遭遇归罪于秦书田，后者曾在她与桂桂成亲之时唱了后被认为反革命的贺喜歌、在她新房子建成之时写了后被认为反革命的贺喜联。对于胡玉音的怨恨，秦书田并不多做辩解，相反时常暗中将她帮助。慢慢地，两人生出感情，计划着成为一家人好好生活，但前路充满血风腥雨。而在他们最艰难时，谷燕山从没忘伸手一帮。",
@@ -32222,10 +32222,10 @@
             "url": "https://bgm.tv/subject/392919"
           },
           {
-            "url": "https://www.imdb.com/title/tt2906216/"
+            "url": "https://www.wikidata.org/wiki/Q105554572"
           },
           {
-            "url": "https://www.wikidata.org/wiki/Q105554572"
+            "url": "https://www.imdb.com/title/tt2906216/"
           }
         ],
         "credits": [
@@ -34427,10 +34427,10 @@
             "url": "https://minreol.dk/movie/6J0Qoba3ZHckLdWRh9Xj1Z"
           },
           {
-            "url": "https://www.imdb.com/title/tt0373889/"
+            "url": "https://www.themoviedb.org/movie/675"
           },
           {
-            "url": "https://www.themoviedb.org/movie/675"
+            "url": "https://www.imdb.com/title/tt0373889/"
           },
           {
             "url": "https://www.wikidata.org/wiki/Q102235"
@@ -37405,7 +37405,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2025/11/08/de56cc98-9602-4826-8a7e-fcc31915efef.webp",
         "rating": 7.1,
-        "rating_count": 1877,
+        "rating_count": 1878,
         "rating_distribution": [
           1,
           7,
@@ -41944,9 +41944,6 @@
             "url": "https://movie.douban.com/subject/2998253/"
           },
           {
-            "url": "https://www.wikidata.org/wiki/Q275432"
-          },
-          {
             "url": "https://www.imdb.com/title/tt1192628/"
           },
           {
@@ -41954,6 +41951,9 @@
           },
           {
             "url": "https://www.themoviedb.org/movie/44896"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q275432"
           }
         ],
         "credits": [
@@ -47943,5 +47943,5 @@
   ],
   "count": 145,
   "category": "movie",
-  "updated_at": "2026-07-19T01:52:49.733362"
+  "updated_at": "2026-07-20T03:19:14.446702"
 }
