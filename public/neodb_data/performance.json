@@ -49,37 +49,37 @@
             "role": "actor",
             "name": "朱时茂",
             "character_name": "",
-            "person_url": "/api/person/2qSRf0VNFK1SUpl6VKfMly"
+            "person_url": "/api/people/2qSRf0VNFK1SUpl6VKfMly"
           },
           {
             "role": "actor",
             "name": "陈佩斯",
             "character_name": "",
-            "person_url": "/api/person/5heXJSRObqU7X6emfs8RsG"
+            "person_url": "/api/people/5heXJSRObqU7X6emfs8RsG"
           },
           {
             "role": "director",
             "name": "陈佩斯",
             "character_name": "",
-            "person_url": "/api/person/5heXJSRObqU7X6emfs8RsG"
+            "person_url": "/api/people/5heXJSRObqU7X6emfs8RsG"
           },
           {
             "role": "director",
             "name": "朱时茂",
             "character_name": "",
-            "person_url": "/api/person/2qSRf0VNFK1SUpl6VKfMly"
+            "person_url": "/api/people/2qSRf0VNFK1SUpl6VKfMly"
           },
           {
             "role": "playwright",
             "name": "陈佩斯",
             "character_name": "",
-            "person_url": "/api/person/5heXJSRObqU7X6emfs8RsG"
+            "person_url": "/api/people/5heXJSRObqU7X6emfs8RsG"
           },
           {
             "role": "playwright",
             "name": "朱时茂",
             "character_name": "",
-            "person_url": "/api/person/2qSRf0VNFK1SUpl6VKfMly"
+            "person_url": "/api/people/2qSRf0VNFK1SUpl6VKfMly"
           }
         ]
       },
@@ -137,13 +137,13 @@
             "role": "actor",
             "name": "牛群",
             "character_name": "",
-            "person_url": "/api/person/0DywKY19aa7k9wolTSmHxm"
+            "person_url": "/api/people/0DywKY19aa7k9wolTSmHxm"
           },
           {
             "role": "actor",
             "name": "冯巩",
             "character_name": "",
-            "person_url": "/api/person/3xwoWJQzFpBmWvHjspYpVx"
+            "person_url": "/api/people/3xwoWJQzFpBmWvHjspYpVx"
           },
           {
             "role": "director",
@@ -167,5 +167,5 @@
   ],
   "count": 2,
   "category": "performance",
-  "updated_at": "2026-07-20T03:19:25.584206"
+  "updated_at": "2026-07-21T01:52:45.650849"
 }

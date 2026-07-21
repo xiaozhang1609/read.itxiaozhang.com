@@ -168,7 +168,7 @@
             "role": "artist",
             "name": "郑少秋",
             "character_name": "",
-            "person_url": "/api/person/4XXKlvHJ0QAkuR7QdPt6ji"
+            "person_url": "/api/people/4XXKlvHJ0QAkuR7QdPt6ji"
           },
           {
             "role": "record_label",
@@ -236,7 +236,7 @@
             "role": "artist",
             "name": "叶丽仪",
             "character_name": "",
-            "person_url": "/api/person/5WoN3ybb9MgKlaqsX96jtD"
+            "person_url": "/api/people/5WoN3ybb9MgKlaqsX96jtD"
           },
           {
             "role": "record_label",
@@ -254,5 +254,5 @@
   ],
   "count": 4,
   "category": "music",
-  "updated_at": "2026-07-20T03:19:24.965928"
+  "updated_at": "2026-07-21T01:52:45.214521"
 }
