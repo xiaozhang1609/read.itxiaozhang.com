@@ -20607,13 +20607,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16813dc7bf-5580-4d43-8f61-197bf9df97db.jpg",
         "rating": 6.7,
-        "rating_count": 564,
+        "rating_count": 565,
         "rating_distribution": [
           2,
           8,
           47,
-          37,
-          6
+          38,
+          5
         ],
         "tags": null,
         "brief": "Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.",
@@ -21391,7 +21391,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/137d43a199-d8ef-492d-afce-13268e85133a.jpg",
         "rating": 7.8,
-        "rating_count": 957,
+        "rating_count": 958,
         "rating_distribution": [
           0,
           2,
@@ -21702,7 +21702,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ef885c05-3eb7-48f9-8a51-ffc98674447b.jpg",
         "rating": 8.1,
-        "rating_count": 788,
+        "rating_count": 789,
         "rating_distribution": [
           0,
           2,
@@ -22153,7 +22153,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/11/30/9ba014ae-5023-41ba-8414-b725d6bd2d67.jpg",
         "rating": 8.5,
-        "rating_count": 233,
+        "rating_count": 234,
         "rating_distribution": [
           0,
           1,
@@ -22434,7 +22434,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/2023/01/09/59f49696-e8a1-40b8-a956-07cc5e7e6891.jpg",
         "rating": 8.6,
-        "rating_count": 282,
+        "rating_count": 283,
         "rating_distribution": [
           0,
           0,
@@ -23232,7 +23232,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/04/15b785f2f1-4e5a-4ab8-8344-90049e5ac6fb.jpg",
         "rating": 8.3,
-        "rating_count": 400,
+        "rating_count": 401,
         "rating_distribution": [
           0,
           1,
@@ -24261,10 +24261,10 @@
             "url": "https://minreol.dk/movie/1o4lNEBM7k6NSQR5PKLufY"
           },
           {
-            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt2872732"
+            "url": "https://www.imdb.com/title/tt2872732/"
           },
           {
-            "url": "https://www.imdb.com/title/tt2872732/"
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt2872732"
           },
           {
             "url": "https://www.wikidata.org/wiki/Q15624215"
@@ -24917,7 +24917,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15a2f45055-f7fd-4e4c-ba2b-c9438595671d.jpg",
         "rating": 8.0,
-        "rating_count": 848,
+        "rating_count": 849,
         "rating_distribution": [
           0,
           2,
@@ -27147,7 +27147,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13676fe4c9-0bb8-4ba4-88d9-109f12d316f1.jpg",
         "rating": 9.5,
-        "rating_count": 1540,
+        "rating_count": 1539,
         "rating_distribution": [
           0,
           0,
@@ -43781,7 +43781,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/07/be012b58-ed0a-4750-b71d-03b0f59276a6.jpg",
         "rating": 7.8,
-        "rating_count": 1226,
+        "rating_count": 1227,
         "rating_distribution": [
           2,
           3,
@@ -44694,7 +44694,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/c50f391f-f017-4478-ae8c-ff4cd460e2c2.jpg",
         "rating": 8.0,
-        "rating_count": 1310,
+        "rating_count": 1311,
         "rating_distribution": [
           1,
           2,
@@ -45731,7 +45731,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/7a48ff6e-aae2-458e-9b35-523ece2badfb.jpg",
         "rating": 8.3,
-        "rating_count": 1029,
+        "rating_count": 1030,
         "rating_distribution": [
           0,
           2,
@@ -57787,12 +57787,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14eb778691-3d16-4e96-a3f0-97f7660a8adb.jpg",
         "rating": 8.8,
-        "rating_count": 872,
+        "rating_count": 871,
         "rating_distribution": [
           0,
           1,
-          9,
-          40,
+          8,
+          41,
           50
         ],
         "tags": null,
@@ -57812,13 +57812,13 @@
             "url": "https://www.themoviedb.org/movie/242"
           },
           {
-            "url": "https://movie.douban.com/subject/1294240/"
-          },
-          {
             "url": "https://www.imdb.com/title/tt0099674/"
           },
           {
             "url": "https://www.wikidata.org/wiki/Q202326"
+          },
+          {
+            "url": "https://movie.douban.com/subject/1294240/"
           }
         ],
         "credits": [
@@ -58880,7 +58880,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14f252245f-7496-4c2e-80d3-be5538201552.jpg",
         "rating": 9.1,
-        "rating_count": 1167,
+        "rating_count": 1166,
         "rating_distribution": [
           0,
           0,
@@ -61088,7 +61088,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1324f7bdb2-898a-450b-95ca-73c4d1b92011.jpg",
         "rating": 9.1,
-        "rating_count": 1852,
+        "rating_count": 1851,
         "rating_distribution": [
           0,
           1,
@@ -65787,7 +65787,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/152bbd9498-8051-4931-afbf-4eddc7f9150c.jpg",
         "rating": 8.7,
-        "rating_count": 2328,
+        "rating_count": 2329,
         "rating_distribution": [
           0,
           1,
@@ -72700,13 +72700,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13d1567d07-417b-4b7b-8356-5d0b87f43128.jpg",
         "rating": 9.1,
-        "rating_count": 2585,
+        "rating_count": 2584,
         "rating_distribution": [
           0,
           1,
-          7,
+          6,
           29,
-          63
+          64
         ],
         "tags": null,
         "brief": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
@@ -78690,23 +78690,23 @@
     "game",
     "performance"
   ],
-  "updated_at": "2026-07-25T01:53:54.199125",
+  "updated_at": "2026-07-26T01:58:06.352536",
   "stats": {
     "movie": {
       "count": 145,
-      "time": 9.41
+      "time": 9.33
     },
     "tv": {
       "count": 115,
-      "time": 6.41
+      "time": 6.53
     },
     "book": {
       "count": 36,
-      "time": 1.35
+      "time": 1.4
     },
     "music": {
       "count": 4,
-      "time": 0.16
+      "time": 0.12
     },
     "podcast": {
       "count": 0,
@@ -78718,8 +78718,8 @@
     },
     "performance": {
       "count": 2,
-      "time": 0.13
+      "time": 0.11
     }
   },
-  "total_time": 17.66
+  "total_time": 17.69
 }
