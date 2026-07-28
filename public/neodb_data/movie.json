@@ -5472,7 +5472,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/153f250f04-06a2-4a3d-88b0-f28cca4e9b3b.jpg",
         "rating": 8.7,
-        "rating_count": 523,
+        "rating_count": 524,
         "rating_distribution": [
           0,
           1,
@@ -12286,25 +12286,28 @@
             "url": "https://bgm.tv/subject/234344"
           },
           {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt3450958"
+          },
+          {
             "url": "https://www.wikidata.org/wiki/Q19938437"
           }
         ],
         "credits": [
           {
             "role": "actor",
-            "name": "安迪·瑟金斯",
+            "name": "Andy Serkis",
             "character_name": "",
             "person_url": "/api/people/2e8WH0L6BMSsRwjjACFyTT"
           },
           {
             "role": "actor",
-            "name": "伍迪·哈里森",
+            "name": "Woody Harrelson",
             "character_name": "",
             "person_url": "/api/people/08G6cOLDPqe3h2RA9u9diM"
           },
           {
             "role": "actor",
-            "name": "斯蒂夫·扎恩",
+            "name": "Steve Zahn",
             "character_name": "",
             "person_url": "/api/people/5hHeXptwXrK79jl1JdAudS"
           },
@@ -12316,43 +12319,43 @@
           },
           {
             "role": "actor",
-            "name": "阿米尔·米勒",
+            "name": "Amiah Miller",
             "character_name": "",
             "person_url": "/api/people/0YdsuCyRLFYPw3SxYry1uH"
           },
           {
             "role": "actor",
-            "name": "泰瑞·诺塔里",
+            "name": "Terry Notary",
             "character_name": "",
             "person_url": "/api/people/2cBUmZkeOmF7nOc8X3VABF"
           },
           {
             "role": "actor",
-            "name": "泰·奥尔森",
+            "name": "Ty Olsson",
             "character_name": "",
             "person_url": "/api/people/7kS5knP2IGC8Fj6smqftLZ"
           },
           {
             "role": "actor",
-            "name": "迈克尔·亚当思韦特",
+            "name": "Michael Adamthwaite",
             "character_name": "",
             "person_url": "/api/people/2G0vzsGR2VTrlpcbdU5Rfu"
           },
           {
             "role": "actor",
-            "name": "托比·凯贝尔",
+            "name": "Toby Kebbell",
             "character_name": "",
             "person_url": "/api/people/2i9lIQulXnXW5KNQpYjI5T"
           },
           {
             "role": "actor",
-            "name": "加布里埃尔·查瓦里亚",
+            "name": "Gabriel Chavarria",
             "character_name": "",
             "person_url": "/api/people/3xSTByQu1gBBwTDElUUiJ1"
           },
           {
             "role": "actor",
-            "name": "朱迪·格雷尔",
+            "name": "Judy Greer",
             "character_name": "",
             "person_url": "/api/people/2sXZQWbaiGzXE3adUSDuxU"
           },
@@ -12376,7 +12379,7 @@
           },
           {
             "role": "actor",
-            "name": "亚历桑德罗·朱利安尼",
+            "name": "Alessandro Juliani",
             "character_name": "",
             "person_url": "/api/people/2h08yI3ZIjypSbERRaQYs2"
           },
@@ -12394,13 +12397,13 @@
           },
           {
             "role": "director",
-            "name": "马特·里夫斯",
+            "name": "Matt Reeves",
             "character_name": "",
             "person_url": "/api/people/3Cu1ukZmxKhYpOLegRUyHB"
           },
           {
             "role": "playwright",
-            "name": "马特·里夫斯",
+            "name": "Matt Reeves",
             "character_name": "",
             "person_url": "/api/people/3Cu1ukZmxKhYpOLegRUyHB"
           },
@@ -12412,13 +12415,13 @@
           },
           {
             "role": "playwright",
-            "name": "里克·杰法",
+            "name": "Rick Jaffa",
             "character_name": "",
             "person_url": "/api/people/417Sv0IZcPWww9lIsVucvy"
           },
           {
             "role": "playwright",
-            "name": "阿曼达·斯尔沃",
+            "name": "Amanda Silver",
             "character_name": "",
             "person_url": "/api/people/1gRZB1d3E52egiyQ5THd1j"
           },
@@ -12683,43 +12686,46 @@
             "url": "https://bgm.tv/subject/533984"
           },
           {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt2103281"
+          },
+          {
             "url": "https://www.wikidata.org/wiki/Q11220194"
           }
         ],
         "credits": [
           {
             "role": "actor",
-            "name": "安迪·瑟金斯",
+            "name": "Andy Serkis",
             "character_name": "",
             "person_url": "/api/people/2e8WH0L6BMSsRwjjACFyTT"
           },
           {
             "role": "actor",
-            "name": "杰森·克拉克",
+            "name": "Jason Clarke",
             "character_name": "",
             "person_url": "/api/people/7QNieWMkUbV8Us54vEd3k5"
           },
           {
             "role": "actor",
-            "name": "加里·奥德曼",
+            "name": "Gary Oldman",
             "character_name": "",
             "person_url": "/api/people/2ESOeA4XZPGMIRd2jLvGic"
           },
           {
             "role": "actor",
-            "name": "凯丽·拉塞尔",
+            "name": "Keri Russell",
             "character_name": "",
             "person_url": "/api/people/22A36U7zepINxC58dM3Wvy"
           },
           {
             "role": "actor",
-            "name": "托比·凯贝尔",
+            "name": "Toby Kebbell",
             "character_name": "",
             "person_url": "/api/people/2i9lIQulXnXW5KNQpYjI5T"
           },
           {
             "role": "actor",
-            "name": "柯蒂·斯密特-麦菲",
+            "name": "Kodi Smit-McPhee",
             "character_name": "",
             "person_url": "/api/people/2B0qlhLjN4m1nbO81m6ezA"
           },
@@ -12731,13 +12737,13 @@
           },
           {
             "role": "actor",
-            "name": "尼克·瑟斯顿",
+            "name": "Nick Thurston",
             "character_name": "",
             "person_url": "/api/people/2lg1pjbYJLJAIMQTDy3QZj"
           },
           {
             "role": "actor",
-            "name": "泰瑞·诺塔里",
+            "name": "Terry Notary",
             "character_name": "",
             "person_url": "/api/people/2cBUmZkeOmF7nOc8X3VABF"
           },
@@ -12749,7 +12755,7 @@
           },
           {
             "role": "actor",
-            "name": "朱迪·格雷尔",
+            "name": "Judy Greer",
             "character_name": "",
             "person_url": "/api/people/2sXZQWbaiGzXE3adUSDuxU"
           },
@@ -12773,13 +12779,13 @@
           },
           {
             "role": "actor",
-            "name": "李·罗斯",
+            "name": "Lee Ross",
             "character_name": "",
             "person_url": "/api/people/7QgTktTLD0ePSPmna0rcfH"
           },
           {
             "role": "director",
-            "name": "马特·里夫斯",
+            "name": "Matt Reeves",
             "character_name": "",
             "person_url": "/api/people/3Cu1ukZmxKhYpOLegRUyHB"
           },
@@ -12791,13 +12797,13 @@
           },
           {
             "role": "playwright",
-            "name": "里克·杰法",
+            "name": "Rick Jaffa",
             "character_name": "",
             "person_url": "/api/people/417Sv0IZcPWww9lIsVucvy"
           },
           {
             "role": "playwright",
-            "name": "阿曼达·斯尔沃",
+            "name": "Amanda Silver",
             "character_name": "",
             "person_url": "/api/people/1gRZB1d3E52egiyQ5THd1j"
           },
@@ -15187,7 +15193,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/07/01/f929217a-3c36-4a6e-8885-64fc07476424.webp",
         "rating": 6.2,
-        "rating_count": 424,
+        "rating_count": 425,
         "rating_distribution": [
           6,
           13,
@@ -16496,42 +16502,45 @@
           },
           {
             "url": "https://www.wikidata.org/wiki/Q20762698"
+          },
+          {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt3470600"
           }
         ],
         "credits": [
           {
             "role": "actor",
-            "name": "马修·麦康纳",
+            "name": "Matthew McConaughey",
             "character_name": "",
             "person_url": "/api/people/2OjiEZgLwVfpXwAxEGAQj8"
           },
           {
             "role": "actor",
-            "name": "瑞茜·威瑟斯彭",
+            "name": "Reese Witherspoon",
             "character_name": "",
             "person_url": "/api/people/6wG6yHLESDzeQaqGuYpdyB"
           },
           {
             "role": "actor",
-            "name": "塞思·麦克法兰",
+            "name": "Seth MacFarlane",
             "character_name": "",
             "person_url": "/api/people/3gZ1DLZu5HcAR1ue5bUlGy"
           },
           {
             "role": "actor",
-            "name": "斯嘉丽·约翰逊",
+            "name": "Scarlett Johansson",
             "character_name": "",
             "person_url": "/api/people/4erVG5vcI5NzcFHCq6c5CT"
           },
           {
             "role": "actor",
-            "name": "约翰·C·赖利",
+            "name": "John C. Reilly",
             "character_name": "",
             "person_url": "/api/people/1X0s1nD1cN8ELT7NsgrIWC"
           },
           {
             "role": "actor",
-            "name": "塔伦·埃哲顿",
+            "name": "Taron Egerton",
             "character_name": "",
             "person_url": "/api/people/2q0GLygIH677AsGVFKv8LI"
           },
@@ -16543,13 +16552,13 @@
           },
           {
             "role": "actor",
-            "name": "珍妮弗·桑德斯",
+            "name": "Jennifer Saunders",
             "character_name": "",
             "person_url": "/api/people/48EmrZpO7GxKnaTH4o87Gl"
           },
           {
             "role": "actor",
-            "name": "詹妮弗·哈德森",
+            "name": "Jennifer Hudson",
             "character_name": "",
             "person_url": "/api/people/2sbocBMvXpW8iCCNNFlJFc"
           },
@@ -16561,13 +16570,13 @@
           },
           {
             "role": "actor",
-            "name": "彼得·塞拉菲诺威茨",
+            "name": "Peter Serafinowicz",
             "character_name": "",
             "person_url": "/api/people/3Wq5zWILHHQTKsp8UF3iZr"
           },
           {
             "role": "actor",
-            "name": "尼克·克罗尔",
+            "name": "Nick Kroll",
             "character_name": "",
             "person_url": "/api/people/2drgklpSg603eTFBBjkXRY"
           },
@@ -16585,7 +16594,7 @@
           },
           {
             "role": "actor",
-            "name": "尼克·奥弗曼",
+            "name": "Nick Offerman",
             "character_name": "",
             "person_url": "/api/people/2b2awtxsicUEc6Dnq19Z22"
           },
@@ -18241,7 +18250,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/141ac4ecd0-60a1-4b48-9c43-a1fb3a42f224.jpg",
         "rating": 8.3,
-        "rating_count": 1743,
+        "rating_count": 1744,
         "rating_distribution": [
           0,
           1,
@@ -18269,10 +18278,10 @@
             "url": "https://www.themoviedb.org/movie/152601"
           },
           {
-            "url": "https://www.imdb.com/title/tt1798709/"
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt1798709"
           },
           {
-            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt1798709"
+            "url": "https://www.imdb.com/title/tt1798709/"
           },
           {
             "url": "https://www.wikidata.org/wiki/Q788822"
@@ -21213,7 +21222,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/133604f9b2-b434-4aa8-92c0-e8f88336e4db.jpg",
         "rating": 9.2,
-        "rating_count": 2780,
+        "rating_count": 2783,
         "rating_distribution": [
           0,
           0,
@@ -23489,7 +23498,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/156963fe1b-b7c5-48eb-bd54-03d23c3d8c01.jpg",
         "rating": 8.7,
-        "rating_count": 2084,
+        "rating_count": 2085,
         "rating_distribution": [
           0,
           1,
@@ -23526,13 +23535,13 @@
             "url": "https://neodb.kevga.de/movie/5KzVF81mpH5fFawsyZQ7CY"
           },
           {
-            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt4633694"
-          },
-          {
             "url": "https://bgm.tv/subject/232067"
           },
           {
             "url": "https://www.wikidata.org/wiki/Q29588607"
+          },
+          {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt4633694"
           }
         ],
         "credits": [
@@ -24478,18 +24487,21 @@
           },
           {
             "url": "https://www.wikidata.org/wiki/Q459398"
+          },
+          {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt0362165"
           }
         ],
         "credits": [
           {
             "role": "actor",
-            "name": "杰米·肯尼迪",
+            "name": "Jamie Kennedy",
             "character_name": "",
             "person_url": "/api/people/65mS7M7Plm82gCSqgBRYKS"
           },
           {
             "role": "actor",
-            "name": "艾伦·卡明",
+            "name": "Alan Cumming",
             "character_name": "",
             "person_url": "/api/people/2VBKULZOfQFYKAPqoqgPsW"
           },
@@ -24573,7 +24585,7 @@
           },
           {
             "role": "director",
-            "name": "劳伦斯·哥特曼",
+            "name": "Lawrence Guterman",
             "character_name": "",
             "person_url": "/api/people/7A2xM1A7sbYixU1QpecM0R"
           },
@@ -24953,10 +24965,10 @@
             "url": "https://www.themoviedb.org/movie/548"
           },
           {
-            "url": "https://www.wikidata.org/wiki/Q135465"
+            "url": "https://movie.douban.com/subject/1291879/"
           },
           {
-            "url": "https://movie.douban.com/subject/1291879/"
+            "url": "https://www.wikidata.org/wiki/Q135465"
           }
         ],
         "credits": [
@@ -26869,24 +26881,27 @@
           },
           {
             "url": "https://www.wikidata.org/wiki/Q219421"
+          },
+          {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt0110475"
           }
         ],
         "credits": [
           {
             "role": "actor",
-            "name": "金·凯瑞",
+            "name": "Jim Carrey",
             "character_name": "",
             "person_url": "/api/people/0mrdh0mNPDQtw7uMH0Qzz6"
           },
           {
             "role": "actor",
-            "name": "彼得·里格特",
+            "name": "Peter Riegert",
             "character_name": "",
             "person_url": "/api/people/12uCRAOTkvMwdjslaTzeMI"
           },
           {
             "role": "actor",
-            "name": "彼得·格林纳",
+            "name": "Peter Greene",
             "character_name": "",
             "person_url": "/api/people/5RvSQwLYEsncJ2lMRANY2r"
           },
@@ -26898,7 +26913,7 @@
           },
           {
             "role": "actor",
-            "name": "理查德·杰尼",
+            "name": "Richard Jeni",
             "character_name": "",
             "person_url": "/api/people/6e6RbICIGq5cDiZJS8WiIk"
           },
@@ -26910,7 +26925,7 @@
           },
           {
             "role": "actor",
-            "name": "蒂姆·巴格来",
+            "name": "Tim Bagley",
             "character_name": "",
             "person_url": "/api/people/0YpFSoVCOki7ry6VmUe1mZ"
           },
@@ -26928,7 +26943,7 @@
           },
           {
             "role": "actor",
-            "name": "雷格·E·凯蒂",
+            "name": "Reg E. Cathey",
             "character_name": "",
             "person_url": "/api/people/6TRLda6b76IN3ttQ7V2Ei3"
           },
@@ -26946,7 +26961,7 @@
           },
           {
             "role": "actor",
-            "name": "卡梅隆·迪亚兹",
+            "name": "Cameron Diaz",
             "character_name": "",
             "person_url": "/api/people/1VUwt31uJjFEWjDr6RA64a"
           },
@@ -26964,7 +26979,7 @@
           },
           {
             "role": "actor",
-            "name": "布莱克·克拉克",
+            "name": "Blake Clark",
             "character_name": "",
             "person_url": "/api/people/6xYr0GnALIwuw00tkNLtKC"
           },
@@ -27024,7 +27039,7 @@
           },
           {
             "role": "actor",
-            "name": "梅多·威廉姆斯",
+            "name": "Meadow Williams",
             "character_name": "",
             "person_url": "/api/people/3Nu9DHVSzKxNo5QYuYZyTa"
           },
@@ -27042,7 +27057,7 @@
           },
           {
             "role": "director",
-            "name": "查克·拉塞尔",
+            "name": "Chuck Russell",
             "character_name": "",
             "person_url": "/api/people/5mdPwouYKdrdSCBD8mneGf"
           },
@@ -27060,7 +27075,7 @@
           },
           {
             "role": "playwright",
-            "name": "麦克·韦柏",
+            "name": "Mike Werb",
             "character_name": "",
             "person_url": "/api/people/64pdXpxWL9cjKVPjtefZTp"
           }
@@ -28266,7 +28281,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/7a48ff6e-aae2-458e-9b35-523ece2badfb.jpg",
         "rating": 8.3,
-        "rating_count": 1030,
+        "rating_count": 1031,
         "rating_distribution": [
           0,
           2,
@@ -29771,7 +29786,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2023/07/20/8206c5c4-0d6d-46f6-a08c-7a7d3af84393.jpg",
         "rating": 7.0,
-        "rating_count": 898,
+        "rating_count": 899,
         "rating_distribution": [
           1,
           7,
@@ -36592,6 +36607,194 @@
     {
       "shelf_type": "complete",
       "visibility": 0,
+      "post_id": 87802049986589056,
+      "item": {
+        "type": "Movie",
+        "title": "魁拔Ⅲ战神崛起",
+        "description": "历经惨烈的元泱界大战，成功突破魁拔十二妖第一道防线的蛮吉（刘婧荦 配音）、镜心（刘校妤 配音）一行，为追赶曲境一号再踏征途，却意外闯入萨库人大仓（王宇腾 配音）与粼妖姑娘海问香（姚姝 配音）所设下的诡异防线。面对大仓与海问香的步步紧逼，蛮吉等人无奈应战。激战中，神秘少年 敖江（刘校妤 配音）凭空出现、曲境一号舰长远浪（杨晨 配音）更做出种种令人匪夷所思的决定，让本已复杂的局面，越发显得扑朔迷离；而机缘巧合下，脉门封闭已久的蛮吉竟意外开启六大脉门，化身无敌战神，携魁拔脉兽驰骋于漫天烽火中，上演了一场气势磅礴的惊世之战……",
+        "localized_title": [
+          {
+            "lang": "zh-cn",
+            "text": "魁拔Ⅲ战神崛起"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "魁拔3"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "魁拔3战神崛起"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "魁拔3之战神崛起"
+          },
+          {
+            "lang": "sw",
+            "text": "Kuiba Ⅲ"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "历经惨烈的元泱界大战，成功突破魁拔十二妖第一道防线的蛮吉（刘婧荦 配音）、镜心（刘校妤 配音）一行，为追赶曲境一号再踏征途，却意外闯入萨库人大仓（王宇腾 配音）与粼妖姑娘海问香（姚姝 配音）所设下的诡异防线。面对大仓与海问香的步步紧逼，蛮吉等人无奈应战。激战中，神秘少年 敖江（刘校妤 配音）凭空出现、曲境一号舰长远浪（杨晨 配音）更做出种种令人匪夷所思的决定，让本已复杂的局面，越发显得扑朔迷离；而机缘巧合下，脉门封闭已久的蛮吉竟意外开启六大脉门，化身无敌战神，携魁拔脉兽驰骋于漫天烽火中，上演了一场气势磅礴的惊世之战……"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/movie/2021/09/18a22d4c52-7107-4300-a38c-5bd94a63cfc3.jpg",
+        "rating": 7.8,
+        "rating_count": 133,
+        "rating_distribution": [
+          0,
+          5,
+          21,
+          51,
+          23
+        ],
+        "tags": null,
+        "brief": "历经惨烈的元泱界大战，成功突破魁拔十二妖第一道防线的蛮吉（刘婧荦 配音）、镜心（刘校妤 配音）一行，为追赶曲境一号再踏征途，却意外闯入萨库人大仓（王宇腾 配音）与粼妖姑娘海问香（姚姝 配音）所设下的诡异防线。面对大仓与海问香的步步紧逼，蛮吉等人无奈应战。激战中，神秘少年 敖江（刘校妤 配音）凭空出现、曲境一号舰长远浪（杨晨 配音）更做出种种令人匪夷所思的决定，让本已复杂的局面，越发显得扑朔迷离；而机缘巧合下，脉门封闭已久的蛮吉竟意外开启六大脉门，化身无敌战神，携魁拔脉兽驰骋于漫天烽火中，上演了一场气势磅礴的惊世之战……",
+        "id": "https://neodb.social/movie/40SAnQuw1hsChfSOW7U2HR",
+        "uuid": "40SAnQuw1hsChfSOW7U2HR",
+        "url": "/movie/40SAnQuw1hsChfSOW7U2HR",
+        "api_url": "/api/movie/40SAnQuw1hsChfSOW7U2HR",
+        "category": "movie",
+        "parent_uuid": null,
+        "display_title": "魁拔Ⅲ战神崛起",
+        "external_resources": [
+          {
+            "url": "https://movie.douban.com/subject/24723061/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "刘婧荦",
+            "character_name": "",
+            "person_url": "/api/people/2gEnhI7dDfH9g69agGPotD"
+          },
+          {
+            "role": "actor",
+            "name": "姚姝",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "王宇腾",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "杨晨",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "刘校妤",
+            "character_name": "",
+            "person_url": "/api/people/0c8sGHbIIOikE2xgSl48V0"
+          },
+          {
+            "role": "actor",
+            "name": "王凯",
+            "character_name": "",
+            "person_url": "/api/people/6LlX6gIhTOVGUevZdxb2Q8"
+          },
+          {
+            "role": "actor",
+            "name": "敖磊",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "石困困",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "宝木中阳",
+            "character_name": "",
+            "person_url": "/api/people/4qPfPwAEkftpHXJFaaGdrI"
+          },
+          {
+            "role": "actor",
+            "name": "马斑马",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "杨凝",
+            "character_name": "",
+            "person_url": "/api/people/5hGPpOgHYcrMco0JJYtvut"
+          },
+          {
+            "role": "actor",
+            "name": "张杰",
+            "character_name": "",
+            "person_url": "/api/people/5OHVBWwVlQoKwt7SqYWXj7"
+          },
+          {
+            "role": "actor",
+            "name": "范哲琛",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "图特哈蒙",
+            "character_name": "",
+            "person_url": "/api/people/1JnfRibzHkpAyWC7jjKGAD"
+          },
+          {
+            "role": "actor",
+            "name": "姜广涛",
+            "character_name": "",
+            "person_url": "/api/people/7jdjWt9EzuSQ62bcgiq8C2"
+          },
+          {
+            "role": "director",
+            "name": "王川",
+            "character_name": "",
+            "person_url": "/api/people/5QnenTxlJiVqFrHQ3m596p"
+          },
+          {
+            "role": "director",
+            "name": "张钢",
+            "character_name": "",
+            "person_url": "/api/people/1wITaGenSeexOe5lRmbmjD"
+          },
+          {
+            "role": "director",
+            "name": "周洁",
+            "character_name": "",
+            "person_url": "/api/people/6e1JnUXMsKsuO3kwpiWOFf"
+          },
+          {
+            "role": "playwright",
+            "name": "王鹏展",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "playwright",
+            "name": "王川",
+            "character_name": "",
+            "person_url": "/api/people/5QnenTxlJiVqFrHQ3m596p"
+          }
+        ]
+      },
+      "created_time": "2022-08-31T13:54:00Z",
+      "comment_text": null,
+      "rating_grade": 8,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
       "post_id": 87802049990104376,
       "item": {
         "type": "Movie",
@@ -36813,25 +37016,28 @@
             "url": "https://www.imdb.com/title/tt1343092/"
           },
           {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt1343092"
+          },
+          {
             "url": "https://www.wikidata.org/wiki/Q892735"
           }
         ],
         "credits": [
           {
             "role": "actor",
-            "name": "莱昂纳多·迪卡普里奥",
+            "name": "Leo",
             "character_name": "",
             "person_url": "/api/people/239dLEblqD61cxj555DmOI"
           },
           {
             "role": "actor",
-            "name": "凯瑞·穆里根",
+            "name": "Carey Mulligan",
             "character_name": "",
             "person_url": "/api/people/26vjucFNT6ziVRypKgjqyH"
           },
           {
             "role": "actor",
-            "name": "托比·马奎尔",
+            "name": "Tobey Maguire",
             "character_name": "",
             "person_url": "/api/people/5ek9ZkTzkILoD7TU7SxzV8"
           },
@@ -36843,25 +37049,25 @@
           },
           {
             "role": "actor",
-            "name": "艾拉·菲舍尔",
+            "name": "Isla Fisher",
             "character_name": "",
             "person_url": "/api/people/4qOu5gYECA6Bvm9UhEaRL4"
           },
           {
             "role": "actor",
-            "name": "乔尔·埃哲顿",
+            "name": "Joel Edgerton",
             "character_name": "",
             "person_url": "/api/people/0wnTjf18c5NDIis3RhI2DX"
           },
           {
             "role": "actor",
-            "name": "杰森·克拉克",
+            "name": "Jason Clarke",
             "character_name": "",
             "person_url": "/api/people/7QNieWMkUbV8Us54vEd3k5"
           },
           {
             "role": "actor",
-            "name": "卡兰·麦克奥利菲",
+            "name": "Callan McAuliffe",
             "character_name": "",
             "person_url": "/api/people/2qxEeyLCMshXabXdqcDc6E"
           },
@@ -36891,13 +37097,13 @@
           },
           {
             "role": "actor",
-            "name": "理查德·卡特",
+            "name": "Richard Carter",
             "character_name": "",
             "person_url": "/api/people/7AKw5krJB4qHBHX7B5fdhX"
           },
           {
             "role": "actor",
-            "name": "阿德莱德·克莱蒙丝",
+            "name": "Adelaide Clemens",
             "character_name": "",
             "person_url": "/api/people/7LTSETYISGOg4NnrYYZXWl"
           },
@@ -36951,7 +37157,7 @@
           },
           {
             "role": "actor",
-            "name": "戈兰·D·克鲁特",
+            "name": "Goran D. Kleut",
             "character_name": "",
             "person_url": "/api/people/1ZGhKsEnv0Jbm4B6nIY1bD"
           },
@@ -36969,13 +37175,13 @@
           },
           {
             "role": "actor",
-            "name": "凯特·马尔瓦尼",
+            "name": "Kate Mulvany",
             "character_name": "",
             "person_url": "/api/people/4n5dRGMFyDpIgFy9A6BGvE"
           },
           {
             "role": "actor",
-            "name": "巴里·奥托",
+            "name": "Barry Otto",
             "character_name": "",
             "person_url": "/api/people/1JH4EYS9OhlFjPBjlOgIp0"
           },
@@ -36993,7 +37199,7 @@
           },
           {
             "role": "actor",
-            "name": "杰克·汤普森",
+            "name": "Jack Thompson",
             "character_name": "",
             "person_url": "/api/people/74MlyFVJP2RCfiKrEt92ax"
           },
@@ -37005,7 +37211,7 @@
           },
           {
             "role": "actor",
-            "name": "马修·惠德特",
+            "name": "Matthew Whittet",
             "character_name": "",
             "person_url": "/api/people/3976W3IVqnFA6ghh0LH7Tt"
           },
@@ -37029,19 +37235,19 @@
           },
           {
             "role": "director",
-            "name": "巴兹·鲁赫曼",
+            "name": "Baz Luhrmann",
             "character_name": "",
             "person_url": "/api/people/6XlaoCJ9jFYYhNZKjujhoZ"
           },
           {
             "role": "playwright",
-            "name": "巴兹·鲁赫曼",
+            "name": "Baz Luhrmann",
             "character_name": "",
             "person_url": "/api/people/6XlaoCJ9jFYYhNZKjujhoZ"
           },
           {
             "role": "playwright",
-            "name": "克雷格·皮尔斯",
+            "name": "Craig Pearce",
             "character_name": "",
             "person_url": "/api/people/3p1kaYrxX2wA1TjsypTkhr"
           },
@@ -37061,189 +37267,665 @@
     {
       "shelf_type": "complete",
       "visibility": 0,
-      "post_id": 87802049986589056,
+      "post_id": 79467129078232008,
       "item": {
         "type": "Movie",
-        "title": "魁拔Ⅲ战神崛起",
-        "description": "历经惨烈的元泱界大战，成功突破魁拔十二妖第一道防线的蛮吉（刘婧荦 配音）、镜心（刘校妤 配音）一行，为追赶曲境一号再踏征途，却意外闯入萨库人大仓（王宇腾 配音）与粼妖姑娘海问香（姚姝 配音）所设下的诡异防线。面对大仓与海问香的步步紧逼，蛮吉等人无奈应战。激战中，神秘少年 敖江（刘校妤 配音）凭空出现、曲境一号舰长远浪（杨晨 配音）更做出种种令人匪夷所思的决定，让本已复杂的局面，越发显得扑朔迷离；而机缘巧合下，脉门封闭已久的蛮吉竟意外开启六大脉门，化身无敌战神，携魁拔脉兽驰骋于漫天烽火中，上演了一场气势磅礴的惊世之战……",
+        "title": "The Godfather",
+        "description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
         "localized_title": [
           {
-            "lang": "zh-cn",
-            "text": "魁拔Ⅲ战神崛起"
+            "lang": "ko",
+            "text": "대부"
+          },
+          {
+            "lang": "ja",
+            "text": "ゴッドファーザー"
+          },
+          {
+            "lang": "pt",
+            "text": "O Padrinho"
+          },
+          {
+            "lang": "de",
+            "text": "Der Pate"
+          },
+          {
+            "lang": "fr",
+            "text": "Le Parrain"
+          },
+          {
+            "lang": "es",
+            "text": "El padrino"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "教父"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "教父"
           },
           {
             "lang": "zh-cn",
-            "text": "魁拔3"
+            "text": "教父"
           },
           {
-            "lang": "zh-cn",
-            "text": "魁拔3战神崛起"
-          },
-          {
-            "lang": "zh-cn",
-            "text": "魁拔3之战神崛起"
-          },
-          {
-            "lang": "sw",
-            "text": "Kuiba Ⅲ"
+            "lang": "en",
+            "text": "The Godfather"
           }
         ],
         "localized_description": [
           {
+            "lang": "ko",
+            "text": "시실리에서 이민온 뒤, 정치권까지 영향력을 미치는 거물로 자리잡은 돈 꼴레오네는 갖가지 고민을 호소하는 사람들의 문제를 해결해주며 대부라 불리운다. 한편 솔로소라는 인물은 꼴레오네가와 라이벌인 탓타리아 패밀리와 손잡고 새로운 마약 사업을 제안한다. 돈 꼴레오네가 마약 사업에 참여하지 않기로 하자, 돈 꼴레오네를 저격해 그는 중상을 입고 사경을 헤매게 된다. 그 뒤, 돈 꼴레오네의 아들 소니는 조직력을 총 동원해 다른 패밀리들과 피를 부르는 전쟁을 시작하는데... 가족의 사업과 상관없이 대학에 진학한 뒤 인텔리로 지내왔던 막내 아들 마이클은 아버지가 총격을 당한 뒤, 아버지를 구하기 위해 위험천만한 협상 자리에 나선다."
+          },
+          {
+            "lang": "ja",
+            "text": "シシリーからアメリカに移住し、一代で財を成したドン・コルレオーネ。三男のマイケルはひとり堅気な人生を送ろうとしていたが、敵対するファミリーにドンが襲われ重傷を負った時、彼は報復を決意する。そしてニューヨークは抗争の場と化していった……。"
+          },
+          {
+            "lang": "pt",
+            "text": "Baseado no best-seller de Mário Puzo, o filme acompanha o percurso de Don Vito Corleone, o patriarca de uma das mais notáveis e importantes famílias da máfia italiana de Nova Iorque."
+          },
+          {
+            "lang": "de",
+            "text": "Don Vito Corleone ist der Kopf einer der einflußreichsten Mafia-Familien New Yorks. Als die anderen Familien der Stadt beschließen, neben Glücksspiel und Schutzgelderpressungen nun auch den Handel mit Drogen als Erwerbsquelle zu nutzen und sich Don Corleone diesem Vorhaben nicht anschließen möchte, wird er zum Ziel eines hinterhältigen Mordanschlags. Nun steht Vitos Sohn Michael in der Verantwortung, in die Fußstapfen seines Vaters zu treten, obwohl er mit den Geschäften der Familie bis dato nichts zu tun haben wollte."
+          },
+          {
+            "lang": "fr",
+            "text": "La Seconde Guerre mondiale vient de s'achever. À New York, le « parrain » Don Corleone, l'un des chefs respectés de la mafia, se sent vieillir. Il refuse de s'adapter à son temps et de se lancer, comme ses pairs, dans le trafic de drogue. Une frilosité qui entrave la bonne marche des affaires des autres « familles » et qui lui vaut d'être la cible d'un attentat. Don Corleone survit à ses blessures, mais reste très diminué. Mike, son plus jeune fils, qui jusque-là se tenait à l'écart des affaires de son père, devient le plus dévoué de ses héritiers. Plus efficace que ses frères, Sonny et Fredo, il venge son père et organise l'élimination de ses adversaires…"
+          },
+          {
+            "lang": "es",
+            "text": "Don Vito Corleone, conocido dentro de los círculos del hampa como \"El Padrino\", es el patriarca de una de las cinco familias que ejercen el mando de la Cosa Nostra en Nueva York (Estados Unidos) durante la década de 1940. Don Corleone tiene cuatro hijos: una chica, Connie, y tres varones; Sonny, Michael y Fredo. Cuando Vito reclina intervenir en el negocio de estupefacientes, empieza una cruenta lucha de violentos episodios entre las distintas familias del crimen organizado."
+          },
+          {
+            "lang": "zh-hk",
+            "text": "電影描述西西里的柯里安大家族於美國掘起，辛苦掙扎奮鬥成為黑幫教父，最後引起權力鬥爭，甚至家族地位動搖。殿堂級金像大導哥普拉將原本的通俗小說提昇至黑幫史詩式電影的層次，巧妙地將社會問題、家庭、權力、罪惡、榮譽、道德等命題融合一起。影片吸引力經久不衰，被譽為電影史上最偉大的美國電影之一。"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "40年代的美國，“教父”維托·唐·柯里昂是黑手黨柯里昂家族的首領，帶領家族從事非法的勾當，但同時他也是許多弱小平民的保護神，深得人們愛戴。 因為拒絕了毒梟索洛索的毒品交易要求，柯里昂家族和紐約其他幾個黑手黨家族的矛盾激化。聖誕前夕，索洛索劫持了“教父”的參謀湯姆，並派人暗殺“教父”；因為內奸的出賣，“教父”的大兒子遜尼被仇家殺害；小兒子麥克也被捲了進來，失去愛妻。黑手黨家族之間的矛盾越來越白熱化。 年老的“教父”面對喪子之痛怎樣統領全局？黑手黨之間的仇殺如何落幕？誰是家族的內奸？誰又能夠成為新一代的“教父”？ 血雨腥風和溫情脈脈，在這部里程碑式的黑幫史詩巨片裡真實上演。"
+          },
+          {
             "lang": "zh-cn",
-            "text": "历经惨烈的元泱界大战，成功突破魁拔十二妖第一道防线的蛮吉（刘婧荦 配音）、镜心（刘校妤 配音）一行，为追赶曲境一号再踏征途，却意外闯入萨库人大仓（王宇腾 配音）与粼妖姑娘海问香（姚姝 配音）所设下的诡异防线。面对大仓与海问香的步步紧逼，蛮吉等人无奈应战。激战中，神秘少年 敖江（刘校妤 配音）凭空出现、曲境一号舰长远浪（杨晨 配音）更做出种种令人匪夷所思的决定，让本已复杂的局面，越发显得扑朔迷离；而机缘巧合下，脉门封闭已久的蛮吉竟意外开启六大脉门，化身无敌战神，携魁拔脉兽驰骋于漫天烽火中，上演了一场气势磅礴的惊世之战……"
+            "text": "40年代的美国，“教父”维托·唐·柯里昂是黑手党柯里昂家族的首领，带领家族从事非法的勾当，但同时他也是许多弱小平民的保护神，深得人们爱戴。因为拒绝了毒枭索洛索的毒品交易要求，柯里昂家族和纽约其他几个黑手党家族的矛盾激化、圣诞前夕，索洛索劫持了“教父”的参谋汤姆，并派人暗杀“教父”；因为内奸的出卖，“教父”的大儿子逊尼被仇家杀害；小儿子麦克也被卷了进来，失去爱妻。黑手党家族之间的矛盾越来越白热化。年老的“教父”面对丧子之痛怎样统领全局？黑手党之间的仇杀如何落幕？谁是家族的内奸？谁又能够成为新一代的“教父”？血雨腥风和温情脉脉，在这部里程碑式的黑帮史诗巨片里真实上演。"
+          },
+          {
+            "lang": "en",
+            "text": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge."
           }
         ],
-        "cover_image_url": "https://neodb.social/m/movie/2021/09/18a22d4c52-7107-4300-a38c-5bd94a63cfc3.jpg",
-        "rating": 7.8,
-        "rating_count": 133,
+        "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2026/07/27/e26c144b-6c9f-45a7-9112-01670bf3ce5a.jpg",
+        "rating": 9.1,
+        "rating_count": 1852,
         "rating_distribution": [
           0,
-          5,
-          21,
-          51,
-          23
+          1,
+          6,
+          26,
+          67
         ],
         "tags": null,
-        "brief": "历经惨烈的元泱界大战，成功突破魁拔十二妖第一道防线的蛮吉（刘婧荦 配音）、镜心（刘校妤 配音）一行，为追赶曲境一号再踏征途，却意外闯入萨库人大仓（王宇腾 配音）与粼妖姑娘海问香（姚姝 配音）所设下的诡异防线。面对大仓与海问香的步步紧逼，蛮吉等人无奈应战。激战中，神秘少年 敖江（刘校妤 配音）凭空出现、曲境一号舰长远浪（杨晨 配音）更做出种种令人匪夷所思的决定，让本已复杂的局面，越发显得扑朔迷离；而机缘巧合下，脉门封闭已久的蛮吉竟意外开启六大脉门，化身无敌战神，携魁拔脉兽驰骋于漫天烽火中，上演了一场气势磅礴的惊世之战……",
-        "id": "https://neodb.social/movie/40SAnQuw1hsChfSOW7U2HR",
-        "uuid": "40SAnQuw1hsChfSOW7U2HR",
-        "url": "/movie/40SAnQuw1hsChfSOW7U2HR",
-        "api_url": "/api/movie/40SAnQuw1hsChfSOW7U2HR",
+        "brief": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+        "id": "https://neodb.social/movie/6TlNfO3Svt0mcuUh67RnpO",
+        "uuid": "6TlNfO3Svt0mcuUh67RnpO",
+        "url": "/movie/6TlNfO3Svt0mcuUh67RnpO",
+        "api_url": "/api/movie/6TlNfO3Svt0mcuUh67RnpO",
         "category": "movie",
         "parent_uuid": null,
-        "display_title": "魁拔Ⅲ战神崛起",
+        "display_title": "The Godfather",
         "external_resources": [
           {
-            "url": "https://movie.douban.com/subject/24723061/"
+            "url": "https://eggplant.place/movie/4RmdZjmK0SJaZypJnNJuAH"
+          },
+          {
+            "url": "https://www.imdb.com/title/tt0068646/"
+          },
+          {
+            "url": "https://movie.douban.com/subject/1291841/"
+          },
+          {
+            "url": "https://www.themoviedb.org/movie/238"
+          },
+          {
+            "url": "https://minreol.dk/movie/4RHYiF2teQpStqE9oteObS"
+          },
+          {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt0068646"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q47703"
           }
         ],
         "credits": [
           {
             "role": "actor",
-            "name": "刘婧荦",
+            "name": "Marlon Brando",
             "character_name": "",
-            "person_url": "/api/people/2gEnhI7dDfH9g69agGPotD"
+            "person_url": "/api/people/5w1LZgi0UMdEk6Gl7K9SJ4"
           },
           {
             "role": "actor",
-            "name": "姚姝",
+            "name": "Al Pacino",
+            "character_name": "",
+            "person_url": "/api/people/20HQ216h1SmXIrqs1n9zCR"
+          },
+          {
+            "role": "actor",
+            "name": "James Caan",
+            "character_name": "",
+            "person_url": "/api/people/63JY2pJXWt5vgJeyJnoFD0"
+          },
+          {
+            "role": "actor",
+            "name": "Robert Duvall",
+            "character_name": "",
+            "person_url": "/api/people/5r8orRjhplUBTemkhvVX9S"
+          },
+          {
+            "role": "actor",
+            "name": "Richard S. Castellano",
+            "character_name": "",
+            "person_url": "/api/people/2wpa315PdhtZvhF04OHbjM"
+          },
+          {
+            "role": "actor",
+            "name": "Diane Keaton",
+            "character_name": "",
+            "person_url": "/api/people/6Du5oqeacJMUnaNMY9mXD5"
+          },
+          {
+            "role": "actor",
+            "name": "Talia Shire",
+            "character_name": "",
+            "person_url": "/api/people/6SEqxRjs4yGQ45PtuYvFjW"
+          },
+          {
+            "role": "actor",
+            "name": "Gianni Russo",
+            "character_name": "",
+            "person_url": "/api/people/5vtVcMfGNYf3bZ2KDY0lsN"
+          },
+          {
+            "role": "actor",
+            "name": "Sterling Hayden",
+            "character_name": "",
+            "person_url": "/api/people/7FT7jq3HQ6axu4nRR8csjd"
+          },
+          {
+            "role": "actor",
+            "name": "John Marley",
+            "character_name": "",
+            "person_url": "/api/people/09CTf5FPHwR9DU3xj79HP0"
+          },
+          {
+            "role": "actor",
+            "name": "Richard Conte",
             "character_name": "",
             "person_url": null
           },
           {
             "role": "actor",
-            "name": "王宇腾",
+            "name": "Al Lettieri",
             "character_name": "",
             "person_url": null
           },
           {
             "role": "actor",
-            "name": "杨晨",
+            "name": "Abe Vigoda",
             "character_name": "",
             "person_url": null
           },
           {
             "role": "actor",
-            "name": "刘校妤",
-            "character_name": "",
-            "person_url": "/api/people/0c8sGHbIIOikE2xgSl48V0"
-          },
-          {
-            "role": "actor",
-            "name": "王凯",
-            "character_name": "",
-            "person_url": "/api/people/6LlX6gIhTOVGUevZdxb2Q8"
-          },
-          {
-            "role": "actor",
-            "name": "敖磊",
+            "name": "John Cazale",
             "character_name": "",
             "person_url": null
           },
           {
             "role": "actor",
-            "name": "石困困",
+            "name": "Rudy Bond",
             "character_name": "",
             "person_url": null
           },
           {
             "role": "actor",
-            "name": "宝木中阳",
-            "character_name": "",
-            "person_url": "/api/people/4qPfPwAEkftpHXJFaaGdrI"
-          },
-          {
-            "role": "actor",
-            "name": "马斑马",
+            "name": "Al Martino",
             "character_name": "",
             "person_url": null
           },
           {
             "role": "actor",
-            "name": "杨凝",
-            "character_name": "",
-            "person_url": "/api/people/5hGPpOgHYcrMco0JJYtvut"
-          },
-          {
-            "role": "actor",
-            "name": "张杰",
-            "character_name": "",
-            "person_url": "/api/people/5OHVBWwVlQoKwt7SqYWXj7"
-          },
-          {
-            "role": "actor",
-            "name": "范哲琛",
+            "name": "Morgana King",
             "character_name": "",
             "person_url": null
           },
           {
             "role": "actor",
-            "name": "图特哈蒙",
+            "name": "Lenny Montana",
             "character_name": "",
-            "person_url": "/api/people/1JnfRibzHkpAyWC7jjKGAD"
+            "person_url": null
           },
           {
             "role": "actor",
-            "name": "姜广涛",
+            "name": "John Martino",
             "character_name": "",
-            "person_url": "/api/people/7jdjWt9EzuSQ62bcgiq8C2"
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Salvatore Corsitto",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Richard Bright",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Alex Rocco",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Tony Giorgio",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Vito Scotti",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Tere Livrano",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Victor Rendina",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Jeannie Linero",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Julie Gregg",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Ardell Sheridan",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Simonetta Stefanelli",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Angelo Infanti",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Corrado Gaipa",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Franco Citti",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Saro Urzì",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Roman Coppola",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Sofia Coppola",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Don Costello",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Italia Coppola",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Gray Frederickson",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Ron Gilbert",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Sonny Grosso",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Louis Guss",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Randy Jurgensen",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Tony King",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Tony Lip",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Joe Lo Grippo",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Lou Martini Jr.",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Raymond Martino",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Joseph Medaglia",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Carol Morley",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Rick Petrucelli",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Sal Richards",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Tom Rosqui",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Frank Sivero",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Filomena Spagnuolo",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Joe Spinell",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Gabriele Torrei",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Nick Vallelonga",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Conrad Yama",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Frank Albanese",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Chris Anastasio",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "John Blower",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Max Brandt",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Tybee Brascia",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Garrett Cassell",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Carmine Coppola",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Gian-Carlo Coppola",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Robert Dahdah",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Richard Fass",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Bobra Harris",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Mickey Humm",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Merril E. Joels",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Paul Lambert",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Dave Moskin",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Joe Petrullo",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Burt Richards",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Giacomo Rossi Stuart",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Nino Ruggeri",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Palombizio Anthony V.",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Ron Veto",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Matthew Vlahakis",
+            "character_name": "",
+            "person_url": null
           },
           {
             "role": "director",
-            "name": "王川",
+            "name": "Francis Ford Coppola",
             "character_name": "",
-            "person_url": "/api/people/5QnenTxlJiVqFrHQ3m596p"
-          },
-          {
-            "role": "director",
-            "name": "张钢",
-            "character_name": "",
-            "person_url": "/api/people/1wITaGenSeexOe5lRmbmjD"
-          },
-          {
-            "role": "director",
-            "name": "周洁",
-            "character_name": "",
-            "person_url": "/api/people/6e1JnUXMsKsuO3kwpiWOFf"
+            "person_url": "/api/people/6Vk7Gm7r9WFAmHXrSrO647"
           },
           {
             "role": "playwright",
-            "name": "王鹏展",
+            "name": "Mario Puzo",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/people/3G2y077pHE7wLRAFAbkX0i"
           },
           {
             "role": "playwright",
-            "name": "王川",
+            "name": "Francis Ford Coppola",
             "character_name": "",
-            "person_url": "/api/people/5QnenTxlJiVqFrHQ3m596p"
+            "person_url": "/api/people/6Vk7Gm7r9WFAmHXrSrO647"
+          },
+          {
+            "role": "producer",
+            "name": "Albert S. Ruddy",
+            "character_name": "",
+            "person_url": "/api/people/4fgsvlCRDGDdW3f7aAWJMI"
+          },
+          {
+            "role": "producer",
+            "name": "Francis Ford Coppola",
+            "character_name": "",
+            "person_url": "/api/people/6Vk7Gm7r9WFAmHXrSrO647"
+          },
+          {
+            "role": "producer",
+            "name": "Robert Evans",
+            "character_name": "",
+            "person_url": "/api/people/67kR6ZMMMZ2QhU07nrH15z"
           }
         ]
       },
-      "created_time": "2022-08-31T13:54:00Z",
+      "created_time": "2022-08-08T13:54:00Z",
       "comment_text": null,
-      "rating_grade": 8,
+      "rating_grade": 9,
       "tags": []
     },
     {
@@ -37679,322 +38361,6 @@
       "created_time": "2022-08-08T13:54:00Z",
       "comment_text": null,
       "rating_grade": 8,
-      "tags": []
-    },
-    {
-      "shelf_type": "complete",
-      "visibility": 0,
-      "post_id": 79467129078232008,
-      "item": {
-        "type": "Movie",
-        "title": "The Godfather",
-        "description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
-        "localized_title": [
-          {
-            "lang": "zh-cn",
-            "text": "教父"
-          },
-          {
-            "lang": "en",
-            "text": "The Godfather"
-          },
-          {
-            "lang": "en",
-            "text": "Mario Puzo's The Godfather"
-          },
-          {
-            "lang": "fr",
-            "text": "Le Parrain"
-          },
-          {
-            "lang": "de",
-            "text": "Der Pate"
-          },
-          {
-            "lang": "nn",
-            "text": "The Godfather"
-          },
-          {
-            "lang": "nb",
-            "text": "Gudfaren"
-          },
-          {
-            "lang": "no",
-            "text": "Gudfaren"
-          },
-          {
-            "lang": "sv",
-            "text": "Gudfadern"
-          },
-          {
-            "lang": "da",
-            "text": "The Godfather"
-          },
-          {
-            "lang": "zh",
-            "text": "教父"
-          },
-          {
-            "lang": "zh-tw",
-            "text": "教父"
-          },
-          {
-            "lang": "zh-hans",
-            "text": "教父"
-          },
-          {
-            "lang": "zh-hant",
-            "text": "教父"
-          },
-          {
-            "lang": "es",
-            "text": "El padrino"
-          },
-          {
-            "lang": "pt",
-            "text": "O Padrinho"
-          },
-          {
-            "lang": "ja",
-            "text": "ゴッドファーザー"
-          },
-          {
-            "lang": "ko",
-            "text": "대부"
-          }
-        ],
-        "localized_description": [
-          {
-            "lang": "zh-cn",
-            "text": "40年代的美国，“教父”维托·柯里昂（马龙·白兰度 饰）是黑手党柯里昂家族的首领，带领家族从事非法的勾当，但同时他也是许多弱小平民的保护神，深得人们爱戴。\r\n因为拒绝了毒枭索洛索的毒品交易要求，柯里昂家族和纽约其他几个黑手党家族的矛盾激化。圣诞前夕，索洛索劫持了“教父”的参谋汤姆，并派人暗杀“教父”；因为内奸的出卖，“教父”的大儿子桑尼被仇家杀害；小儿子麦可（阿尔·帕西诺 饰）也被卷了进来，失去爱妻。黑手党家族之间的矛盾越来越白热化。\r\n年老的“教父”面对丧子之痛怎样统领全局？黑手党之间的仇杀如何落幕？谁是家族的内奸？谁又能够成为新一代的“教父”？\r\n血雨腥风和温情脉脉，在这部里程碑式的黑帮史诗巨片里真实上演。"
-          },
-          {
-            "lang": "fr",
-            "text": "La Seconde Guerre mondiale vient de s'achever. À New York, le « parrain » Don Corleone, l'un des chefs respectés de la mafia, se sent vieillir. Il refuse de s'adapter à son temps et de se lancer, comme ses pairs, dans le trafic de drogue. Une frilosité qui entrave la bonne marche des affaires des autres « familles » et qui lui vaut d'être la cible d'un attentat. Don Corleone survit à ses blessures, mais reste très diminué. Mike, son plus jeune fils, qui jusque-là se tenait à l'écart des affaires de son père, devient le plus dévoué de ses héritiers. Plus efficace que ses frères, Sonny et Fredo, il venge son père et organise l'élimination de ses adversaires…"
-          },
-          {
-            "lang": "de",
-            "text": "Don Vito Corleone ist der Kopf einer der einflußreichsten Mafia-Familien New Yorks. Als die anderen Familien der Stadt beschließen, neben Glücksspiel und Schutzgelderpressungen nun auch den Handel mit Drogen als Erwerbsquelle zu nutzen und sich Don Corleone diesem Vorhaben nicht anschließen möchte, wird er zum Ziel eines hinterhältigen Mordanschlags. Nun steht Vitos Sohn Michael in der Verantwortung, in die Fußstapfen seines Vaters zu treten, obwohl er mit den Geschäften der Familie bis dato nichts zu tun haben wollte."
-          },
-          {
-            "lang": "nb",
-            "text": "I årene 1945 til 1955, er sagaen om den fiktive italiensk-amerikanske mafia-familien Corleone. Da den organiserte mafia-familiens overhode, Vito Corleone såvidt overlever et drapsforsøk. Går hans yngste sønn, Michael inn for å ta de antatte drapsmennene, og starter et oppgjør med blodig hevn."
-          },
-          {
-            "lang": "no",
-            "text": "I årene 1945 til 1955, en historie om den fiktive italiensk-amerikanske mafiafamilien, Corleone. Når familiens patriark Vito Corleone, så vidt overlever et drapsforsøk, går hans yngste sønn, Michael inn for å ta seg av drapsmennene, og starter en gjengjeldelse med blodig hevn."
-          },
-          {
-            "lang": "sv",
-            "text": "Don Vito Corleone är överhuvud (gudfader) för en New York baserad maffia familj. Problem uppstår när en gangster stöd av en annan maffiafamilj, Sollozzo, delger sina planer på att börja sälja droger i New York. Don Vito hatar tanken på droger och han är klart nöjd med spel och beskydd verksamheterna som allaredan ger god avkastning. Ett försök att mörda Don Vito misslyckas och Sollozzo kidnappar istället Don Vitos rådgivare och försöker få honom att övertala Don Vitos son att acceptera droger som en ny inkomstkälla, men planen slår fel när Sollozzo får reda på att Don Vito fortfarande lever."
-          },
-          {
-            "lang": "en",
-            "text": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge."
-          },
-          {
-            "lang": "da",
-            "text": "Familien Corleone er en stor, varmhjertet slægt af italiensk herkomst. Samtidig er familiens overhoved, Don Vito, en ledende skikkelse i mafiaen, en \"gudfar\", hvis magt kun begrænses af hans konkurrenter."
-          },
-          {
-            "lang": "zh",
-            "text": "1972年上映的美國電影"
-          },
-          {
-            "lang": "zh-hans",
-            "text": "1972年上映的美国电影"
-          },
-          {
-            "lang": "en",
-            "text": "1972 film by Francis Ford Coppola"
-          },
-          {
-            "lang": "es",
-            "text": "película de 1972 dirigida por Francis Ford Coppola"
-          },
-          {
-            "lang": "fr",
-            "text": "film de Francis Ford Coppola, sorti en 1972"
-          },
-          {
-            "lang": "de",
-            "text": "Film von Francis Ford Coppola (1972)"
-          },
-          {
-            "lang": "pt",
-            "text": "filme de 1972 realizado por Francis Ford Coppola"
-          },
-          {
-            "lang": "ja",
-            "text": "アメリカの映画作品、『ゴッドファーザーシリーズ』の第1作目"
-          },
-          {
-            "lang": "ko",
-            "text": "1972년 개봉한 미국의 범죄 영화"
-          }
-        ],
-        "cover_image_url": "https://neodb.social/m/movie/2021/09/1324f7bdb2-898a-450b-95ca-73c4d1b92011.jpg",
-        "rating": 9.1,
-        "rating_count": 1852,
-        "rating_distribution": [
-          0,
-          1,
-          6,
-          26,
-          67
-        ],
-        "tags": null,
-        "brief": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
-        "id": "https://neodb.social/movie/6TlNfO3Svt0mcuUh67RnpO",
-        "uuid": "6TlNfO3Svt0mcuUh67RnpO",
-        "url": "/movie/6TlNfO3Svt0mcuUh67RnpO",
-        "api_url": "/api/movie/6TlNfO3Svt0mcuUh67RnpO",
-        "category": "movie",
-        "parent_uuid": null,
-        "display_title": "The Godfather",
-        "external_resources": [
-          {
-            "url": "https://eggplant.place/movie/4RmdZjmK0SJaZypJnNJuAH"
-          },
-          {
-            "url": "https://www.imdb.com/title/tt0068646/"
-          },
-          {
-            "url": "https://movie.douban.com/subject/1291841/"
-          },
-          {
-            "url": "https://www.themoviedb.org/movie/238"
-          },
-          {
-            "url": "https://minreol.dk/movie/4RHYiF2teQpStqE9oteObS"
-          },
-          {
-            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt0068646"
-          },
-          {
-            "url": "https://www.wikidata.org/wiki/Q47703"
-          }
-        ],
-        "credits": [
-          {
-            "role": "actor",
-            "name": "马龙·白兰度",
-            "character_name": "",
-            "person_url": "/api/people/5w1LZgi0UMdEk6Gl7K9SJ4"
-          },
-          {
-            "role": "actor",
-            "name": "阿尔·帕西诺",
-            "character_name": "",
-            "person_url": "/api/people/20HQ216h1SmXIrqs1n9zCR"
-          },
-          {
-            "role": "actor",
-            "name": "詹姆斯·肯恩",
-            "character_name": "",
-            "person_url": null
-          },
-          {
-            "role": "actor",
-            "name": "理查德·卡斯特尔诺",
-            "character_name": "",
-            "person_url": null
-          },
-          {
-            "role": "actor",
-            "name": "罗伯特·杜瓦尔",
-            "character_name": "",
-            "person_url": "/api/people/5r8orRjhplUBTemkhvVX9S"
-          },
-          {
-            "role": "actor",
-            "name": "斯特林·海登",
-            "character_name": "",
-            "person_url": "/api/people/7FT7jq3HQ6axu4nRR8csjd"
-          },
-          {
-            "role": "actor",
-            "name": "约翰·马利",
-            "character_name": "",
-            "person_url": "/api/people/09CTf5FPHwR9DU3xj79HP0"
-          },
-          {
-            "role": "actor",
-            "name": "理查德·康特",
-            "character_name": "",
-            "person_url": "/api/people/4iiOngrthTWSpRFOxoRDO2"
-          },
-          {
-            "role": "actor",
-            "name": "艾尔·勒提埃里",
-            "character_name": "",
-            "person_url": null
-          },
-          {
-            "role": "actor",
-            "name": "黛安·基顿",
-            "character_name": "",
-            "person_url": "/api/people/6Du5oqeacJMUnaNMY9mXD5"
-          },
-          {
-            "role": "actor",
-            "name": "阿贝·维高达",
-            "character_name": "",
-            "person_url": "/api/people/7OhRiOK0kibN0TBPo7II2z"
-          },
-          {
-            "role": "actor",
-            "name": "塔莉亚·夏尔",
-            "character_name": "",
-            "person_url": "/api/people/6SEqxRjs4yGQ45PtuYvFjW"
-          },
-          {
-            "role": "actor",
-            "name": "吉亚尼·罗素",
-            "character_name": "",
-            "person_url": null
-          },
-          {
-            "role": "actor",
-            "name": "约翰·凯泽尔",
-            "character_name": "",
-            "person_url": null
-          },
-          {
-            "role": "actor",
-            "name": "鲁迪·邦德",
-            "character_name": "",
-            "person_url": null
-          },
-          {
-            "role": "actor",
-            "name": "兰尼·蒙大拿",
-            "character_name": "",
-            "person_url": null
-          },
-          {
-            "role": "director",
-            "name": "弗朗西斯·科波拉",
-            "character_name": "",
-            "person_url": "/api/people/6Vk7Gm7r9WFAmHXrSrO647"
-          },
-          {
-            "role": "playwright",
-            "name": "马里奥·普佐",
-            "character_name": "",
-            "person_url": "/api/people/3G2y077pHE7wLRAFAbkX0i"
-          },
-          {
-            "role": "playwright",
-            "name": "弗朗西斯·科波拉",
-            "character_name": "",
-            "person_url": "/api/people/6Vk7Gm7r9WFAmHXrSrO647"
-          }
-        ]
-      },
-      "created_time": "2022-08-08T13:54:00Z",
-      "comment_text": null,
-      "rating_grade": 9,
       "tags": []
     },
     {
@@ -40096,7 +40462,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15f3e99e45-6b26-4747-a8f2-09f292b8f332.jpg",
         "rating": 8.3,
-        "rating_count": 1868,
+        "rating_count": 1869,
         "rating_distribution": [
           0,
           1,
@@ -42291,7 +42657,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/135717365f-c912-4679-9f01-b05fcca43095.jpg",
         "rating": 8.4,
-        "rating_count": 1858,
+        "rating_count": 1859,
         "rating_distribution": [
           0,
           2,
@@ -45978,7 +46344,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14e5043627-8e2d-43c0-a6cc-a8e05d8115d3.jpg",
         "rating": 9.4,
-        "rating_count": 2912,
+        "rating_count": 2913,
         "rating_distribution": [
           0,
           0,
@@ -46360,7 +46726,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13d1567d07-417b-4b7b-8356-5d0b87f43128.jpg",
         "rating": 9.1,
-        "rating_count": 2585,
+        "rating_count": 2586,
         "rating_distribution": [
           0,
           1,
@@ -46394,10 +46760,10 @@
             "url": "https://www.themoviedb.org/movie/13"
           },
           {
-            "url": "https://www.wikidata.org/wiki/Q134773"
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt0109830"
           },
           {
-            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt0109830"
+            "url": "https://www.wikidata.org/wiki/Q134773"
           }
         ],
         "credits": [
@@ -47955,5 +48321,5 @@
   ],
   "count": 145,
   "category": "movie",
-  "updated_at": "2026-07-27T02:05:38.977769"
+  "updated_at": "2026-07-28T01:47:02.968429"
 }
