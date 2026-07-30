@@ -16470,7 +16470,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16bb1ed25a-5722-42bb-be24-ddd0ba0b863c.jpg",
         "rating": 7.7,
-        "rating_count": 807,
+        "rating_count": 808,
         "rating_distribution": [
           0,
           2,
@@ -17391,7 +17391,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13676fe4c9-0bb8-4ba4-88d9-109f12d316f1.jpg",
         "rating": 9.5,
-        "rating_count": 1539,
+        "rating_count": 1540,
         "rating_distribution": [
           0,
           0,
@@ -21259,10 +21259,10 @@
             "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt0120382"
           },
           {
-            "url": "https://movie.douban.com/subject/1292064/"
+            "url": "https://www.wikidata.org/wiki/Q214801"
           },
           {
-            "url": "https://www.wikidata.org/wiki/Q214801"
+            "url": "https://movie.douban.com/subject/1292064/"
           }
         ],
         "credits": [
@@ -23498,7 +23498,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/156963fe1b-b7c5-48eb-bd54-03d23c3d8c01.jpg",
         "rating": 8.7,
-        "rating_count": 2086,
+        "rating_count": 2087,
         "rating_distribution": [
           0,
           1,
@@ -26554,7 +26554,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/07/be012b58-ed0a-4750-b71d-03b0f59276a6.jpg",
         "rating": 7.8,
-        "rating_count": 1227,
+        "rating_count": 1228,
         "rating_distribution": [
           2,
           3,
@@ -29786,7 +29786,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2023/07/20/8206c5c4-0d6d-46f6-a08c-7a7d3af84393.jpg",
         "rating": 7.0,
-        "rating_count": 899,
+        "rating_count": 900,
         "rating_distribution": [
           1,
           7,
@@ -48321,5 +48321,5 @@
   ],
   "count": 145,
   "category": "movie",
-  "updated_at": "2026-07-29T01:49:44.934156"
+  "updated_at": "2026-07-30T01:42:43.719550"
 }

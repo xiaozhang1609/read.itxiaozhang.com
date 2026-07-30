@@ -88,8 +88,8 @@
         "rating": 8.1,
         "rating_count": 866,
         "rating_distribution": [
-          0,
-          3,
+          1,
+          2,
           17,
           46,
           34
@@ -27827,5 +27827,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-07-29T01:49:51.444509"
+  "updated_at": "2026-07-30T01:42:52.629245"
 }
