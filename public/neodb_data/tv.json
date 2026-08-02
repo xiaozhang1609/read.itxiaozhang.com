@@ -3848,7 +3848,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13f0f1086d-2dd2-4f8b-a1a8-fff29ef19e35.jpg",
         "rating": 9.3,
-        "rating_count": 1369,
+        "rating_count": 1370,
         "rating_distribution": [
           0,
           0,
@@ -4767,7 +4767,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/26a4fa45-6953-49f9-b8cf-35f7ca58275b.jpg",
         "rating": 7.6,
-        "rating_count": 234,
+        "rating_count": 235,
         "rating_distribution": [
           1,
           5,
@@ -5041,7 +5041,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/9b8c9c00-d17c-4de2-9dc4-d7d8eba26a3c.jpg",
         "rating": 8.2,
-        "rating_count": 406,
+        "rating_count": 407,
         "rating_distribution": [
           1,
           3,
@@ -5236,7 +5236,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/91aef100-a4ff-4866-8e5e-a6b1af1bc754.jpg",
         "rating": 8.5,
-        "rating_count": 289,
+        "rating_count": 290,
         "rating_distribution": [
           0,
           1,
@@ -5363,7 +5363,7 @@
       "item": {
         "type": "TVSeason",
         "title": "Demon Slayer: Kimetsu no Yaiba (Demon Slayer)",
-        "description": "电视动画《鬼灭之刃》改编自吾峠呼世晴创作的同名漫画，于2018年6月4日在《周刊少年JUMP》2018年6月第27号上发表了动画化的消息。动画由ufotable负责制作。 于2019年4月放送开始。\n日本大正时期，那是一个吃人的恶鬼横行的世界，一名家人被鬼杀死，妹妹也变成了鬼的主人公炭治郎，在猎鬼人的指引下，成为了鬼猎人组织“鬼杀队”的一员，为了让妹妹祢豆子变回人类，为了讨伐杀害家人的恶鬼，为了斩断悲伤的连锁而展开了战斗。",
+        "description": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human, and kill the demon that massacred his family.\n \n\n \n(Source: Crunchyroll)",
         "localized_title": [
           {
             "lang": "zh-cn",
@@ -5388,17 +5388,93 @@
           {
             "lang": "hr",
             "text": "Kimetsu no Yaiba"
+          },
+          {
+            "lang": "en",
+            "text": "Demon Slayer: Kimetsu no Yaiba"
+          },
+          {
+            "lang": "x",
+            "text": "Kimetsu no Yaiba"
+          },
+          {
+            "lang": "x",
+            "text": "KnY"
+          },
+          {
+            "lang": "ro",
+            "text": "Kimetsu no Yaiba: Kyoudai no Kizuna"
+          },
+          {
+            "lang": "x",
+            "text": "Demon Slayer: Kimetsu no Yaiba: Bonds of Siblings"
+          },
+          {
+            "lang": "x",
+            "text": "鬼滅の刃-兄妹の絆-"
+          },
+          {
+            "lang": "he",
+            "text": "הלהב קוטל השדים"
+          },
+          {
+            "lang": "ar",
+            "text": "قاتل الشياطين"
+          },
+          {
+            "lang": "th",
+            "text": "ดาบพิฆาตอสูร"
+          },
+          {
+            "lang": "pl",
+            "text": "Miecz zabójcy demonów – Kimetsu no Yaiba"
+          },
+          {
+            "lang": "fi",
+            "text": " Guardians de la nit: Kimetsu no Yaiba"
+          },
+          {
+            "lang": "x",
+            "text": "İblis Keser"
+          },
+          {
+            "lang": "el",
+            "text": "ΚΥΝΗΓΟΣ ΔΑΙΜΟΝΩΝ: KIMETSU NO YAIBA"
+          },
+          {
+            "lang": "cs",
+            "text": "Zabiják démonů"
+          },
+          {
+            "lang": "fa",
+            "text": "شیطان کش"
+          },
+          {
+            "lang": "ko",
+            "text": "귀멸의 칼날"
+          },
+          {
+            "lang": "ru",
+            "text": "Истребитель демонов"
+          },
+          {
+            "lang": "x",
+            "text": "Клинок, рассекающий демонов"
           }
         ],
         "localized_description": [
           {
             "lang": "zh-cn",
             "text": "电视动画《鬼灭之刃》改编自吾峠呼世晴创作的同名漫画，于2018年6月4日在《周刊少年JUMP》2018年6月第27号上发表了动画化的消息。动画由ufotable负责制作。 于2019年4月放送开始。\n日本大正时期，那是一个吃人的恶鬼横行的世界，一名家人被鬼杀死，妹妹也变成了鬼的主人公炭治郎，在猎鬼人的指引下，成为了鬼猎人组织“鬼杀队”的一员，为了让妹妹祢豆子变回人类，为了讨伐杀害家人的恶鬼，为了斩断悲伤的连锁而展开了战斗。"
+          },
+          {
+            "lang": "en",
+            "text": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human, and kill the demon that massacred his family.\n \n\n \n(Source: Crunchyroll)"
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158cac42e4-74fb-472f-afd5-78984be19315.jpg",
         "rating": 8.2,
-        "rating_count": 858,
+        "rating_count": 859,
         "rating_distribution": [
           1,
           2,
@@ -5407,7 +5483,7 @@
           36
         ],
         "tags": null,
-        "brief": "电视动画《鬼灭之刃》改编自吾峠呼世晴创作的同名漫画，于2018年6月4日在《周刊少年JUMP》2018年6月第27号上发表了动画化的消息。动画由ufotable负责制作。 于2019年4月放送开始。\n日本大正时期，那是一个吃人的恶鬼横行的世界，一名家人被鬼杀死，妹妹也变成了鬼的主人公炭治郎，在猎鬼人的指引下，成为了鬼猎人组织“鬼杀队”的一员，为了让妹妹祢豆子变回人类，为了讨伐杀害家人的恶鬼，为了斩断悲伤的连锁而展开了战斗。",
+        "brief": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human, and kill the demon that massacred his family.\n \n\n \n(Source: Crunchyroll)",
         "id": "https://neodb.social/tv/season/6w9C7lVHbDMULFhw8sywTo",
         "uuid": "6w9C7lVHbDMULFhw8sywTo",
         "url": "/tv/season/6w9C7lVHbDMULFhw8sywTo",
@@ -5424,6 +5500,9 @@
           },
           {
             "url": "https://bgm.tv/subject/245665"
+          },
+          {
+            "url": "https://anilist.co/anime/101922"
           }
         ],
         "credits": [
@@ -5909,6 +5988,12 @@
           },
           {
             "role": "director",
+            "name": "Haruo Sotozaki",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "director",
             "name": "细川秀树",
             "character_name": "",
             "person_url": null
@@ -5957,6 +6042,12 @@
           },
           {
             "role": "playwright",
+            "name": "ufotable",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "producer",
             "name": "ufotable",
             "character_name": "",
             "person_url": null
@@ -10653,7 +10744,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/166b5ad5c7-a449-4956-afb3-cad395d9d614.jpg",
         "rating": 8.4,
-        "rating_count": 134,
+        "rating_count": 135,
         "rating_distribution": [
           0,
           4,
@@ -10865,7 +10956,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/17942e6d87-3ed1-4274-97d5-64cd5430a2b6.jpg",
         "rating": 8.5,
-        "rating_count": 177,
+        "rating_count": 178,
         "rating_distribution": [
           0,
           2,
@@ -11222,7 +11313,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1532a54bd6-77fe-4203-b8f2-bd290c3b6dc0.jpg",
         "rating": 8.3,
-        "rating_count": 314,
+        "rating_count": 315,
         "rating_distribution": [
           0,
           4,
@@ -11498,7 +11589,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/08/69d304f8-1a0f-4f06-9a4a-b1d870f43864.webp",
         "rating": 8.0,
-        "rating_count": 239,
+        "rating_count": 240,
         "rating_distribution": [
           1,
           2,
@@ -13686,13 +13777,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/16/f28d5972-1708-4dd1-a655-d75431e32c33.webp",
         "rating": 9.0,
-        "rating_count": 832,
+        "rating_count": 833,
         "rating_distribution": [
           0,
           0,
           6,
-          34,
-          60
+          33,
+          61
         ],
         "tags": null,
         "brief": "自从人类的和平被超大型巨人打破的那天起，艾伦·耶格尔便每天持续着没有尽头的战斗...因为眼睁睁看着母亲被巨人撕裂，艾伦发誓要将世间的巨人一只不留地杀灭。但是，在严酷的战斗中，艾伦自身也会变成巨人的姿态——。为了人类的自由，艾伦施展着巨人的力量，并和女人型的巨人发生了冲突。巨人间的战斗中艾伦最终得以胜出。巨人不断地造访，下一轮的战斗已经宣告开始。对于接连而来的巨人，人类将如何去面对！？第二期于2017年4月1日起每周六21：00在TOKYO MX首播  ，全12话。",
@@ -13947,7 +14038,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/24/a9688316-76fe-4704-add5-ab62c18e523f.webp",
         "rating": 9.3,
-        "rating_count": 754,
+        "rating_count": 755,
         "rating_distribution": [
           0,
           0,
@@ -14205,7 +14296,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/01/0601fef99c-a667-460e-bebd-99e45fb92e8a.webp",
         "rating": 9.7,
-        "rating_count": 667,
+        "rating_count": 668,
         "rating_distribution": [
           0,
           0,
@@ -14668,13 +14759,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/21/156627ec-4352-454a-a41e-6a1a5ae83070.jpg",
         "rating": 9.2,
-        "rating_count": 625,
+        "rating_count": 626,
         "rating_distribution": [
           1,
-          1,
+          0,
           5,
           25,
-          68
+          69
         ],
         "tags": null,
         "brief": "「有一种巨人无论生在什么时代，都只会为了自由而不断前进，为了自由而不断战斗，它的名字是——“进击的巨人”」关于墙外的真实和巨人的真面目，逐渐地被揭露了出来。为了实现这个目标，人类付出了巨大的牺牲，在他们的不断前进下，他们终于可以看到自由的象征，墙外世界才能看得见的海。时光流逝，离第一次「超大型巨人」的袭击过去了6年后，调查兵团跑出玛利亚之墙外进行着调查「以前我一直相信，墙的外面有海，海的那边有自由...」墙内的人类，第一次面朝大海。但真的和梦想一样，那广阔的地平线的那边真的有自由吗？艾伦·耶格尔的故事，即将迎来新的局面。",
@@ -14978,7 +15069,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2023/03/14/e0cc80de-58b3-4a0c-ba0b-cb1ed25f326a.webp",
         "rating": 8.8,
-        "rating_count": 586,
+        "rating_count": 587,
         "rating_distribution": [
           1,
           0,
@@ -15474,7 +15565,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/10/25/9d58efc5-69fd-4a00-b651-942c37a2ed0f.jpg",
         "rating": 8.8,
-        "rating_count": 387,
+        "rating_count": 386,
         "rating_distribution": [
           1,
           1,
@@ -15804,13 +15895,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/24/7b6ac0a9-1096-4531-a7b5-3dbb05ca776e.webp",
         "rating": 9.1,
-        "rating_count": 373,
+        "rating_count": 374,
         "rating_distribution": [
           0,
           1,
           7,
-          25,
-          67
+          24,
+          68
         ],
         "tags": null,
         "brief": "在艾伦他们居住的帕拉迪岛之外，还存在一个其他人类居住的世界。当中一个国家「玛雷」与其他各国爆发战争。陷入苦战之际，他们决定要攻进帕拉迪岛，把「始祖的巨人」抢过来。在这里又看到另一群孩子们拼命求生存的身影……",
@@ -22331,11 +22422,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16e988f47f-a6ae-4875-b1f2-dde3529b88ff.jpg",
         "rating": 7.9,
-        "rating_count": 214,
+        "rating_count": 213,
         "rating_distribution": [
-          1,
+          2,
           3,
-          20,
+          19,
           49,
           27
         ],
@@ -23146,7 +23237,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16c1d450ea-c8ef-43f5-b29a-024062efeda9.jpg",
         "rating": 9.4,
-        "rating_count": 105,
+        "rating_count": 104,
         "rating_distribution": [
           0,
           0,
@@ -23519,13 +23610,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/164196bd4a-d9ca-472f-b930-3c9951369ccc.jpg",
         "rating": 9.0,
-        "rating_count": 104,
+        "rating_count": 103,
         "rating_distribution": [
           0,
           0,
           6,
-          35,
-          59
+          36,
+          58
         ],
         "tags": null,
         "brief": "《我的三体》是一部粉丝自制的动画番剧，改编自刘慈欣的科幻小说《三体》。旨在以方的风格把《三体》的故事改编成动画。由神游八方始更于2014年，截至2015年10月6日，共拍摄完成并发布了11集 ，第一季完结。",
@@ -27827,5 +27918,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-08-01T02:02:06.339187"
+  "updated_at": "2026-08-02T01:57:11.895582"
 }
