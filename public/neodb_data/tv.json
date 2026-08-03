@@ -86,7 +86,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15d11df79d-e135-4b40-92fb-908b367c3558.jpg",
         "rating": 8.1,
-        "rating_count": 866,
+        "rating_count": 867,
         "rating_distribution": [
           1,
           2,
@@ -433,7 +433,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/154b044d00-d0d8-4d95-84fc-3562fddcdaaa.jpg",
         "rating": 8.3,
-        "rating_count": 1001,
+        "rating_count": 1002,
         "rating_distribution": [
           1,
           1,
@@ -763,7 +763,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15972032e2-9c87-4328-baa9-21c0395470bf.jpg",
         "rating": 8.5,
-        "rating_count": 1351,
+        "rating_count": 1352,
         "rating_distribution": [
           0,
           1,
@@ -4120,7 +4120,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/02/16/1c296bee-5d49-4208-b11b-f7f0f949bc64.jpg",
         "rating": 8.4,
-        "rating_count": 297,
+        "rating_count": 298,
         "rating_distribution": [
           1,
           2,
@@ -6149,7 +6149,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tv/2024/04/20/7448d3b5-249e-40c0-b76d-daed7a64157f.webp",
         "rating": 7.4,
-        "rating_count": 154,
+        "rating_count": 155,
         "rating_distribution": [
           1,
           4,
@@ -8239,12 +8239,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2024/08/29/43e193de-dc85-411d-8021-7d18962b38e7.jpg",
         "rating": 7.3,
-        "rating_count": 118,
+        "rating_count": 120,
         "rating_distribution": [
           0,
           4,
-          31,
-          51,
+          30,
+          52,
           14
         ],
         "tags": null,
@@ -13777,13 +13777,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/16/f28d5972-1708-4dd1-a655-d75431e32c33.webp",
         "rating": 9.0,
-        "rating_count": 833,
+        "rating_count": 834,
         "rating_distribution": [
           0,
           0,
           6,
-          33,
-          61
+          34,
+          60
         ],
         "tags": null,
         "brief": "自从人类的和平被超大型巨人打破的那天起，艾伦·耶格尔便每天持续着没有尽头的战斗...因为眼睁睁看着母亲被巨人撕裂，艾伦发誓要将世间的巨人一只不留地杀灭。但是，在严酷的战斗中，艾伦自身也会变成巨人的姿态——。为了人类的自由，艾伦施展着巨人的力量，并和女人型的巨人发生了冲突。巨人间的战斗中艾伦最终得以胜出。巨人不断地造访，下一轮的战斗已经宣告开始。对于接连而来的巨人，人类将如何去面对！？第二期于2017年4月1日起每周六21：00在TOKYO MX首播  ，全12话。",
@@ -14038,7 +14038,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/24/a9688316-76fe-4704-add5-ab62c18e523f.webp",
         "rating": 9.3,
-        "rating_count": 755,
+        "rating_count": 756,
         "rating_distribution": [
           0,
           0,
@@ -14296,7 +14296,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/01/0601fef99c-a667-460e-bebd-99e45fb92e8a.webp",
         "rating": 9.7,
-        "rating_count": 668,
+        "rating_count": 669,
         "rating_distribution": [
           0,
           0,
@@ -15349,7 +15349,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/2775557ce8-06f5-4882-a7e4-a3293ba16d3a.jpg",
         "rating": 8.9,
-        "rating_count": 1154,
+        "rating_count": 1155,
         "rating_distribution": [
           0,
           1,
@@ -27918,5 +27918,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-08-02T01:57:11.895582"
+  "updated_at": "2026-08-03T01:59:53.215711"
 }
