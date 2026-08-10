@@ -10979,7 +10979,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/08/05/8722487d-911a-4260-8589-4ea0626eb134.jpg",
         "rating": 5.8,
-        "rating_count": 391,
+        "rating_count": 392,
         "rating_distribution": [
           8,
           20,
@@ -15495,7 +15495,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15a47c8284-e2de-42cb-8e53-3066c6a3f0f1.jpg",
         "rating": 7.2,
-        "rating_count": 954,
+        "rating_count": 955,
         "rating_distribution": [
           1,
           5,
@@ -19473,7 +19473,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14e13c0daf-a37b-44be-90ba-9c071890a000.jpg",
         "rating": 7.9,
-        "rating_count": 498,
+        "rating_count": 499,
         "rating_distribution": [
           0,
           3,
@@ -26930,15 +26930,19 @@
           {
             "lang": "en",
             "text": "Simon is a scion of a wealthy family who struggles to have a stable relationship because of his womanizing ways. When he finds a wife, Moon, he spots another woman and conspires to marry her."
+          },
+          {
+            "lang": "zh-cn",
+            "text": "该片改编自明代长篇世情小说《金瓶梅》，讲述了世家子弟西门庆离家赴京，却因病而无意中被尼姑救回庵堂，巧遇小尼姑明月，遂将她娶回家。在父亲过世后，他继承了万贯家财，开启了他荒淫纵欲的色欲生活。"
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/12/10782d8b03-2b0f-4060-9db2-3052133ef3fe.jpg",
         "rating": 5.3,
-        "rating_count": 65,
+        "rating_count": 66,
         "rating_distribution": [
           11,
-          31,
-          38,
+          30,
+          39,
           20,
           0
         ],
@@ -26963,6 +26967,9 @@
           },
           {
             "url": "https://www.wikidata.org/wiki/Q11647648"
+          },
+          {
+            "url": "https://bgm.tv/subject/638119"
           }
         ],
         "credits": [
@@ -27040,7 +27047,7 @@
           },
           {
             "role": "playwright",
-            "name": "钱文锜",
+            "name": "Cash Chin Man-Kei",
             "character_name": "",
             "person_url": "/api/people/2lJooEbI2jZMNSs1A231lk"
           }
@@ -43460,7 +43467,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15f440c10b-6210-43ff-860d-907297628e18.jpg",
         "rating": 7.4,
-        "rating_count": 2443,
+        "rating_count": 2444,
         "rating_distribution": [
           2,
           6,
@@ -78476,7 +78483,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15d7ec50c1-e799-446f-88ff-c9933b7bed8a.jpg",
         "rating": 7.6,
-        "rating_count": 393,
+        "rating_count": 394,
         "rating_distribution": [
           0,
           3,
@@ -79253,36 +79260,36 @@
     "game",
     "performance"
   ],
-  "updated_at": "2026-08-09T01:02:59.342893",
+  "updated_at": "2026-08-10T01:04:43.461956",
   "stats": {
     "movie": {
       "count": 145,
-      "time": 9.03
+      "time": 10.25
     },
     "tv": {
       "count": 115,
-      "time": 6.21
+      "time": 6.86
     },
     "book": {
       "count": 36,
-      "time": 1.32
+      "time": 1.59
     },
     "music": {
       "count": 4,
-      "time": 0.11
+      "time": 0.18
     },
     "podcast": {
       "count": 0,
-      "time": 0.08
+      "time": 0.13
     },
     "game": {
       "count": 1,
-      "time": 0.11
+      "time": 0.17
     },
     "performance": {
       "count": 2,
-      "time": 0.12
+      "time": 0.16
     }
   },
-  "total_time": 16.98
+  "total_time": 19.33
 }
