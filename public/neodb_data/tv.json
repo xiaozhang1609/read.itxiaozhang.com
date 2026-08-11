@@ -4090,6 +4090,10 @@
           {
             "lang": "zh-cn",
             "text": "龙族前传(台)"
+          },
+          {
+            "lang": "en",
+            "text": "House of the Dragon - Season 1"
           }
         ],
         "localized_description": [
@@ -4120,7 +4124,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/02/16/1c296bee-5d49-4208-b11b-f7f0f949bc64.jpg",
         "rating": 8.4,
-        "rating_count": 299,
+        "rating_count": 300,
         "rating_distribution": [
           1,
           2,
@@ -4142,6 +4146,9 @@
             "url": "https://movie.douban.com/subject/34825964/"
           },
           {
+            "url": "https://bridge.neodb.net/catalog/tv_season/tmdbId-134965"
+          },
+          {
             "url": "https://www.themoviedb.org/tv/94997/season/1"
           },
           {
@@ -4157,25 +4164,25 @@
           },
           {
             "role": "actor",
-            "name": "马特·史密斯",
+            "name": "Matt Smith",
             "character_name": "",
             "person_url": "/api/people/62xGYAFkVA9lGfGJxJCEi9"
           },
           {
             "role": "actor",
-            "name": "艾玛·达西",
+            "name": "Emma D'Arcy",
             "character_name": "",
             "person_url": "/api/people/7DfdK0DrRW4Oxd5Cq39alE"
           },
           {
             "role": "actor",
-            "name": "奥利维亚·库克",
+            "name": "Olivia Cooke",
             "character_name": "",
             "person_url": "/api/people/5uftQDZKJDyyQe9vPEiTX1"
           },
           {
             "role": "actor",
-            "name": "米莉·阿尔科克",
+            "name": "Milly Alcock",
             "character_name": "",
             "person_url": "/api/people/1jqh9XZBmUZwkFGNzjJxLb"
           },
@@ -4187,19 +4194,19 @@
           },
           {
             "role": "actor",
-            "name": "瑞斯·伊凡斯",
+            "name": "Rhys Ifans",
             "character_name": "",
             "person_url": "/api/people/7IeO5WYehIYxeAxYtwBIRm"
           },
           {
             "role": "actor",
-            "name": "史蒂夫·图森特",
+            "name": "Steve Toussaint",
             "character_name": "",
             "person_url": "/api/people/5razgFp1uBXdQZpoO5Xdrm"
           },
           {
             "role": "actor",
-            "name": "伊芙·贝斯特",
+            "name": "Eve Best",
             "character_name": "",
             "person_url": "/api/people/6Y3Ox7MyGKoHr1tIsjq80h"
           },
@@ -4223,7 +4230,7 @@
           },
           {
             "role": "actor",
-            "name": "马修·尼达姆",
+            "name": "Matthew Needham",
             "character_name": "",
             "person_url": "/api/people/547V0AnLS6ikAl5WRkhusz"
           },
@@ -4253,7 +4260,7 @@
           },
           {
             "role": "actor",
-            "name": "汤姆·格林-卡尼",
+            "name": "Tom Glynn-Carney",
             "character_name": "",
             "person_url": "/api/people/37U0uWdeFc8eS6yY6LSMwV"
           },
@@ -4265,7 +4272,7 @@
           },
           {
             "role": "actor",
-            "name": "伊万·米切尔",
+            "name": "Ewan Mitchell",
             "character_name": "",
             "person_url": "/api/people/3ZrJ7GNWyp6HEgvSwKED0c"
           },
@@ -4361,19 +4368,19 @@
           },
           {
             "role": "actor",
-            "name": "大卫·霍罗维奇",
+            "name": "David Horovitch",
             "character_name": "",
             "person_url": "/api/people/1pDnwjrlpyPv1DpeViIQcf"
           },
           {
             "role": "actor",
-            "name": "比尔·帕特森",
+            "name": "Bill Paterson",
             "character_name": "",
             "person_url": "/api/people/3lD8Pnce66pDMTWG9iPWiH"
           },
           {
             "role": "actor",
-            "name": "加文·斯派克",
+            "name": "Gavin Spokes",
             "character_name": "",
             "person_url": "/api/people/5celQJxbrQvTX0gHGALmzq"
           },
@@ -4391,13 +4398,13 @@
           },
           {
             "role": "actor",
-            "name": "艾略特·提特恩索",
+            "name": "Elliott Tittensor",
             "character_name": "",
             "person_url": "/api/people/3KHQUgtZifChP6ptomD7Ub"
           },
           {
             "role": "actor",
-            "name": "加里·库珀",
+            "name": "Gary Cooper",
             "character_name": "",
             "person_url": "/api/people/46DzRlEEqJyVqFL27wfklM"
           },
@@ -4433,13 +4440,13 @@
           },
           {
             "role": "actor",
-            "name": "加里·雷蒙德",
+            "name": "Gary Raymond",
             "character_name": "",
             "person_url": "/api/people/03ADrgQII5VlDJAK31BUBk"
           },
           {
             "role": "actor",
-            "name": "安德鲁·比克内尔",
+            "name": "Andrew Bicknell",
             "character_name": "",
             "person_url": "/api/people/18EfjoEpFPR6oaGCbTWTTa"
           },
@@ -4469,7 +4476,7 @@
           },
           {
             "role": "actor",
-            "name": "安东尼·弗拉纳根",
+            "name": "Anthony Flanagan",
             "character_name": "",
             "person_url": "/api/people/1YP17DDyAzus6FoD6CSOy2"
           },
@@ -4481,7 +4488,7 @@
           },
           {
             "role": "actor",
-            "name": "罗茜·伊德",
+            "name": "Rosie Ede",
             "character_name": "",
             "person_url": "/api/people/0UhBRnwikWABGVXx6ccuGF"
           },
@@ -4499,7 +4506,7 @@
           },
           {
             "role": "actor",
-            "name": "威尔·约翰逊",
+            "name": "Wil Johnson",
             "character_name": "",
             "person_url": "/api/people/3iWWvmHVovdrJPECGUU6KI"
           },
@@ -4511,7 +4518,7 @@
           },
           {
             "role": "actor",
-            "name": "阿弗拉比·阿里",
+            "name": "Afolabi Alli",
             "character_name": "",
             "person_url": "/api/people/1qYtVOlOEpIrDv9F0hgQCG"
           },
@@ -4529,19 +4536,19 @@
           },
           {
             "role": "director",
-            "name": "米格尔·萨普什尼克",
+            "name": "Miguel Sapochnik",
             "character_name": "",
             "person_url": "/api/people/31kFpKkXaM8koFwqaNVimk"
           },
           {
             "role": "director",
-            "name": "格雷格·艾坦尼斯",
+            "name": "Greg Yaitanes",
             "character_name": "",
             "person_url": "/api/people/1HYv2EovNO1srJ4QYGlc8J"
           },
           {
             "role": "director",
-            "name": "克莱尔·基尔纳",
+            "name": "Clare Kilner",
             "character_name": "",
             "person_url": "/api/people/4PUVcQxhEStaIwiWsjKI7i"
           },
@@ -4553,7 +4560,7 @@
           },
           {
             "role": "playwright",
-            "name": "莱恩·康道尔",
+            "name": "Ryan Condal",
             "character_name": "",
             "person_url": "/api/people/7RFjTY9uh5m1ot0KuluKIF"
           },
@@ -4595,7 +4602,7 @@
           },
           {
             "role": "playwright",
-            "name": "乔治·马丁",
+            "name": "George Martin",
             "character_name": "",
             "person_url": "/api/people/6BODBtjmhXYnjGhdN4yQtS"
           }
@@ -4767,7 +4774,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/26a4fa45-6953-49f9-b8cf-35f7ca58275b.jpg",
         "rating": 7.6,
-        "rating_count": 235,
+        "rating_count": 236,
         "rating_distribution": [
           1,
           5,
@@ -5982,15 +5989,15 @@
           },
           {
             "role": "director",
-            "name": "外崎春雄",
-            "character_name": "",
-            "person_url": "/api/people/7BoxerbJEQEdWWSSKYCZ7C"
-          },
-          {
-            "role": "director",
             "name": "Haruo Sotozaki",
             "character_name": "",
             "person_url": null
+          },
+          {
+            "role": "director",
+            "name": "外崎春雄",
+            "character_name": "",
+            "person_url": "/api/people/7BoxerbJEQEdWWSSKYCZ7C"
           },
           {
             "role": "director",
@@ -27918,5 +27925,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-08-10T01:04:41.205975"
+  "updated_at": "2026-08-11T01:03:58.393738"
 }
