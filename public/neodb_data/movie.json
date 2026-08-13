@@ -6635,7 +6635,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/2262525396-9dcf-4fc7-a01e-8790548550e3.jpg",
         "rating": 7.3,
-        "rating_count": 244,
+        "rating_count": 245,
         "rating_distribution": [
           0,
           1,
@@ -8688,7 +8688,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15a47c8284-e2de-42cb-8e53-3066c6a3f0f1.jpg",
         "rating": 7.2,
-        "rating_count": 955,
+        "rating_count": 956,
         "rating_distribution": [
           1,
           5,
@@ -23514,7 +23514,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/156963fe1b-b7c5-48eb-bd54-03d23c3d8c01.jpg",
         "rating": 8.7,
-        "rating_count": 2093,
+        "rating_count": 2095,
         "rating_distribution": [
           0,
           1,
@@ -34439,7 +34439,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15b71e1380-9ed2-4ac2-bf49-d2e2b3c92156.jpg",
         "rating": 7.7,
-        "rating_count": 1645,
+        "rating_count": 1646,
         "rating_distribution": [
           0,
           3,
@@ -47131,300 +47131,6 @@
     {
       "shelf_type": "complete",
       "visibility": 0,
-      "post_id": 6590595608874792,
-      "item": {
-        "type": "Movie",
-        "title": "Penguins of Madagascar",
-        "description": "Skipper, Kowalski, Rico and Private join forces with undercover organization The North Wind to stop the villainous Dr. Octavius Brine from destroying the world as we know it.",
-        "localized_title": [
-          {
-            "lang": "id",
-            "text": "Penguins of Madagascar"
-          },
-          {
-            "lang": "fr",
-            "text": "Les Pingouins de Madagascar"
-          },
-          {
-            "lang": "de",
-            "text": "Die Pinguine aus Madagascar"
-          },
-          {
-            "lang": "no",
-            "text": "Madagaskarpingvinene"
-          },
-          {
-            "lang": "sv",
-            "text": "Pingvinerna från Madagaskar"
-          },
-          {
-            "lang": "en",
-            "text": "Penguins of Madagascar"
-          },
-          {
-            "lang": "da",
-            "text": "Pingvinerne fra Madagascar"
-          },
-          {
-            "lang": "zh-cn",
-            "text": "马达加斯加的企鹅"
-          },
-          {
-            "lang": "zh-tw",
-            "text": "馬達加斯加爆走企鵝"
-          },
-          {
-            "lang": "zh-hk",
-            "text": "荒失失企鵝"
-          },
-          {
-            "lang": "zh-hant",
-            "text": "馬達加斯加爆走企鵝"
-          },
-          {
-            "lang": "zh-sg",
-            "text": "荒失失企鹅"
-          },
-          {
-            "lang": "es",
-            "text": "Los pingüinos de Madagascar"
-          },
-          {
-            "lang": "pt",
-            "text": "Os Pinguins de Madagascar: O filme"
-          },
-          {
-            "lang": "ko",
-            "text": "마다가스카의 펭귄"
-          },
-          {
-            "lang": "ja",
-            "text": "ペンギンズ FROM マダガスカル ザ・ムービー"
-          },
-          {
-            "lang": "fr",
-            "text": "Penguins of Madagascar"
-          }
-        ],
-        "localized_description": [
-          {
-            "lang": "zh-cn",
-            "text": "为了给最疼爱的小老弟菜鸟（克里斯多夫·奈茨 Christopher Knights 配音）庆生，老大（汤姆·麦格拉思 Tom McGrath 配音）带领菜鸟以及好搭档科斯基（克里斯·米勒 Chris Miller 配音）、瑞哥闯入了防守最严密的美国黄金储备中心，只为找到金库尽头仅有的那台销售炸薯条的自动贩卖机。谁知他们刚刚完成任务没多久，便被长着触角的贩卖机吞了进去，随后被运到一个神秘的所在。在全封闭的设施内，四只企鹅见到了伪装成基因遗传科学家的章鱼戴夫（约翰·马尔科维奇 John Malkovich 配音）。原来戴夫曾是动物园一只明星章鱼，但随着萌态十足的企鹅们的到来，他便跌入了绝望的深谷。因此戴夫潜心研制了可怕的血清，发誓要向所有他曾待过的动物园中的企鹅展开报复。\n老大和伙伴们在逃亡途中得到北风特工队的救助，而他们和这些高傲的特工队员将分别阻止戴夫的阴谋……"
-          },
-          {
-            "lang": "fr",
-            "text": "Vous pensiez connaître les Pingouins de Madagascar ? Pourtant, les quatre frères cachent un lourd secret. Ils sont en fait… agents secrets ! Pour sauver le monde du terrible Docteur Octavius, les pingouins devront s’associer à la très chic organisation de la North Wind menée par le superbe husky au nom classé secret."
-          },
-          {
-            "lang": "de",
-            "text": "Zehn Jahre, nachdem Skipper, Kowalski, Rico und Private Spaß und abenteuerliche Spezialeinsätze als Lebensziel ausgerufen haben, stehen die vier Pinguine aus dem New Yorker Zoo vor ihrer größten Herausforderung. Oktopus Dave will sich an allen Pinguinen rächen, sie in monströse Kreaturen verwandeln, weil ihm die niedlichen Vögel in jedem Tierpark die Schau stahlen. Doch Dave rechnet nicht mit der souveränen Coolness der Frackträger und der Unterstützung, die sie durch die Superprofis vom Agententeam \"Nordwind\" erhalten."
-          },
-          {
-            "lang": "no",
-            "text": "Superspioner blir ikke født... de klekkes! Oppdag hemmelighetene bak de beste og morsomste pingvinene i hele spionbransjen: Skipper, Kowalski, Rico og Menig. Denne elitegruppen slår seg sammen med den hemmelige organisasjonen, Nordavinden, som ledes av Agent Hemmelig (Vi kunne ha fortalt deg hans virkelige navn, men da... ja du vet). Sammen må de stoppe den skurken Dr. Oktavius Blekk fra å ødelegge verden slik vi kjenner den!"
-          },
-          {
-            "lang": "sv",
-            "text": "Pingvinerna Skepparn, Kowalski, Rico och Basse ger sig ut på ett superhemligt uppdrag för  att stoppa den ondskefulle dr Octavius Bläcks planer på världsherravälde. De samarbetar med underrättelsetjänsten Nordanvinden, som leds av agent Hemlig (vi kan säga hans namn men då måste vi... ja, ni vet)."
-          },
-          {
-            "lang": "en",
-            "text": "Skipper, Kowalski, Rico and Private join forces with undercover organization The North Wind to stop the villainous Dr. Octavius Brine from destroying the world as we know it."
-          },
-          {
-            "lang": "da",
-            "text": "Blæksprutten dr. Octavius Brine nærer et indædt had til den langt mere nuttede pingvinrace. Forklædt som forsker vil Brine kidnappe alle pingviner i verden og forvandle dem til frastødende mutanter! Men de fire pingvinagenter Skipper, Kowalski, Rico og Rekrut er på sagen, og de får hjælp af indsatsstyrken Nordenvind, der består af en ulv, en sæl, en isbjørn og en ugle."
-          },
-          {
-            "lang": "ko",
-            "text": "넘치는 유머, 감쪽 같은 위장술, 똑소리 나는 브레인! 날 때부터 남달랐던 악동 펭귄 스키퍼, 코왈스키, 리코, 프라이빗! 어느 날 그들 앞에 복수심에 불타는 문어박사 옥토브레인이 나타나고, 그의 거대한 음모를 알게 된 펭귄 4총사는 비밀 조직 ‘노스윈드’와 함께 세상을 구할 사상 최대의 작전을 펼치는데…!"
-          },
-          {
-            "lang": "ja",
-            "text": "キュートな外見とは裏腹にエリートスパイとして活躍するペンギンズは秘密の潜入捜査中、かつて動物園で彼らに人気を奪われたことを恨むタコのデーブに誘拐される。デーブが人間の姿をしたオクト博士に姿を変え、世界中のペンギンへの復讐（ふくしゅう）を計画していることを知ったペンギンズは、スパイ軍団「ノース・ウィンド」と手を組み邪悪な陰謀に立ち向かう。"
-          },
-          {
-            "lang": "pt",
-            "text": "Equipas de super espiões não nascem assim... são chocados. Descobre os segredos das mais espetaculares e mais hilariantes aves secretas da espionagem mundial: Capitão, Kowalski, Rico e Soldado. Estes top da elite irão unir forças com uma organização de intervenção secreta, Vento do Norte, que protege os animais. Liderados pelo engraçado Agente Secreto (poderíamos dizer o nome dele, mas depois... tu sabes), com a voz de Benedict Cumberbatch. Juntos, eles têm de evitar que o vilão Dr. Octavius."
-          },
-          {
-            "lang": "es",
-            "text": "Skypper, Kowalsky, Rico y Cabo, los superagentes pingüinos, tienen que salvar el mundo en una misión para la que llevan prepárandose toda la vida. Dicha misión tendrán que realizarla junto al denominado equipo \"Viento del norte\", un comando de élite especializado en salvar animales que no pueden defenderse por si solos."
-          },
-          {
-            "lang": "zh-hk",
-            "text": "瘋狂企鵝團隊,包括隊長、高華斯基、力高、卒仔,首度擔任主角,觀眾們肯定驚喜萬分!這四隻黑白相間彷如穿著「踢死兔禮服」的鬼馬企鵝仔,為了捍衛族群存亡,竟然踏上史無前例的刺激間諜冒險旅程。"
-          },
-          {
-            "lang": "zh-tw",
-            "text": "章魚戴夫最初在水族館裡受到不少遊客的喜愛，可是漸漸地遊客都喜愛上了企鵝，這讓戴夫受到很大的冷落，自尊心得到嚴重打擊的他從此對企鵝們懷恨在心。後來戴夫開始實施他的報仇計劃，他決心發明一種藥水，它能讓企鵝都變成醜陋的怪物以便受到人類的討厭。隨著越來越多的企鵝都遭到戴夫成員的綁架，四位企鵝：老大、卡哇伊、涼快和菜鳥，聯手以灰狼為首的「放風所」四成員，與邪惡的章魚們展開了一次激烈較量"
-          },
-          {
-            "lang": "zh-cn",
-            "text": "超级特工队不是天生的……他们是——孵出来的。一同来看看在这场全球特工行动中，老大（Skipper），科斯基（Kowalski），瑞哥（Rico）和菜鸟（Private）这几个再伟大又再搞笑不过的特工企鹅们到底藏了什么秘密。这些精英中的精英现在正和一个看上去很专业的特工组织“北风”合作。这个组织由高大帅气的特工领导（本尼迪克特·康伯巴奇 Benedict Cumberbatch 配音）。他们必须联手打败大坏蛋布莱恩博士（约翰·马尔科维奇 John Malkovich 配音），阻止他毁灭世界！"
-          }
-        ],
-        "cover_image_url": "https://neodb.social/m/item/movie/2025/11/24/9f5a0527-41bb-4308-a536-f3928922c690.jpg",
-        "rating": 7.2,
-        "rating_count": 425,
-        "rating_distribution": [
-          0,
-          5,
-          41,
-          45,
-          9
-        ],
-        "tags": null,
-        "brief": "Skipper, Kowalski, Rico and Private join forces with undercover organization The North Wind to stop the villainous Dr. Octavius Brine from destroying the world as we know it.",
-        "id": "https://neodb.social/movie/0Yxx81A14ZVEVjOuemHS96",
-        "uuid": "0Yxx81A14ZVEVjOuemHS96",
-        "url": "/movie/0Yxx81A14ZVEVjOuemHS96",
-        "api_url": "/api/movie/0Yxx81A14ZVEVjOuemHS96",
-        "category": "movie",
-        "parent_uuid": null,
-        "display_title": "Penguins of Madagascar",
-        "external_resources": [
-          {
-            "url": "https://eggplant.place/movie/3sn1XtyAhswUXiq2DgdNRr"
-          },
-          {
-            "url": "https://www.imdb.com/title/tt1911658/"
-          },
-          {
-            "url": "https://movie.douban.com/subject/11810348/"
-          },
-          {
-            "url": "https://minreol.dk/movie/5oV4fR8IWPxiaDnbU5QeUg"
-          },
-          {
-            "url": "https://www.themoviedb.org/movie/270946"
-          },
-          {
-            "url": "https://www.wikidata.org/wiki/Q15616479"
-          },
-          {
-            "url": "https://bgm.tv/subject/116276"
-          }
-        ],
-        "credits": [
-          {
-            "role": "actor",
-            "name": "Tom McGrath",
-            "character_name": "",
-            "person_url": "/api/people/79FVc2OvtYW1WvEbs8EWYw"
-          },
-          {
-            "role": "actor",
-            "name": "Chris Miller",
-            "character_name": "",
-            "person_url": "/api/people/7mqcOa9Os3194QNkdSJs7v"
-          },
-          {
-            "role": "actor",
-            "name": "Christopher Knights",
-            "character_name": "",
-            "person_url": "/api/people/0xn1CQha3EMp79dPricSlp"
-          },
-          {
-            "role": "actor",
-            "name": "Conrad Vernon",
-            "character_name": "",
-            "person_url": "/api/people/0faKSzFodfIXiYRrUfoKQ1"
-          },
-          {
-            "role": "actor",
-            "name": "John Malkovich",
-            "character_name": "",
-            "person_url": "/api/people/1uLAQhYgqLkS2VkrXsFmvi"
-          },
-          {
-            "role": "actor",
-            "name": "Benedict Cumberbatch",
-            "character_name": "",
-            "person_url": "/api/people/5IZruGwoV0h3PRITyodr0Z"
-          },
-          {
-            "role": "actor",
-            "name": "Ken Jeong",
-            "character_name": "",
-            "person_url": "/api/people/3YGRQazGkCl3uK3iHfhf7F"
-          },
-          {
-            "role": "actor",
-            "name": "Annet Mahendru",
-            "character_name": "",
-            "person_url": "/api/people/0uRXACZ3y4kbuQudl2E9ZG"
-          },
-          {
-            "role": "actor",
-            "name": "Peter Stormare",
-            "character_name": "",
-            "person_url": "/api/people/0zLDxxSrLJV4RON2nCYfVs"
-          },
-          {
-            "role": "actor",
-            "name": "Werner Herzog",
-            "character_name": "",
-            "person_url": "/api/people/5hDH09NXVgCf62bXoeVaAi"
-          },
-          {
-            "role": "director",
-            "name": "Eric Darnell",
-            "character_name": "",
-            "person_url": "/api/people/4QojFwYkaeOSb522rubJXy"
-          },
-          {
-            "role": "director",
-            "name": "埃里克·达尼尔 / 西蒙·J·史密斯",
-            "character_name": "",
-            "person_url": null
-          },
-          {
-            "role": "director",
-            "name": "Simon J. Smith",
-            "character_name": "",
-            "person_url": "/api/people/2jhT4HmWFAgt9X9N05byau"
-          },
-          {
-            "role": "playwright",
-            "name": "John Aboud",
-            "character_name": "",
-            "person_url": "/api/people/1bmB2QB30N5frL7Hpa4rXW"
-          },
-          {
-            "role": "playwright",
-            "name": "约翰·阿布德 / 迈克尔·科尔顿 / 埃里克·达尼尔 / 汤姆·麦格拉思 / 布兰登·索耶",
-            "character_name": "",
-            "person_url": null
-          },
-          {
-            "role": "playwright",
-            "name": "Michael Colton",
-            "character_name": "",
-            "person_url": "/api/people/32nXkkcmEAcEqyW94O4OCw"
-          },
-          {
-            "role": "playwright",
-            "name": "Eric Darnell",
-            "character_name": "",
-            "person_url": "/api/people/4QojFwYkaeOSb522rubJXy"
-          },
-          {
-            "role": "playwright",
-            "name": "Brandon Sawyer",
-            "character_name": "",
-            "person_url": "/api/people/3QtZueGq9a2uKRxBeJUPMA"
-          }
-        ]
-      },
-      "created_time": "2019-10-17T13:54:00Z",
-      "comment_text": null,
-      "rating_grade": 8,
-      "tags": []
-    },
-    {
-      "shelf_type": "complete",
-      "visibility": 0,
       "post_id": 6590595607528512,
       "item": {
         "type": "Movie",
@@ -47767,6 +47473,300 @@
             "name": "新海诚",
             "character_name": "",
             "person_url": "/api/people/389Zo9NZuJjSZT7koGKFcF"
+          }
+        ]
+      },
+      "created_time": "2019-10-17T13:54:00Z",
+      "comment_text": null,
+      "rating_grade": 8,
+      "tags": []
+    },
+    {
+      "shelf_type": "complete",
+      "visibility": 0,
+      "post_id": 6590595608874792,
+      "item": {
+        "type": "Movie",
+        "title": "Penguins of Madagascar",
+        "description": "Skipper, Kowalski, Rico and Private join forces with undercover organization The North Wind to stop the villainous Dr. Octavius Brine from destroying the world as we know it.",
+        "localized_title": [
+          {
+            "lang": "id",
+            "text": "Penguins of Madagascar"
+          },
+          {
+            "lang": "fr",
+            "text": "Les Pingouins de Madagascar"
+          },
+          {
+            "lang": "de",
+            "text": "Die Pinguine aus Madagascar"
+          },
+          {
+            "lang": "no",
+            "text": "Madagaskarpingvinene"
+          },
+          {
+            "lang": "sv",
+            "text": "Pingvinerna från Madagaskar"
+          },
+          {
+            "lang": "en",
+            "text": "Penguins of Madagascar"
+          },
+          {
+            "lang": "da",
+            "text": "Pingvinerne fra Madagascar"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "马达加斯加的企鹅"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "馬達加斯加爆走企鵝"
+          },
+          {
+            "lang": "zh-hk",
+            "text": "荒失失企鵝"
+          },
+          {
+            "lang": "zh-hant",
+            "text": "馬達加斯加爆走企鵝"
+          },
+          {
+            "lang": "zh-sg",
+            "text": "荒失失企鹅"
+          },
+          {
+            "lang": "es",
+            "text": "Los pingüinos de Madagascar"
+          },
+          {
+            "lang": "pt",
+            "text": "Os Pinguins de Madagascar: O filme"
+          },
+          {
+            "lang": "ko",
+            "text": "마다가스카의 펭귄"
+          },
+          {
+            "lang": "ja",
+            "text": "ペンギンズ FROM マダガスカル ザ・ムービー"
+          },
+          {
+            "lang": "fr",
+            "text": "Penguins of Madagascar"
+          }
+        ],
+        "localized_description": [
+          {
+            "lang": "zh-cn",
+            "text": "为了给最疼爱的小老弟菜鸟（克里斯多夫·奈茨 Christopher Knights 配音）庆生，老大（汤姆·麦格拉思 Tom McGrath 配音）带领菜鸟以及好搭档科斯基（克里斯·米勒 Chris Miller 配音）、瑞哥闯入了防守最严密的美国黄金储备中心，只为找到金库尽头仅有的那台销售炸薯条的自动贩卖机。谁知他们刚刚完成任务没多久，便被长着触角的贩卖机吞了进去，随后被运到一个神秘的所在。在全封闭的设施内，四只企鹅见到了伪装成基因遗传科学家的章鱼戴夫（约翰·马尔科维奇 John Malkovich 配音）。原来戴夫曾是动物园一只明星章鱼，但随着萌态十足的企鹅们的到来，他便跌入了绝望的深谷。因此戴夫潜心研制了可怕的血清，发誓要向所有他曾待过的动物园中的企鹅展开报复。\n老大和伙伴们在逃亡途中得到北风特工队的救助，而他们和这些高傲的特工队员将分别阻止戴夫的阴谋……"
+          },
+          {
+            "lang": "fr",
+            "text": "Vous pensiez connaître les Pingouins de Madagascar ? Pourtant, les quatre frères cachent un lourd secret. Ils sont en fait… agents secrets ! Pour sauver le monde du terrible Docteur Octavius, les pingouins devront s’associer à la très chic organisation de la North Wind menée par le superbe husky au nom classé secret."
+          },
+          {
+            "lang": "de",
+            "text": "Zehn Jahre, nachdem Skipper, Kowalski, Rico und Private Spaß und abenteuerliche Spezialeinsätze als Lebensziel ausgerufen haben, stehen die vier Pinguine aus dem New Yorker Zoo vor ihrer größten Herausforderung. Oktopus Dave will sich an allen Pinguinen rächen, sie in monströse Kreaturen verwandeln, weil ihm die niedlichen Vögel in jedem Tierpark die Schau stahlen. Doch Dave rechnet nicht mit der souveränen Coolness der Frackträger und der Unterstützung, die sie durch die Superprofis vom Agententeam \"Nordwind\" erhalten."
+          },
+          {
+            "lang": "no",
+            "text": "Superspioner blir ikke født... de klekkes! Oppdag hemmelighetene bak de beste og morsomste pingvinene i hele spionbransjen: Skipper, Kowalski, Rico og Menig. Denne elitegruppen slår seg sammen med den hemmelige organisasjonen, Nordavinden, som ledes av Agent Hemmelig (Vi kunne ha fortalt deg hans virkelige navn, men da... ja du vet). Sammen må de stoppe den skurken Dr. Oktavius Blekk fra å ødelegge verden slik vi kjenner den!"
+          },
+          {
+            "lang": "sv",
+            "text": "Pingvinerna Skepparn, Kowalski, Rico och Basse ger sig ut på ett superhemligt uppdrag för  att stoppa den ondskefulle dr Octavius Bläcks planer på världsherravälde. De samarbetar med underrättelsetjänsten Nordanvinden, som leds av agent Hemlig (vi kan säga hans namn men då måste vi... ja, ni vet)."
+          },
+          {
+            "lang": "en",
+            "text": "Skipper, Kowalski, Rico and Private join forces with undercover organization The North Wind to stop the villainous Dr. Octavius Brine from destroying the world as we know it."
+          },
+          {
+            "lang": "da",
+            "text": "Blæksprutten dr. Octavius Brine nærer et indædt had til den langt mere nuttede pingvinrace. Forklædt som forsker vil Brine kidnappe alle pingviner i verden og forvandle dem til frastødende mutanter! Men de fire pingvinagenter Skipper, Kowalski, Rico og Rekrut er på sagen, og de får hjælp af indsatsstyrken Nordenvind, der består af en ulv, en sæl, en isbjørn og en ugle."
+          },
+          {
+            "lang": "ko",
+            "text": "넘치는 유머, 감쪽 같은 위장술, 똑소리 나는 브레인! 날 때부터 남달랐던 악동 펭귄 스키퍼, 코왈스키, 리코, 프라이빗! 어느 날 그들 앞에 복수심에 불타는 문어박사 옥토브레인이 나타나고, 그의 거대한 음모를 알게 된 펭귄 4총사는 비밀 조직 ‘노스윈드’와 함께 세상을 구할 사상 최대의 작전을 펼치는데…!"
+          },
+          {
+            "lang": "ja",
+            "text": "キュートな外見とは裏腹にエリートスパイとして活躍するペンギンズは秘密の潜入捜査中、かつて動物園で彼らに人気を奪われたことを恨むタコのデーブに誘拐される。デーブが人間の姿をしたオクト博士に姿を変え、世界中のペンギンへの復讐（ふくしゅう）を計画していることを知ったペンギンズは、スパイ軍団「ノース・ウィンド」と手を組み邪悪な陰謀に立ち向かう。"
+          },
+          {
+            "lang": "pt",
+            "text": "Equipas de super espiões não nascem assim... são chocados. Descobre os segredos das mais espetaculares e mais hilariantes aves secretas da espionagem mundial: Capitão, Kowalski, Rico e Soldado. Estes top da elite irão unir forças com uma organização de intervenção secreta, Vento do Norte, que protege os animais. Liderados pelo engraçado Agente Secreto (poderíamos dizer o nome dele, mas depois... tu sabes), com a voz de Benedict Cumberbatch. Juntos, eles têm de evitar que o vilão Dr. Octavius."
+          },
+          {
+            "lang": "es",
+            "text": "Skypper, Kowalsky, Rico y Cabo, los superagentes pingüinos, tienen que salvar el mundo en una misión para la que llevan prepárandose toda la vida. Dicha misión tendrán que realizarla junto al denominado equipo \"Viento del norte\", un comando de élite especializado en salvar animales que no pueden defenderse por si solos."
+          },
+          {
+            "lang": "zh-hk",
+            "text": "瘋狂企鵝團隊,包括隊長、高華斯基、力高、卒仔,首度擔任主角,觀眾們肯定驚喜萬分!這四隻黑白相間彷如穿著「踢死兔禮服」的鬼馬企鵝仔,為了捍衛族群存亡,竟然踏上史無前例的刺激間諜冒險旅程。"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "章魚戴夫最初在水族館裡受到不少遊客的喜愛，可是漸漸地遊客都喜愛上了企鵝，這讓戴夫受到很大的冷落，自尊心得到嚴重打擊的他從此對企鵝們懷恨在心。後來戴夫開始實施他的報仇計劃，他決心發明一種藥水，它能讓企鵝都變成醜陋的怪物以便受到人類的討厭。隨著越來越多的企鵝都遭到戴夫成員的綁架，四位企鵝：老大、卡哇伊、涼快和菜鳥，聯手以灰狼為首的「放風所」四成員，與邪惡的章魚們展開了一次激烈較量"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "超级特工队不是天生的……他们是——孵出来的。一同来看看在这场全球特工行动中，老大（Skipper），科斯基（Kowalski），瑞哥（Rico）和菜鸟（Private）这几个再伟大又再搞笑不过的特工企鹅们到底藏了什么秘密。这些精英中的精英现在正和一个看上去很专业的特工组织“北风”合作。这个组织由高大帅气的特工领导（本尼迪克特·康伯巴奇 Benedict Cumberbatch 配音）。他们必须联手打败大坏蛋布莱恩博士（约翰·马尔科维奇 John Malkovich 配音），阻止他毁灭世界！"
+          }
+        ],
+        "cover_image_url": "https://neodb.social/m/item/movie/2025/11/24/9f5a0527-41bb-4308-a536-f3928922c690.jpg",
+        "rating": 7.2,
+        "rating_count": 425,
+        "rating_distribution": [
+          0,
+          5,
+          41,
+          45,
+          9
+        ],
+        "tags": null,
+        "brief": "Skipper, Kowalski, Rico and Private join forces with undercover organization The North Wind to stop the villainous Dr. Octavius Brine from destroying the world as we know it.",
+        "id": "https://neodb.social/movie/0Yxx81A14ZVEVjOuemHS96",
+        "uuid": "0Yxx81A14ZVEVjOuemHS96",
+        "url": "/movie/0Yxx81A14ZVEVjOuemHS96",
+        "api_url": "/api/movie/0Yxx81A14ZVEVjOuemHS96",
+        "category": "movie",
+        "parent_uuid": null,
+        "display_title": "Penguins of Madagascar",
+        "external_resources": [
+          {
+            "url": "https://eggplant.place/movie/3sn1XtyAhswUXiq2DgdNRr"
+          },
+          {
+            "url": "https://www.imdb.com/title/tt1911658/"
+          },
+          {
+            "url": "https://movie.douban.com/subject/11810348/"
+          },
+          {
+            "url": "https://minreol.dk/movie/5oV4fR8IWPxiaDnbU5QeUg"
+          },
+          {
+            "url": "https://www.themoviedb.org/movie/270946"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q15616479"
+          },
+          {
+            "url": "https://bgm.tv/subject/116276"
+          }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "Tom McGrath",
+            "character_name": "",
+            "person_url": "/api/people/79FVc2OvtYW1WvEbs8EWYw"
+          },
+          {
+            "role": "actor",
+            "name": "Chris Miller",
+            "character_name": "",
+            "person_url": "/api/people/7mqcOa9Os3194QNkdSJs7v"
+          },
+          {
+            "role": "actor",
+            "name": "Christopher Knights",
+            "character_name": "",
+            "person_url": "/api/people/0xn1CQha3EMp79dPricSlp"
+          },
+          {
+            "role": "actor",
+            "name": "Conrad Vernon",
+            "character_name": "",
+            "person_url": "/api/people/0faKSzFodfIXiYRrUfoKQ1"
+          },
+          {
+            "role": "actor",
+            "name": "John Malkovich",
+            "character_name": "",
+            "person_url": "/api/people/1uLAQhYgqLkS2VkrXsFmvi"
+          },
+          {
+            "role": "actor",
+            "name": "Benedict Cumberbatch",
+            "character_name": "",
+            "person_url": "/api/people/5IZruGwoV0h3PRITyodr0Z"
+          },
+          {
+            "role": "actor",
+            "name": "Ken Jeong",
+            "character_name": "",
+            "person_url": "/api/people/3YGRQazGkCl3uK3iHfhf7F"
+          },
+          {
+            "role": "actor",
+            "name": "Annet Mahendru",
+            "character_name": "",
+            "person_url": "/api/people/0uRXACZ3y4kbuQudl2E9ZG"
+          },
+          {
+            "role": "actor",
+            "name": "Peter Stormare",
+            "character_name": "",
+            "person_url": "/api/people/0zLDxxSrLJV4RON2nCYfVs"
+          },
+          {
+            "role": "actor",
+            "name": "Werner Herzog",
+            "character_name": "",
+            "person_url": "/api/people/5hDH09NXVgCf62bXoeVaAi"
+          },
+          {
+            "role": "director",
+            "name": "Eric Darnell",
+            "character_name": "",
+            "person_url": "/api/people/4QojFwYkaeOSb522rubJXy"
+          },
+          {
+            "role": "director",
+            "name": "埃里克·达尼尔 / 西蒙·J·史密斯",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "director",
+            "name": "Simon J. Smith",
+            "character_name": "",
+            "person_url": "/api/people/2jhT4HmWFAgt9X9N05byau"
+          },
+          {
+            "role": "playwright",
+            "name": "John Aboud",
+            "character_name": "",
+            "person_url": "/api/people/1bmB2QB30N5frL7Hpa4rXW"
+          },
+          {
+            "role": "playwright",
+            "name": "约翰·阿布德 / 迈克尔·科尔顿 / 埃里克·达尼尔 / 汤姆·麦格拉思 / 布兰登·索耶",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "playwright",
+            "name": "Michael Colton",
+            "character_name": "",
+            "person_url": "/api/people/32nXkkcmEAcEqyW94O4OCw"
+          },
+          {
+            "role": "playwright",
+            "name": "Eric Darnell",
+            "character_name": "",
+            "person_url": "/api/people/4QojFwYkaeOSb522rubJXy"
+          },
+          {
+            "role": "playwright",
+            "name": "Brandon Sawyer",
+            "character_name": "",
+            "person_url": "/api/people/3QtZueGq9a2uKRxBeJUPMA"
           }
         ]
       },
@@ -48434,5 +48434,5 @@
   ],
   "count": 145,
   "category": "movie",
-  "updated_at": "2026-08-12T01:11:17.593179"
+  "updated_at": "2026-08-13T01:13:08.202430"
 }
