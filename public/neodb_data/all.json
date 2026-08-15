@@ -9742,9 +9742,6 @@
         "display_title": "Ne Zha: The Devil Boy in the Sea",
         "external_resources": [
           {
-            "url": "https://www.wikidata.org/wiki/Q131937861"
-          },
-          {
             "url": "https://bgm.tv/subject/383308"
           },
           {
@@ -9758,6 +9755,9 @@
           },
           {
             "url": "https://movie.douban.com/subject/34780991/"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q131937861"
           },
           {
             "url": "https://www.imdb.com/title/tt34956443/"
@@ -11005,9 +11005,6 @@
         "display_title": "No More Bets",
         "external_resources": [
           {
-            "url": "https://www.wikidata.org/wiki/Q121438250"
-          },
-          {
             "url": "https://movie.douban.com/subject/35267224/"
           },
           {
@@ -11015,6 +11012,9 @@
           },
           {
             "url": "https://www.themoviedb.org/movie/1121612"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q121438250"
           }
         ],
         "credits": [
@@ -22433,13 +22433,13 @@
         "display_title": "12.12: The Day",
         "external_resources": [
           {
-            "url": "https://www.themoviedb.org/movie/919207"
-          },
-          {
             "url": "https://www.imdb.com/title/tt22507524/"
           },
           {
             "url": "https://movie.douban.com/subject/35712804/"
+          },
+          {
+            "url": "https://www.themoviedb.org/movie/919207"
           },
           {
             "url": "https://www.wikidata.org/wiki/Q115858816"
@@ -22450,7 +22450,7 @@
             "role": "actor",
             "name": "黄政民",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/people/2FQMKTuqxY3Y9ji2xKMnfC"
           },
           {
             "role": "actor",
@@ -24609,13 +24609,13 @@
         "display_title": "Successor",
         "external_resources": [
           {
-            "url": "https://www.wikidata.org/wiki/Q126942991"
-          },
-          {
             "url": "https://movie.douban.com/subject/36653918/"
           },
           {
             "url": "https://www.themoviedb.org/movie/1299537"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q126942991"
           },
           {
             "url": "https://www.imdb.com/title/tt32613601/"
@@ -26051,7 +26051,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16bb1ed25a-5722-42bb-be24-ddd0ba0b863c.jpg",
         "rating": 7.7,
-        "rating_count": 812,
+        "rating_count": 813,
         "rating_distribution": [
           0,
           2,
@@ -26076,6 +26076,9 @@
             "url": "https://movie.douban.com/subject/26354572/"
           },
           {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt3470600"
+          },
+          {
             "url": "https://www.imdb.com/title/tt3470600/"
           },
           {
@@ -26083,9 +26086,6 @@
           },
           {
             "url": "https://www.wikidata.org/wiki/Q20762698"
-          },
-          {
-            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt3470600"
           }
         ],
         "credits": [
@@ -28632,13 +28632,13 @@
             "url": "https://www.themoviedb.org/movie/152601"
           },
           {
-            "url": "https://www.imdb.com/title/tt1798709/"
-          },
-          {
             "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt1798709"
           },
           {
             "url": "https://www.wikidata.org/wiki/Q788822"
+          },
+          {
+            "url": "https://www.imdb.com/title/tt1798709/"
           }
         ],
         "credits": [
@@ -29262,9 +29262,6 @@
         "display_title": "What Goes Around Comes Around",
         "external_resources": [
           {
-            "url": "https://www.wikidata.org/wiki/Q126595889"
-          },
-          {
             "url": "https://www.themoviedb.org/movie/1118224"
           },
           {
@@ -29275,6 +29272,9 @@
           },
           {
             "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt26548265"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q126595889"
           }
         ],
         "credits": [
@@ -34885,7 +34885,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16bb45fc78-01bd-4c6d-88f2-4b6b4135eeec.jpg",
         "rating": 6.9,
-        "rating_count": 85,
+        "rating_count": 86,
         "rating_distribution": [
           1,
           5,
@@ -36365,7 +36365,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/156963fe1b-b7c5-48eb-bd54-03d23c3d8c01.jpg",
         "rating": 8.7,
-        "rating_count": 2098,
+        "rating_count": 2099,
         "rating_distribution": [
           0,
           1,
@@ -41338,6 +41338,10 @@
           {
             "lang": "ko",
             "text": "1950년 구로사와 아키라 감독의 영화"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "是由日本著名导演黑泽明执导，于1950年拍摄完成的电影。故事的主要情节改编自日本作家芥川龙之介的小说《竹林中》和《罗生门》，叙述一个武士和妻子在远行途中被强盗拦截并捆绑，其妻被强盗强奸，之后武士又不明原因地死去的故事；发生的场景和部分情节则来自芥川龙之介的《罗生门》。电影通过多人对此事件的不同描述表达了“人言不可尽信”的意涵。剧中强盗、武士妻子、武士分别由三船敏郎、京町子、森雅之扮演，且获得1951年威尼斯国际电影节金狮奖、意大利电影评论奖、奥斯卡荣誉奖（相当于今日的奥斯卡最佳外语片奖）等众多奖项。这是一部在日本电影史上具有里程碑意义的作品，也被众人认为是史上最伟大的电影之一。\r\n\r\n因为一场瓢泼大雨，乞丐来到一座破旧不堪的城门——罗生门前避雨，在这里与樵夫和云游和尚不期而遇，因樵夫的一句自言自语“不懂，真是不懂”引起了乞丐的好奇心，在乞丐的再三追问下，樵夫道出了一个骇人听闻的故事：\r\n\r\n三天前，樵夫进山去砍柴，在山里看到了草丛间有一顶女帽与一顶武士帽，旁边有一具武士尸体。樵夫赶紧到纠察署去报官。差役抓住了杀死武士的强盗。在公堂上强盗承认因见武士妻子美貌而起了贼心，强暴了她。他说由于武士妻子坚决要他俩决斗，在决斗了23回后，他杀死了武士，但武士的妻子却逃走了。强盗以此夸耀自己的武艺高强。武士妻子却说，她受到强盗侮辱后，扑到丈夫身上哭诉，而丈夫却以鄙视的目光看着她，毫无怜惜之意，因此她悲伤地昏了过去，手中短刀因而误杀武士。这时公堂上让女巫将武士的灵魂招来审问，武士却说，他的妻子唆使强盗杀他，让他感到十分绝望，便拿起妻子留下的短刀自杀。\r\n\r\n而目睹了真相的樵夫其实看到了强盗与武士两人的决斗，却因怕惹上麻烦而不敢在官府说出真相。事实上，在妻子被玷污后，武士竟嫌弃妻子，原先想将武士的妻子占为己有的强盗见此状便觉索然无味，武士妻子见两人皆不愿为了自己而战感到没面子进而挑拨离间。强盗在胡乱的打斗中侥幸杀死了武士。\r\n\r\n乞丐、樵夫和云游和尚三人正谈至尾声时忽然听到婴儿哭声，乞丐首先找到了被遗弃的婴儿，立即剥去那弃婴的外衣打算变卖，被樵夫阻止，而乞丐就道出了人们都是很自私的，包括樵夫也是为了自己的利益而活。乞丐猜中了樵夫因贪婪私下偷走了武士妻子的名贵短刀，所以才不敢向官府说出事件的真相。最终乞丐还是抢走了孩子的衣服。樵夫想去抱孩子，云游和尚误以为他还想剥去孩子的贴身衣裳，引起了争吵。最后樵夫说，我已有六个孩子，不在乎养第七个孩子，让我领养吧，和尚这才知道是误会了他的好意，将孩子交给了樵夫。原本因人性自私邪恶而万念俱灰的云游和尚，终仍相信世界上还是有可以相信的人存在，一直下的滂沱大雨也终于停了，夕阳照着樵夫离去的背影。"
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/9c60c854-c003-4fde-8112-218faee891da.jpg",
@@ -41361,6 +41365,9 @@
         "display_title": "Rashomon",
         "external_resources": [
           {
+            "url": "https://bgm.tv/subject/12883"
+          },
+          {
             "url": "https://www.imdb.com/title/tt0042876/"
           },
           {
@@ -41376,67 +41383,67 @@
         "credits": [
           {
             "role": "actor",
-            "name": "三船敏郎",
+            "name": "Toshirō Mifune",
             "character_name": "",
             "person_url": "/api/people/0EnzSLONV5jGUEkWMamBZx"
           },
           {
             "role": "actor",
-            "name": "京町子",
+            "name": "Machiko Kyō",
             "character_name": "",
             "person_url": "/api/people/5yuC4YMFp8KP130J7C1Kda"
           },
           {
             "role": "actor",
-            "name": "志村乔",
+            "name": "Takashi Shimura",
             "character_name": "",
             "person_url": "/api/people/5u8bFYhSsPLue9m96ByKKc"
           },
           {
             "role": "actor",
-            "name": "森雅之",
+            "name": "Masayuki Mori",
             "character_name": "",
             "person_url": "/api/people/264xdv5mZaRUu4OPtJpu5x"
           },
           {
             "role": "actor",
-            "name": "千秋实",
+            "name": "Minoru Chiaki",
             "character_name": "",
             "person_url": "/api/people/3Zv3qQPen4JOprFYQbZIGJ"
           },
           {
             "role": "actor",
-            "name": "上田吉二郎",
+            "name": "Kichijirō Ueda",
             "character_name": "",
             "person_url": "/api/people/2Xi2A6GmmY0xxit9R6wVBU"
           },
           {
             "role": "actor",
-            "name": "本间文子",
+            "name": "Noriko Honma",
             "character_name": "",
             "person_url": "/api/people/31DnLSqW2qZgnd63Y1EsAv"
           },
           {
             "role": "actor",
-            "name": "加东大介",
+            "name": "Daisuke Katō",
             "character_name": "",
             "person_url": "/api/people/0LeMhL04HcBrwqJkr0oGja"
           },
           {
             "role": "director",
-            "name": "黑泽明",
+            "name": "Akira Kurosawa",
             "character_name": "",
             "person_url": "/api/people/27AiSXBhsMQgsEsZMmI8bB"
           },
           {
             "role": "playwright",
-            "name": "黑泽明",
+            "name": "Akira Kurosawa",
             "character_name": "",
             "person_url": "/api/people/27AiSXBhsMQgsEsZMmI8bB"
           },
           {
             "role": "playwright",
-            "name": "桥本忍",
+            "name": "Shinobu Hashimoto",
             "character_name": "",
             "person_url": "/api/people/56Xlc9y2yf6aiQi3DV4qJo"
           }
@@ -41492,9 +41499,6 @@
         "display_title": "Pantheon Season 1",
         "external_resources": [
           {
-            "url": "https://www.imdb.com/title/tt11680642/"
-          },
-          {
             "url": "https://www.themoviedb.org/tv/195339/season/1"
           },
           {
@@ -41502,6 +41506,9 @@
           },
           {
             "url": "https://movie.douban.com/subject/34990593/"
+          },
+          {
+            "url": "https://www.imdb.com/title/tt11680642/"
           }
         ],
         "credits": [
@@ -42030,10 +42037,10 @@
             "url": "https://www.imdb.com/title/tt28212677/"
           },
           {
-            "url": "https://www.wikidata.org/wiki/Q124213694"
+            "url": "https://www.themoviedb.org/movie/1109586"
           },
           {
-            "url": "https://www.themoviedb.org/movie/1109586"
+            "url": "https://www.wikidata.org/wiki/Q124213694"
           }
         ],
         "credits": [
@@ -42174,6 +42181,14 @@
           {
             "lang": "zh-tw",
             "text": "屍速列車"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "屍殺列車（港）"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "屍速列車（台）"
           }
         ],
         "localized_description": [
@@ -42264,6 +42279,10 @@
           {
             "lang": "zh-cn",
             "text": "证券公司基金管理人石宇（孔刘 饰）光鲜精干，却也是个重利轻义之徒。妻子为此与之决裂，女儿秀安（金秀安 饰）则对如此自私的父亲越来越失望，决定前往釜山和母亲生活。在秀安生日这天，石宇抽出时间陪伴女儿登上开往釜山的特快列车。而与此同时，城市四处出现了极为可疑的暴动事件。政府极力洗白无法掩盖丧尸肆虐的事实，即便懵然无知的列车乘客也因为不速之客的到来而堕入恐慌绝望的地狱中。开车的刹那，一名感染者冲入车厢，而她很快尸变并对目光所及之处的健康人展开血腥屠杀。未过多久，丧尸便呈几何数爆发性地增长。石宇被迫和幸存者的乘客们在逼仄的空间中奋力求生。通往釜山的遥遥旅途布满杀机，危难时刻每个幸存者的人性也承受巨大的考验…"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "证券公司基金管理人石宇（孔侑 饰）光鲜精干，却也是个重利轻义之徒。妻子为此与之决裂，女儿秀安（金秀安 饰）则对如此自私的父亲越来越失望，决定前往釜山和母亲生活。在秀安生日这天，石宇抽出时间陪伴女儿登上开往釜山的特快列车。而与此同时，城市四处出现了极为可疑的暴动事件。政府极力洗白无法掩盖丧尸肆虐的事实，即便懵然无知的列车乘客也因为不速之客的到来而堕入恐慌绝望的地狱中。开车的刹那，一名感染者冲入车厢，而她很快尸变并对目光所及之处的健康人展开血腥屠杀。未过多久，丧尸便呈几何数爆发性地增长。石宇被迫和幸存者的乘客们在逼仄的空间中奋力求生。\r\n　　通往釜山的遥遥旅途布满杀机，危难时刻每个幸存者的人性也承受巨大的考验…… "
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1342c2c8f4-6447-4008-9f51-2fcd641c4799.jpg",
@@ -42299,64 +42318,67 @@
             "url": "https://www.themoviedb.org/movie/396535"
           },
           {
+            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt5700672"
+          },
+          {
             "url": "https://www.wikidata.org/wiki/Q20948236"
           },
           {
-            "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt5700672"
+            "url": "https://bgm.tv/subject/192682"
           }
         ],
         "credits": [
           {
             "role": "actor",
-            "name": "孔刘",
+            "name": "Gong Yoo",
             "character_name": "",
             "person_url": "/api/people/3uPTyiOsUl2UWZbnH4rEfC"
           },
           {
             "role": "actor",
-            "name": "郑裕美",
+            "name": "Jung Yu-mi",
             "character_name": "",
             "person_url": "/api/people/6ms2s8viBnR5MllgbWofv3"
           },
           {
             "role": "actor",
-            "name": "马东锡",
+            "name": "Don Lee",
             "character_name": "",
             "person_url": "/api/people/1MzJNFhyY97paypYK3OWtq"
           },
           {
             "role": "actor",
-            "name": "金秀安",
+            "name": "Kim Su-an",
             "character_name": "",
             "person_url": "/api/people/6bORKb3OGI3WxFGUzDb8Kh"
           },
           {
             "role": "actor",
-            "name": "金义城",
+            "name": "Kim Eui-sung",
             "character_name": "",
             "person_url": "/api/people/11voRYysl8n2UrgK5GPD7y"
           },
           {
             "role": "actor",
-            "name": "崔宇植",
+            "name": "Choi Woo-shik",
             "character_name": "",
             "person_url": "/api/people/5twR883NrtPe6uvHV2if89"
           },
           {
             "role": "actor",
-            "name": "安昭熙",
+            "name": "An So-hee",
             "character_name": "",
             "person_url": "/api/people/5YlGZ0Zxj4Rda14HcRgfYm"
           },
           {
             "role": "actor",
-            "name": "崔奎华",
+            "name": "Choi Gwi-hwa",
             "character_name": "",
             "person_url": "/api/people/008q3LK9D5uXPIyM7SnuAH"
           },
           {
             "role": "actor",
-            "name": "郑锡勇",
+            "name": "Jeong Seok-yong",
             "character_name": "",
             "person_url": "/api/people/17nO6H49WeMHhgMJ5OfTzY"
           },
@@ -42368,13 +42390,13 @@
           },
           {
             "role": "actor",
-            "name": "朴明申",
+            "name": "Park Myung-shin",
             "character_name": "",
             "person_url": "/api/people/1nZQoJo1CRA0Yxhwx3qg2Q"
           },
           {
             "role": "actor",
-            "name": "张赫镇",
+            "name": "Jang Hyuk-jin",
             "character_name": "",
             "person_url": "/api/people/42ZARCp2xD2ffY0IdVkzMB"
           },
@@ -42392,13 +42414,13 @@
           },
           {
             "role": "director",
-            "name": "延尚昊",
+            "name": "Yeon Sang-ho",
             "character_name": "",
             "person_url": "/api/people/48qa5YDvwU15gZHYJX6mqT"
           },
           {
             "role": "playwright",
-            "name": "延尚昊",
+            "name": "Yeon Sang-ho",
             "character_name": "",
             "person_url": "/api/people/48qa5YDvwU15gZHYJX6mqT"
           }
@@ -44826,7 +44848,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/c50f391f-f017-4478-ae8c-ff4cd460e2c2.jpg",
         "rating": 8.0,
-        "rating_count": 1320,
+        "rating_count": 1321,
         "rating_distribution": [
           1,
           2,
@@ -45863,7 +45885,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/7a48ff6e-aae2-458e-9b35-523ece2badfb.jpg",
         "rating": 8.3,
-        "rating_count": 1041,
+        "rating_count": 1043,
         "rating_distribution": [
           0,
           2,
@@ -51572,7 +51594,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/05/08ce26bdb6-eb1d-4b5d-8baf-559ae723b8cd.jpg",
         "rating": 5.4,
-        "rating_count": 701,
+        "rating_count": 702,
         "rating_distribution": [
           8,
           27,
@@ -52808,7 +52830,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/152e6e9667-35c2-499e-b909-50b6c5601160.jpg",
         "rating": 6.8,
-        "rating_count": 1541,
+        "rating_count": 1542,
         "rating_distribution": [
           2,
           10,
@@ -60779,6 +60801,10 @@
           {
             "lang": "ko",
             "text": "프리 가이"
+          },
+          {
+            "lang": "zh-tw",
+            "text": "爆機自由仁"
           }
         ],
         "localized_description": [
@@ -60837,6 +60863,10 @@
           {
             "lang": "ko",
             "text": "2021년 영화"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "　　银行出纳员盖（瑞安·雷诺兹 饰）发现自己其实是开放世界电子游戏中的背景角色，于是决定成为英雄，并改写自己的故事。现在，在一个没有限制的世界里，他决心以自己的方式拯救他的世界，以免为时过晚。"
           }
         ],
         "cover_image_url": "https://neodb.social/m/item/movie/2025/11/08/de56cc98-9602-4826-8a7e-fcc31915efef.webp",
@@ -60876,78 +60906,81 @@
           },
           {
             "url": "https://www.wikidata.org/wiki/Q38685497"
+          },
+          {
+            "url": "https://bgm.tv/subject/347644"
           }
         ],
         "credits": [
           {
             "role": "actor",
-            "name": "瑞安·雷诺兹",
+            "name": "Ryan Reynolds",
             "character_name": "",
             "person_url": "/api/people/0SY5ki8dT65SrwQERZZgWP"
           },
           {
             "role": "actor",
-            "name": "朱迪·科默",
+            "name": "Jodie Comer",
             "character_name": "",
             "person_url": "/api/people/6Btvv5mRmwOqL5DAauDcsz"
           },
           {
             "role": "actor",
-            "name": "乔·基瑞",
+            "name": "Joe Keery",
             "character_name": "",
             "person_url": "/api/people/0mn38CFpnnSH5uKSr254Ot"
           },
           {
             "role": "actor",
-            "name": "里尔·莱尔·哈瓦瑞",
+            "name": "Lil Rel Howery",
             "character_name": "",
             "person_url": "/api/people/0x2IFXhkGOPRvPNH26mwWh"
           },
           {
             "role": "actor",
-            "name": "塔伊加·维迪提",
+            "name": "Taika Waititi",
             "character_name": "",
             "person_url": "/api/people/4awrabNbV9Q1adcvoaMbzn"
           },
           {
             "role": "actor",
-            "name": "乌特卡什·安邦德卡尔",
+            "name": "Utkarsh Ambudkar",
             "character_name": "",
             "person_url": "/api/people/4RrMxoh8PDUyJpq6Oj3Qs8"
           },
           {
             "role": "actor",
-            "name": "查宁·塔图姆",
+            "name": "Channing Tatum",
             "character_name": "",
             "person_url": "/api/people/7gl5nNN62MLAXTSGjuozZ9"
           },
           {
             "role": "actor",
-            "name": "休·杰克曼",
+            "name": "Hugh Jackman",
             "character_name": "",
             "person_url": "/api/people/5rgifHpd0hayQwiBrgIHOq"
           },
           {
             "role": "actor",
-            "name": "道恩·强森",
+            "name": "Dwayne Johnson",
             "character_name": "",
             "person_url": "/api/people/6WsmmeNF2OH74p8CqvsDzF"
           },
           {
             "role": "actor",
-            "name": "克里斯·埃文斯",
+            "name": "Chris Evans",
             "character_name": "",
             "person_url": "/api/people/0ZdssAbCl7RLAZ62cmwWLO"
           },
           {
             "role": "actor",
-            "name": "约翰·卡拉辛斯基",
+            "name": "John Krasinski",
             "character_name": "",
             "person_url": "/api/people/2yvBrhlQOe3JVn73jOOVmx"
           },
           {
             "role": "actor",
-            "name": "蒂娜·菲",
+            "name": "Tina Fey",
             "character_name": "",
             "person_url": "/api/people/6crEI2lStcz2ekqJs2qWZJ"
           },
@@ -60959,7 +60992,7 @@
           },
           {
             "role": "actor",
-            "name": "布丽特妮·欧德福特",
+            "name": "Britne Oldford",
             "character_name": "",
             "person_url": "/api/people/16d4vuMkgJhjL9Uy9T9bD2"
           },
@@ -61013,7 +61046,7 @@
           },
           {
             "role": "actor",
-            "name": "欧文·伯克",
+            "name": "Owen Burke",
             "character_name": "",
             "person_url": "/api/people/21P9B1BUMP9WTUKGHF1zVk"
           },
@@ -61037,7 +61070,7 @@
           },
           {
             "role": "actor",
-            "name": "泰特·弗莱彻",
+            "name": "Tait Fletcher",
             "character_name": "",
             "person_url": "/api/people/1GOGpmCCErzsrfSux0AC7D"
           },
@@ -61067,13 +61100,13 @@
           },
           {
             "role": "actor",
-            "name": "亚伦·W·里德",
+            "name": "Aaron W Reed",
             "character_name": "",
             "person_url": "/api/people/2UjVGusC1I9zWZmpRSbT7v"
           },
           {
             "role": "actor",
-            "name": "索菲·利维",
+            "name": "Sophie Levy",
             "character_name": "",
             "person_url": "/api/people/3iTWyw63PCEtcAq5LExtiW"
           },
@@ -61091,13 +61124,13 @@
           },
           {
             "role": "director",
-            "name": "肖恩·利维",
+            "name": "Shawn Levy",
             "character_name": "",
             "person_url": "/api/people/1iI5bBPoZVN3MFupR2EQHZ"
           },
           {
             "role": "playwright",
-            "name": "马特·利伯曼",
+            "name": "Matt Lieberman",
             "character_name": "",
             "person_url": "/api/people/3ct9DEQKLiKOwSGe0YYZzq"
           },
@@ -64922,7 +64955,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/fedi/2024/10/23/a22a5764-cfb6-4e2f-bbd6-254d0a241f3d.jpg",
         "rating": 8.3,
-        "rating_count": 2771,
+        "rating_count": 2772,
         "rating_distribution": [
           1,
           2,
@@ -66249,6 +66282,14 @@
           {
             "lang": "ko",
             "text": "해리 포터와 마법사의 돌"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "Harry Potter and the Sorcerer's Stone(美国、印度、菲律宾)"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "哈利波特：神秘的魔法石（港/台）"
           }
         ],
         "localized_description": [
@@ -66311,6 +66352,10 @@
           {
             "lang": "ko",
             "text": "2001년 크리스 콜럼버스 감독의 영국-미국 판타지 영화"
+          },
+          {
+            "lang": "zh-cn",
+            "text": "哈利波特是一个孤儿，从小寄养在姨妈家，受尽欺凌。但就在哈利11岁生日的时候，他意外收到了霍格沃茨学院的入学通知书。哈利从该学院派来接他的巨人海格口中得知，这是一间魔法学院，并得知了自己的身世，原来哈利的父母都是伟大的魔法师，在对付伏地魔的战斗中双双献身，唯有哈利幸免于难。\r\n　　哈利进入霍格沃茨后，表现出了超乎想象的飞行天赋，得到麦格教授的推荐进入了格兰芬多的魁地奇球队。另一方面，哈利发现霍格沃茨学院内有一股黑暗势力似乎在暗暗滋长，揭开谜团的关键就在有凶恶的三头犬守护的房间内。\r\n　　哈利、罗恩和赫敏三个好朋友决定探个究竟。"
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/152bbd9498-8051-4931-afbf-4eddc7f9150c.jpg",
@@ -66350,66 +66395,69 @@
           },
           {
             "url": "https://bridge.neodb.net/catalog/movie/imdbId-tt0241527"
+          },
+          {
+            "url": "https://bgm.tv/subject/60122"
           }
         ],
         "credits": [
           {
             "role": "actor",
-            "name": "丹尼尔·雷德克里夫",
+            "name": "Daniel Radcliffe",
             "character_name": "",
             "person_url": "/api/people/0MAd92NdrkFUSLIfevH07g"
           },
           {
             "role": "actor",
-            "name": "艾玛·沃森",
+            "name": "Emma Watson",
             "character_name": "",
             "person_url": "/api/people/0tjwbLVmmqT0EXp3S4S4Wl"
           },
           {
             "role": "actor",
-            "name": "鲁伯特·格林特",
+            "name": "Rupert Grint",
             "character_name": "",
             "person_url": "/api/people/5S6WC6Gm0YWy4m76MlwBhw"
           },
           {
             "role": "actor",
-            "name": "艾伦·瑞克曼",
+            "name": "Alan Rickman",
             "character_name": "",
             "person_url": "/api/people/2sWqAf8kqgZbS3zZFcZGtU"
           },
           {
             "role": "actor",
-            "name": "玛吉·史密斯",
+            "name": "Maggie Smith",
             "character_name": "",
             "person_url": "/api/people/7HrVBTxhInJVCRVuuI5UES"
           },
           {
             "role": "actor",
-            "name": "汤姆·费尔顿",
+            "name": "Tom Felton",
             "character_name": "",
             "person_url": "/api/people/3klt8aUwrh8NxGkigMpezV"
           },
           {
             "role": "actor",
-            "name": "伊恩·哈特",
+            "name": "Ian Hart",
             "character_name": "",
             "person_url": "/api/people/4BupY60wuRx5nd7DudNewT"
           },
           {
             "role": "actor",
-            "name": "理查德·哈里斯",
+            "name": "Richard Harris",
             "character_name": "",
             "person_url": "/api/people/0VYMWp32A5mzyCAgUgimpo"
           },
           {
             "role": "actor",
-            "name": "约翰·赫特",
+            "name": "John Hurt",
             "character_name": "",
             "person_url": "/api/people/4zYz2C9YTgqq8SjgmwNcn3"
           },
           {
             "role": "actor",
-            "name": "罗彼·考特拉尼",
+            "name": "Robbie Coltrane",
             "character_name": "",
             "person_url": "/api/people/7eCqTNKYtzvNxFPTfY7Qvc"
           },
@@ -66421,37 +66469,37 @@
           },
           {
             "role": "actor",
-            "name": "邦妮·怀特",
+            "name": "Bonnie Wright",
             "character_name": "",
             "person_url": "/api/people/6WN5gPNRzoO7SYTMXWSYyx"
           },
           {
             "role": "actor",
-            "name": "约翰·克里斯",
+            "name": "John Cleese",
             "character_name": "",
             "person_url": "/api/people/0Jzh8SWSoidUKWrGSFuh2P"
           },
           {
             "role": "actor",
-            "name": "肖恩·比格斯代夫",
+            "name": "Sean Biggerstaff",
             "character_name": "",
             "person_url": "/api/people/5miPExLMwzyGLSX2pgO0IU"
           },
           {
             "role": "director",
-            "name": "克里斯·哥伦布",
+            "name": "Chris Columbus",
             "character_name": "",
             "person_url": "/api/people/05Ra8kovcARE6m8IAFGdH1"
           },
           {
             "role": "playwright",
-            "name": "史蒂夫·克洛夫斯",
+            "name": "Steve Kloves",
             "character_name": "",
             "person_url": "/api/people/6kw190uLqYlTzwKAT01MnX"
           },
           {
             "role": "playwright",
-            "name": "J·K·罗琳",
+            "name": "J.K. Rowling",
             "character_name": "",
             "person_url": "/api/people/3B0HiKwsa696edXmwTVjUb"
           }
@@ -69837,13 +69885,13 @@
             "url": "https://www.imdb.com/title/tt0103295/"
           },
           {
-            "url": "https://www.wikidata.org/wiki/Q280276"
-          },
-          {
             "url": "https://movie.douban.com/subject/1294417/"
           },
           {
             "url": "https://www.themoviedb.org/movie/18672"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q280276"
           }
         ],
         "credits": [
@@ -72911,7 +72959,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14e5043627-8e2d-43c0-a6cc-a8e05d8115d3.jpg",
         "rating": 9.4,
-        "rating_count": 2924,
+        "rating_count": 2925,
         "rating_distribution": [
           0,
           0,
@@ -79306,23 +79354,23 @@
     "game",
     "performance"
   ],
-  "updated_at": "2026-08-14T01:11:29.742977",
+  "updated_at": "2026-08-15T00:44:03.873876",
   "stats": {
     "movie": {
       "count": 145,
-      "time": 9.14
+      "time": 9.21
     },
     "tv": {
       "count": 115,
-      "time": 6.24
+      "time": 6.09
     },
     "book": {
       "count": 36,
-      "time": 1.28
+      "time": 1.34
     },
     "music": {
       "count": 4,
-      "time": 0.13
+      "time": 0.1
     },
     "podcast": {
       "count": 0,
@@ -79334,8 +79382,8 @@
     },
     "performance": {
       "count": 2,
-      "time": 0.09
+      "time": 0.1
     }
   },
-  "total_time": 17.03
+  "total_time": 17.01
 }

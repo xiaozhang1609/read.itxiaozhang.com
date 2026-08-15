@@ -13592,9 +13592,6 @@
         "display_title": "Pantheon Season 1",
         "external_resources": [
           {
-            "url": "https://www.imdb.com/title/tt11680642/"
-          },
-          {
             "url": "https://www.themoviedb.org/tv/195339/season/1"
           },
           {
@@ -13602,6 +13599,9 @@
           },
           {
             "url": "https://movie.douban.com/subject/34990593/"
+          },
+          {
+            "url": "https://www.imdb.com/title/tt11680642/"
           }
         ],
         "credits": [
@@ -27925,5 +27925,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-08-14T01:11:28.047548"
+  "updated_at": "2026-08-15T00:44:02.134365"
 }
