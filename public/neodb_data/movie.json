@@ -1831,7 +1831,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14825026bf-54eb-44f9-b7aa-c14c4f756797.jpg",
         "rating": 8.2,
-        "rating_count": 1047,
+        "rating_count": 1048,
         "rating_distribution": [
           0,
           1,
@@ -8688,7 +8688,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15a47c8284-e2de-42cb-8e53-3066c6a3f0f1.jpg",
         "rating": 7.2,
-        "rating_count": 956,
+        "rating_count": 957,
         "rating_distribution": [
           1,
           5,
@@ -16827,12 +16827,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1545970c8e-eab8-44ee-bed4-95852c1226c8.jpg",
         "rating": 7.0,
-        "rating_count": 817,
+        "rating_count": 818,
         "rating_distribution": [
           0,
-          5,
+          6,
           45,
-          40,
+          39,
           10
         ],
         "tags": null,
@@ -18263,7 +18263,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/141ac4ecd0-60a1-4b48-9c43-a1fb3a42f224.jpg",
         "rating": 8.3,
-        "rating_count": 1747,
+        "rating_count": 1748,
         "rating_distribution": [
           0,
           1,
@@ -28322,7 +28322,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/7a48ff6e-aae2-458e-9b35-523ece2badfb.jpg",
         "rating": 8.3,
-        "rating_count": 1043,
+        "rating_count": 1045,
         "rating_distribution": [
           0,
           2,
@@ -47679,7 +47679,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/157eee4ad4-84de-4e92-8fc4-aa4ff42da48f.jpg",
         "rating": 7.9,
-        "rating_count": 1654,
+        "rating_count": 1655,
         "rating_distribution": [
           1,
           4,
@@ -48521,5 +48521,5 @@
   ],
   "count": 145,
   "category": "movie",
-  "updated_at": "2026-08-16T00:46:44.497412"
+  "updated_at": "2026-08-17T00:44:26.944958"
 }
