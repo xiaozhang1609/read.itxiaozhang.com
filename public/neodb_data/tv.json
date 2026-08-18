@@ -12371,7 +12371,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27c6dabc52-65f8-4467-876e-b1791dadded7.jpg",
         "rating": 9.0,
-        "rating_count": 656,
+        "rating_count": 657,
         "rating_distribution": [
           0,
           2,
@@ -27925,5 +27925,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-08-17T00:44:34.760143"
+  "updated_at": "2026-08-18T00:43:38.240344"
 }
