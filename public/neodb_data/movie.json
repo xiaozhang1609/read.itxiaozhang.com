@@ -745,7 +745,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15cce2b25c-b1c4-4c7d-b69f-7ee205e70534.jpg",
         "rating": 7.5,
-        "rating_count": 544,
+        "rating_count": 545,
         "rating_distribution": [
           0,
           4,
@@ -17404,7 +17404,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13676fe4c9-0bb8-4ba4-88d9-109f12d316f1.jpg",
         "rating": 9.5,
-        "rating_count": 1548,
+        "rating_count": 1549,
         "rating_distribution": [
           0,
           0,
@@ -25483,6 +25483,9 @@
           },
           {
             "url": "https://bgm.tv/subject/192682"
+          },
+          {
+            "url": "https://dev.moviebuff.social/movies/details/159/"
           }
         ],
         "credits": [
@@ -28322,7 +28325,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/tmdb_movie/2025/01/20/7a48ff6e-aae2-458e-9b35-523ece2badfb.jpg",
         "rating": 8.3,
-        "rating_count": 1046,
+        "rating_count": 1047,
         "rating_distribution": [
           0,
           2,
@@ -48521,5 +48524,5 @@
   ],
   "count": 145,
   "category": "movie",
-  "updated_at": "2026-08-18T00:43:30.721704"
+  "updated_at": "2026-08-19T00:43:33.685040"
 }
