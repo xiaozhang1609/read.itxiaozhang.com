@@ -86,7 +86,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15d11df79d-e135-4b40-92fb-908b367c3558.jpg",
         "rating": 8.1,
-        "rating_count": 869,
+        "rating_count": 870,
         "rating_distribution": [
           1,
           2,
@@ -433,7 +433,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/154b044d00-d0d8-4d95-84fc-3562fddcdaaa.jpg",
         "rating": 8.3,
-        "rating_count": 1005,
+        "rating_count": 1006,
         "rating_distribution": [
           1,
           1,
@@ -4774,7 +4774,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/26a4fa45-6953-49f9-b8cf-35f7ca58275b.jpg",
         "rating": 7.6,
-        "rating_count": 237,
+        "rating_count": 238,
         "rating_distribution": [
           1,
           5,
@@ -5048,13 +5048,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/9b8c9c00-d17c-4de2-9dc4-d7d8eba26a3c.jpg",
         "rating": 8.2,
-        "rating_count": 409,
+        "rating_count": 410,
         "rating_distribution": [
           1,
           3,
           16,
-          43,
-          37
+          42,
+          38
         ],
         "tags": null,
         "brief": "鬼灭之刃游郭篇故事剧情将从《鬼灭之刃无限列车篇》失去炎柱后做为开端，以日本花街为舞台，而最让人期待的音柱、堕姬即将在鬼灭第二季登场！",
@@ -5243,7 +5243,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/07/08/91aef100-a4ff-4866-8e5e-a6b1af1bc754.jpg",
         "rating": 8.5,
-        "rating_count": 291,
+        "rating_count": 292,
         "rating_distribution": [
           0,
           1,
@@ -5481,7 +5481,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/158cac42e4-74fb-472f-afd5-78984be19315.jpg",
         "rating": 8.2,
-        "rating_count": 861,
+        "rating_count": 862,
         "rating_distribution": [
           1,
           2,
@@ -6448,14 +6448,14 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/12/10fea341ed-f3b8-4aaf-9d8e-c46a47286edc.webp",
-        "rating": 6.8,
-        "rating_count": 22,
+        "rating": 6.7,
+        "rating_count": 23,
         "rating_distribution": [
           4,
-          18,
-          32,
-          23,
-          23
+          17,
+          35,
+          22,
+          22
         ],
         "tags": null,
         "brief": "曾经险些遭到魔神毁灭的世界，拯救它的是一位被后世称为“魔法帝”的魔导士……两位被遗弃在教堂的少年，一位是有卓越魔力跟魔法才能的四叶草魔导书的尤诺，另一位魔法值为零但却意外获得黑色五叶草的魔法书的亚斯塔……这是关于一位没魔法能力的少年却想要成为魔法帝的故事。",
@@ -6828,7 +6828,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14138f068a-33d6-4cb0-a556-1112c79ede52.jpg",
         "rating": 9.3,
-        "rating_count": 1737,
+        "rating_count": 1739,
         "rating_distribution": [
           0,
           1,
@@ -6860,42 +6860,45 @@
           },
           {
             "url": "https://www.themoviedb.org/tv/42009/season/1"
+          },
+          {
+            "url": "https://dev.moviebuff.social/tv/show/12/season/1/"
           }
         ],
         "credits": [
           {
             "role": "actor",
-            "name": "罗里·金尼尔",
+            "name": "Rory Kinnear",
             "character_name": "",
             "person_url": "/api/people/78mxNlcJj7gnkPbq1EmadT"
           },
           {
             "role": "actor",
-            "name": "鲁伯特·艾弗雷特",
+            "name": "Rupert Everett",
             "character_name": "",
             "person_url": "/api/people/3cXMwL9K7ZC8Ztvn8nzum1"
           },
           {
             "role": "actor",
-            "name": "丹尼尔·卡卢亚",
+            "name": "Daniel Kaluuya",
             "character_name": "",
             "person_url": "/api/people/3Ne4EFMmDhdDTNXjkZq1O3"
           },
           {
             "role": "actor",
-            "name": "托比·凯贝尔",
+            "name": "Toby Kebbell",
             "character_name": "",
             "person_url": "/api/people/2i9lIQulXnXW5KNQpYjI5T"
           },
           {
             "role": "actor",
-            "name": "杰西卡·布朗·芬德利",
+            "name": "Jessica Brown Findlay",
             "character_name": "",
             "person_url": "/api/people/5J2LBDYtPLF0Zud5MFyCcN"
           },
           {
             "role": "actor",
-            "name": "艾伦·里奇",
+            "name": "Allen Leech",
             "character_name": "",
             "person_url": "/api/people/5dAiAxnubRINC3j1rAkXsH"
           },
@@ -6907,13 +6910,13 @@
           },
           {
             "role": "actor",
-            "name": "汤姆·库伦",
+            "name": "Tom Cullen",
             "character_name": "",
             "person_url": "/api/people/0wxeC46DwT5ueEihdkrFtu"
           },
           {
             "role": "director",
-            "name": "奥托·巴瑟斯特",
+            "name": "Otto Bathurst",
             "character_name": "",
             "person_url": "/api/people/47c1nv77ea7aO7P5AlsdU4"
           },
@@ -6937,7 +6940,7 @@
           },
           {
             "role": "playwright",
-            "name": "杰西·阿姆斯特朗",
+            "name": "Jesse Armstrong",
             "character_name": "",
             "person_url": "/api/people/7muf4uolJvesxP7cGOmYR2"
           },
@@ -8996,13 +8999,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/279a524032-cfab-443a-b0c5-842a3797a52b.jpg",
         "rating": 8.3,
-        "rating_count": 84,
+        "rating_count": 85,
         "rating_distribution": [
           1,
           4,
           9,
-          44,
-          42
+          45,
+          41
         ],
         "tags": null,
         "brief": "1934 brings both opportunities and dangers to the Peaky Blinders. Beset by demons old and new, Tommy Shelby conceives a radical strategy to deal with a world on the road to hell, continuing his war against fascist politician Oswald Mosley and crossing paths with a mysterious new character.",
@@ -9603,13 +9606,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/176ed15feb-ee58-404c-a66d-83e20d6b091e.jpg",
         "rating": 8.6,
-        "rating_count": 97,
+        "rating_count": 98,
         "rating_distribution": [
           1,
           1,
           9,
-          43,
-          46
+          44,
+          45
         ],
         "tags": null,
         "brief": "It is 1929, Tommy Shelby MP is approached by a charismatic politician with a bold vision for Britain, he realises that his response will affect not just his family’s future but that of the entire nation.",
@@ -10306,13 +10309,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1753171f5c-835e-4836-a246-2d5a8fc253ad.jpg",
         "rating": 8.3,
-        "rating_count": 121,
+        "rating_count": 122,
         "rating_distribution": [
           0,
           1,
           21,
-          37,
-          41
+          38,
+          40
         ],
         "tags": null,
         "brief": "In Christmas 1925, the Shelby family receives a mysterious letter, and Tommy understands they are all in danger. Luca Changretta comes from New York to avenge his father's death. The Shelby family gathers in Small Heath, in Birmingham. All of them will have to put aside their dispute in order to fight together for their survival.",
@@ -10751,7 +10754,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/166b5ad5c7-a449-4956-afb3-cad395d9d614.jpg",
         "rating": 8.4,
-        "rating_count": 137,
+        "rating_count": 138,
         "rating_distribution": [
           0,
           4,
@@ -12146,13 +12149,13 @@
             "url": "https://movie.douban.com/subject/35131231/"
           },
           {
-            "url": "https://www.themoviedb.org/tv/105248/season/1"
-          },
-          {
             "url": "https://bgm.tv/subject/309311"
           },
           {
             "url": "https://movie.douban.com/subject/35118256/"
+          },
+          {
+            "url": "https://www.themoviedb.org/tv/105248/season/1"
           }
         ],
         "credits": [
@@ -13784,7 +13787,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/16/f28d5972-1708-4dd1-a655-d75431e32c33.webp",
         "rating": 9.0,
-        "rating_count": 835,
+        "rating_count": 836,
         "rating_distribution": [
           0,
           0,
@@ -14045,7 +14048,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/24/a9688316-76fe-4704-add5-ab62c18e523f.webp",
         "rating": 9.3,
-        "rating_count": 757,
+        "rating_count": 758,
         "rating_distribution": [
           0,
           0,
@@ -14303,7 +14306,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/01/0601fef99c-a667-460e-bebd-99e45fb92e8a.webp",
         "rating": 9.7,
-        "rating_count": 670,
+        "rating_count": 671,
         "rating_distribution": [
           0,
           0,
@@ -14766,13 +14769,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/06/21/156627ec-4352-454a-a41e-6a1a5ae83070.jpg",
         "rating": 9.2,
-        "rating_count": 628,
+        "rating_count": 629,
         "rating_distribution": [
           1,
-          1,
+          0,
           5,
           25,
-          68
+          69
         ],
         "tags": null,
         "brief": "「有一种巨人无论生在什么时代，都只会为了自由而不断前进，为了自由而不断战斗，它的名字是——“进击的巨人”」关于墙外的真实和巨人的真面目，逐渐地被揭露了出来。为了实现这个目标，人类付出了巨大的牺牲，在他们的不断前进下，他们终于可以看到自由的象征，墙外世界才能看得见的海。时光流逝，离第一次「超大型巨人」的袭击过去了6年后，调查兵团跑出玛利亚之墙外进行着调查「以前我一直相信，墙的外面有海，海的那边有自由...」墙内的人类，第一次面朝大海。但真的和梦想一样，那广阔的地平线的那边真的有自由吗？艾伦·耶格尔的故事，即将迎来新的局面。",
@@ -15356,7 +15359,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/2775557ce8-06f5-4882-a7e4-a3293ba16d3a.jpg",
         "rating": 8.9,
-        "rating_count": 1159,
+        "rating_count": 1160,
         "rating_distribution": [
           0,
           1,
@@ -15902,7 +15905,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/doubanmovie/2023/12/24/7b6ac0a9-1096-4531-a7b5-3dbb05ca776e.webp",
         "rating": 9.1,
-        "rating_count": 376,
+        "rating_count": 377,
         "rating_distribution": [
           0,
           1,
@@ -18265,7 +18268,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/1543e536b3-fcc3-44d0-a4da-96eacc5607bf.jpg",
         "rating": 9.6,
-        "rating_count": 533,
+        "rating_count": 534,
         "rating_distribution": [
           0,
           0,
@@ -20117,14 +20120,14 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2022/01/09920db2e7-51b8-4a7f-957c-1e75598a7916.jpg",
-        "rating": 7.5,
-        "rating_count": 11,
+        "rating": 7.7,
+        "rating_count": 12,
         "rating_distribution": [
           0,
           0,
-          36,
-          46,
-          18
+          33,
+          42,
+          25
         ],
         "tags": null,
         "brief": "故事介绍：\n钓船店「幕之内」的儿子幕之内一步，是个难得的优秀高中生。从小就由母亲独自一人抚养，长大的一步也学会帮忙家中经营钓船店。 高中二年级的春天，一步如同往常般受到不良分子的骚扰，还遭受到一连串的殴打。这时，正巧让经过的拳击手－鹰村守介入，才挽救了一步。由于一步昏倒的关系，鹰村便将一步带回其所属的「鸭川拳击会馆」中。看见一步醒来后的鹰村便以一句「没事就快点滚回家吧」的话，让一步以一种无可奈何的表情边哭边离开。但鹰村还是无法忍受一步如此的懦弱，便画出不良份子中的梅泽图像，贴在沙包上让一步奋力挥拳泄愤。 从未打过沙包的一步，出拳的成果却让拳馆中的练习生们大吃一惊！ 就连一步都不知道自己尽然有一拳击倒的神力！与拳手鹰村相遇后，幕之内一步体内潜伏的神拳终于被唤醒，凭努力加上毅力，最后在强者的世界里打出自己的一片天空，实现职业拳手的美梦。 作者森川让次用纯熟的画风，流畅的手法，让人感受到紧张无比的气氛，呈现出一个触动心灵的超级拳手故事。",
@@ -24482,7 +24485,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15ff05449c-d8e8-4a87-a939-e48f28f1d8d3.jpg",
         "rating": 7.4,
-        "rating_count": 337,
+        "rating_count": 338,
         "rating_distribution": [
           2,
           6,
@@ -27925,5 +27928,5 @@
   ],
   "count": 115,
   "category": "tv",
-  "updated_at": "2026-08-21T00:48:02.491191"
+  "updated_at": "2026-08-22T00:43:32.516974"
 }
